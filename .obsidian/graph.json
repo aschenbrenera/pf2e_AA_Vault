@@ -1,0 +1,100 @@
+{
+  "collapse-filter": true,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#trait/downtime  ",
+      "color": {
+        "a": 1,
+        "rgb": 8127492
+      }
+    },
+    {
+      "query": "tag:#trait/exploration  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#action",
+      "color": {
+        "a": 1,
+        "rgb": 16737948
+      }
+    },
+    {
+      "query": "tag:#trait",
+      "color": {
+        "a": 1,
+        "rgb": 13369180
+      }
+    },
+    {
+      "query": "tag:#condition  ",
+      "color": {
+        "a": 1,
+        "rgb": 16734464
+      }
+    },
+    {
+      "query": "tag:#feat  ",
+      "color": {
+        "a": 1,
+        "rgb": 8039935
+      }
+    },
+    {
+      "query": "tag:#feature  ",
+      "color": {
+        "a": 1,
+        "rgb": 2873942
+      }
+    },
+    {
+      "query": "tag:#item  ",
+      "color": {
+        "a": 1,
+        "rgb": 1966335
+      }
+    },
+    {
+      "query": "tag:#creature  ",
+      "color": {
+        "a": 1,
+        "rgb": 12348415
+      }
+    },
+    {
+      "query": "tag:#lore  ",
+      "color": {
+        "a": 1,
+        "rgb": 5839216
+      }
+    },
+    {
+      "query": "tag:#skill  ",
+      "color": {
+        "a": 1,
+        "rgb": 7683840
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": -0.3,
+  "nodeSizeMultiplier": 1.39697672526042,
+  "lineSizeMultiplier": 1.49886067708333,
+  "collapse-forces": true,
+  "centerStrength": 0.6031494140625,
+  "repelStrength": 11.00830078125,
+  "linkStrength": 1,
+  "linkDistance": 50,
+  "scale": 0.36959941273349556,
+  "close": true
+}

@@ -1,0 +1,9 @@
+{
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme",
+  "enabledCssSnippets": [
+    "pf2-compendium",
+    "Properties",
+    "pf2e-spell"
+  ]
+}
