@@ -1,5 +1,7 @@
-Tags: #core #environment #sensory #lighting
-
+---
+tags:
+  - rules/core
+---
 # Darkness
 
 **Description:** An area without light.

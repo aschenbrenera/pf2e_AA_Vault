@@ -1,10 +1,10 @@
 ---
 tags:
-  - trait/downtime
+  - trait/ability/downtime
 ---
 # Retraining
 
-[Downtime](Downtime.md "General Trait")
+[Downtime](Downtime.md "Action & Ability Trait")
 
 Retraining offers a way to alter some of your character choices, which is helpful when you want to take your character in a new direction or change decisions that didn't meet your expectations. You can retrain feats, skills, and some selectable class features. You can't retrain your ancestry, heritage, background, class, or ability scores. You can't perform other downtime activities while retraining.  
   

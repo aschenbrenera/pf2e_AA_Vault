@@ -1,11 +1,11 @@
 ---
 tags:
-  - trait/exploration
-  - trait/manipulate
+  - trait/ability/exploration
+  - trait/generic/manipulate
 ---
 # Affix A Talisman
 
-[Exploration](Exploration.md "General Trait") [Manipulate](Manipulate.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait")
 
 **Requirements:** You must use a [[Repair Toolkit]].
 

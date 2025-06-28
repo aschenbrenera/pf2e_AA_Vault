@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/vitality
+format: 1_0
 ---
 # Wounded
+
 **Description:** You have been seriously injured. Wounded always includes a value.
 
 ## Mechanical Rules

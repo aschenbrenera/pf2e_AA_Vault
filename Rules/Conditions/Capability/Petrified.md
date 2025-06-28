@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/capability
+format: 1_0
 ---
 # Petrified
+
 **Description:** You have been turned to stone.
 
 ## Mechanical Rules

@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/attribute_penalty
+format: 1_0
 ---
 # Clumsy
+
 **Description:** Your movements become clumsy and inexact. Clumsy always includes a value.
 
 ## Mechanical Rules

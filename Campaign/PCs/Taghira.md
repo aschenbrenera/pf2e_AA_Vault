@@ -50,7 +50,7 @@ health:
 ### Abilities
 - [[Hunt Prey]]
 - [[Hunter's Edge]] - Precision
-- [[Land on your Feat]]
+- [[Land on your Feet]]
 - [[Hunting Catfolk]]
 
 ### Gear

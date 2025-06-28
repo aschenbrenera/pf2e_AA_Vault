@@ -1,10 +1,18 @@
-Tags: #feat #action #reaction 
+---
+tags:
+  - action/feat
+  - feat/general
+  - trait/feat/general
+level: 1
+format: 1_0
+---
+# Shield Block [](#Actions "Reaction") &emsp;*(Feat 1)*
 
-**Level:** 1
-**Actions:** [reaction] ⤾
-**Traits:** `GENERAL`
-**Trigger:** While you have your shield raised, you would take physical damage (bludgeoning, piercing, or slashing) from an attack.
+[General](General.md "Feat Trait")
 **Description:** You snap your shield in place to ward off a blow.
+
+**Trigger:** While you have your shield raised, you would take physical damage (bludgeoning, piercing, or slashing) from an attack.
+**Activity:** Reaction ⤾
 
 ## Mechanical Rules
 

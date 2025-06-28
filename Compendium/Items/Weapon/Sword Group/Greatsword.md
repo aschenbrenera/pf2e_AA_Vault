@@ -1,8 +1,8 @@
 ---
 tags:
-- item
 - item/weapon
-- trait/versatile
+- trait/weapon_trait/versatile
+format: 1_0
 ---
 # Greatsword
 

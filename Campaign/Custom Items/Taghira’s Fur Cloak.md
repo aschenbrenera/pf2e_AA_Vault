@@ -1,13 +1,18 @@
+---
+tags:
+  - item/worn
+  - item/custom
+  - trait/item/invested
+  - trait/item/magical
+format: 1_0
+---
 # Taghira's Fur Cloak
 
-**Tags:** #item #worn_item #custom
-
-**Traits**: `INVESTED` `MAGICAL`
+[Invested](Invested.md "Item Trait") [Magical](Rules/Traits/Effect/Magical.md "Item Trait")
+Description: A wolf fur cloak imbued with a blessing of stealth and ferocity while in the snow. and ice (See backstory below).
 
 **Usage:** worn cloak
 **Bulk:** L
-
-Description: A wolf fur cloak imbued with a blessing of stealth and ferocity while in the snow. and ice (See backstory below).
 
 ## Mechanical Rules
 

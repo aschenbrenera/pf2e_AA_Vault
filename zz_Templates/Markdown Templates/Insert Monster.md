@@ -1,4 +1,4 @@
-#obsidian_backend
+#obsidian/backend
 
 ```statblock
 creature:

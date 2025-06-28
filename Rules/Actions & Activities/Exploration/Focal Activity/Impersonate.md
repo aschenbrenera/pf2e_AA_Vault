@@ -1,14 +1,14 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
-  - trait/manipulate
-  - trait/secret
+  - trait/ability/exploration
+  - trait/ability/concentrate
+  - trait/generic/manipulate
+  - trait/generic/secret
   - custom_group/social
 ---
 # Impersonate
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait") [Manipulate](Manipulate.md "General Trait") [Secret](Secret.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait") [Secret](Secret.md "General Trait")
 
 **Skill:** [[Deception]] (Untrained)
 **Description:** You create a disguise to pass yourself off as someone or something you are not. 

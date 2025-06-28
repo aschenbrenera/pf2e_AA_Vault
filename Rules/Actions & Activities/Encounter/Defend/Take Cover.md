@@ -1,9 +1,9 @@
 ---
 tags:
-  - action/core
-  - action/basic
+  - action/core/basic
+format: 1_0
 ---
-# Take Cover [](#Actions "Single Action")
+# Take Cover (basic) [](#Actions "Single Action")
 
 **Description:** You press yourself against a wall or duck behind an obstacle to take better advantage of cover. 
 

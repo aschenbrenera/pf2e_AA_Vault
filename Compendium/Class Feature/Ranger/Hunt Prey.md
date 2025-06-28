@@ -1,12 +1,17 @@
 ---
+tags:
+  - action/class/ranger
+  - trait/class/ranger
+  - trait/ability/concentrate
 aliases:
   - Prey
 ---
-Tags: #action #class #ranger #action_build 
+# Hunt Prey [](#Actions "Single Action")
 
-**Actions:** [1] ⬥
-**Traits:** `CONCENTRATE` `RANGER`
+[Ranger](Ranger.md "Class Trait") [Concentrate](Concentrate.md "Action & Ability Trait")
 **Description:** You designate a single creature as your prey and gain benefits against it.
+
+**Activity:** Single Action ⬥
 
 ## Mechanical Rules
 

@@ -1,10 +1,10 @@
 ---
 tags:
-  - action/core
-  - action/basic
-  - trait/attack
+  - action/core/basic
+  - trait/combat/attack
+format: 1_0
 ---
-# Strike [](#Actions "Single Action")
+# Strike (basic) [](#Actions "Single Action")
 
 [Attack](Attack.md "Combat Trait")
 

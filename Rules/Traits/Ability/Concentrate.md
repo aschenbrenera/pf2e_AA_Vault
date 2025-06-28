@@ -1,6 +1,6 @@
 ---
 tags:
-  - trait
+  - rules/trait
 ---
 # Concentrate
 

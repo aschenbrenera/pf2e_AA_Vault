@@ -1,6 +1,5 @@
 ---
 tags:
-  - rules/core
   - rules/spells
 aliases:
   - Innate

@@ -1,11 +1,13 @@
 ---
+tags:
+  - rules/core
 aliases:
   - Identify DC
   - Learn DC
   - Identify a Spell
   - Identify the Spell
 ---
-Tags: #core 
+# Identifying and Learning
 
 # Identifying a Spell
 

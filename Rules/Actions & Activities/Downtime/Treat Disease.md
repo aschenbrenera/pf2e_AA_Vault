@@ -1,11 +1,11 @@
 ---
 tags:
-  - trait/downtime
-  - trait/manipulate
+  - trait/ability/downtime
+  - trait/generic/manipulate
 ---
 # Treat Disease
 
-[Downtime](Downtime.md "General Trait") [Manipulate](Manipulate.md "General Trait")
+[Downtime](Downtime.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait")
 
 **Skill:** [[Medicine]] (Trained)
 **Requirements:** You're wearing or holding a [[Healer's Toolkit]].  You are trained in Medicine.

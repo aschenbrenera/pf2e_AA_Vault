@@ -1,15 +1,15 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
-  - trait/auditory
-  - trait/linguistic
-  - trait/mental
+  - trait/ability/exploration
+  - trait/ability/concentrate
+  - trait/effect/auditory
+  - trait/effect/linguistic
+  - trait/effect/mental
   - custom_group/social
 ---
 # Make an Impression
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait")  [Auditory](Auditory.md "General Trait") [Linguistic](Linguistic.md "General Trait") [Mental](Mental.md "General Trait") 
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait")  [Auditory](Auditory.md "Effect Trait") [Linguistic](Linguistic.md "Effect Trait") [Mental](Mental.md "Effect Trait") 
 **Description:** You engage in charismatic overtures, flattery, and other acts of goodwill, you seek to make a good impression on someone to make them temporarily agreeable.
 
 **Skill:** [[Diplomacy]] (Untrained)

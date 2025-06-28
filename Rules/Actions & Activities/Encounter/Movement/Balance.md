@@ -1,7 +1,7 @@
 ---
 tags:
   - action/core
-  - trait/move
+  - trait/generic/move
 aliases:
   - Narrow Surface
   - Uneven Ground

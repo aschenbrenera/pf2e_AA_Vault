@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/weakness
+format: 1_0
 ---
 # Off-Guard
+
 **Description:** You're distracted or otherwise unable to focus your full attention on defense.
 
 ## Mechanical Rules

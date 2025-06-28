@@ -2,6 +2,7 @@
 tags:
   - lore
   - lore/monsters
+format: 1_0
 ---
 # Goblin Lore
 

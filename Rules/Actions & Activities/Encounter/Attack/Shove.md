@@ -1,7 +1,7 @@
 ---
 tags:
   - action/core
-  - trait/attack
+  - trait/combat/attack
 ---
 # Shove [](#Actions "Single Action")
 

@@ -1,8 +1,8 @@
 ---
 tags:
-- item
 - item/weapon
-- trait/deadly
+- trait/weapon_trait/deadly
+format: 1_0
 ---
 # Shortbow
 

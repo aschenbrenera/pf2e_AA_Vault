@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/sensory
+format: 1_0
 ---
 # Undetected 
+
 **Description:** When you are undetected by someone, they can't see you at all, have no idea what space you occupy, and can't target you (directly), though you still can be affected by abilities that target an area. 
 
 ## Mechanical Rules

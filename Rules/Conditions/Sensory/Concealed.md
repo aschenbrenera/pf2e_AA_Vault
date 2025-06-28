@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/sensory
+format: 1_0
 ---
 # Concealed
+
 **Description:** You are difficult to see.
 
 ## Mechanical Rules

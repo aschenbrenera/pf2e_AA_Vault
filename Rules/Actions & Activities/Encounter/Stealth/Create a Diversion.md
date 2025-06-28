@@ -16,7 +16,7 @@ aliases:
 
 - If you use a gesture or trick, this action gains the `manipulate` trait. If you use distracting words, it gains the `auditory` and `linguistic` traits.  
 - Whether or not you succeed, creatures you attempt to divert gain a +4 circumstance bonus to their Perception DCs against your attempts to Create a Diversion for 1 minute.
-- If this action makes you Hidden to a creature, you become [[Detection|Observed]] by it again if any of the following occurs:
+- If this action makes you Hidden to a creature, you become [[Rules/Environment/Sensory/Detection|Observed]] by it again if any of the following occurs:
 	- Your turn ends. This can be negated by performing either a successful [[Hide]] or [[Sneak]] before your turn ends.
 	- You attempt to Strike a creature. The creature remains [[Off-Guard]] against that attack, and you then become Observed.
 	- If you do anything else except Hide or Sneak.

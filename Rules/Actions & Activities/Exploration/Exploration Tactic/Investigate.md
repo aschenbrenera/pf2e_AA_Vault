@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
+  - trait/ability/exploration
+  - trait/ability/concentrate
   - custom_group/exploration_tactic
 ---
 # Investigate
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait") `Exploration Tactic`
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") `Exploration Tactic`
 **Description:** You seek out information about your surroundings
 
 ## Mechanical Rules

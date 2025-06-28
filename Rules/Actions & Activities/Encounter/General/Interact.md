@@ -1,9 +1,9 @@
 ---
 tags:
-  - action/core
-  - action/basic
+  - action/core/basic
+format: 1_0
 ---
-# Interact [](#Actions "Single Action")
+# Interact (basic) [](#Actions "Single Action")
 
 [Manipulate](Manipulate.md "General Trait")
 

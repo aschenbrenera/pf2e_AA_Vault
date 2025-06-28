@@ -1,9 +1,9 @@
 ---
 tags:
-  - action/core
-  - action/basic
+  - action/core/basic
+format: 1_0
 ---
-# Release [](#Actions "Free Action")
+# Release (basic) [](#Actions "Free Action")
 
 [Manipulate](Manipulate.md "General Trait")
 **Description:** You release something you're holding in your hand or hands.
@@ -13,5 +13,5 @@ tags:
 ## Mechanical Rules
 
 - Release an object you are holding. 
-- Does not trigger reactions that can be triggered by actions with the `MANIPULATE` trait.  
+- Does not trigger reactions that can be triggered by actions with the `Manipulate` trait.  
 - If you want to prepare to Release something outside of your turn, use the [[Ready]] action.

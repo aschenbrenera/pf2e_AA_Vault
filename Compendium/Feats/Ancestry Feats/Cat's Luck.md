@@ -1,13 +1,21 @@
-Tags: #feat #action #action_build 
+---
+tags:
+  - action/feat
+  - feat/ancestry/catfolk
+  - trait/ancestry/catfolk
+  - trait/effect/fortune
+level: 1
+format: 1_0
+---
+# Cat's Luck[](#Actions "Reaction") &emsp;*(Feat 1)*
 
-**Level:** 1
-**Traits:** `CATFOLK` `FORTUNE`
+[Catfolk](Catfolk.md "Ancestry & Heritage Trait") [Fortune](Fortune.md "Effect Trait")
+**Description:** You instinctively twist away from danger.
+
 **Prerequisite:** Catfolk
 **Frequency:** once per day
-
-**Actions:** [reaction] ⤾
 **Trigger:** You fail a Reflex saving throw
-**Description:** You instinctively twist away from danger.
+**Activity:** Reaction ⤾
 
 ## Mechanical Rules
 

@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/downtime
-  - trait/manipulate
+  - trait/ability/downtime
+  - trait/generic/manipulate
   - custom_group/creation
 ---
 # Craft
 
-[Downtime](Downtime.md "General Trait") [Manipulate](Manipulate.md "General Trait")
+[Downtime](Downtime.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait")
 **Description:** You can make an item from raw materials.
 
 **Skill:** [[Crafting]] (Trained)

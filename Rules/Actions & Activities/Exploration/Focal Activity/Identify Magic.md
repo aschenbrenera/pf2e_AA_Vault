@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
-  - trait/secret
+  - trait/ability/exploration
+  - trait/ability/concentrate
+  - trait/generic/secret
 ---
 # Identify Magic
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait") [Secret](Secret.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Secret](Secret.md "General Trait")
 
 **Requirements:** You are trained in the relevant skill.
 **Skill:** [[Arcana]], [[Nature]], [[Occultism]], [[Religion]] (Trained)

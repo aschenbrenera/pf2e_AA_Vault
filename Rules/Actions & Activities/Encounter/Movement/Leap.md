@@ -1,8 +1,18 @@
-Tags: #action #movement #basic_action 
+---
+tags:
+  - action/core/basic
+  - trait/generic/move
+aliases:
+  - Leaping
+format: 1_0
+---
+# Leap (basic) [](#Actions "Single Action")
 
-**Actions:** [1] ⬥
-**Traits:** `MOVE` 
+[Move](Move.md "General Trait")
 **Description:** You take a short horizontal or vertical jump.
+
+**Activity:** Single Action ⬥
+
 ## Mechanical Rules
 
 - **Horizontal Jump** up to 10 feet horizontally if your Speed is at least 15 feet, or up to 15 feet horizontally if your Speed is at least 30 feet. You land in the space where your Leap ends (meaning you can typically clear a 5-foot gap, or a 10-foot gap if your Speed is 30 feet or more). You can't make a horizontal Leap if your Speed is less than 15 feet.

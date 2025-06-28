@@ -1,10 +1,10 @@
 ---
 tags:
-  - trait/downtime
+  - trait/ability/downtime
 ---
 # Subsist
 
-[Downtime](Downtime.md "General Trait")
+[Downtime](Downtime.md "Action & Ability Trait")
 **Description:** You try to provide food and shelter for yourself, and possibly others as well.
 
 **Skill:** [[Society]], [[Survival]] (Untrained)

@@ -1,9 +1,17 @@
- Tags: #feat #vitality 
+---
+tags:
+  - feat/general/skill/survival
+  - trait/feat/general
+  - trait/feat/skill
+level: 1
+---
+# Forager  &emsp;*(Feat 1)*
 
-**Level:** 1
-**Traits:** `GENERAL` `SKILL`
-**Prerequisites:** Trained in [[Survival]]
+[General](General.md "Feat Trait") [Skill](Skill.md "Feat Trait")
 **Description:** You are well-suited at subsisting off the land.
+
+**Prerequisites:** Trained in [[Survival]]
+
 ## Mechanical Rules
 
 - While using Survival to [[Subsist]], if you roll any result worse than a success, you get a success.

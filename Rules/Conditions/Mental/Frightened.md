@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/mental
+format: 1_0
 ---
 # Frightened
+
 **Description:**  You're gripped by fear and struggle to control your nerves. The frightened condition always includes a value.
 
 ## Mechanical Rules

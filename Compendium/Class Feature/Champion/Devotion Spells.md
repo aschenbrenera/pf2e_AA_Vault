@@ -1,4 +1,9 @@
-Tags: #class #champion #feature 
+---
+tags:
+  - trait/class/champion
+  - feature/class/champion
+---
+# Devotion Spells
 
 Your deity's power grants you special divine spells called devotion spells, which are a type of focus spell.
 

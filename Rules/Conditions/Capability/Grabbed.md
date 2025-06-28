@@ -2,10 +2,12 @@
 tags:
   - condition
   - condition/capability
+format: 1_0
 aliases:
   - Grabbing
 ---
 # Grabbed
+
 **Description:** You're held in place by another creature.
 
 ## Mechanical Rules

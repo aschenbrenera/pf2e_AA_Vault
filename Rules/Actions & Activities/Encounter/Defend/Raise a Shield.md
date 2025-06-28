@@ -1,9 +1,9 @@
 ---
 tags:
-  - action/core
-  - action/basic
+  - action/core/basic
+format: 1_0
 ---
-# Raise a Sheild [](#Actions "Single Action")
+# Raise a Shield (basic) [](#Actions "Single Action")
 
 **Description:** You position your shield to protect yourself.
 

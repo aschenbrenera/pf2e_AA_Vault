@@ -1,8 +1,15 @@
-Tags: #action #movement #basic_action 
+---
+tags:
+  - action/core/basic
+  - trait/generic/move
+format: 1_0
+---
+# Mount (basic) [](#Actions "Single Action")
 
-**Actions:** [1] ⬥
-**Traits:** `MOVE`
+[Move](Move.md "General Trait")
+
 **Requirement:** You are adjacent to a creature that is at least one size larger than you and is willing to be your mount.
+**Activity:** Single Action ⬥
 
 ## Mechanical Rules
 

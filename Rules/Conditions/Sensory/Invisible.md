@@ -2,10 +2,12 @@
 tags:
   - condition
   - condition/sensory
+format: 1_0
 aliases:
   - Invisibility
 ---
 # Invisible
+
 **Description:** You can't be seen. 
 
 ## Mechanical Rules
@@ -22,7 +24,7 @@ aliases:
 
 -  By default an invisible creature is Undetected to someone except for the following:
 	- If you become invisible while observed by someone, you start out Hidden to them.
-	- You are still [[Detection|Observed]] to someone who has a  [[Senses|Precise Sense]] other than vision or a similar magical ability.
+	- You are still [[Rules/Environment/Sensory/Detection|Observed]] to someone who has a  [[Senses|Precise Sense]] other than vision or a similar magical ability.
 	- You are Hidden to someone who successfully uses the [[Seek]] action on you.
 	- Other effects might partially foil invisibility. Examples include:
 		- If you were tracking an invisible creature's footprints through the snow, the footprints would make it Hidden.

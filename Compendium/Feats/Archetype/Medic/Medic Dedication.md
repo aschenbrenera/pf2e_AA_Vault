@@ -1,9 +1,14 @@
-Tags: #feat #archetype
+---
+tags:
+  - trait/class/champion
+  - trait/archetype/medic
+  - trait/feat/dedication
+  - feat/archetype/medic
+---
+# Medic Dedication &emsp;*(Feat 2)*
 
-Level: 2
-**Traits:** `ARCHETYPE` `DEDICATION`
+[Archetype](Archetype.md "Feat Trait") [Dedication](Dedication.md "General Trait")
 **Prerequisites:** Trained in [[Medicine]]; [[Battle Medicine]]
-**Description:** 
 
 ## Mechanical Rules
 

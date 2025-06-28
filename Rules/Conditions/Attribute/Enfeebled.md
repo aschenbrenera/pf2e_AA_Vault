@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/attribute_penalty
+format: 1_0
 ---
 # Enfeebled
+
 **Description:** You're physically weakened. Enfeebled always includes a value.
 
 ## Mechanical Rules

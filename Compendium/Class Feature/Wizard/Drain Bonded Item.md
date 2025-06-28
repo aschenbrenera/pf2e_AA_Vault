@@ -1,10 +1,18 @@
-Tags: #action #class #wizard #free_action #action_build 
+---
+tags:
+  - action/class/wizard
+  - trait/class/wizard
+  - trait/spell/tradition/arcane
+format: 1_0
+---
+# Drain Bonded Item [](#Actions "Free Action")
 
-**Actions:** [free] ⟐
-**Traits:** `ARCANE` `WIZARD`
+[Arcane](Arcane.md "General Trait") [Wizard](Wizard.md "General Trait")
+**Description:** You expend the magical power stored in your bonded item. 
+
 **Frequency:** once per day
 **Requirements:** Your bonded item is on your person.
-**Description:** You expend the magical power stored in your bonded item. 
+**Activity:** Free Action ⟐
 
 ## Mechanical Rules
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - action/core
+format: 1_0
 ---
 # Administer First Aid [](#Actions "Two-Action")
 

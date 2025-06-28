@@ -1,12 +1,11 @@
 ---
 aliases: "Goblin Warrior"
 tags: 
-  - creature
-  - pf2e/creature/type/humanoid
-  - pf2e/creature/level/-1
+  - creature/type/humanoid
 statblock: inline
 name: "Goblin Warrior"
 level: -1
+format: 1_0
 ---
 # Goblin Warrior
 

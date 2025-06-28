@@ -1,12 +1,12 @@
 ---
 tags:
   - action/core
-  - trait/auditory
-  - trait/concentrate
+  - trait/effect/auditory
+  - trait/ability/concentrate
 ---
 # Command an Animal [](#Actions "Single Action")
 
-[Auditory](Auditory.md "General Trait") [Concentrate](Concentrate.md "General Trait")
+[Auditory](Auditory.md "Effect Trait") [Concentrate](Concentrate.md "Action & Ability Trait")
 **Description:** You issue an order to an animal.
 
 **Skill:** [[Nature]] (Untrained)

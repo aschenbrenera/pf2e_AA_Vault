@@ -1,7 +1,6 @@
 ---
 tags:
-  - trait
-  - trait/item
+  - rules/trait
 ---
 # Consumable
 

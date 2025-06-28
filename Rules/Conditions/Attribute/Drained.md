@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/attribute_penalty
+format: 1_0
 ---
 # Drained
+
 **Description:** Your health and vitality have been depleted as you've lost blood, life force, or some other essence. Drained always includes a value.
 
 ## Mechanical Rules

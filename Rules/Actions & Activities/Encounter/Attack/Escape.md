@@ -1,14 +1,14 @@
 ---
 tags:
-  - action/core
-  - action/basic
-  - trait/attack
+  - action/core/basic
+  - trait/combat/attack
 aliases:
   - Escapes
+format: 1_0
 ---
-# Escape [](#Actions "Single Action")
+# Escape (basic) [](#Actions "Single Action")
 
-[Attack](Attack.md "Attack Combat Trait")
+[Attack](Attack.md "Combat Trait")
 **Description:** You attempt to escape from being Grabbed, Immobilized, or Restrained. 
 
 **Activity:** Single Action ⬥

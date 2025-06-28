@@ -1,4 +1,8 @@
-Tags: #core #environment 
+---
+tags:
+  - rules/core
+---
+# Cover
 
 When you're behind an obstacle that could block weapons, guard you against explosions, or make you harder to detect, you're behind cover. 
 

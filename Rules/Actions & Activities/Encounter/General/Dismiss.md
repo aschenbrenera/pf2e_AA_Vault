@@ -1,9 +1,9 @@
 ---
 tags:
-  - action/core
-  - action/basic
+  - action/core/basic
+format: 1_0
 ---
-# Dismiss [](#Actions "Single Action")
+# Dismiss (basic) [](#Actions "Single Action")
 
 [Concentrate](Concentrate.md "General Trait")
 

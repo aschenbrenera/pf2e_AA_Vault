@@ -1,12 +1,11 @@
 ---
 aliases: "Skeleton Guard"
 tags: 
-  - creature
-  - pf2e/creature/type/undead
-  - pf2e/creature/level/-1
+  - creature/type/undead
 statblock: inline
 name: "Skeleton Guard"
 level: -1
+format: 1_0
 ---
 # Skeleton Guard
 

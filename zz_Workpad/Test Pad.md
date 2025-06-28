@@ -1,4 +1,9 @@
-#obsidian_workpad
+---
+format: 1_0
+---
+
+
+#obsidian/workpad
 
 
 
@@ -13,7 +18,7 @@ party: Default
 name: Skeleton Guards
 creatures:
   - 1: Goblin Warrior
-  - 2: Skeleton Guard
+  - 5: Skeleton Guard
 party: Default
 ```
 
@@ -30,3 +35,15 @@ party: Default
 > Your info here. Made it default collapsed
 
 
+
+
+
+Ranger Hunt Prey
+/trait/class/ranger
+/feature/class/ranger
+
+Ranger Hunted Shot
+/trait/class/ranger
+feat/class/ranger
+action/class/ranger
+action/attack

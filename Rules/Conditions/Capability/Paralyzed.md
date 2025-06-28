@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/capability
+format: 1_0
 ---
 # Paralyzed
+
 **Description:** You're frozen in place. Your senses still function, but only in the areas you can perceive without moving.
 
 ## Mechanical Rules

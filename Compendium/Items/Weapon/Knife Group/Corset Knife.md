@@ -1,12 +1,12 @@
 ---
 tags:
-- item
 - item/weapon
-- trait/agile
-- trait/concealable
-- trait/finesse
-- trait/thrown
+- trait/weapon_trait/agile
+- trait/weapon_trait/concealable
+- trait/weapon_trait/finesse
+- trait/weapon_trait/thrown
 - legacy
+format: 1_0
 ---
 #  Corset Knife
 

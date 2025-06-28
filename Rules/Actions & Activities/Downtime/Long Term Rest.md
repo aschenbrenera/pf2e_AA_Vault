@@ -1,10 +1,10 @@
 ---
 tags:
-  - trait/downtime
+  - trait/ability/downtime
 ---
 # Long Term Rest
 
-[Downtime](Downtime.md "General Trait")
+[Downtime](Downtime.md "Action & Ability Trait")
 **Description:** You can spend an entire day and night resting to recover
 
 ## Mechanical Rules

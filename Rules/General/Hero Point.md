@@ -1,4 +1,8 @@
-Tags: #core
+---
+tags:
+  - rules/core
+---
+# Hero Point
 
 Your heroic deeds earn you Hero Points, which grant you good fortune or let you recover from the brink of death. Unlike most aspects of your character, which persist over the long term, Hero Points last for only a single session.  
   

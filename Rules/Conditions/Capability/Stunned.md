@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/capability
+format: 1_0
 ---
 # Stunned
+
 **Description:** You've become senseless. Stunned either includes a value or a duration.
 
 ## Mechanical Rules

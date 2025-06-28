@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
-  - trait/secret
+  - trait/ability/exploration
+  - trait/ability/concentrate
+  - trait/generic/secret
 ---
 # Identify Alchemy
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait") [Secret](Secret.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Secret](Secret.md "General Trait")
 
 **Skill:** [[Crafting]] (Trained)
 **Requirements:** You are holding or wearing an [[Alchemist's Toolkit]]. You are trained in Crafting.

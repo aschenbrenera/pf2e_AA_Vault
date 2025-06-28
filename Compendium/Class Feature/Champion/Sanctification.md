@@ -1,4 +1,9 @@
-Tags: #class #champion #feature 
+---
+tags:
+  - trait/class/champion
+  - feature/class/champion
+---
+# Sanctification
 
 **Description:** Depending on your deity, their sanctification can make you holy or unholy. This commits you to one side of a struggle over souls. Whether you become holy, unholy, or neither will limit your choice of causes, devotion spells, and feats.  
 

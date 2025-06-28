@@ -1,6 +1,5 @@
 ---
 tags:
-- item
 - item/gear
 ---
 # Oil

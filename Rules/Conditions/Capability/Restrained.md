@@ -2,16 +2,18 @@
 tags:
   - condition
   - condition/capability
+format: 1_0
 aliases:
   - Restraining
 ---
 # Restrained
+
 **Description:** You're tied up and can barely move, or a creature has you pinned.
 
 ## Mechanical Rules
 
 - Restrained overrides [[Grabbed]]  
-- You can't use any actions with the `attack` or `manipulate` trait except to attempt to [[Escape]] or [[Force Open]] your bonds.  
+- You can't use any actions with the `Attack` or `Manipulate` trait except to attempt to [[Escape]] or [[Force Open]] your bonds.  
 - Inherit [[Off-Guard]].
 	- You take a –2 circumstance penalty to AC.  
 - Inherit [[Immobilized]].

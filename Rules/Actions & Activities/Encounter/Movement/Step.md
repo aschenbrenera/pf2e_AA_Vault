@@ -1,9 +1,17 @@
-Tags: #action #movement #basic_action 
+---
+tags:
+  - action/core/basic
+  - trait/generic/move
+format: 1_0
+---
+# Step (basic) [](#Actions "Single Action")
 
-**Actions:** [1] ⬥
-**Traits:** `MOVE` 
-**Requirements:** Your Speed is at least 10 feet.
+[Move](Move.md "General Trait")
 **Description:** You carefully move 5 feet.
+
+**Requirements:** Your Speed is at least 10 feet.
+**Activity:** Single Action ⬥
+
 ## Mechanical Rules
 - Move 5 feet.
 - Doesn't trigger reactions that can be triggered by move actions or upon leaving or entering a square.

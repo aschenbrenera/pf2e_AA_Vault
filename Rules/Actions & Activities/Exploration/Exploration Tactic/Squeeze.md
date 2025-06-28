@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/exploration
-  - trait/move
+  - trait/ability/exploration
+  - trait/generic/move
   - custom_group/exploration_tactic
 ---
 # Squeeze
 
-[Exploration](Exploration.md "General Trait") [Move](Move.md "General Trait") `Exploration Tactic`
+[Exploration](Exploration.md "Action & Ability Trait") [Move](Move.md "General Trait") `Exploration Tactic`
 **Description:** You contort yourself to squeeze through a space so small you can barely fit through. 
 
 **Skill:** [[Acrobatics]] (Trained)

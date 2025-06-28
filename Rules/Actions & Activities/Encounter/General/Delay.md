@@ -1,9 +1,9 @@
 ---
 tags:
-  - action/core
-  - action/basic
+  - action/core/basic
+format: 1_0
 ---
-# Delay [](#Actions "Free Action")
+# Delay (basic) [](#Actions "Free Action")
 
 **Description:** You wait for the right moment to act.
 

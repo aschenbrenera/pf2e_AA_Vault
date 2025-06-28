@@ -8,20 +8,45 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3dc9730e4801f69e",
+            "id": "a926648ccb009c4f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_Workpad/Test Pad.md",
+                "file": "zz_Workpad/Data View Samples.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Test Pad"
+              "title": "Data View Samples"
+            }
+          },
+          {
+            "id": "c4a27e89d0e88650",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Abilities/Movement/Burrow Speed.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Burrow Speed"
+            }
+          },
+          {
+            "id": "3a9a27cc9b2e8191",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -53,7 +78,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#action",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +119,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Actions & Activities/Encounter/Movement/Balance.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +128,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Balance"
+              "title": "Backlinks"
             }
           },
           {
@@ -113,12 +137,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Actions & Activities/Encounter/Movement/Balance.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Balance"
+              "title": "Outgoing links"
             }
           },
           {
@@ -127,7 +150,7 @@
             "state": {
               "type": "tag",
               "state": {
-                "sortOrder": "frequency",
+                "sortOrder": "alphabetical",
                 "useHierarchy": true,
                 "showSearch": false,
                 "searchQuery": ""
@@ -135,13 +158,27 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "fcb655d381ccaa10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 255.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -157,43 +194,43 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "3dc9730e4801f69e",
+  "active": "3a9a27cc9b2e8191",
   "lastOpenFiles": [
-    "Rules/Actions & Activities/Encounter/Attack/Escape.md",
-    "Rules/Combat/Entering Initiative with Stealth.md",
-    "Rules/Abilities/Sensory/Echolocation.md",
-    "Rules/Abilities/Sensory/Darkvision.md",
-    "Rules/Actions & Activities/Encounter/Extra Combat/Feint.md",
-    "Rules/Actions & Activities/Encounter/General/Dismiss.md",
+    "Rules/Abilities/Movement/Burrow Speed.md",
+    "Compendium/Feats/Skill Feats/General/Level 1/Recognize Spell.md",
+    "Rules/Actions & Activities/Exploration/Focal Activity/Impersonate.md",
+    "Rules/Skills/Deception.md",
+    "Rules/General/Exploration Activities.md",
+    "Rules/Indexes/Activities, Exploration Tactic Index.md",
     "Rules/Actions & Activities/Encounter/Movement/Balance.md",
-    "Rules/Actions & Activities/Encounter/General/Grab an Edge.md",
-    "Rules/Actions & Activities/Encounter/General/Delay.md",
+    "Compendium/Feats/Class Feats/Ranger/Hunted Shot.md",
+    "Compendium/Feats/Ancestry Feats/Cat's Luck.md",
+    "zz_Workpad/Data View Samples.md",
+    "Compendium/Feats/General Feats/Level 1/Shield Block.md",
+    "Rules/Actions & Activities/Encounter/Defend/Parry.md",
+    "Rules/Actions & Activities/Encounter/Movement/Climb.md",
+    "Rules/Actions & Activities/Encounter/Spell/Cast a Spell.md",
+    "Rules/Actions & Activities/Encounter/Movement/Burrow.md",
+    "Compendium/Items/Weapon/Sword Group/Elven Curve Blade.md",
+    "Compendium/Items/Weapon/Knife Group/Clan Dagger.md",
+    "Compendium/Feats/Skill Feats/General/Level 1/Battle Medicine.md",
+    "Compendium/Feats/Skill Feats/General/Level 1/Bon Mot.md",
+    "Rules/Traits/Effect/Auditory.md",
+    "Rules/Actions & Activities/Encounter/Perception/Avert Gaze.md",
     "Rules/Actions & Activities/Encounter/General/Arrest a Fall.md",
     "Rules/Actions & Activities/Encounter/General/Aid.md",
-    "Rules/Vitality/Rest.md",
-    "Rules/Actions & Activities/Encounter/Healing/Treat Poison.md",
     "Rules/Actions & Activities/Encounter/Healing/Administer First Aid.md",
-    "Rules/Actions & Activities/Encounter/General/Ready.md",
-    "Rules/Actions & Activities/Encounter/General/Use Readied Action.md",
-    "Rules/Actions & Activities/Encounter/General/Sustain.md",
-    "Rules/Actions & Activities/Encounter/General/Recall Knowledge.md",
-    "Rules/Actions & Activities/Encounter/General/Release.md",
-    "Rules/Actions & Activities/Encounter/General/Perform.md",
-    "Rules/Actions & Activities/Encounter/General/Interact.md",
-    "Rules/Actions & Activities/Encounter/General/Command an Animal.md",
-    "Rules/Actions & Activities/Encounter/Extra Combat/Demoralize.md",
-    "Rules/Actions & Activities/Encounter/Perception/Point Out.md",
-    "Rules/Actions & Activities/Encounter/Perception/Avert Gaze.md",
-    "Rules/Actions & Activities/Encounter/Social/Request.md",
-    "Campaign/NPCs",
-    "Campaign/Sessions",
-    "Compendium",
-    "Rules/Core/Trait Rules",
-    "Rules/Traits/Mode",
+    "Rules/Abilities/Sensory/Tremorsense.md",
+    "Rules/Abilities/Movement/Swim Speed.md",
+    "Rules/Traits/Feat",
+    "Rules/Traits/Item/Weapon Trait",
+    "Rules/Traits/Ancestry",
+    "Rules/Traits/Rarity",
+    "Rules/Traits/Class",
+    "Rules/Traits/Spell/Tradition",
+    "Rules/Traits/Spell",
     "Rules/Traits/Ability",
-    "Rules/Traits/Item",
-    "Rules/Traits/General",
-    "Rules/Traits",
-    "(Rules/Core/General"
+    "Rules/Abilities/Movement",
+    "Rules/Item Rules/General"
   ]
 }

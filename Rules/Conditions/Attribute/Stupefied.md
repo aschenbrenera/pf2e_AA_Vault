@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/attribute_penalty
+format: 1_0
 ---
 # Stupefied
+
 **Description:** Your thoughts and instincts are clouded. Stupefied always includes a value. 
 
 ## Mechanical Rules

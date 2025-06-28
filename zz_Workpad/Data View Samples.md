@@ -1,4 +1,4 @@
-#obsidian_workpad 
+#obsidian/workpad 
 
 # Recently Modified Files
 ```dataview  
@@ -8,10 +8,19 @@ SORT file.mtime DESC
 LIMIT 10
 ```
 
-# Recent Bestiary
+# Files Not in the current format
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Creature Name", level
-FROM "Bestiary"
+LIST
+WHERE format != "1_0" and
+contains(tags, "action")
 SORT file.mtime DESC
 LIMIT 10
+```
+
+# Custom Search
+```dataview  
+LIST
+WHERE contains(tags, "action/core") and
+!contains(tags, "action/core/basic")
+SORT file.name
 ```

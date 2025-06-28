@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/weakness
+format: 1_0
 ---
 # Fatigued
+
 **Description:** You're tired and can't summon much energy. 
 
 ## Mechanical Rules

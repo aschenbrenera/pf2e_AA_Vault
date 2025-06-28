@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/cover
+format: 1_0
 ---
 # Greater Cover
+
 **Description:** Greater form of [[Cover]]
 
 ## Mechanical Rules

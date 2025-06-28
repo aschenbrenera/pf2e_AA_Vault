@@ -1,9 +1,20 @@
-Tags: #action #social #sensory 
+---
+tags:
+  - action/core
+  - trait/ability/concentrate
+  - trait/effect/auditory
+  - trait/effect/linguistic
+  - trait/effect/mental
+  - trait/generic/secret
+---
+# Lie [](#Actions "Three-Action")
 
-**Actions:** [1] ⬥
-**Traits:** `AUDITORY` `CONCENTRATE` `LINGUISTIC` `MENTAL` `SECRET`
-**Skill:** [[Deception]]
+[Concentrate](Concentrate.md "Action & Ability Trait")  [Auditory](Auditory.md "Effect Trait") [Linguistic](Linguistic.md "Effect Trait") [Mental](Mental.md "Effect Trait") [Secret](Secret.md "General Trait") 
 **Description:** You try to fool someone with an untruth. 
+
+**Skill:** [[Deception]]
+**Activity:** Three Action ⬥⬥⬥
+
 ## Mechanical Rules
 
 - Lying takes at least 1 round, or longer if the lie is elaborate.

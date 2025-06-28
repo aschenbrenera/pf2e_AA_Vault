@@ -1,12 +1,11 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
-  - custom_group/magic
+  - trait/ability/exploration
+  - trait/ability/concentrate
 ---
 # Borrow An Arcane Spell
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait")
 **Description:** If you're an arcane spellcaster who prepares spells, you can attempt to prepare a spell from someone else's arcane spellbook, arcane witch familiar, or the like.
 
 **Skill:** [[Arcana]] (Trained)

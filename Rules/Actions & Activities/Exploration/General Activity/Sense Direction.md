@@ -1,12 +1,11 @@
 ---
 tags:
-  - trait/exploration
-  - trait/secret
-  - custom_group/environment
+  - trait/ability/exploration
+  - trait/generic/secret
 ---
 # Sense Direction
 
-[Exploration](Exploration.md "General Trait") [Secret](Secret.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Secret](Secret.md "General Trait")
 **Description:** Using the stars, the position of the sun, traits of the geography or flora, or the behavior of fauna, you can stay oriented in the wild.
 
 **Skill:** [[Survival]] (Untrained)

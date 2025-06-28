@@ -1,0 +1,5 @@
+---
+tags:
+  - rules/trait
+---
+# Attack

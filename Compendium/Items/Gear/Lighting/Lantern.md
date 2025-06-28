@@ -1,7 +1,7 @@
 ---
 tags:
-- item
 - item/gear
+format: 1_0
 ---
 # Lantern
 

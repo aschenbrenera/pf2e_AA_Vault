@@ -1,6 +1,5 @@
 ---
 tags:
-  - rules/core
   - rules/spells
 ---
 # Heightened Spells

@@ -1,4 +1,9 @@
-Tags: #class #wizard #feature #spell
+---
+tags:
+  - trait/class/wizard
+  - feature/class/wizard
+---
+# Wizard Spellcasting
 
 Through dedicated study and practice, you can construct spells with academic rigor by shaping arcane magic. As a wizard, when you cast spells, your incantations likely specify exactly what forces you call on and how to shape them, and your gestures precisely shape and direct your magic while circles of arcane runes flare to life.  
 
@@ -11,7 +16,7 @@ Every arcane spell has a written version, which you record in your personalized 
 	- You also get to prepare one extra curriculum cantrip and one extra curriculum spell of each rank you can cast from your arcane school.
 	- Prepared spells remain available to you until you cast them or until you prepare your spells again.
 - You can cast spells of the arcane tradition using the [[Cast a Spell]] activity. 
-	- Some spells will require [[Spell attack rolls]] or have your enemies roll against your spell DC.
+	- Some spells will require [[Spell Attack Rolls]] or have your enemies roll against your spell DC.
 	- Your spell attack modifier and spell DC use your Intelligence modifier.
 - Cantrips:
 	-  A cantrip is a special type of spell that doesn't use spell slots.

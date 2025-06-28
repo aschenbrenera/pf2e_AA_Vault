@@ -1,10 +1,19 @@
-Tags: #action #attack #ranger #feat #action_build 
+---
+tags:
+  - action/feat
+  - action/attack
+  - feat/class/ranger
+  - trait/class/ranger
+  - trait/combat/flourish
+level: 1
+---
+# Hunted Shot [](#Actions "Single Action") &emsp;*(Feat 1)*
 
-Level: 1
-**Actions:** [1] ⬥
-**Traits:** `FLOURISH` `RANGER`
-**Requirements:** You are wielding a ranged weapon with reload 0.
+[Ranger](Ranger.md "Class Trait") [Flourish](Flourish.md "Combat Trait")
 **Description:** You take two quick shots against the one you hunt. 
+
+**Requirements:** You are wielding a ranged weapon with reload 0.
+**Activity:** Single Action ⬥
 
 ## Mechanical Rules
 

@@ -1,11 +1,11 @@
 ---
 tags:
   - action/core
-  - action/basic
-  - trait/attack
+  - trait/combat/attack
 aliases:
   - Grappled
   - Grappling
+format: 1_0
 ---
 # Grapple [](#Actions "Single Action")
 

@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/weakness
+format: 1_0
 ---
 # Encumbered
+
 **Description:** You are carrying more weight than you can manage. 
 
 ## Mechanical Rules

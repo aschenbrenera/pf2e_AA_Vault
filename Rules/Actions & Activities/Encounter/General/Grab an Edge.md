@@ -1,9 +1,9 @@
 ---
 tags:
-  - action/core
-  - action/basic
+  - action/core/basic
+format: 1_0
 ---
-# Grab an Edge [](#Actions "Reaction")
+# Grab an Edge (basic) [](#Actions "Reaction")
 
 [Manipulate](Manipulate.md "General Trait")
 **Description:** When you fall off or past an edge or other handhold, you can try to grab it, potentially stopping your fall. 

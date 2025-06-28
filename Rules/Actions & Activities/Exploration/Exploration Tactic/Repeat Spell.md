@@ -1,14 +1,14 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
+  - trait/ability/exploration
+  - trait/ability/concentrate
   - custom_group/exploration_tactic
 aliases:
   - Detect Magic
 ---
 # Repeat Spell
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait") `Exploration Tactic`
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") `Exploration Tactic`
 **Description:** You repeatedly cast the same spell. Typically, this spell is a cantrip that you want to have in effect in the event a combat breaks out.
 
 ##  Mechanical Rules

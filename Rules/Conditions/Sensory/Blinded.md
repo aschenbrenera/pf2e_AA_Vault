@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/sensory
+format: 1_0
 ---
 # Blinded
+
 **Description:** You can't see.
 
 ## Mechanical Rules

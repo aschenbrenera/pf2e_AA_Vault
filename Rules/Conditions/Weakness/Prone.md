@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/weakness
+format: 1_0
 ---
 # Prone
+
  **Description:** You're lying on the ground.
 
 ## Mechanical Rules

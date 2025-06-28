@@ -1,9 +1,9 @@
 ---
 tags:
-  - action/core
-  - action/basic
+  - action/core/basic
+format: 1_0
 ---
-# Use Readied Action [](#Actions "Reaction")
+# Use Readied Action (basic) [](#Actions "Reaction")
 
 [Concentrate](Concentrate.md "General Trait")
 **Description:** You execute the prepared action on the designated trigger.

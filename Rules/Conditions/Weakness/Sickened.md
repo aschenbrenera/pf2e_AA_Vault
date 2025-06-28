@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/weakness
+format: 1_0
 ---
 # Sickened
+
 **Description:** You feel ill. Sickened always includes a value. 
 
 ## Mechanical Rules

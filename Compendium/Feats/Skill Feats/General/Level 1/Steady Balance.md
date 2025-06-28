@@ -1,9 +1,17 @@
-Tags: #feat #sensory 
+---
+tags:
+  - feat/general/skill/acrobatics
+  - trait/feat/general
+  - trait/feat/skill
+level: 1
+---
+# Steady Balance  &emsp;*(Feat 1)*
 
-**Level:** 1
-**Traits:** `GENERAL` `SKILL`
-**Prerequisite:** Trained in [[Acrobatics]].
+[General](General.md "Feat Trait") [Skill](Skill.md "Feat Trait")
+
 **Description:** You can keep your balance easily, even in adverse conditions. 
+
+**Prerequisite:** Trained in [[Acrobatics]].
 
 ## Mechanical Rules
 

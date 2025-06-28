@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/sensory
+format: 1_0
 ---
 # Hidden
+
 **Description:** While you're hidden from someone, that creature knows the space you're in but can't tell precisely where you are. 
 
 ## Mechanical Rules
@@ -15,7 +17,7 @@ tags:
 
 ## Gameplay Interaction
 
-- Someone successfully using [[Seek]]  with a [[Senses|Precise Sense]] against you while you're [[Hidden]] to them makes you [[Detection|Observed]] to them instead.
+- Someone successfully using [[Seek]]  with a [[Senses|Precise Sense]] against you while you're [[Hidden]] to them makes you [[Rules/Environment/Sensory/Detection|Observed]] to them instead.
 
 ## Gameplay Tips
 

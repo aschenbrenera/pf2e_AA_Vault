@@ -1,11 +1,11 @@
 ---
 tags:
-  - trait/exploration
+  - trait/ability/exploration
   - custom_group/exploration_tactic
 ---
 # Defend
 
-[Exploration](Exploration.md "General Trait")  `Exploration Tactic`
+[Exploration](Exploration.md "Action & Ability Trait")  `Exploration Tactic`
 **Description:** You move with your shield raised.
 
 ## Mechanical Rules

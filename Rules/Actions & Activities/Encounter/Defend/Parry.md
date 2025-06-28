@@ -1,14 +1,14 @@
 ---
 tags:
   - action/core
+format: 1_0
 ---
 # Parry [](#Actions "Single Action")
 
-**Description:** Use a `PARRY` weapon defensively to block attacks.
+**Description:** Use a parry weapon defensively to block attacks.
 
-**Requirements:** You are wielding a weapon with the `PARRY` Weapon Trait, and your proficiency with it is trained or better.
+**Requirements:** You are wielding a weapon with the `Parry` Weapon Trait, and your proficiency with it is trained or better.
 **Activity:** Single Action ⬥
-
 
 ## Mechanical Rules
 

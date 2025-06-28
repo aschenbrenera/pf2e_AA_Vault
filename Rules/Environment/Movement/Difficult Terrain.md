@@ -1,8 +1,11 @@
 ---
+tags:
+  - rules/core
+  - rules/move
 aliases:
   - Greater Difficult terrain
 ---
-Tags: #core #environment #movement 
+# Difficult Terrain
 
 **Description:** Difficult terrain is any terrain that impedes your movement, ranging from particularly rough or unstable surfaces to thick ground cover and countless other impediments. 
 

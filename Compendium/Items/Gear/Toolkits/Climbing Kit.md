@@ -1,8 +1,7 @@
 ---
 tags:
-- item
-- item/gear
 - item/gear/toolkit
+format: 1_0
 ---
 # Climbing Kit
 

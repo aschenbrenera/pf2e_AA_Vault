@@ -1,9 +1,16 @@
-Tags: #action #assassin #action_build 
+---
+tags:
+  - action/archetype/assassin
+  - trait/archetype/assassin
+---
+# Mark for Death [](#Actions "Two-Action")
 
-**Actions:** [2] ⬥⬥
+[Assassin](Assassin.md "Class Trait")
+**Description:** Mark a creature for Death.
+
 **Source:** [[Assassin Dedication]]
 **Requirements:** The creature you intend to mark is observed by you.
-**Description:** Mark a creature for Death.
+**Activity:** Two Action ⬥⬥
 
 ## Mechanical Rules
 

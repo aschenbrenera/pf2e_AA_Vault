@@ -1,11 +1,11 @@
 ---
 tags:
-  - trait/exploration
-  - trait/manipulate
+  - trait/ability/exploration
+  - trait/generic/manipulate
 ---
 # Repair
 
-[Exploration](Exploration.md "General Trait") [Manipulate](Manipulate.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait")
 
 **Skill:** [[Crafting]] (Untrained)
 **Requirements:** You are holding or wearing a [[Repair Toolkit]].

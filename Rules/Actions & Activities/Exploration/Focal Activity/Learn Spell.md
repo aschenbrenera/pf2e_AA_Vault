@@ -1,12 +1,11 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
-  - custom_group/magic
+  - trait/ability/exploration
+  - trait/ability/concentrate
 ---
 # Learn Spell
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait")
 **Description:** You can gain access to a new spell of your tradition from someone who knows that spell or from magical writing like a spellbook or scroll.
 
 **Skill:** [[Arcana]], [[Nature]], [[Occultism]], [[Religion]] (Trained)

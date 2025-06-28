@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/exploration
-  - trait/healing
-  - trait/manipulate
+  - trait/ability/exploration
+  - trait/effect/healing
+  - trait/generic/manipulate
 ---
 # Treat Wounds
 
-[Exploration](Exploration.md "General Trait") [Healing](Healing.md "General Trait") [Manipulate](Manipulate.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Healing](Healing.md "Effect Trait") [Manipulate](Manipulate.md "General Trait")
 **Description:** Attempt to heal a living creature.
 
 **Skill:** [[Medicine]] (Trained)

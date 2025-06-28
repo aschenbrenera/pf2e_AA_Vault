@@ -1,10 +1,13 @@
 ---
+tags:
+  - rules/core
+  - rules/npc
 aliases:
   - Pet Abilities
   - Familiar Abilities
   - Master Abilities
 ---
-Tags: #core #npc #minion
+# Pet, Familiar, and Master Abilities
 
 #TODO
 ## Pet Feat Abilities

@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
-  - trait/secret
+  - trait/ability/exploration
+  - trait/ability/concentrate
+  - trait/generic/secret
 ---
 # Examine Forgery
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait") [Secret](Secret.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Secret](Secret.md "General Trait")
 **Description:** A creature on the lookout for forgeries, even one who was fooled on a passive glance, can take time to closely examine a document to see if it's a forgery. They apply different techniques and analysis methods to look beyond the surface elements.
 
 **Skill:** [[Society]] (Trained)

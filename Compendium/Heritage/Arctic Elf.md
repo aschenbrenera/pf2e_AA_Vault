@@ -1,7 +1,12 @@
-Tags: #heritage #feature 
+---
+tags:
+  - feature/heritage/arctic_elf
+---
+# Arctic Elf
+
+**Description:** You dwell deep in the frozen north and have gained incredible resilience against cold environments.
 
 **Prerequisite:** Elf
-**Description:** You dwell deep in the frozen north and have gained incredible resilience against cold environments.
 
 ## Mechanical Rules
 

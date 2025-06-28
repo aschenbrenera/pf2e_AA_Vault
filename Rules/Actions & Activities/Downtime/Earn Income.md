@@ -1,10 +1,10 @@
 ---
 tags:
-  - trait/downtime
+  - trait/ability/downtime
 ---
 # Earn Income
 
-[Downtime](Downtime.md "General Trait")
+[Downtime](Downtime.md "Action & Ability Trait")
 **Description:**
 
 ## Mechanical Rules

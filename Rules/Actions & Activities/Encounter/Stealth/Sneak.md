@@ -15,7 +15,7 @@ tags:
 - Stride up to half your Speed. (You can use Sneak while Burrowing, Climbing, Flying, or Swimming instead of Striding if you have the corresponding movement type; you must move at half that Speed.)  
 	- If you have [[Cover]] from the creature throughout your Stride, you gain the +2 circumstance bonus from cover (or +4 from greater cover) to your Stealth check. Because you're moving, the bonus increase from Taking Cover doesn't apply.
 - You don't get to Sneak against a creature if, at the end of your movement, you neither are [[Concealed]] from it nor have Cover against it. You automatically become observed by such a creature.
-- If this action makes you Hidden or Undetected to a creature, you become [[Detection|Observed]] by it again if any of the following occurs:
+- If this action makes you Hidden or Undetected to a creature, you become [[Rules/Environment/Sensory/Detection|Observed]] by it again if any of the following occurs:
 	- If at any time except during the stride of a Sneak action, you cease to have Cover against the creature and are not Concealed from it.
 	- You speak or make a deliberate loud noise. 
 	- A creature successfully uses [[Seek]] to make you Observed by it.

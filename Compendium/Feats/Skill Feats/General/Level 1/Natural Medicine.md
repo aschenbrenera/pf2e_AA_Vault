@@ -1,9 +1,17 @@
- Tags: #feat #vitality 
+---
+tags:
+  - feat/general/skill/nature
+  - trait/feat/general
+  - trait/feat/skill
+level: 1
+---
+# Natural Medicine  &emsp;*(Feat 1)*
 
-**Level:** 1
-**Traits:** `GENERAL` `SKILL`
-**Prerequisites:** Trained in [[Nature]]
+[General](General.md "Feat Trait") [Skill](Skill.md "Feat Trait")
 **Description:** You can apply natural cures to heal your allies.
+
+**Prerequisites:** Trained in [[Nature]]
+
 ## Mechanical Rules
 
 - You can use [[Nature]] instead of Medicine to [[Treat Wounds]], including higher Nature proficiency letting you attempt more difficult checks.

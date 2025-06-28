@@ -8,17 +8,17 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#trait/downtime  ",
+      "query": "tag:#activity_downtime  ",
       "color": {
         "a": 1,
         "rgb": 8127492
       }
     },
     {
-      "query": "tag:#trait/exploration  ",
+      "query": "tag:#activity_exploration  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 12845827
       }
     },
     {
@@ -29,31 +29,45 @@
       }
     },
     {
-      "query": "tag:#trait",
+      "query": "tag:#ability  ",
       "color": {
         "a": 1,
-        "rgb": 13369180
+        "rgb": 13592319
       }
     },
     {
-      "query": "tag:#condition  ",
+      "query": "tag:#spell  ",
       "color": {
         "a": 1,
-        "rgb": 16734464
+        "rgb": 16717047
       }
     },
     {
       "query": "tag:#feat  ",
       "color": {
         "a": 1,
-        "rgb": 8039935
+        "rgb": 16741120
       }
     },
     {
       "query": "tag:#feature  ",
       "color": {
         "a": 1,
-        "rgb": 2873942
+        "rgb": 11348736
+      }
+    },
+    {
+      "query": "tag:#condition  ",
+      "color": {
+        "a": 1,
+        "rgb": 65459
+      }
+    },
+    {
+      "query": "tag:#rules/skill  ",
+      "color": {
+        "a": 1,
+        "rgb": 8018227
       }
     },
     {
@@ -67,21 +81,28 @@
       "query": "tag:#creature  ",
       "color": {
         "a": 1,
-        "rgb": 12348415
+        "rgb": 2400511
       }
     },
     {
       "query": "tag:#lore  ",
       "color": {
         "a": 1,
-        "rgb": 5839216
+        "rgb": 6357125
       }
     },
     {
-      "query": "tag:#skill  ",
+      "query": "tag:#index  ",
       "color": {
         "a": 1,
-        "rgb": 7683840
+        "rgb": 4948614
+      }
+    },
+    {
+      "query": "tag:#rules ",
+      "color": {
+        "a": 1,
+        "rgb": 16777215
       }
     }
   ],
@@ -95,6 +116,6 @@
   "repelStrength": 11.00830078125,
   "linkStrength": 1,
   "linkDistance": 50,
-  "scale": 0.36959941273349556,
+  "scale": 0.4761988139570962,
   "close": true
 }

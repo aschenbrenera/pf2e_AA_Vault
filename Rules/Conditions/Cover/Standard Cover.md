@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/cover
+format: 1_0
 ---
 # Standard Cover
+
 **Description:** Standard form of [[Cover]]
 
 ## Mechanical Rules

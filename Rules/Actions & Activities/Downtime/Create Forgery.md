@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/downtime
-  - trait/secret
+  - trait/ability/downtime
+  - trait/generic/secret
   - custom_group/creation
 ---
 # Create Forgery
 
-[Downtime](Downtime.md "General Trait") [Secret](Secret.md "General Trait")
+[Downtime](Downtime.md "Action & Ability Trait") [Secret](Secret.md "General Trait")
 **Description**: You create a forged document.
 
 **Skill:** [[Society]] (Trained)

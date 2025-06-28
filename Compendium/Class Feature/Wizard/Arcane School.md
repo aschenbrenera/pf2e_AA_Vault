@@ -1,4 +1,9 @@
-Tags: #class #wizard #feature #spell
+---
+tags:
+  - trait/class/wizard
+  - feature/class/wizard
+---
+# Arcane School
 
 Most wizards acquire their knowledge of spells from a formal educational institution, such as the Arcanamirium or the Magaambya.  Your arcane school is where you devoted yourself to the study of spellcraft. Whether you learned in the storied halls of a formal institution, via an apprenticeship with an archmage, or taught yourself from secondhand tomes, your arcane school indelibly set the curriculum and direction of your magic.  At 1st level, you choose your arcane school, which grants you magical abilities.  
 

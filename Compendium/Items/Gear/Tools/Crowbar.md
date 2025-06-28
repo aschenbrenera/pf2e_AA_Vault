@@ -1,8 +1,7 @@
 ---
 tags:
-- item
-- item/gear
 - item/gear/tool
+format: 1_0
 ---
 # Crowbar
 

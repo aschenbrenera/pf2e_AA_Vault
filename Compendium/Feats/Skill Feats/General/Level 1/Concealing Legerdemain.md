@@ -1,9 +1,17 @@
- Tags: #feat #sensory 
+---
+tags:
+  - feat/general/skill/thievery
+  - trait/feat/general
+  - trait/feat/skill
+level: 1
+---
+# Concealing Legerdemain  &emsp;*(Feat 1)*
 
-**Level:** 1
-**Traits:** `GENERAL` `SKILL`
-**Prerequisites:** Trained in [[Thievery]]
+[General](General.md "Feat Trait") [Skill](Skill.md "Feat Trait")
 **Description:** Rather than hide an object somewhere the inspectors won't search, you're skilled at keeping the object on the move so it's never where they look.
+
+**Prerequisites:** Trained in [[Thievery]]
+
 ## Mechanical Rules
 
 - When you [[Conceal an Object]] of light Bulk or less, you can use [[Thievery]] instead of Stealth for your checks and for the DC of an active searcher's Perception check.

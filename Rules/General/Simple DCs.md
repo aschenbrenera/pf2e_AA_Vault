@@ -1,4 +1,8 @@
-Tags: #core
+---
+tags:
+  - rules/core
+---
+# Simple DCs
 
 ## Simple DC Adjustments
 

@@ -14,7 +14,7 @@ tags:
 
 - If you are not currently benefiting from [[Cover]] or [[Concealed]], you typically would immediately fail the Stealth check.
 - You get a +2 circumstance bonus to your check if you have standard cover (or +4 from greater cover).
-- If this action makes you Hidden to a creature, you become [[Detection|Observed]] by it again if any of the following occurs:
+- If this action makes you Hidden to a creature, you become [[Rules/Environment/Sensory/Detection|Observed]] by it again if any of the following occurs:
 	- If at any time except during the stride of a [[Sneak]] action, you cease to have Cover against the creature and are not Concealed from it.
 	- You speak or make a deliberate loud noise. 
 	- A creature successfully uses [[Seek]] to make you Observed by it.

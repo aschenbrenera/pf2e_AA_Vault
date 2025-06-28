@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/mental
+format: 1_0
 ---
 # Fleeing
+
 **Description:**  You're forced to run away due to fear or some other compulsion.
 
 ## Mechanical Rules

@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/vitality
+format: 1_0
 ---
 # Dying
+
 **Description:** You are bleeding out or otherwise at death's door. Dying always includes a value.
 
 ## Mechanical Rules

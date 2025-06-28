@@ -1,16 +1,16 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
-  - trait/auditory
-  - trait/emotion
-  - trait/linguistic
-  - trait/mental
+  - trait/ability/exploration
+  - trait/ability/concentrate
+  - trait/effect/auditory
+  - trait/effect/emotion
+  - trait/effect/linguistic
+  - trait/effect/mental
   - custom_group/social
 ---
 # Coerce
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait")  [Auditory](Auditory.md "General Trait") [Emotion](Emotion.md "General Trait") [Linguistic](Linguistic.md "General Trait") [Mental](Mental.md "General Trait") 
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait")  [Auditory](Auditory.md "Effect Trait") [Emotion](Emotion.md "Effect Trait") [Linguistic](Linguistic.md "Effect Trait") [Mental](Mental.md "Effect Trait") 
 **Description:** With threats either veiled or overt, you attempt to bully a creature into doing what you want. 
 
 **Skill:** [[Intimidation]] (Untrained)

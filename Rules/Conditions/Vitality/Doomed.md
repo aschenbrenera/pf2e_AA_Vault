@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/vitality
+format: 1_0
 ---
 # Doomed
+
  **Description:** Your soul has been gripped by a powerful force that calls you closer to death. Doomed always includes a value. 
  
 ## Mechanical Rules

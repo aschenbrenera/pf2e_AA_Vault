@@ -1,4 +1,9 @@
-Tags: #core #npc #minion
+---
+tags:
+  - rules/core
+  - rules/npc
+---
+# Familiar
 
 Familiars are mystically bonded creatures tied to your magic. Most familiars were originally animals, though the ritual of becoming a familiar makes them something more. Common choices for familiars include bats, cats, foxes, ravens, and snakes. Some familiars are different, usually described in the ability that granted you a familiar; for example, a druid’s leshy familiar has the plant or fungus trait instead of animal.
 

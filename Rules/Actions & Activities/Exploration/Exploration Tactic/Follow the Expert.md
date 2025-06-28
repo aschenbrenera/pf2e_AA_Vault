@@ -1,14 +1,14 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
-  - trait/auditory
-  - trait/visual
+  - trait/ability/exploration
+  - trait/ability/concentrate
+  - trait/effect/auditory
+  - trait/effect/visual
   - custom_group/exploration_tactic
 ---
 # Follow the Expert
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait") [Auditory](Auditory.md "General Trait") [Visual](Visual.md "General Trait")   `Exploration Tactic`
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Auditory](Auditory.md "Effect Trait") [Visual](Visual.md "Effect Trait")   `Exploration Tactic`
 **Description:** You follow an ally's expertise in an exploration activity.  
 
 ## Mechanical Rules

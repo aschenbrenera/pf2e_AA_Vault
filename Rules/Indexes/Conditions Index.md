@@ -1,9 +1,12 @@
 ---
 tags:
   - index
+format: 1_0
 ---
-# Conditions
+# Conditions Index
 
-```query
-tag:#condition
+```dataview  
+LIST
+WHERE contains(tags, "condition") 
+SORT file.name
 ```

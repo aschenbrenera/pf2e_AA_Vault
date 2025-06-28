@@ -1,6 +1,12 @@
-Tags: #class #rogue  #feature 
+---
+tags:
+  - trait/class/rogue
+  - feature/class/rogue
+---
+# Sneak Attack
 
 **Description:** When your enemy can't properly defend itself, you take advantage to deal extra damage.
+
 ## Mechanical Rules
 
 -  If you Strike a creature that has the [[Off-Guard]] condition with a valid attack you deal an extra 1d6 [[Damage Types#Precision Damage|Precision Damage]].

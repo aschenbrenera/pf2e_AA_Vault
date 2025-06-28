@@ -1,9 +1,17 @@
- Tags: #feat #sensory 
+---
+tags:
+  - feat/general/skill/stealth
+  - trait/feat/general
+  - trait/feat/skill
+level: 1
+---
+# Experienced Smuggler  &emsp;*(Feat 1)*
 
-**Level:** 1
-**Traits:** `GENERAL` `SKILL`
-**Prerequisites:** Trained in [[Stealth]]
+[General](General.md "Feat Trait") [Skill](Skill.md "Feat Trait")
 **Description:** You often smuggle things past the authorities.
+
+**Prerequisites:** Trained in [[Stealth]]
+
 ## Mechanical Rules
 
 - When the GM rolls your [[Stealth]] check to see if a passive observer notices when you [[Conceal an Object]], your die roll has a minimum value. Any die roll less then 10 is increased to 10 before adding it to your Stealth modifier to determine your Stealth check result.

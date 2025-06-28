@@ -1,13 +1,13 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
-  - trait/move
+  - trait/ability/exploration
+  - trait/ability/concentrate
+  - trait/generic/move
   - custom_group/exploration_tactic
 ---
 # Cover Tracks
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait") [Move](Move.md "General Trait") `Exploration Tactic`
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Move](Move.md "General Trait") `Exploration Tactic`
 **Description:** You cover your tracks.
 
 **Skill:** [[Survival]] (Trained)

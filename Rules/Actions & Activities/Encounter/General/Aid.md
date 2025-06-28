@@ -1,7 +1,7 @@
 ---
 tags:
-  - action/core
-  - action/basic
+  - action/core/basic
+format: 1_0
 ---
 # Aid (basic) [](#Actions "Reaction")
 

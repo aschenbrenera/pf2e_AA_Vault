@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/vitality
+format: 1_0
 ---
 # Unconscious
+
  **Description:** You're sleeping or have been knocked out. 
 
 ## Mechanical Rules

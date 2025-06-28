@@ -1,6 +1,6 @@
 ---
 tags:
-  - skill
+  - rules/skill
 ---
 # Lore
 

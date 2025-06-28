@@ -1,6 +1,7 @@
 ---
 tags:
-  - skill
+  - rules/skill
+format: 1_0
 ---
 # Medicine
 

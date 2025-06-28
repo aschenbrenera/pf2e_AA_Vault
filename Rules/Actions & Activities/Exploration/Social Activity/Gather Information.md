@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/exploration
-  - trait/secret
+  - trait/ability/exploration
+  - trait/generic/secret
   - custom_group/social
 ---
 # Gather Information
 
-[Exploration](Exploration.md "General Trait") [Secret](Secret.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Secret](Secret.md "General Trait")
 **Description:** You canvass local markets, taverns, and gathering places in an attempt to learn about a specific individual or topic.
 
 **Skill:** [[Diplomacy]] (Untrained)

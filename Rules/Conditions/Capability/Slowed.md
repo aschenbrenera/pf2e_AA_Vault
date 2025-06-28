@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/capability
+format: 1_0
 ---
 # Slowed
+
 **Description:** Slowed always includes a value. You have fewer actions based on that value.
 
 ## Mechanical Rules

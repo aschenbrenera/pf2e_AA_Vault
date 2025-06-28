@@ -1,5 +1,7 @@
-Tags: #core #environment #sensory #lighting
-
+---
+tags:
+  - rules/core
+---
 # Dim Light
 
 **Description:** Areas in shadow or lit by weak light sources are in dim light. 

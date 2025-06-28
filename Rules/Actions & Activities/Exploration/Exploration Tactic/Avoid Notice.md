@@ -1,11 +1,11 @@
 ---
 tags:
-  - trait/exploration
+  - trait/ability/exploration
   - custom_group/exploration_tactic
 ---
 # Avoid Notice
 
-[Exploration](Exploration.md "General Trait") `Exploration Tactic`
+[Exploration](Exploration.md "Action & Ability Trait") `Exploration Tactic`
 **Description:** Explore stealthily. 
 
 **Skill:** [[Stealth]] (Untrained)
@@ -16,12 +16,12 @@ tags:
 -  If you're Avoiding Notice at the start of an encounter, you usually are allowed to roll a Stealth check instead of a Perception check both to determine your initiative and to see if the enemies notice you.
 	- All the normal Stealth check bonuses and penalties apply, including any bonus for having [[Cover]].
 	- You can roll Perception instead, but you forsake Stealth and become Observed.
-	- To determine your [[Detection]] level by enemies, you compare your Stealth check for initiative to the Perception DC of all enemies (as normal for [[Sneak]]).
+	- To determine your [[Rules/Environment/Sensory/Detection]] level by enemies, you compare your Stealth check for initiative to the Perception DC of all enemies (as normal for [[Sneak]]).
 
 > [!success-degree] 
->- **Success:** You're [[Undetected]] by the creature.  If you start your first turn Undetected by all enemies, the GM determines if you are also [[Detection|Unnoticed]].
+>- **Success:** You're [[Undetected]] by the creature.  If you start your first turn Undetected by all enemies, the GM determines if you are also [[Rules/Environment/Sensory/Detection|Unnoticed]].
 >- **Failure:** You're [[Hidden]] from the creature.
->- **Critical Failure:** You're [[Detection|Observed]] by the creature. If you're Invisible you are Hidden instead.
+>- **Critical Failure:** You're [[Rules/Environment/Sensory/Detection|Observed]] by the creature. If you're Invisible you are Hidden instead.
 	
 
 > [!tip] Tabletop Interpretation

@@ -1,4 +1,9 @@
-Tags: #class #champion #feature 
+---
+tags:
+  - trait/class/champion
+  - feature/class/champion
+---
+# Champion's Aura
 
 ## Mechanical Rules
 

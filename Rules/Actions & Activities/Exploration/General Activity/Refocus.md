@@ -1,10 +1,10 @@
 ---
 tags:
-  - trait/exploration
+  - trait/ability/exploration
 ---
 # Refocus
 
-[Exploration](Exploration.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait")
 **Description:** You spend 10 minutes performing deeds to restore your magical connection. The deeds you need to perform are specified in the class or ability that gives you your focus spells.
 
 **Requirements:** You have a focus pool.

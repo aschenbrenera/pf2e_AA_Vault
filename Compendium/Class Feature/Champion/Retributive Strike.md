@@ -1,8 +1,15 @@
-Tags: #action #attack #champion #reaction #action_build 
+---
+tags:
+  - action/attack
+  - trait/class/champion
+---
+# Retributive Strike [](#Actions "Reaction")
 
-**Actions:** [reaction] ⤾
-**Trigger:** An enemy damages your ally, and both are in your champion’s aura.
+[Champion](Champion.md "Class Trait")
 **Description:** You protect your ally and strike your enemy. 
+
+**Trigger:** An enemy damages your ally, and both are in your champion’s aura.
+**Activity:** Reaction ⤾
 
 ## Mechanical Rules
 

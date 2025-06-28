@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/sensory
+format: 1_0
 ---
 # Dazzled
+
 **Description:** Your eyes are overstimulated or your vision is swimming.
 
 ## Mechanical Rules

@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/mental
+format: 1_0
 ---
 # Controlled
+
 **Description:** You have been commanded, magically dominated, or otherwise had your will subverted. 
 
 ## Mechanical Rules

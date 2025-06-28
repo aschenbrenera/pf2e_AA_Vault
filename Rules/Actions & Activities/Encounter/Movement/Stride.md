@@ -1,7 +1,14 @@
-ags: #action #movement #basic_action 
+---
+tags:
+  - action/core/basic
+  - trait/generic/move
+format: 1_0
+---
+# Stride (basic) [](#Actions "Single Action")
 
-**Actions:** [1] ⬥
-**Traits:** `MOVE` 
+[Move](Move.md "General Trait")
+
+**Activity:** Single Action ⬥
 
 ## Mechanical Rules
 

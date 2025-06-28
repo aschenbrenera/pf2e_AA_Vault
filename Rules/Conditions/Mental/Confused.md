@@ -2,8 +2,10 @@
 tags:
   - condition
   - condition/mental
+format: 1_0
 ---
 # Confused
+
 **Description:** You don't have your wits about you, and you attack wildly.
 
 ## Mechanical Rules

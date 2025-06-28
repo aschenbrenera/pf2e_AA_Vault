@@ -1,4 +1,4 @@
-#obsidian_backend
+#obsidian/backend
 
 ```encounter-table
 name: Skeleton Guard

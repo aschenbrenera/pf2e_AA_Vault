@@ -1,8 +1,18 @@
-Tags: #action #social
+---
+tags:
+  - action/core
+  - trait/ability/concentrate
+  - trait/effect/auditory
+  - trait/effect/linguistic
+  - trait/effect/mental
+---
+# Request [](#Actions "Single Action")
 
-**Actions:** [1] ⬥
-**Traits:** `AUDITORY` `CONCENTRATE` `LINGUISTIC` `MENTAL`
+[Concentrate](Concentrate.md "Action & Ability Trait")  [Auditory](Auditory.md "Effect Trait") [Linguistic](Linguistic.md "Effect Trait") [Mental](Mental.md "Effect Trait")
+**Description:** Request something from a creature.
+
 **Skill:** [[Diplomacy]]
+**Activity:** Single Action ⬥
 
 ## Mechanical Rules
 

@@ -8,7 +8,7 @@ statblock: inline
 name: "{{{name}}}"
 level: {{level}}
 ---
-#obsidian_backend
+#obsidian/backend
 
 ```statblock
 columns: 2

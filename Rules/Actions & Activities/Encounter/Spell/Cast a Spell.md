@@ -1,8 +1,9 @@
 ---
 tags:
   - action/core
+format: 1_0
 ---
-# Cast a Spell[](#Actions "Varies")
+# Cast a Spell [](#Actions "Varies")
 
 **Activity:** Varies - Spells can vary in how many actions they take, as shown in the spell’s stat block.
 

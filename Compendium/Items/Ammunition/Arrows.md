@@ -2,6 +2,7 @@
 tags:
 - item
 - item/ammo
+format: 1_0
 ---
 # Arrows
 

@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/exploration
-  - trait/concentrate
+  - trait/ability/exploration
+  - trait/ability/concentrate
   - custom_group/exploration_tactic
 ---
 # Search
 
-[Exploration](Exploration.md "General Trait") [Concentrate](Concentrate.md "General Trait") `Exploration Tactic`
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") `Exploration Tactic`
 **Description:** You look meticulously for hidden doors, concealed hazards, and so on.
 
 ## Mechanical Rules
@@ -23,7 +23,7 @@ tags:
  
 ## Gameplay Interaction
 
-- An object or creature you detect might remain hidden, rather than becoming [[Detection|Observed]], if you're using an [[Senses|Imprecise Sense]] sense or if an effect (such as Invisibility) prevents the subject from being observed.  
+- An object or creature you detect might remain hidden, rather than becoming [[Rules/Environment/Sensory/Detection|Observed]], if you're using an [[Senses|Imprecise Sense]] sense or if an effect (such as Invisibility) prevents the subject from being observed.  
 - The [[Expeditious Search]] feat increases how quickly you can search. These are your new limits.
 	- If your searching speed is greater than 30 feet (300 feet per minute), you can't ensure you check everything before you walk into it.
 	- If your searching speed is greater than 60 feet (600 feet per minute), you can't search thoroughly guaranteeing you checked everything.

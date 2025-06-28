@@ -1,12 +1,12 @@
 ---
 tags:
-  - trait/exploration
-  - trait/move
+  - trait/ability/exploration
+  - trait/generic/move
   - custom_group/exploration_tactic
 ---
 # Hustle
 
-[Exploration](Exploration.md "General Trait") [Move](Move.md "General Trait")  `Exploration Tactic`
+[Exploration](Exploration.md "Action & Ability Trait") [Move](Move.md "General Trait")  `Exploration Tactic`
 **Description:** You strain yourself to move quickly.
 
 ## Mechanical Rules

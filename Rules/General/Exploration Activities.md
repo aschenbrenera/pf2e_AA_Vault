@@ -1,4 +1,8 @@
-Tags: #core 
+---
+tags:
+  - rules/core
+---
+# Exploration Activities
 
 Exploration activities that happen continually as the group explores are meant to be narrative first and foremost, with the player describing to you what they're doing, and then the GM determining which activity applies and describing any details or alterations for the situation.
 

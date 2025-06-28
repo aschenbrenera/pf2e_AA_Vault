@@ -1,9 +1,15 @@
-Tags: #feat #archetype
+---
+tags:
+  - trait/archetype/assassin
+  - trait/feat/dedication
+  - feat/archetype/assassin
+---
+# Assassin Dedication  &emsp;*(Feat 2)*
 
-Level: 2
-**Traits:** `ARCHETYPE` `DEDICATION`
-**Prerequisites:** Trained in [[Deception]] and [[Stealth]]
+[Archetype](Archetype.md "Feat Trait") [Dedication](Dedication.md "General Trait")
 **Description:** You've trained to assassinate your foes, and you do so with tenacity and precision.
+
+**Prerequisites:** Trained in [[Deception]] and [[Stealth]]
 
 ## Mechanical Rules
 

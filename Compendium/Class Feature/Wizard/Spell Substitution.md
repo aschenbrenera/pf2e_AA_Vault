@@ -1,7 +1,15 @@
-Tags: #exploration_activity #exploration_build #class #wizard
+---
+tags:
+  - trait/class/wizard
+  - trait/ability/exploration/class
+  - feature/class/wizard
+---
+# Spell Substitution
 
-**Feature:** [[Arcane Thesis]]
+[Exploration](Exploration.md "Action & Ability Trait")
 **Description:** You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparations, and you have uncovered a shortcut allowing you to substitute new spells for those you originally prepared.  
+
+**Source:** [[Arcane Thesis]]
 
 ## Mechanical Rules
 
