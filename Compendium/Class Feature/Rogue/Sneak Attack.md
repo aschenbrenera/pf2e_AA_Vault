@@ -5,6 +5,7 @@ tags:
 ---
 # Sneak Attack
 
+[Rogue](Rogue.md "Class Trait")
 **Description:** When your enemy can't properly defend itself, you take advantage to deal extra damage.
 
 ## Mechanical Rules

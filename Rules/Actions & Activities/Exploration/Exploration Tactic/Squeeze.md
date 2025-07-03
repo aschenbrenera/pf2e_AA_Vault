@@ -1,8 +1,10 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/generic/move
   - custom_group/exploration_tactic
+format: 1_0
 ---
 # Squeeze
 

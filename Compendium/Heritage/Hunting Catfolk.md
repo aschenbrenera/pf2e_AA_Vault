@@ -4,6 +4,7 @@ tags:
 ---
 # Hunting Catfolk
 
+[Catfolk](Catfolk.md "Ancestry & Heritage Trait")
 **Description:** You come from a long line of skilled hunters and trackers and have a particularly keen sense of smell. 
 
 **Prerequisite:** Catfolk

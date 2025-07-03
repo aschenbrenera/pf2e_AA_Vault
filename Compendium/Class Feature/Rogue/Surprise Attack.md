@@ -5,6 +5,7 @@ tags:
 ---
 # Surprise Attack
 
+[Rogue](Rogue.md "Class Trait")
 **Description:** You spring into combat faster than foes can react.
 
 ## Mechanical Rules

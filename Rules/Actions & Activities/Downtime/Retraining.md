@@ -1,5 +1,6 @@
 ---
 tags:
+  - activity_downtime/core
   - trait/ability/downtime
 ---
 # Retraining

@@ -4,10 +4,11 @@ tags:
   - trait/archetype/medic
   - trait/feat/dedication
   - feat/archetype/medic
+format: 1_0
 ---
 # Medic Dedication &emsp;*(Feat 2)*
 
-[Archetype](Archetype.md "Feat Trait") [Dedication](Dedication.md "General Trait")
+[Archetype](Archetype.md "Feat Trait") [Dedication](Dedication.md "Feat Trait")
 **Prerequisites:** Trained in [[Medicine]]; [[Battle Medicine]]
 
 ## Mechanical Rules

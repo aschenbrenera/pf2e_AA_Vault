@@ -1,10 +1,12 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
   - custom_group/exploration_tactic
 aliases:
   - Detect Magic
+format: 1_0
 ---
 # Repeat Spell
 

@@ -3,6 +3,7 @@ tags:
   - action/core
   - trait/effect/auditory
   - trait/ability/concentrate
+format: 1_0
 ---
 # Command an Animal [](#Actions "Single Action")
 

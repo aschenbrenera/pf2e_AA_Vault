@@ -1,8 +1,10 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
   - trait/generic/secret
+format: 1_0
 ---
 # Examine Forgery
 

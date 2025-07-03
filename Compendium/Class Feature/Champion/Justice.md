@@ -5,6 +5,7 @@ tags:
 ---
 # Justice
 
+[Champion](Champion.md "Class Trait")
 **Source:** [[Cause]]
 **Description:** In your deity’s name you seek justice, following the law and punishing those who transgress it.  
 

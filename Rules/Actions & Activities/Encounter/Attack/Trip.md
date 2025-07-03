@@ -2,6 +2,7 @@
 tags:
   - action/core
   - trait/combat/attack
+format: 1_0
 ---
 # Trip [](#Actions "Single Action")
 
@@ -14,7 +15,7 @@ tags:
 
 ## Mechanical Rules
 
-- Attempt an [[Athletics]] check against the target's Reflex DC.  
+- Attempt an Athletics check against the target's Reflex DC.  
 
 > [!success-degree]
 >- **Critical Success:** The target falls, lands [[Prone]], and takes 1d6 bludgeoning damage.  

@@ -1,6 +1,8 @@
 ---
 tags:
+  - activity_downtime/core
   - trait/ability/downtime
+format: 1_0
 ---
 # Subsist
 

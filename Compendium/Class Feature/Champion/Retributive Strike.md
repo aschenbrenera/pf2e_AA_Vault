@@ -1,7 +1,9 @@
 ---
 tags:
   - action/attack
+  - action/class/champion
   - trait/class/champion
+format: 1_0
 ---
 # Retributive Strike [](#Actions "Reaction")
 

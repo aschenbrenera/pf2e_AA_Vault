@@ -1,6 +1,7 @@
 ---
 tags:
   - action/core/basic
+  - trait/generic/manipulate
 format: 1_0
 ---
 # Release (basic) [](#Actions "Free Action")

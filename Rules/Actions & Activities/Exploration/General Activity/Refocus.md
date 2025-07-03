@@ -1,6 +1,8 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
+format: 1_0
 ---
 # Refocus
 

@@ -3,7 +3,21 @@ name: Lumii
 level: 1
 hp: 14
 ac: 17
+fort: 3 (T)
+ref: 9 (E)
+will: 5 (E)
 modifier: 5
+perception: 5 (E)
+deception: 6 (T)
+diplomacy: 6 (T)
+stealth: 7 (T)
+arcana: 2 (U)
+crafting: 5 (T)
+medicine: 0 (U)
+nature: 0 (U)
+occultism: 5 (T)
+religion: 0 (U)
+society: 2 (U)
 statblock: inline
 ---
 # Lumii
@@ -25,6 +39,12 @@ perception:
 languages: "Common, Elven, Fey, Aklo; "
 
 abilityMods: [0, 4, 0, 2, 0, 3]
+
+abilities_top:
+  - name: Gear
+    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Thieves' Toolkit]], [[Torch]] (5), Bedroll, Soap, Rations (2), Chalk (10)"
+  - name: Weapons & Armor
+    desc: "Explorer's Clothing, [[Elven Curve Blade]]"
 
 speed: 30 feet
 
@@ -49,24 +69,6 @@ health:
 
 ### Abilities
 - [[Arctic Elf]]
-- [[Rogue's Racket]] - Thief Racket
+- [[Rogue's Racket]] - [[Thief]]
 - [[Surprise Attack]]
 - [[Sneak Attack]]
-
-### Gear
-- [[Backpack]]
-- [[Flint and Steel]]
-- [[Waterskin]]
-- [[Rope]]
-- [[Thieves' Toolkit]]  (Infiltrator?)
-- [[Torch]] (5)
-- Bedroll
-- Soap
-- Rations (2)
-- Chalk (10)
-
-## Armor & Worn Items
-- Clothing, Explorer's
-
-### Weapons
-- [[Elven Curve Blade]]

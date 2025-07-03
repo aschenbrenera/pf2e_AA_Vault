@@ -1,8 +1,10 @@
 ---
 tags:
+  - activity_downtime/core
   - trait/ability/downtime
   - trait/generic/secret
   - custom_group/creation
+format: 1_0
 ---
 # Create Forgery
 
@@ -26,6 +28,7 @@ tags:
 ## Gameplay Interaction
 
 -  If an observer wants to [[Examine Forgery]], they attempt a Perception or Society check against the forger's Society DC. Any bonus the forger had to create the forgery initially applies to this DC.
+
 > [!success-degree] 
 > - **Success:** The examiner knows the document is a forgery. 
 > - **Failure:** The examiner thinks the document is genuine and can't try again unless they get a new reason to be suspicious of the document.

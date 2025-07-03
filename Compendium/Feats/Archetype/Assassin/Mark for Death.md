@@ -1,7 +1,9 @@
 ---
 tags:
   - action/archetype/assassin
+  - action/feat
   - trait/archetype/assassin
+format: 1_0
 ---
 # Mark for Death [](#Actions "Two-Action")
 

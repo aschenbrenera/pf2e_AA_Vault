@@ -1,14 +1,15 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
   - trait/generic/secret
+format: 1_0
 ---
 # Decipher Writing
 
 [Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Secret](Secret.md "General Trait")
 **Description:** When you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be trained in the relevant skill to Decipher Writing.  
-
 
 **Skill:** [[Arcana]], [[Occultism]], [[Religion]], [[Society]] (Trained)
 **Requirements:** You are trained in the relevant skill.

@@ -5,6 +5,8 @@ tags:
 ---
 # Champion's Aura
 
+[Champion](Champion.md "Class Trait")
+
 ## Mechanical Rules
 
 - You're surrounded by an aura in a 15-foot emanation that ends if you fall unconscious

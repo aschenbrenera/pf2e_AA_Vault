@@ -1,5 +1,6 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
   - trait/effect/auditory
@@ -7,6 +8,7 @@ tags:
   - trait/effect/linguistic
   - trait/effect/mental
   - custom_group/social
+format: 1_0
 ---
 # Coerce
 
@@ -17,8 +19,7 @@ tags:
 
 ## Mechanical Rules
 
-- You spend at least 1 minute of conversation with the creture.
-- At the end of the conversation, attempt a Intimidation check against the Will DC of one target.
+- You spend at least 1 minute of conversation with a creature while not in combat. At the end of the conversation, attempt a Intimidation check against the Will DC of one target.
 
 > [!success-degree] 
 >- **Critical Success:**
@@ -27,6 +28,13 @@ tags:
 >- **Success:** As critical success, but once the target becomes unfriendly, they might decide to act against you—for example, by reporting you to the authorities or assisting your enemies.  
 >- **Failure:** The target doesn't do what you say, and if they were not already unfriendly or hostile, they become unfriendly.  
 >- **Critical Failure:** The target refuses to comply, becomes hostile if they weren't already, and is temporarily immune to your Coercion for at least 1 week.
+
+> [!tip] Alternate Tabletop Rule
+> You can incorporate the benefits of the following feats directly into the action itself, making them available to all players: **[[Group Coercion]], [[Quick Coercion]], and [[Lasting Coercion]].**
+> - If you are trained in Intimidation, you can target up to 5 creatures instead of one, and reduce the required amount of conversation to a single a round.
+> - If you are expert in Intimidation, you can target up to 10 creatures, and the maximum time they comply increases to a week.
+> - If you are master in Intimidation, you can target up to 20 creatures.
+> - If you are legendary in Intimidation, you can target up to 50 creatures, and the maximum time they comply increases to a month.
 
 ## Gameplay Interaction
 

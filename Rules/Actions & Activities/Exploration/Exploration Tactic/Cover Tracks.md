@@ -1,9 +1,11 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
   - trait/generic/move
   - custom_group/exploration_tactic
+format: 1_0
 ---
 # Cover Tracks
 

@@ -10,7 +10,7 @@ format: 1_0
 ---
 #  Corset Knife
 
-[Agile](Agile.md "Weapon Trait") [Concealable](Concealable.md "Weapon Trait") [Finesse](Finesse.md "Weapon Trait") [Thrown _10 FT._](Thrown.md "Weapon Trait")
+[Agile](Agile.md "Weapon Trait") [Concealable](Concealable.md "Weapon Trait") [Finesse](Finesse.md "Weapon Trait") [Thrown _10 FT._](Thrown.md "Weapon Trait") `Legacy`
 
 This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.
 

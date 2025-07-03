@@ -1,6 +1,7 @@
 ---
 tags:
   - action/core/basic
+  - trait/ability/concentrate
 format: 1_0
 ---
 # Ready (basic) [](#Actions "Two-Action")

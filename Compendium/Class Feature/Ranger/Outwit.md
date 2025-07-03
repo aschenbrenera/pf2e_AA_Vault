@@ -5,6 +5,7 @@ tags:
 ---
 # Outwit
 
+[Ranger](Ranger.md "Class Trait")
 **Source:** [[Hunter's Edge]]
 **Description:** You are talented at outwitting and evading your prey. 
 

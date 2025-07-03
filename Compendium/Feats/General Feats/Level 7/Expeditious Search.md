@@ -3,6 +3,7 @@ tags:
   - feat/general
   - trait/feat/general
 level: 7
+format: 1_0
 ---
 # Expeditious Search &emsp;*(Feat 7)*
 

@@ -1,7 +1,9 @@
 ---
 tags:
+  - activity_downtime/core
   - trait/ability/downtime
   - trait/generic/manipulate
+format: 1_0
 ---
 # Treat Disease
 

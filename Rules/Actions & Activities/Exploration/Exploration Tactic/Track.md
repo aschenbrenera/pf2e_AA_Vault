@@ -1,9 +1,11 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
   - trait/generic/move
   - custom_group/exploration_tactic
+format: 1_0
 ---
 # Track
 
@@ -15,12 +17,14 @@ tags:
 
 ## Mechanical Rules
 
+- In some cases, you might Track in an encounter. In this case, Track is a single action and doesn't have the exploration trait, but you might need to roll more often because you're in a tense situation. The GM determines how often you must attempt this check.  
 - Move up to half your [[Travel speed]].
 - You attempt your Survival check when you start Tracking, once every hour you continue tracking, and any time something significant changes in the trail. The GM determines the DCs for such checks, depending on the freshness of the trail, the weather, and the type of ground.  
-	- **Success:** You find the trail or continue to follow the one you're already following.
-	- **Failure:** You lose the trail but can try again after a 1-hour delay. 
-	- **Critical Failure:** You lose the trail and can't try again for 24 hours.
-- In some cases, you might Track in an encounter. In this case, Track is a single action and doesn't have the exploration trait, but you might need to roll more often because you're in a tense situation. The GM determines how often you must attempt this check.  
+
+> [!success-degree]
+>- **Success:** You find the trail or continue to follow the one you're already following.
+>- **Failure:** You lose the trail but can try again after a 1-hour delay. 
+>- **Critical Failure:** You lose the trail and can't try again for 24 hours.
 
 ### Sample Track Tasks
 

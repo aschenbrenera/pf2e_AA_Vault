@@ -13,40 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "zz_Workpad/Data View Samples.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Data View Samples"
-            }
-          },
-          {
-            "id": "c4a27e89d0e88650",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Abilities/Movement/Burrow Speed.md",
+                "file": "Campaign/Settlement/Frostbreach.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Burrow Speed"
+              "title": "Frostbreach"
             }
           },
           {
-            "id": "3a9a27cc9b2e8191",
+            "id": "e106b46674263961",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/PCs/Gunther.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Gunther"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "tag:#legacy",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5
+    "width": 268.5
   },
   "right": {
     "id": "15ac5b917c237f8e",
@@ -119,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campaign/PCs/Gunther.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Gunther"
             }
           },
           {
@@ -137,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Campaign/PCs/Gunther.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Gunther"
             }
           },
           {
@@ -165,12 +157,23 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "zz_Workpad/Data View Samples.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Data View Samples"
+            }
+          },
+          {
+            "id": "a53bf7868603caa9",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -178,7 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -194,43 +197,43 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "3a9a27cc9b2e8191",
+  "active": "e106b46674263961",
   "lastOpenFiles": [
-    "Rules/Abilities/Movement/Burrow Speed.md",
-    "Compendium/Feats/Skill Feats/General/Level 1/Recognize Spell.md",
-    "Rules/Actions & Activities/Exploration/Focal Activity/Impersonate.md",
-    "Rules/Skills/Deception.md",
+    "Campaign/Settlement/Frostbreach.md",
+    "Campaign/Sessions/session_5.md",
+    "Campaign/Sessions/session_4.md",
+    "Campaign/Sessions/session_3.md",
+    "Campaign/Sessions/session_2.md",
+    "Campaign/Sessions/session_1.md",
     "Rules/General/Exploration Activities.md",
-    "Rules/Indexes/Activities, Exploration Tactic Index.md",
-    "Rules/Actions & Activities/Encounter/Movement/Balance.md",
-    "Compendium/Feats/Class Feats/Ranger/Hunted Shot.md",
-    "Compendium/Feats/Ancestry Feats/Cat's Luck.md",
-    "zz_Workpad/Data View Samples.md",
-    "Compendium/Feats/General Feats/Level 1/Shield Block.md",
-    "Rules/Actions & Activities/Encounter/Defend/Parry.md",
-    "Rules/Actions & Activities/Encounter/Movement/Climb.md",
-    "Rules/Actions & Activities/Encounter/Spell/Cast a Spell.md",
-    "Rules/Actions & Activities/Encounter/Movement/Burrow.md",
-    "Compendium/Items/Weapon/Sword Group/Elven Curve Blade.md",
-    "Compendium/Items/Weapon/Knife Group/Clan Dagger.md",
-    "Compendium/Feats/Skill Feats/General/Level 1/Battle Medicine.md",
-    "Compendium/Feats/Skill Feats/General/Level 1/Bon Mot.md",
-    "Rules/Traits/Effect/Auditory.md",
-    "Rules/Actions & Activities/Encounter/Perception/Avert Gaze.md",
-    "Rules/Actions & Activities/Encounter/General/Arrest a Fall.md",
-    "Rules/Actions & Activities/Encounter/General/Aid.md",
-    "Rules/Actions & Activities/Encounter/Healing/Administer First Aid.md",
-    "Rules/Abilities/Sensory/Tremorsense.md",
-    "Rules/Abilities/Movement/Swim Speed.md",
+    "Rules/Traits/General/Incorporeal.md",
+    "Ghost Touch.md",
+    "A GM Screen/GM Screen.md",
+    "Compendium/Bestiary/Goblin Warrior.md",
+    "Compendium/Items/Gear/Toolkits/Repair Toolkit.md",
+    "Compendium/Items/Gear/Toolkits/Healer's Toolkit.md",
+    "Compendium/Items/Gear/Toolkits/Fishing Tackle.md",
+    "Compendium/Items/Gear/Toolkits/Climbing Kit.md",
+    "Compendium/Items/Gear/Toolkits/Alchemist's Toolkit.md",
+    "Compendium/Items/Gear/Lighting/Lantern.md",
+    "Compendium/Items/Gear/Lighting/Candle.md",
+    "Compendium/Items/Gear/Lighting/Torch.md",
+    "Compendium/Items/Gear/Combat Gear/Caltrops.md",
+    "Compendium/Spells/Focus/Weapon Surge.md",
+    "Compendium/Spells/Focus/Lay on Hands.md",
+    "Compendium/Spells/Cantrip/Detect Magic.md",
+    "Compendium/Spells/1st Rank/Mystic Armor.md",
+    "Rules/Spell/Identifying Spells.md",
+    "Rules/Spell/Heightened Spells.md",
+    "Campaign/Settlement",
+    "World/Golarion Lore/Locations/Cosmic",
+    "World/Golarion Lore/Location/Region",
+    "World/Golarion Lore/Locations/Continent",
+    "Rules/Item/General/Item Damage",
     "Rules/Traits/Feat",
     "Rules/Traits/Item/Weapon Trait",
     "Rules/Traits/Ancestry",
     "Rules/Traits/Rarity",
-    "Rules/Traits/Class",
-    "Rules/Traits/Spell/Tradition",
-    "Rules/Traits/Spell",
-    "Rules/Traits/Ability",
-    "Rules/Abilities/Movement",
-    "Rules/Item Rules/General"
+    "Rules/Traits/Class"
   ]
 }

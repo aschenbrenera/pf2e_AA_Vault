@@ -11,8 +11,9 @@ LIMIT 10
 # Files Not in the current format
 ```dataview  
 LIST
-WHERE format != "1_0" and
-contains(tags, "action")
+FROM "Rules"
+WHERE format != "1_0"and
+!contains(tags, "rules/trait")
 SORT file.mtime DESC
 LIMIT 10
 ```
@@ -20,7 +21,9 @@ LIMIT 10
 # Custom Search
 ```dataview  
 LIST
-WHERE contains(tags, "action/core") and
-!contains(tags, "action/core/basic")
+FROM "Rules"
+WHERE format != "1_0" and
+!contains(tags, "rules/trait")
 SORT file.name
+LIMIT 20
 ```

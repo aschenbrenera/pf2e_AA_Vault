@@ -1,10 +1,12 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
   - trait/generic/manipulate
   - trait/generic/secret
   - custom_group/social
+format: 1_0
 ---
 # Impersonate
 

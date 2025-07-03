@@ -1,12 +1,14 @@
 ---
 tags:
   - action/core
+  - trait/effect/mental
 aliases:
   - Diversion
+format: 1_0
 ---
-# Conceal an Object[](#Actions "Single Action")
+# Create a Diversion [](#Actions "Single Action")
 
-[Mental](Mental.md "General Trait")
+[Mental](Mental.md "Effect Trait")
 **Description:** With a gesture, a trick, or some distracting words, you can create a diversion that draws creatures' attention elsewhere. 
 
 **Skill:** [[Deception]] (Untrained)
@@ -14,9 +16,9 @@ aliases:
 
 ## Mechanical Rules
 
-- If you use a gesture or trick, this action gains the `manipulate` trait. If you use distracting words, it gains the `auditory` and `linguistic` traits.  
+- If you use a gesture or trick, this action gains the `Manipulate` trait. If you use distracting words, it gains the `Auditory` and `Linguistic` traits.  
 - Whether or not you succeed, creatures you attempt to divert gain a +4 circumstance bonus to their Perception DCs against your attempts to Create a Diversion for 1 minute.
-- If this action makes you Hidden to a creature, you become [[Rules/Environment/Sensory/Detection|Observed]] by it again if any of the following occurs:
+- If this action makes you Hidden to a creature, you become [[Rules/Environment/Sensory/Detection#Observed|Observed]] by it again if any of the following occurs:
 	- Your turn ends. This can be negated by performing either a successful [[Hide]] or [[Sneak]] before your turn ends.
 	- You attempt to Strike a creature. The creature remains [[Off-Guard]] against that attack, and you then become Observed.
 	- If you do anything else except Hide or Sneak.
@@ -39,3 +41,4 @@ aliases:
 | ----- | --------------------- | ----------------- | -------------------------------------------------- |
 | 1     | [[Lengthy Diversion]] | Trained Deception | Can extend your hidden duration after a diversion. |
 | 1     | [[Subtle Theft]]      | Trained Thievery  | Better at taking items while avoiding detection.   |
+| 2     | [[Confabulator]]      | Expert Deception  | Reduce penalties for repeated lies and deceptions. |

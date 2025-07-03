@@ -2,6 +2,7 @@
 tags:
   - action/core
   - trait/generic/move
+format: 1_0
 ---
 # Long Jump [](#Actions "Two-Action")
 

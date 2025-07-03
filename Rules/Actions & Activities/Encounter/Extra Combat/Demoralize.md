@@ -1,9 +1,16 @@
 ---
 tags:
   - action/core
+  - trait/ability/concentrate
+  - trait/effect/auditory
+  - trait/effect/emotion
+  - trait/effect/fear
+  - trait/effect/mental
+format: 1_0
 ---
 # Demoralize [](#Actions "Single Action")
-[Auditory](Auditory.md "General Trait") [Concentrate](Concentrate.md "General Trait") [Emotion](Emotion.md "General Trait") [Fear](Fear.md "General Trait") [Mental](Mental.md "General Trait") 
+
+[Auditory](Auditory.md "Effect Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Emotion](Emotion.md "Effect Trait") [Fear](Fear.md "Effect Trait") [Mental](Mental.md "Effeect Trait") 
 **Description:** With a sudden shout, a well-timed taunt, or a cutting put-down, you can shake an enemy's resolve.
 
 **Skill:** [[Intimidation]] (Untrained)

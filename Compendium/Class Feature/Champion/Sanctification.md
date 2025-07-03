@@ -5,6 +5,7 @@ tags:
 ---
 # Sanctification
 
+[Champion](Champion.md "Class Trait")
 **Description:** Depending on your deity, their sanctification can make you holy or unholy. This commits you to one side of a struggle over souls. Whether you become holy, unholy, or neither will limit your choice of causes, devotion spells, and feats.  
 
 If you “can be” holy or unholy according to your deity's sanctification entry, you make that choice, and if you “must be” holy or unholy, you gain the trait automatically.

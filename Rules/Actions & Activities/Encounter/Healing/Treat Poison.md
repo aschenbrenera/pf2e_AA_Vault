@@ -1,8 +1,10 @@
 ---
 tags:
   - action/core
+  - trait/generic/manipulate
+format: 1_0
 ---
-# Administer First Aid [](#Actions "Single Action")
+# Treat Poison [](#Actions "Single Action")
 
 [Manipulate](Manipulate.md "General Trait")
 **Description:** You treat a patient to prevent the spread of poison. 
@@ -14,7 +16,7 @@ tags:
 ## Mechanical Rules
 
 - After you attempt to Treat a Poison for a creature, you can't try again until after the next time that creature attempts a save against the poison.  
-- Attempt a [[Medicine]] check against the poison's DC.
+- Attempt a Medicine check against the poison's DC.
 
 > [!success-degree]
 >- **Critical Success:** You grant the creature a +4 circumstance bonus to its next saving throw against the poison.  

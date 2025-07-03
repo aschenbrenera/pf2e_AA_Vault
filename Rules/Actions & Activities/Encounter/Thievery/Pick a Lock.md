@@ -1,6 +1,8 @@
 ---
 tags:
   - action/core
+  - trait/generic/manipulate
+format: 1_0
 ---
 # Pick a Lock [](#Actions "Two-Action")
 

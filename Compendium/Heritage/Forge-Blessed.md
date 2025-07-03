@@ -6,6 +6,7 @@ format: 1_0
 ---
 # Forge-Blessed
 
+[Dwarf](Dwarf.md "Ancestry & Heritage Trait") `Legacy`
 **Description:** You are from a family in Highhelm that venerates a particular dwarven deity above all others. Your birth was blessed by your family's patron deity, granting you a fraction of their power. 
 
 **Prerequisite:** Dwarf

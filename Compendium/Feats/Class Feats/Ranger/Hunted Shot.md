@@ -2,10 +2,12 @@
 tags:
   - action/feat
   - action/attack
+  - action/class/ranger
   - feat/class/ranger
   - trait/class/ranger
   - trait/combat/flourish
 level: 1
+format: 1_0
 ---
 # Hunted Shot [](#Actions "Single Action") &emsp;*(Feat 1)*
 
@@ -19,7 +21,7 @@ level: 1
 
 - Make two [[Strike]]s against your [[Hunt Prey|Prey]] with the required weapon.
 	- Apply your [[Multiple Attack Penalty]] to each Strike normally.
-	- If both hit the same creature, combine their damage for the purpose of [[Resistance|Resistances]]and [[Weakness|Weaknesses]]. 
+	- If both hit the same creature, combine their damage for the purpose of [[Resistance|Resistances]] and [[Weakness|Weaknesses]]. 
 
 ## Gameplay Interaction
 

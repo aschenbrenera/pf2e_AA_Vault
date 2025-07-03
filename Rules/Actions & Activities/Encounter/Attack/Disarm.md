@@ -2,6 +2,7 @@
 tags:
   - action/core
   - trait/combat/attack
+format: 1_0
 ---
 # Disarm [](#Actions "Single Action")
 
@@ -14,15 +15,15 @@ tags:
 
 ## Mechanical Rules
 
-- Attempt an [[Athletics]] check against the target's Reflex DC.
+- Attempt an Athletics check against the target's Reflex DC.
 
-> [!success-degree] 
-> - **Critical Success:** You knock the item out of the target's grasp. It falls to the ground in the target's space.  
-> - **Success:** You weaken your target's grasp on the item.
->   - Further attempts to Disarm the target of that item gain a +2 circumstance bonus
->   - The target takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item.
-> 	  - The creature can end the effect by Interacting to change its grip on the item; otherwise, it lasts as long as the creature holds the item.  
-> - **Critical Failure:** You lose your balance and become [[Off-Guard]] until the start of your next turn.
+>[!success-degree] 
+>- **Critical Success:** You knock the item out of the target's grasp. It falls to the ground in the target's space.  
+>- **Success:** You weaken your target's grasp on the item.
+>	- Further attempts to Disarm the target of that item gain a +2 circumstance bonus
+>	- The target takes a –2 circumstance penalty to attacks with the item or other checks requiring a firm grasp on the item.
+>		- The creature can end the effect by Interacting to change its grip on the item; otherwise, it lasts as long as the creature holds the item.  
+>- **Critical Failure:** You lose your balance and become [[Off-Guard]] until the start of your next turn.
 
 ## Skill Feats
 

@@ -30,3 +30,4 @@ You can trick and mislead others using disguises, lies, and other forms of subte
 | 1     | [[Charming Liar]]     | Trained       | Use Deception to influence someone.                |
 | 1     | [[Lengthy Diversion]] | Trained       | Can extend your hidden duration after a diversion. |
 | 1     | [[Lie To Me]]         | Trained       | Use Deception to catch someone lying to you.       |
+| 2     | [[Confabulator]]      | Expert        | Reduce penalties for repeated lies and deceptions. |

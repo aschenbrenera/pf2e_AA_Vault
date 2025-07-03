@@ -22,7 +22,9 @@ You are skilled at avoiding detection, allowing you to slip past foes, hide, or 
 
 ## Skill Feats
 
-| Level | Feat                     | Req. Training | Short Desc.                                |
-| ----- | ------------------------ | ------------- | ------------------------------------------ |
-| 1     | [[Experienced Smuggler]] | Trained       | You are well suited to concealing objects. |
+| Level | Feat                     | Req. Training | Short Desc.                                                                             |
+| ----- | ------------------------ | ------------- | --------------------------------------------------------------------------------------- |
+| 1     | [[Experienced Smuggler]] | Trained       | You are well suited to concealing objects.                                              |
+| 2     | [[Quiet Allies]]         | Expert        | Group can share a Avoid Notice Stealth check.                                           |
+| 15    | [[Legendary Sneak]]      | Legendary     | You’re always sneaking unless you choose to be seen, even when there’s nowhere to hide. |
 

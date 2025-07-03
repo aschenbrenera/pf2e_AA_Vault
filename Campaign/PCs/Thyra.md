@@ -3,7 +3,21 @@ name: Thyra
 level: 1
 hp: 16
 ac: 15
+fort: 4 (T)
+ref: 5 (T)
+will: 6 (E)
 modifier: 4
+perception: 4 (T)
+deception: 4 (T)
+diplomacy: 1 (U)
+stealth: 2 (U)
+arcana: 7 (T)
+crafting: 7 (T)
+medicine: 1 (U)
+nature: 1 (U)
+occultism: 7 (T)
+religion: 4 (T)
+society: 7 (T)
 statblock: inline
 ---
 # Thyra
@@ -25,6 +39,12 @@ perception:
 languages: "Common, Dwarven, Elven, Halfling, Orcish, Skald; "
 
 abilityMods: [0, 2, 1, 4, 1, 1]
+
+abilities_top:
+  - name: Gear
+    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Torch]] (5), Bullseye [[Lantern]], [[Writing Set]], [[Spellbook]], Bedroll, Soap, Rations (2), Chalk (10)"
+  - name: Weapons & Armor
+    desc: "Explorer's Clothing, [[Staff]], [[Corset Knife]]"
 
 speed: 25 feet
 
@@ -54,24 +74,3 @@ health:
 
 ### Minions
 - Wizard Familiar - Raven (Frodor)
-
-### Gear
-- [[Backpack]]
-- [[Flint and Steel]]
-- [[Waterskin]]
-- [[Rope]]
-- [[Writing Set]]
-- [[Spellbook]]
-- [[Lantern]] (Bullseye)
-- [[Torch]] (5)
-- Bedroll
-- Soap
-- Rations (2)
-- Chalk (10)
-
-## Armor & Worn Items
-- Clothing, Explorer's
-
-### Weapons
-- [[Staff]]
-- [[Corset Knife]]

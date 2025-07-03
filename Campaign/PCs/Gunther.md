@@ -3,7 +3,22 @@ name: Gunther
 level: 1
 hp: 22
 ac: 16
+fort: 7 (E)
+ref: 3 (T)
+will: 6 (E)
 modifier: 4
+perception: 4 (T)
+deception: 5 (T)
+diplomacy: 5 (T)
+stealth: 0 (U)
+arcana: 2 (U)
+crafting: 2 (U)
+medicine: 4 (U)
+nature: 1 (U)
+occultism: 2 (U)
+religion: 4 (T)
+society: 5 (T)
+
 statblock: inline
 ---
 # Gunther
@@ -26,6 +41,12 @@ perception:
 languages: "Common, Dwarven; +2"
 
 abilityMods: [2, 0, 2, 2, 1, 2]
+
+abilities_top:
+  - name: Gear
+    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Torch]] (5), [[Arrows]] x20, Bedroll, Soap, Rations (2), Chalk (10)"
+  - name: Weapons & Armor
+    desc: "Scale Mail, Ordinary Clothing, [[Longbow]], [[Greatsword]], [[Clan Dagger]]"
 
 speed: 20 feet
 
@@ -61,25 +82,4 @@ health:
 - [[Champion's Aura]]
 - [[Cause]] - Justice - [[Retributive Strike]]
 - [[Devotion Spells]] - [[Lay on Hands]]
-
-### Gear
-- [[Backpack]]
-- [[Flint and Steel]]
-- [[Waterskin]]
-- [[Rope]]
-- [[Torch]] (5)
-- [[Arrows]] x20
-- Bedroll
-- Soap
-- Rations (2)
-- Chalk (10)
-
-## Armor & Worn Items
-- Scale Mail
-- Clothing, Ordinary
-
-### Weapons
-- [[Longbow]]
-- [[Greatsword]]
-- [[Clan Dagger]]
 

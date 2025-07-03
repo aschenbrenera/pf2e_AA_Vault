@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": false,
@@ -99,6 +99,13 @@
       }
     },
     {
+      "query": "tag:#rules/trait ",
+      "color": {
+        "a": 1,
+        "rgb": 9737364
+      }
+    },
+    {
       "query": "tag:#rules ",
       "color": {
         "a": 1,
@@ -116,6 +123,6 @@
   "repelStrength": 11.00830078125,
   "linkStrength": 1,
   "linkDistance": 50,
-  "scale": 0.4761988139570962,
+  "scale": 0.6542239853676396,
   "close": true
 }

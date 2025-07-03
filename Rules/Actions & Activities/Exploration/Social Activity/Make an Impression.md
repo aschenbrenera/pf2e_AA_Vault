@@ -1,11 +1,13 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
   - trait/effect/auditory
   - trait/effect/linguistic
   - trait/effect/mental
   - custom_group/social
+format: 1_0
 ---
 # Make an Impression
 
@@ -16,8 +18,7 @@ tags:
 
 ## Mechanical Rules
 
-- You spend at least 1 minute of conversation attempting to make a good impression.
-- At the end of the conversation, attempt a Diplomacy check against the Will DC of one target.
+- You spend at least 1 minute of conversation attempting to make a good impression. At the end of the conversation, attempt a Diplomacy check against the Will DC of one target.
 	- You can instead choose up to five targets if you take a –2 penalty.
 	- The GM might add other bonuses or penalties based on the situation.
 	- Any impression you make lasts for only the current social interaction unless the GM decides otherwise. 
@@ -27,6 +28,14 @@ tags:
 >- **Success:** The target's attitude toward you improves by one step.  
 >- **Critical Failure:** The target's attitude toward you decreases by one step.
 
+> [!tip] Alternate Tabletop Rule
+> You can incorporate the benefits of the following feats directly into the action itself, making them available to all players: **[[Group Impression]] .**
+> - If you are trained in the skill used for this action, you can target up to 10 creatures without penalty.
+> - If you are expert in the skill used for this action, you can target up to 20 creatures.
+> - If you are master in the skill used for this action, you can target up to 50 creatures.
+> - If you are legendary in the skill used for this action, you can target up to 100 creatures.
+> 
+> The following feats are not recommended to be taken: [[Glad Hand]].
 
 ## Gameplay Interaction
 

@@ -33,4 +33,6 @@ Arcana measures how much you know about arcane magic and creatures.
 | 1     | [[Quick Identification]] | Trained       | Identify Magic swiftly.                       |
 | 1     | [[Recognize Spell]]      | Trained       | Identify an unfamiliar spell as a reaction.   |
 | 1     | [[Trick Magic Item]]     | Trained       | Activate a magic item you otherwise couldn't. |
+| 2     | Assured Identification   | Expert        | You rarely misidentify an item.               |
+| 2     | Magical Shorthand        | Expert        | Learn spells quickly and at a reduced cost.   |
 | 7     | [[Quick Recognition]]    | Master        | Recognize Spell as a free action.             |

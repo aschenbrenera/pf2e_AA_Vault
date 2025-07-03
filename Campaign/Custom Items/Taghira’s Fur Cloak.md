@@ -1,9 +1,9 @@
 ---
 tags:
   - item/worn
-  - item/custom
   - trait/item/invested
   - trait/item/magical
+  - custom
 format: 1_0
 ---
 # Taghira's Fur Cloak

@@ -1,6 +1,8 @@
 ---
 tags:
   - action/core/basic
+  - trait/ability/concentrate
+  - trait/generic/secret
 aliases:
   - Seeking
 format: 1_0

@@ -1,10 +1,12 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
   - trait/effect/auditory
   - trait/effect/visual
   - custom_group/exploration_tactic
+format: 1_0
 ---
 # Follow the Expert
 

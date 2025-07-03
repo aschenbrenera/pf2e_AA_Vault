@@ -1,8 +1,10 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
   - custom_group/exploration_tactic
+format: 1_0
 ---
 # Search
 

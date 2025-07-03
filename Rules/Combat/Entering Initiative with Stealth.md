@@ -14,11 +14,13 @@ When members on one or both sides of an impending battle are being stealthy, you
 	- e.g. Behind a tree trunk, in the corridor shadows, or behind a closed door outside the room the enemies are in.
 - Those using Avoid Notice can attempt a Stealth check for their initiative. This check will also determine their Detection level by enemies.
 	- All the normal Stealth check bonuses and penalties apply, including any bonus for having Cover.
-	- To determine someone's [[Rules/Environment/Sensory/Detection]] level by an enemy, compare their Stealth check for initiative to the enemy's Perception DC (as normal for [[Sneak]]).
-		- **Success:** You're [[Undetected]] by the creature.  
-		- **Failure:** You're [[Hidden]] from the creature.
-		- **Critical Failure:** You're [[Rules/Environment/Sensory/Detection|Observed]] by the creature. If you're Invisible you are Hidden instead.
+	- Those using Avoid Notice have the option to roll Perception instead, but if they do, they forsake their Stealth and are going to be Observed.
 	- If a creature starts their turn with all of its enemies Undetected, the GM determines if the enemies are additionally [[Rules/Environment/Sensory/Detection|Unnoticed]].
 		- If all of the creature's enemies are Unnoticed, the creature carries on with it's regular activities while in initiative, unaware of the enemies presence.
 		- Otherwise, the creature knows someone is around and may start moving about, using [[Seek]] or otherwise preparing to fight. 
-	- Those using Avoid Notice have the option to roll Perception instead, but if they do, they forsake their Stealth and are going to be Observed.
+	- To determine someone's [[Rules/Environment/Sensory/Detection|Detection]] level by an enemy, compare their Stealth check (usually also used for initiative) to the enemy's Perception DC (as normal for [[Sneak]]).
+	  
+	  > [!success-degree] 
+	  > - **Success:** You're [[Undetected]] by the creature.  
+	  > - **Failure:** You're [[Hidden]] from the creature.
+	  > - **Critical Failure:** You're [[Rules/Environment/Sensory/Detection|Observed]] by the creature. If you're Invisible you are Hidden instead.

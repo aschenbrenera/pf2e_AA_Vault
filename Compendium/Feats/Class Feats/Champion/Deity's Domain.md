@@ -3,6 +3,7 @@ tags:
   - trait/class/champion
   - feat/class/champion
 level: 1
+format: 1_0
 ---
 # Deity's Domain &emsp;*(Feat 1)*
 

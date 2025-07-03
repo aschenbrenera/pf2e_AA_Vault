@@ -3,10 +3,11 @@ tags:
   - trait/archetype/assassin
   - trait/feat/dedication
   - feat/archetype/assassin
+format: 1_0
 ---
 # Assassin Dedication  &emsp;*(Feat 2)*
 
-[Archetype](Archetype.md "Feat Trait") [Dedication](Dedication.md "General Trait")
+[Archetype](Archetype.md "Feat Trait") [Dedication](Dedication.md "Feat Trait")
 **Description:** You've trained to assassinate your foes, and you do so with tenacity and precision.
 
 **Prerequisites:** Trained in [[Deception]] and [[Stealth]]

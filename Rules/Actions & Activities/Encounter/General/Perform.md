@@ -1,8 +1,10 @@
 ---
 tags:
   - action/core
+  - trait/ability/concentrate
+format: 1_0
 ---
-# Dismiss [](#Actions "Single Action")
+# Perform [](#Actions "Single Action")
 
 [Concentrate](Concentrate.md "General Trait")
 **Description:** Making a brief performance—one song, a quick dance, or a few jokes. This action is most useful when you want to prove your capability or impress someone quickly.

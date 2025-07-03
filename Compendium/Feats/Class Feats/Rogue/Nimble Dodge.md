@@ -1,9 +1,11 @@
 ---
 tags:
   - action/class/rogue
+  - action/feat
   - trait/class/rogue
   - feat/class/rogue
 level: 1
+format: 1_0
 ---
 # Nimble Dodge [](#Actions "Reaction") &emsp;*(Feat 1)*
 

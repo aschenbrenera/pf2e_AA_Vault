@@ -1,6 +1,7 @@
 ---
 tags:
   - action/core/basic
+  - trait/generic/manipulate
 format: 1_0
 ---
 # Grab an Edge (basic) [](#Actions "Reaction")

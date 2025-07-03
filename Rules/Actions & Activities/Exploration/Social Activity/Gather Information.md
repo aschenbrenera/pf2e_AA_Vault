@@ -1,8 +1,10 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/generic/secret
   - custom_group/social
+format: 1_0
 ---
 # Gather Information
 

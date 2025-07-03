@@ -2,6 +2,7 @@
 tags:
   - action/core
   - trait/combat/attack
+format: 1_0
 ---
 # Reposition [](#Actions "Single Action")
 
@@ -15,7 +16,7 @@ tags:
 ## Mechanical Rules
 
 - Movement from this action is [[Forced Movement]]
-- Attempt an [[Athletics]] check against the target's Fortitude DC.  
+- Attempt an Athletics check against the target's Fortitude DC.  
 
 > [!success-degree]
 >- **Critical Success:** You move the creature up to 10 feet. It must remain within your reach during this movement, and you can't move it into or through obstacles.  

@@ -1,7 +1,9 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/ability/concentrate
+format: 1_0
 ---
 # Borrow An Arcane Spell
 

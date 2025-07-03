@@ -1,10 +1,12 @@
 ---
 tags:
   - action/core
+  - trait/effect/mental
+format: 1_0
 ---
 # Feint [](#Actions "Single Action")
 
-[Mental](Mental.md "General Trait")
+[Mental](Mental.md "Effect Trait")
 **Description:** With a misleading flourish, you leave an opponent unprepared for your real attack.
 
 **Skill:** [[Deception]] (Trained)

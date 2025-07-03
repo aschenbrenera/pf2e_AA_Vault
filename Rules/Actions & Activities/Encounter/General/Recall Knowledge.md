@@ -1,6 +1,9 @@
 ---
 tags:
   - action/core
+  - trait/ability/concentrate
+  - trait/generic/secret
+format: 1_0
 ---
 # Recall Knowledge [](#Actions "Single Action")
 

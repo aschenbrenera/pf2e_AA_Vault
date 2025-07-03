@@ -5,6 +5,8 @@ tags:
 ---
 # Cause
 
+[Champion](Champion.md "Class Trait")
+
 You devote yourself to a specific cause in your deity’s name. Some causes are limited to certain sanctifications. Your cause adds to your edicts and anathema and grants you a special protective reaction called your champion’s reaction.
 
 Choose a Cause: [[Justice]], [Liberation](https://2e.aonprd.com/Causes.aspx?ID=12), [Obedience](https://2e.aonprd.com/Causes.aspx?ID=13), [Grandeur (Holy)](https://2e.aonprd.com/Causes.aspx?ID=9), [Redemption (Holy)](https://2e.aonprd.com/Causes.aspx?ID=14), [Desecration (Unholy)](https://2e.aonprd.com/Causes.aspx?ID=8), [Iniquity (Unholy)](https://2e.aonprd.com/Causes.aspx?ID=10)

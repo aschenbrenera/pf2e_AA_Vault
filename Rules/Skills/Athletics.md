@@ -42,3 +42,9 @@ Athletics allows you to perform deeds of physical prowess.
 | 1     | [[Hefty Hauler]]   | Trained       | Increase bulk limits.                                    |
 | 1     | [[Quick Jump]]     | Trained       | You can perform great leaps quickly.                     |
 | 1     | [[Titan Wrestler]] | Trained       | Perform strength-based attacks against larger creatures. |
+| 2     | Powerful Leap      | Expert        | Jump farther and higher.                                 |
+| 2     | Rapid Mantle       | Expert        | Pull yourself onto ledges quickly.                       |
+| 7     | Quick Climb        | Master        | Climb swiftly                                            |
+| 7     | Quick Swim         | Master        | Swim quickly                                             |
+| 7     | Wall Jump          | Master        | Jump off walls                                           |
+

@@ -1,7 +1,9 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - custom_group/exploration_tactic
+format: 1_0
 ---
 # Defend
 

@@ -1,7 +1,9 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/generic/secret
+format: 1_0
 ---
 # Sense Direction
 

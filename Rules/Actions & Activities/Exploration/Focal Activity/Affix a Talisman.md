@@ -1,5 +1,6 @@
 ---
 tags:
+  - activity_exploration/core
   - trait/ability/exploration
   - trait/generic/manipulate
 ---

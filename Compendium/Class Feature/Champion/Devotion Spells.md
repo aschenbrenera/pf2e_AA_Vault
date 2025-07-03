@@ -5,6 +5,7 @@ tags:
 ---
 # Devotion Spells
 
+[Champion](Champion.md "Class Trait")
 Your deity's power grants you special divine spells called devotion spells, which are a type of focus spell.
 
 Choose either [Shields of the spirit] or a spell based on your deity's divine font ([[Lay on Hands]] if your deity allows heal, [Touch of the void] if your deity allows harm).  

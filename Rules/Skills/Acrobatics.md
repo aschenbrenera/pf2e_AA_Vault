@@ -31,10 +31,15 @@ Acrobatics measures your ability to perform tasks requiring coordination and gra
 
 ## Skill Feats
 
-| Level | Feat                    | Req. Training | Short Desc.                                     |
-| ----- | ----------------------- | ------------- | ----------------------------------------------- |
-| 1     | [[Acrobatic Performer]] | Trained       | Use Acrobatics to Perform.                      |
-| 1     | [[Cat Fall]]            | Trained       | Acrobatics allows you to cushion your falls.    |
-| 1     | [[Steady Balance]]      | Trained       | Maintain balance even in adverse conditions.    |
-| 1     | [[Quick Squeeze]]       | Trained       | You can squeeze through tight spaces quickly.   |
-| 2     | [[Rolling Landing]]     | Trained       | Your Cat Fall may allow you to roll afterwards. |
+| Level | Feat                    | Req. Training | Short Desc.                                                                      |
+| ----- | ----------------------- | ------------- | -------------------------------------------------------------------------------- |
+| 1     | [[Acrobatic Performer]] | Trained       | Use Acrobatics to Perform.                                                       |
+| 1     | [[Cat Fall]]            | Trained       | Acrobatics allows you to cushion your falls.                                     |
+| 1     | [[Quick Squeeze]]       | Trained       | You can squeeze through tight spaces quickly.                                    |
+| 1     | [[Steady Balance]]      | Trained       | Maintain balance even in adverse conditions.                                     |
+| 2     | [[Rolling Landing]]     | Trained       | Your Cat Fall may allow you to roll afterwards.                                  |
+| 2     | Nimble Crawl            | Expert        | Crawl at a faster rate.                                                          |
+| 2     | Tumbling Teamwork       | Expert        | Your tumbling distracts a foe enough for an adjacent ally to step into position. |
+| 7     | Kip Up                  | Expert        | Stand up for free without triggering reactions.                                  |
+
+

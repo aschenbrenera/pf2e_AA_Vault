@@ -5,6 +5,7 @@ tags:
 ---
 # Precision
 
+[Ranger](Ranger.md "Class Trait")
 **Source:** [[Hunter's Edge]]
 **Description:** You have trained to aim for your prey’s weak points. 
 

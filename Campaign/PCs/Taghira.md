@@ -3,7 +3,21 @@ name: Taghira
 level: 1
 hp: 19
 ac: 18
+fort: 6 (E)
+ref: 9 (E)
+will: 4 (T)
 modifier: 4
+perception: 6 (E)
+deception: 1 (U)
+diplomacy: 1 (U)
+stealth: 7 (T)
+arcana: 0 (U)
+crafting: 0 (U)
+medicine: 1 (U)
+nature: 4 (T)
+occultism: 3 (T)
+religion: 1 (U)
+society: 0 (U)
 statblock: inline
 ---
 # Taghira
@@ -25,6 +39,12 @@ perception:
 languages: "Common, Amurrun; "
 
 abilityMods: [2, 4, 1, 0, 1, 1]
+
+abilities_top:
+  - name: Gear
+    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Arrows]] x20"
+  - name: Weapons & Armor
+    desc: "Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Shortbow]], [[Shortsword]]"
 
 
 speed: 25 feet
@@ -49,24 +69,6 @@ health:
 
 ### Abilities
 - [[Hunt Prey]]
-- [[Hunter's Edge]] - Precision
+- [[Hunter's Edge]] - [[Precision]]
 - [[Land on your Feet]]
 - [[Hunting Catfolk]]
-
-### Gear
-- [[Backpack]]
-- [[Crowbar]]
-- [[Flint and Steel]]
-- [[Waterskin]]
-- [[Rope]]
-- [[Arrows]] x20
-
-## Armor & Worn Items
-- Leather Armor
-- Clothing, Ordinary
-- [[Taghira’s Fur Cloak]] - Invested
-
-### Weapons
-- [[Shortbow]]
-- [[Shortsword]]
-

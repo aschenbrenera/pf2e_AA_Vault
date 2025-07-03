@@ -1,5 +1,6 @@
 ---
 tags:
+  - activity_downtime/core
   - trait/ability/downtime
   - trait/generic/manipulate
   - custom_group/creation
@@ -24,8 +25,9 @@ tags:
 
 ## Skill Feats
 
-| Level | Feat                    | Req. Training    | Short Desc.              |
-| ----- | ----------------------- | ---------------- | ------------------------ |
-| 1     | [[Alchemical Crafting]] | Trained Crafting | Create alchemical items. |
-| 2     | [[Magical Crafting]]    | Expert Crafting  | Create magical items.    |
+| Level | Feat                    | Req. Training    | Short Desc.                      |
+| ----- | ----------------------- | ---------------- | -------------------------------- |
+| 1     | [[Alchemical Crafting]] | Trained Crafting | Create alchemical items.         |
+| 2     | [[Communal Crafting]]   | Expert Crafting  | Help or Get Help crafting items. |
+| 2     | [[Magical Crafting]]    | Expert Crafting  | Create magical items.            |
 

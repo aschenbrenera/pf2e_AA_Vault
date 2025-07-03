@@ -4,6 +4,7 @@ tags:
 ---
 # Arctic Elf
 
+[Elf](Elf.md "Ancestry & Heritage Trait")
 **Description:** You dwell deep in the frozen north and have gained incredible resilience against cold environments.
 
 **Prerequisite:** Elf

@@ -1,9 +1,13 @@
 #obsidian/workpad
 
-Player Core
-Player Core 2
-Howl of the Wild
-Rage of Elements
-Treasure Vault
-GM Core
-Monster Core
+# Remastered Rule Books
+
+- Player Core
+- Player Core 2
+- GM Core
+- Treasure Vault
+- Monster Core
+- Howl of the Wild
+- Rage of Elements
+
+

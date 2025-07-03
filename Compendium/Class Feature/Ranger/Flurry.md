@@ -5,6 +5,7 @@ tags:
 ---
 # Flurry
 
+[Ranger](Ranger.md "Class Trait")
 **Source:** [[Hunter's Edge]]
 **Description:** You have trained to unleash a devastating flurry of attacks upon your prey.
 

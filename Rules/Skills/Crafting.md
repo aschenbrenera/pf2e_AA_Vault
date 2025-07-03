@@ -27,12 +27,18 @@ Use crafting to create and repair items or recall knowledge on specific topics.
 
 ## Skill Feats
 
-| Level | Feat                    | Req. Training | Short Desc.                                    |
-| ----- | ----------------------- | ------------- | ---------------------------------------------- |
-| 1     | [[Alchemical Crafting]] | Trained       | Create alchemical items.                       |
-| 1     | [[Crafter's Appraisal]] | Trained       | Use Crafting to identify magic items.          |
-| 1     | [[Improvise Tool]]      | Trained       | Repair without toolkit and gain tool formulas. |
-| 1     | [[Quick Repair]]        | Trained       | Repair items quickly.                          |
-| 2     | [[Magical Crafting]]    | Expert        | Create magical items.                          |
+| Level | Feat                    | Req. Training | Short Desc.                                      |
+| ----- | ----------------------- | ------------- | ------------------------------------------------ |
+| 1     | [[Alchemical Crafting]] | Trained       | Create alchemical items.                         |
+| 1     | [[Crafter's Appraisal]] | Trained       | Use Crafting to identify magic items.            |
+| 1     | [[Improvise Tool]]      | Trained       | Repair without toolkit and gain tool formulas.   |
+| 1     | [[Quick Repair]]        | Trained       | Repair items quickly.                            |
+| 1     | Snare Crafting          | Trained       | You can use the craft activity to create snares. |
+| 1     | Specialty Crafting      | Trained       | Gain bonuses to Craft certain items              |
+| 2     | [[Communal Crafting]]   | Expert        | Help or Get Help crafting items.                 |
+| 2     | Inventor                | Expert        | Use Crafting to create item formulas.            |
+| 2     | [[Magical Crafting]]    | Expert        | Create magical items.                            |
+| 7     | Rapid Affixture         | Master        | You take only 1 minute to Affix a Talisman.      |
+| 7     | Impeccable Crafting     | Master        | Craft items more efficiently.                    |
 
 

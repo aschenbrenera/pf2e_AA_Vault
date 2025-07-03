@@ -1,6 +1,8 @@
 ---
 tags:
   - action/core/basic
+  - trait/ability/concentrate
+  - trait/generic/secret
 format: 1_0
 ---
 # Sense Motive (basic) [](#Actions "Single Action")

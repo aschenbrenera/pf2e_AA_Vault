@@ -5,6 +5,7 @@ tags:
 ---
 # Ruffian
 
+[Rogue](Rogue.md "Class Trait")
 **Source:** [[Rogue's Racket]]
 
 You prefer the direct approach: strong-arming or intimidation. You might be an enforcer for organized crime, a highway bandit, or a noble who bullies others with threats of your family's power.  You use whatever tools you have at hand to get the job done. 
