@@ -9,7 +9,7 @@ format: 1_0
 # Gather Information
 
 [Exploration](Exploration.md "Action & Ability Trait") [Secret](Secret.md "General Trait")
-**Description:** You canvass local markets, taverns, and gathering places in an attempt to learn about a specific individual or topic.
+**Description:** You canvas local markets, taverns, and gathering places in an attempt to learn about a specific individual or topic.
 
 **Skill:** [[Diplomacy]] (Untrained)
 

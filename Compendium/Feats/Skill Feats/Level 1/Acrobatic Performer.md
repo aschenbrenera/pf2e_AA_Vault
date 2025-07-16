@@ -17,3 +17,7 @@ format: 1_0
 
 - You can roll an [[Acrobatics]] check instead of a Performance check when using the [[Perform]] action.
 - If you are trained in both Acrobatics and Performance, you gain a +1 circumstances bonus on Acrobatics checks made to Perform.
+
+> [!tip] Tabletop Interpretation
+> This feat is generally underwhelming. If you want to increase the impact of taking this feat, If you want to increase the impact of taking this feat, also include the following benefits. 
+> - If you are an expert in both Acrobatics and trained in Performance, the following actions receive a +1 circumstance bonus on Athletics checks: Balance, Tumble Through, Maneuver in Flight.

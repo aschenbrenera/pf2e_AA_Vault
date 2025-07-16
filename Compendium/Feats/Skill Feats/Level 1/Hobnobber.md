@@ -17,3 +17,7 @@ format: 1_0
 
 -  The [[Gather Information]] exploration activity takes you half as long as normal (typically reducing the time to 1 hour). 
 - If you’re a master in Diplomacy and roll a critical failure to Gather Information, you get a failure instead. There is still no guarantee that a rumor you learn with Gather Information is accurate.
+
+> [!tip] Tabletop Interpretation
+> This feat is slightly underwhelming. If you want to increase the impact of taking this feat, also include the following benefits. 
+> - You can Gather Information on up to 3 completely different topics or individuals at the same time.

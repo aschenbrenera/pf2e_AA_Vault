@@ -4,35 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "443958745bd69e07",
+        "id": "61836b3cc4ec442d",
         "type": "tabs",
         "children": [
           {
-            "id": "a926648ccb009c4f",
+            "id": "a0a8a045af270a19",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "custom_campaign/Images/DeathHousePlayerMap.webp"
+              },
+              "icon": "lucide-image",
+              "title": "DeathHousePlayerMap"
+            }
+          },
+          {
+            "id": "12e0151da8a508ca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Campaign/Settlement/Frostbreach.md",
+                "file": "custom_campaign/Module/Overview.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Frostbreach"
-            }
-          },
-          {
-            "id": "e106b46674263961",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Campaign/PCs/Gunther.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Gunther"
+              "title": "Overview"
             }
           }
         ],
@@ -68,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#legacy",
+                "query": "master",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5
+    "width": 245.5
   },
   "right": {
     "id": "15ac5b917c237f8e",
@@ -103,39 +101,6 @@
         "id": "c65db897f93f4df7",
         "type": "tabs",
         "children": [
-          {
-            "id": "8855f7fbec31fddb",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Campaign/PCs/Gunther.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Gunther"
-            }
-          },
-          {
-            "id": "01f962cb121914b2",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Campaign/PCs/Gunther.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-going-out",
-              "title": "Outgoing links from Gunther"
-            }
-          },
           {
             "id": "3fdd2cd318adcbb0",
             "type": "leaf",
@@ -157,31 +122,66 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "zz_Workpad/Data View Samples.md",
+                "file": "custom_campaign/Module/Overview.md",
                 "followCursor": false,
-                "showSearch": false,
+                "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Data View Samples"
-            }
-          },
-          {
-            "id": "a53bf7868603caa9",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "title": "Outline of Overview"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
+      },
+      {
+        "id": "bbe6facce971847a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01f962cb121914b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "custom_campaign/Module/Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Overview"
+            }
+          }
+        ]
+      },
+      {
+        "id": "14b992481a620448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8855f7fbec31fddb",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "custom_campaign/Module/Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Overview"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,43 +197,50 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "e106b46674263961",
+  "active": "12e0151da8a508ca",
   "lastOpenFiles": [
-    "Campaign/Settlement/Frostbreach.md",
-    "Campaign/Sessions/session_5.md",
-    "Campaign/Sessions/session_4.md",
-    "Campaign/Sessions/session_3.md",
-    "Campaign/Sessions/session_2.md",
-    "Campaign/Sessions/session_1.md",
-    "Rules/General/Exploration Activities.md",
-    "Rules/Traits/General/Incorporeal.md",
-    "Ghost Touch.md",
-    "A GM Screen/GM Screen.md",
-    "Compendium/Bestiary/Goblin Warrior.md",
-    "Compendium/Items/Gear/Toolkits/Repair Toolkit.md",
-    "Compendium/Items/Gear/Toolkits/Healer's Toolkit.md",
-    "Compendium/Items/Gear/Toolkits/Fishing Tackle.md",
-    "Compendium/Items/Gear/Toolkits/Climbing Kit.md",
-    "Compendium/Items/Gear/Toolkits/Alchemist's Toolkit.md",
-    "Compendium/Items/Gear/Lighting/Lantern.md",
-    "Compendium/Items/Gear/Lighting/Candle.md",
-    "Compendium/Items/Gear/Lighting/Torch.md",
-    "Compendium/Items/Gear/Combat Gear/Caltrops.md",
-    "Compendium/Spells/Focus/Weapon Surge.md",
-    "Compendium/Spells/Focus/Lay on Hands.md",
-    "Compendium/Spells/Cantrip/Detect Magic.md",
-    "Compendium/Spells/1st Rank/Mystic Armor.md",
-    "Rules/Spell/Identifying Spells.md",
-    "Rules/Spell/Heightened Spells.md",
+    "custom_campaign/Module/Narrative.md",
+    "custom_campaign/Module/House Layout.md",
+    "custom_campaign/Module/Overview.md",
+    "custom_campaign/Module/Random Encounter.md",
+    "Rules/Skills/Thievery.md",
+    "Compendium/Feats/Skill Feats/Level 1/Concealing Legerdemain.md",
+    "Rules/Skills/Survival.md",
+    "Rules/Skills/Stealth.md",
+    "Rules/Skills/Society.md",
+    "Rules/Skills/Religion.md",
+    "Rules/Skills/Performance.md",
+    "Rules/Skills/Occultism.md",
+    "Rules/Skills/Nature.md",
+    "Rules/Skills/Medicine.md",
+    "Rules/Skills/Lore.md",
+    "Rules/Skills/Intimidation.md",
+    "Rules/Skills/Diplomacy.md",
+    "Compendium/Feats/Skill Feats/Level 1/Lengthy Diversion.md",
+    "Rules/Skills/Deception.md",
+    "Rules/Skills/Arcana.md",
+    "Rules/Skills/Acrobatics.md",
+    "Rules/Skills/Crafting.md",
+    "Rules/Skills/Athletics.md",
+    "Compendium/Feats/Skill Feats/Level 1/Quick Identification.md",
+    "Compendium/Feats/Skill Feats/Level 1/Recognize Spell.md",
+    "Compendium/Feats/Skill Feats/Level 1/Acrobatic Performer.md",
+    "custom_campaign/Images/DeathHousePlayerMap.webp",
+    "custom_campaign/Images/deathhouse_map.png",
+    "custom_campaign/Images/deathhouse_dungeon.png",
+    "custom_campaign/Images/deathhouse_basement.png",
+    "custom_campaign/Images/DeathHouse.jpg",
+    "custom_campaign/Images/The Durst Family.png",
+    "custom_campaign/Images/house_front.png",
+    "custom_campaign/Images",
+    "custom_campaign/Module",
+    "custom_campaign/Monsters",
+    "custom_campaign/NPCs",
+    "custom_campaign/PCs",
+    "custom_campaign",
     "Campaign/Settlement",
     "World/Golarion Lore/Locations/Cosmic",
     "World/Golarion Lore/Location/Region",
-    "World/Golarion Lore/Locations/Continent",
-    "Rules/Item/General/Item Damage",
-    "Rules/Traits/Feat",
-    "Rules/Traits/Item/Weapon Trait",
-    "Rules/Traits/Ancestry",
-    "Rules/Traits/Rarity",
-    "Rules/Traits/Class"
+    "World/Golarion Lore/Locations/Continent"
   ]
 }

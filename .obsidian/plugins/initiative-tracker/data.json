@@ -392,6 +392,27 @@
         "active": false,
         "hidden": false,
         "friendly": false
+      },
+      {
+        "name": "Animated Broom",
+        "initiative": 20,
+        "static": false,
+        "modifier": 3,
+        "hp": 6,
+        "currentMaxHP": 6,
+        "ac": 15,
+        "currentAC": 15,
+        "path": "Compendium/Bestiary/Animated Broom.md",
+        "id": "ID_b88a091af999",
+        "currentHP": 6,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature -1",
+        "active": false,
+        "hidden": false,
+        "friendly": false,
+        "rollHP": false
       }
     ],
     "state": false,

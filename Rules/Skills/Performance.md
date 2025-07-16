@@ -13,10 +13,10 @@ Some performances require you to be more than just charismatic, and if you don't
 
 | **Performance**       | **Additional Traits**            |
 | --------------------- | -------------------------------- |
-| Act or perform comedy | `AUDITORY` `LINGUISTIC` `VISUAL` |
-| Dance                 | `MOVE` `VISUAL`                  |
-| Play an instrument    | `AUDITORY` `MANIPULATE`          |
-| Orate or sing         | `AUDITORY` `LINGUISTIC`          |
+| Act or perform comedy | `Auditory` `Linguistic` `Visual` |
+| Dance                 | `Move` `Visual`                  |
+| Play an instrument    | `Auditory` `Manipulate`          |
+| Orate or sing         | `Auditory` `Linguistic`          |
 
 ## Performance Untrained Actions
 
