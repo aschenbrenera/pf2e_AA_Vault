@@ -8,14 +8,14 @@ format: 1_0
 
 
 ```encounter-table
-name: Skeleton Guards
+name: Sample Encounter 1
 creatures:
   - 1: Goblin Warrior
 party: Default
 ```
 
 ```encounter
-name: Skeleton Guards
+name: Sample Encounter 2
 creatures:
   - 1: Goblin Warrior
   - 5: Skeleton Guard
@@ -29,21 +29,10 @@ party: Default
 > Your note here.
 
 >[!tip] 
-> Your tip here. [[zz_Workpad/Aid|Aid]]
+> Your tip here. 
 
 >[!info]- 
 > Your info here. Made it default collapsed
 
-
-
-
-
-Ranger Hunt Prey
-/trait/class/ranger
-/feature/class/ranger
-
-Ranger Hunted Shot
-/trait/class/ranger
-feat/class/ranger
-action/class/ranger
-action/attack
+>[!warning] Special Alert
+ > Warning

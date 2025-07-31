@@ -1,5 +1,7 @@
 # Session 5
 
+#campaign 
+
 ## Into the Cavern
 
 Lumii stealthily scouts ahead into the cavern. She sees a dim red light radiating from a stone pillar in the cave. She approaches the pillar and the party slowly follows in behind. Thyra casts Mage Armor. The group investigates the glowing pillar. Gunther touches the pillar, which only feels cold to the touch. We move deeper into the cavern. Thyra begins to hear the sounds of battle seemingly coming from nowhere. She is drawn to touch the pillar, where she then has a vision of being killed in battle, and feels a deep streak of fear.

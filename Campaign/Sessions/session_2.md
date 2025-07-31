@@ -1,5 +1,7 @@
 # Session 2
 
+#campaign 
+
 ## The party visits the mayor
 
 Gunther, Taghira, and Tyra leave the Howling Owl Bear heading to the Mayor's House. Lumii had left separately, but their path's merge and they join together.

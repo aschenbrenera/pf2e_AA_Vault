@@ -12,9 +12,9 @@ This kit of bandages, herbs, and suturing tools is necessary for Medicine chec
 
 | **Level** | **Item**                | **Price** | **Item Modifier** |
 | --------- | ----------------------- | --------- | ----------------- |
-| -         | Shoddy / None           | -         | -2                |
-| 0         | Disguise Kit            | 2 gp      | +0                |
-| 3         | Disguise Kit (Expanded) | 40 gp     | +1                |
+| -         | Shoddy                  | -         | -2                |
+| 0         | Healer's Toolkit            | 5 gp      | +0                |
+| 3         | Disguise Toolkit (Expanded) | 50 gp     | +1                |
 
 ## Gameplay Interaction
 

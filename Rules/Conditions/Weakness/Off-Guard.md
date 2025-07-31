@@ -23,7 +23,7 @@ format: 1_0
 - [[Prone]]
 - You are Off-Guard to a creature that is [[Hidden]] or [[Undetected]] to you.
 - You are Off-Guard while [[Climb|Climbing]] unless you have a climb speed.
-- You are Off-Guard if you are flanked by two enemies.
+- You are Off-Guard to melee attacks from creatures that are [[Flanking]] you.
 
 ## Gameplay Interaction
 

@@ -13,7 +13,7 @@ diplomacy: 1 (U)
 stealth: 7 (T)
 arcana: 0 (U)
 crafting: 0 (U)
-medicine: 1 (U)
+medicine: 4 (T)
 nature: 4 (T)
 occultism: 3 (T)
 religion: 1 (U)
@@ -42,7 +42,7 @@ abilityMods: [2, 4, 1, 0, 1, 1]
 
 abilities_top:
   - name: Gear
-    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Arrows]] x20"
+    desc: "[[Backpack]], [[Healer's Toolkit]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Arrows]] x20"
   - name: Weapons & Armor
     desc: "Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Shortbow]], [[Shortsword]]"
 
@@ -72,3 +72,5 @@ health:
 - [[Hunter's Edge]] - [[Precision]]
 - [[Land on your Feet]]
 - [[Hunting Catfolk]]
+
+#campaign

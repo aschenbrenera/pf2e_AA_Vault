@@ -1,5 +1,7 @@
 # Frostbreach
 
+#campaign
+
 Continent: Avistan
 Region: Saga Lands - [[Lands of the Linnorm Kings]]
 

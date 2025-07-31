@@ -9,7 +9,7 @@ format: 1_0
 # Taghira's Fur Cloak
 
 [Invested](Invested.md "Item Trait") [Magical](Rules/Traits/Effect/Magical.md "Item Trait")
-Description: A wolf fur cloak imbued with a blessing of stealth and ferocity while in the snow. and ice (See backstory below).
+Description: A wolf fur cloak imbued with a blessing of stealth and ferocity while in the snow and ice (See backstory below).
 
 **Usage:** worn cloak
 **Bulk:** L
@@ -25,3 +25,5 @@ The hide itself had latent powers of the winter wolf. Unknown to Taghira at the 
 
 
 ![[Pasted image 20250521205258.png]]
+
+#campaign
