@@ -14,8 +14,8 @@ format: 1_0
 [Cantrip](Cantrip.md "General Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Detection](Detection.md "Effect Trait") [Manipulate](Manipulate.md "General Trait") 
 **Description:** You send out a pulse that registers the presence of magic. 
 
-**Traditions**: arcane, divine, occult, primal
-**Bloodline**: imperial
+**Traditions:** arcane, divine, occult, primal
+**Bloodline:** imperial
 
 **Area:** 30-foot emanation
 **Activity:** Two Action ⬥⬥

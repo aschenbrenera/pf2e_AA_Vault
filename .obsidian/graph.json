@@ -22,24 +22,24 @@
       }
     },
     {
-      "query": "tag:#action",
+      "query": "tag:#spell  ",
       "color": {
         "a": 1,
-        "rgb": 16737948
+        "rgb": 6160848
       }
     },
     {
       "query": "tag:#ability  ",
       "color": {
         "a": 1,
-        "rgb": 13592319
+        "rgb": 7281516
       }
     },
     {
-      "query": "tag:#spell  ",
+      "query": "tag:#feature  ",
       "color": {
         "a": 1,
-        "rgb": 16717047
+        "rgb": 11348736
       }
     },
     {
@@ -50,10 +50,10 @@
       }
     },
     {
-      "query": "tag:#feature  ",
+      "query": "tag:#action",
       "color": {
         "a": 1,
-        "rgb": 11348736
+        "rgb": 16737948
       }
     },
     {
@@ -88,7 +88,7 @@
       "query": "tag:#lore  ",
       "color": {
         "a": 1,
-        "rgb": 6357125
+        "rgb": 4006144
       }
     },
     {
@@ -123,6 +123,6 @@
   "repelStrength": 11.00830078125,
   "linkStrength": 1,
   "linkDistance": 50,
-  "scale": 0.3153277529651829,
+  "scale": 0.8660100190773931,
   "close": true
 }

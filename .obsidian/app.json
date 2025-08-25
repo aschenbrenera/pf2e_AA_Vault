@@ -4,5 +4,6 @@
   "livePreview": false,
   "readableLineLength": true,
   "promptDelete": false,
-  "showInlineTitle": false
+  "showInlineTitle": false,
+  "defaultViewMode": "preview"
 }

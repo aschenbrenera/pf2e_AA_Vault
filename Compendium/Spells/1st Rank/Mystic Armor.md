@@ -1,7 +1,7 @@
 ---
 tags:
   - action/spell
-  - spell
+  - spell/rank/1
   - trait/ability/concentrate
   - trait/generic/manipulate
 level: 1
@@ -12,7 +12,7 @@ format: 1_0
 [Concentrate](Concentrate.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait") 
 **Description:** You ward yourself with shimmering magical energy.
 
-**Traditions**: arcane, divine, occult, primal 
+**Traditions:** arcane, divine, occult, primal 
 **Catalysts:** [Deadlock Mint](https://2e.aonprd.com/Equipment.aspx?ID=2021)
 **Lesson:** [lesson of protection](https://2e.aonprd.com/Lessons.aspx?ID=19)
 

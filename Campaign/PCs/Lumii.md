@@ -1,21 +1,22 @@
 ---
 name: Lumii
-level: 1
+level: 2
 hp: 14
-ac: 17
-fort: 3 (T)
-ref: 9 (E)
-will: 5 (E)
+dc: 18
+ac: 18
+fort: 4 (T)
+ref: 10 (E)
+will: 6 (E)
 modifier: 5
-perception: 5 (E)
-deception: 6 (T)
-diplomacy: 6 (T)
-stealth: 7 (T)
+perception: 6 (E)
+deception: 7 (T)
+diplomacy: 7 (T)
+stealth: 8 (T)
 arcana: 2 (U)
-crafting: 5 (T)
+crafting: 6 (T)
 medicine: 0 (U)
 nature: 0 (U)
-occultism: 5 (T)
+occultism: 6 (T)
 religion: 0 (U)
 society: 2 (U)
 statblock: inline
@@ -27,15 +28,15 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Lumii"
-level: "PC 1"
+level: "PC 2"
 size: "Medium"
 trait_03: "Elf"
 trait_04: "Humanoid"
 trait_05: "Rogue"
-modifier: 4
+modifier: 6
 perception:
   - name: "Perception"
-    desc: "Perception +4; __[[Low-light vision]]__;"
+    desc: "+6; __[[Low-light vision]]__;"
 languages: "Common, Elven, Fey, Aklo; "
 
 abilityMods: [0, 4, 0, 2, 0, 3]
@@ -48,10 +49,10 @@ abilities_top:
 
 speed: 30 feet
 
-ac: 17
+ac: 18
 armorclass:
   - name: AC
-    desc: "17; __Fort__: +3; __Ref__: +9; __Will__: +5;"
+    desc: "18; __Fort__: +4; __Ref__: +10; __Will__: +6;"
 hp: 14
 health:
   - name: HP

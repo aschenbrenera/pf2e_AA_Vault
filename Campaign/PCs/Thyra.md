@@ -1,23 +1,24 @@
 ---
 name: Thyra
-level: 1
-hp: 16
-ac: 15
-fort: 4 (T)
-ref: 5 (T)
-will: 6 (E)
+level: 2
+hp: 22
+dc: 18
+ac: 16
+fort: 5 (T)
+ref: 6 (T)
+will: 7 (E)
 modifier: 4
 perception: 4 (T)
-deception: 4 (T)
+deception: 5 (T)
 diplomacy: 1 (U)
 stealth: 2 (U)
-arcana: 7 (T)
-crafting: 7 (T)
+arcana: 8 (T)
+crafting: 8 (T)
 medicine: 1 (U)
 nature: 1 (U)
-occultism: 7 (T)
-religion: 4 (T)
-society: 7 (T)
+occultism: 8 (T)
+religion: 5 (T)
+society: 8 (T)
 statblock: inline
 ---
 # Thyra
@@ -27,15 +28,15 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Thyra"
-level: "PC 1"
+level: "PC 2"
 size: "Medium"
 trait_03: "Human"
 trait_04: "Humanoid"
 trait_05: "Wizard"
-modifier: 4
+modifier: 5
 perception:
   - name: "Perception"
-    desc: "Perception +4"
+    desc: "+5"
 languages: "Common, Dwarven, Elven, Halfling, Orcish, Skald; "
 
 abilityMods: [0, 2, 1, 4, 1, 1]
@@ -48,14 +49,14 @@ abilities_top:
 
 speed: 25 feet
 
-ac: 15
+ac: 16
 armorclass:
   - name: AC
-    desc: "15; __Fort__: +4; __Ref__: +5; __Will__: +6;"
-hp: 16
+    desc: "16; __Fort__: +5; __Ref__: +6; __Will__: +7;"
+hp: 22
 health:
   - name: HP
-    desc: "16"
+    desc: "22"
 ```
 
 
@@ -63,16 +64,53 @@ health:
 **Background:** Teacher
 
 ### Feats
+
 - Natural Ambition - [[Familiar]]
 - [[Experienced Professional]]
 
 ### Abilities
+
 - [[Wizard Spellcasting]]
 - [[Arcane Thesis]] - Spell Substitution
 - [[Arcane School]] - Battle Magic
 - [[Arcane Bond]] - Staff
 
 ### Minions
+
 - Wizard Familiar - Raven (Frodor)
+
+### Focus Spells
+
+- [[Force Bolt]]
+
+### Cantrips
+
+Total: 11 (Initial 10 + Curriculum 1)
+
+- [[Caustic Blast]]
+- [[Detect Magic]]
+- [[Electric Arc]]
+- [[Figment]]
+- [[Gouging Claw]]
+- [[Ignition]]
+- [[Compendium/Spells/Cantrip/Light|Light]]
+- [[Message]]
+- [[Prestidigitation]]
+- [[Shield]]
+- [[Telekinetic Projectile]]
+
+### Rank 1 Spells
+
+Total: 9 (Initial 5 + Curriculum 2 + Level 2)
+
+- [[Force Barrage]]
+- [[Gentle Landing]]
+- [[Illusory Object]]
+- [[Mending]]
+- [[Mystic Armor]]
+- [[Runic Weapon]]
+- [[Thunderstrike]]
+- [[Gust of Wind]]
+- [[Pummeling Rubble]]
 
 #campaign

@@ -20,8 +20,7 @@ format: 1_0
 	- Cursed magic or esoteric subjects usually have higher DCs or might even be impossible to identify using this activity alone.
 	- Heightening a spell doesn't increase the DC to identify it.  
 - If your attempt is interrupted, you must start over.
--  Attempt a check with the relevant skill.
-
+-  The GM makes a secret check with the relevant skill.
 > [!success-degree] 
 >- **Critical Success:** You learn all the attributes of the magic, including its name (for an effect), what it does, any means of activating it (for an item or location), and whether it is cursed.  
 >- **Success:** For an item or location, you get a sense of what it does and learn any means of activating it. For an ongoing effect (such as a spell with a duration), you learn the effect's name and what it does. You can't try again in hopes of getting a critical success.  

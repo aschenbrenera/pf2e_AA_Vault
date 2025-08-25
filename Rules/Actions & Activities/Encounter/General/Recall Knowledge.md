@@ -15,18 +15,24 @@ format: 1_0
 
 ## Mechanical Rules
 
+- This action has specific variations with more specialized rules.
+	- [[Identify Creature]]
+	- [[Identify Spell]] (Identify Magic is a different action that requires training)
+	- [[Forensic Examination]]
 - Topics by skill:
 	- **Arcana**: Arcane theories, magical traditions, arcane planes, constructs, dragons, elementals, and beasts
 	- **Crafting**: Alchemical reactions, item value, engineering, unusual materials, and constructs
-	- **Medicine**: Diseases, poisons, wounds, and forensic examination (10 min.)
+	- **Medicine**: Diseases, poisons, wounds, and forensics.
 	- **Nature**: The environment, weather, natural planes, animals, beasts, elementals, fey, fungus, and plants
 	- **Occultism**: Ancient mysteries, superstitions, obscure philosophy, esoteric planes, aberrations, astrals, dreams, ethereals, oozes, spirits, and times
 	- **Religion**: Divine agents, divine planes, theology, obscure myths, celestials, fiends, monitors, shades, and undead
 	- **Society**: Local history, key personalities, legal institutions, humanoids and their societal structure and culture
 	- **Lore**: Topic specific to your chosen lore
-- If you saw a spell being cast that you don’t have prepared or in your spell repertoire (otherwise you automatically gain this information), you can attempt to identify what the spell is, including the rank to which it is heightened. The DC for success is usually equal to Spell Rank DC + Rarity Adjustment as shown in [[Identifying and Learning|Identify a Spell]].
-- Suggest which skill you'd like to use and ask the GM a question about specific knowledge. The GM determines the DC and then makes a secret roll.
-
+- Suggest which skill you'd like to use and ask the GM a question about specific knowledge.
+- The GM determines the DC.
+	- The more specific or obscure the desired knowledge, the higher the DC should be.
+	- The GM can raise or lower the DC due to circumstances.
+- The GM makes a secret roll.
 > [!success-degree]
 >- **Critical Success**: The GM answers your question truthfully and either tells you additional information or context, or answers one followup question.
 >- **Success**: The GM answers your question truthfully.
@@ -35,11 +41,9 @@ format: 1_0
 
 ## Gameplay Tips
 
-- For the purposes of abilities like mastermind rogue racket and ranger's monster hunter, a character is considered to have successfully identified a creature when they succeed or critically succeed at a Recall Knowledge check, regardless of what information they gain.
 - Example questions on creatures:  
-	- What is the creature's most notable offensive (or defensive) ability?
+	- What is the creature's combat tactics?
 	- What are the creature's most notable vulnerabilities?   (Lowest Defensive DC; AC, Reflex, Fortitude, Will, or Weaknesses)
-	- What are the creature's Languages?
 
 ## Skill Feats
 

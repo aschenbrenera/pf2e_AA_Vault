@@ -2,6 +2,8 @@
 tags:
 - item/rune
 - trait/item/magical
+alias:
+- Striking
 ---
 # Weapon Striking Rune
 

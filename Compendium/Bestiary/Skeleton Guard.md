@@ -28,7 +28,7 @@ trait_06: "Unholy"
 modifier: 2
 perception:
   - name: "Perception"
-    desc: "Perception +2; __[[Darkvision]]__;"
+    desc: "+2; __[[Darkvision]]__;"
 skills:
   - name: "Skills"
     desc: "__Acrobatics__: +6; __Athletics__: +3; "

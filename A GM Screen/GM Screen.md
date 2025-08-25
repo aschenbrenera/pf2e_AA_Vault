@@ -2,7 +2,7 @@
 
 ## Base Stats
 ```dataview  
-TABLE WITHOUT ID link(file.name) AS "Character", perception as "Perc.", ac AS "AC", fort AS "Fort", ref AS "Ref", will as "Will"
+TABLE WITHOUT ID link(file.name) AS "Character", perception as "Perc.", ac AS "AC", fort AS "Fort", ref AS "Ref", will as "Will", dc as "Class DC"
 FROM "Campaign/PCs"
 SORT file.name
 ```
@@ -15,19 +15,28 @@ SORT file.name
 ```
 
 # Lookups
-
-## Skills
-```dataview  
-LIST
-FROM "Rules/Skills"
-SORT file.name
-```
-
-## Core Actions
-```dataview  
-LIST
-FROM "Rules"
-WHERE 
-contains(tags, "action/core")
-SORT file.name
-```
+- !!!col
+   - 1
+     ## Skills
+     ```dataview
+     LIST
+     FROM "Rules/Skills"
+     SORT file.name
+     ```
+   - 1
+     ## Conditions
+     ```dataview
+     LIST
+     FROM "Rules"
+     WHERE contains(tags, "condition") 
+     SORT file.name
+     ```
+   - 1
+     ## Actions
+     ```dataview
+     LIST
+     FROM "Rules"
+     WHERE 
+     contains(tags, "action/core")
+     SORT file.name     
+     ```

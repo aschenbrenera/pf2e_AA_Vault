@@ -1,23 +1,24 @@
 ---
 name: Gunther
-level: 1
-hp: 22
-ac: 16
-fort: 7 (E)
-ref: 3 (T)
-will: 6 (E)
+level: 2
+hp: 34
+dc: 16
+ac: 17
+fort: 8 (E)
+ref: 4 (T)
+will: 7 (E)
 modifier: 4
-perception: 4 (T)
-deception: 5 (T)
-diplomacy: 5 (T)
+perception: 5 (T)
+deception: 6 (T)
+diplomacy: 6 (T)
 stealth: 0 (U)
 arcana: 2 (U)
 crafting: 2 (U)
-medicine: 4 (U)
+medicine: 5 (T)
 nature: 1 (U)
 occultism: 2 (U)
-religion: 4 (T)
-society: 5 (T)
+religion: 5 (T)
+society: 6 (T)
 
 statblock: inline
 ---
@@ -28,16 +29,16 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Gunther"
-level: "PC 1"
+level: "PC 2"
 size: "Medium"
 trait_03: "Dwarf"
 trait_04: "Humanoid"
 trait_05: "Champion"
 trait_06: "Holy"
-modifier: 4
+modifier: 5
 perception:
   - name: "Perception"
-    desc: "Perception +4; __[[Darkvision]]__;"
+    desc: "+5; __[[Darkvision]]__;"
 languages: "Common, Dwarven; +2"
 
 abilityMods: [2, 0, 2, 2, 1, 2]
@@ -53,11 +54,11 @@ speed: 20 feet
 ac: 16
 armorclass:
   - name: AC
-    desc: "16; __Fort__: +7; __Ref__: +3; __Will__: +6;"
-hp: 22
+    desc: "17; __Fort__: +8; __Ref__: +4; __Will__: +7;"
+hp: 34
 health:
   - name: HP
-    desc: "22"
+    desc: "34"
 ```
 
 
@@ -76,11 +77,20 @@ health:
 
 ### Abilities
 - [[Forge-Blessed]] (Legacy) - Torag
-	- [[Innate Spell|Innate]] divine spell (once per week) - Mindlink / Heal ?
+	- [[Innate Spell|Innate]] divine spell (once per week) - Heal
 - Reborn Soul (Legacy) 
 - [[Sanctification]]  - Holy
 - [[Champion's Aura]]
 - [[Cause]] - Justice - [[Retributive Strike]]
 - [[Devotion Spells]] - [[Lay on Hands]]
+
+### Focus Spells (2 pts)
+
+- [[Lay on Hands]]
+- [[Weapon Surge]]
+
+### Rank 1 Spells
+
+- [[Heal]]
 
 #campaign

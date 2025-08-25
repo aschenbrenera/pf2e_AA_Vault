@@ -1,7 +1,7 @@
 ---
 tags:
   - action/spell
-  - spell/focus
+  - spell/focus/1
   - trait/rarity/uncommon
   - trait/class/cleric
   - trait/spell/focus

@@ -26,7 +26,7 @@ trait_04: "Humanoid"
 modifier: 2
 perception:
   - name: "Perception"
-    desc: "Perception +2; __[[Darkvision]]__;"
+    desc: "+2; __[[Darkvision]]__;"
 languages: "Common, Goblin; "
 skills:
   - name: "Skills"
