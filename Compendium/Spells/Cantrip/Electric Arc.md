@@ -25,7 +25,7 @@ format: 1_0
 
 ## Mechanical Rules
 
-- Each target takes 2d4 electricity damage with a basic Reflex save.
+- Each target takes 2d4 [[Electricity Damage]] with a basic Reflex save.
 
 > [!info] Heighten
 >- **Heightened (+1):** The damage increases by 1d4.

@@ -9,7 +9,9 @@ These small humanoids typically have green or gray skin and large heads with wid
   
 Goblins are superstitious, with an intense awe of magic and a fascination with fire; goblins who master magic or fire earn great respect from their kin. Most other humanoids find it difficult to understand goblins' outlook: they hate canines but eagerly share their lairs with so-called “goblin dogs,” they fearlessly attack larger creatures but are terrified of horses, and they despise vegetables yet consider pickles a delicacy. To a goblin, of course, these are all perfectly sensible life choices.
 
-[[Goblin Warrior|Goblin Warrior]] - The frontline fighters of goblin tribes prefer to fight in large groups— especially when they can outnumber their foes at least three to one. 
+## Family
+
+[[Goblin Warrior]] (-1): The frontline fighters of goblin tribes prefer to fight in large groups— especially when they can outnumber their foes at least three to one. 
 
 ### Goblin Leadership
 

@@ -1,4 +1,8 @@
-
+---
+tags:
+  - lore/location
+format: 1_0
+---
 # Lands of the Linnorm Kings
 
 **Continent:** Avistan

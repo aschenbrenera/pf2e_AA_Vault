@@ -23,12 +23,11 @@ format: 1_0
 	- You can still roll a [[Recall Knowledge]] to attempt to get a critical success, but can’t get a worse result than success. 
 	- The highest rank of spell you automatically identify increases to 4 if you’re an expert, 6 if you’re a master, and 10 if you’re legendary.
 - The GM rolls a secret Recall Knowledge check, whichever corresponds to the tradition of the spell being cast. If you’re not trained in the skill, you can’t get a result better than failure. 
-
-> [!success-degree]
->- **Critical Success** You correctly identify the spell and gain a +1 circumstance bonus to your saving throw or your AC against it.  
->- **Success** You correctly identify the spell.  
->- **Failure** You fail to identify the spell.  
->- **Critical Failure** You misidentify the spell as another spell entirely, of the GM’s choice.
+  > [!success-degree]
+  > - **Critical Success** You correctly identify the spell and gain a +1 circumstance bonus to your saving throw or your AC against it.  
+  > - **Success** You correctly identify the spell.  
+  > - **Failure** You fail to identify the spell.  
+  > - **Critical Failure** You misidentify the spell as another spell entirely, of the GM’s choice.
 
 ## Leads To
 

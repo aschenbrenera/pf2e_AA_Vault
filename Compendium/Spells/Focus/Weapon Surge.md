@@ -26,8 +26,8 @@ format: 1_0
 
 - On your next [[Strike]] with that weapon before the start of your next turn, you gain:
 	- +1 status bonus to the attack roll
-	-  The weapon deals an additional 1d6 [[Damage Types#Spirit Damage|Spirit Damage]]
-	- The Strike gains the SANCTIFIED trait.
+	-  The weapon deals an additional 1d6 [[Spirit Damage]].
+	- The Strike gains the `Sanctified` trait.
 - Weapon surge ends once you complete this Strike or the weapon leaves your possession.
 
 > [!info] Heighten
@@ -38,3 +38,6 @@ format: 1_0
 
 - [[Focus Spells]] are automatically heightened to half your level rounded up, just like cantrips are.
 - This action gains your character's Sanctified trait (holy or unholy).
+- Spirit damage affects the spiritual essence of a creature.
+	- Spirit damage doesn't harm creatures that have no spirit, such as constructs.
+	- Spirit damage can damage a target projecting its consciousness or possessing another creature even if the target's body is elsewhere. The possessed creature isn't harmed by the blast. 

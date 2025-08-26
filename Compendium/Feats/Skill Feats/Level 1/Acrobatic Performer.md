@@ -19,5 +19,5 @@ format: 1_0
 - If you are trained in both Acrobatics and Performance, you gain a +1 circumstances bonus on Acrobatics checks made to Perform.
 
 > [!tip] Tabletop Interpretation
-> This feat is generally underwhelming. If you want to increase the impact of taking this feat, If you want to increase the impact of taking this feat, also include the following benefits. 
-> - If you are an expert in both Acrobatics and trained in Performance, the following actions receive a +1 circumstance bonus on Athletics checks: Balance, Tumble Through, Maneuver in Flight.
+> This feat is generally underwhelming. If you want to increase the impact of taking this feat, also include the following benefits. 
+> - If you are a master in Acrobatics, the following actions receive a +1 circumstance bonus on Athletics checks: Balance, Tumble Through, Maneuver in Flight.

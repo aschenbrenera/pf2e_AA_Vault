@@ -5,7 +5,7 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#activity_downtime  ",
@@ -118,11 +118,11 @@
   "textFadeMultiplier": -0.3,
   "nodeSizeMultiplier": 1.39697672526042,
   "lineSizeMultiplier": 1.49886067708333,
-  "collapse-forces": true,
-  "centerStrength": 0.6031494140625,
-  "repelStrength": 11.00830078125,
+  "collapse-forces": false,
+  "centerStrength": 0.298746744791667,
+  "repelStrength": 9.9951171875,
   "linkStrength": 1,
   "linkDistance": 50,
-  "scale": 0.8660100190773931,
+  "scale": 0.24474011462996081,
   "close": true
 }

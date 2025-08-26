@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "d71608380fc76318",
+        "id": "20ee85293c6068a5",
         "type": "tabs",
         "children": [
           {
-            "id": "15dfb4b5e6f3fbf5",
+            "id": "361dbc91a584ba90",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "striking",
+                "query": "tag:#TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 213.5
+    "width": 294.5
   },
   "right": {
     "id": "15ac5b917c237f8e",
@@ -145,31 +145,15 @@
               "title": "Outgoing links"
             }
           }
-        ],
-        "currentTab": 3
-      },
-      {
-        "id": "6a520d66a7635306",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "28186aee1252ffac",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-creature-view",
-              "state": {},
-              "icon": "initiative-tracker-creature-view",
-              "title": "Combatant"
-            }
-          }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 211.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -182,34 +166,35 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "15dfb4b5e6f3fbf5",
+  "active": "7cce4e82fddb236b",
   "lastOpenFiles": [
-    "zz_Workpad/Test Pad.md",
-    "Campaign/PCs/Gunther.md",
-    "Campaign/PCs/Thyra.md",
-    "Compendium/Bestiary/Animated Armor.md",
-    "Compendium/Bestiary/Animated Broom.md",
-    "Compendium/Bestiary/Skeleton Guard.md",
-    "Compendium/Bestiary/Goblin Warrior.md",
-    "Rules/Traits/General/Manipulate.md",
-    "Compendium/Spells/1st Rank/Illusory Object.md",
-    "Compendium/Spells/1st Rank/Heal.md",
-    "Compendium/Spells/1st Rank/Runic Weapon.md",
-    "Compendium/Spells/1st Rank/Force Barrage.md",
-    "Compendium/Spells/1st Rank/Thunderstrike.md",
+    "Compendium/Class Feature/Wizard/Drain Bonded Item.md",
+    "Rules/Actions & Activities/Encounter/Movement/Burrow.md",
+    "Campaign/Custom Items/Taghira’s Fur Cloak.md",
+    "Rules/Actions & Activities/Exploration/Social Activity/Gather Information.md",
+    "Rules/Actions & Activities/Exploration/Social Activity/Make an Impression.md",
+    "Rules/Actions & Activities/Exploration/Focal Activity/Impersonate.md",
+    "Rules/Actions & Activities/Exploration/Social Activity/Coerce.md",
+    "Rules/Actions & Activities/Encounter/Movement/Climb.md",
+    "Rules/Actions & Activities/Encounter/Movement/Swim.md",
+    "Rules/Actions & Activities/Encounter/Movement/Maneuver in Flight.md",
+    "Rules/Actions & Activities/Encounter/Movement/Fly.md",
     "Compendium/Spells/1st Rank/Pummeling Rubble.md",
-    "Compendium/Spells/1st Rank/Mystic Armor.md",
-    "Compendium/Spells/1st Rank/Mending.md",
-    "Compendium/Spells/1st Rank/Gust of Wind.md",
-    "Compendium/Spells/1st Rank/Gentle Landing.md",
-    "Rules/Traits/Effect/Electricity.md",
-    "Rules/Traits/Effect/Earth.md",
-    "Rules/Traits/Effect/Sonic.md",
-    "Rules/Traits/Effect/Air.md",
-    "Rules/Traits/Effect/Fire.md",
-    "Rules/Traits/Effect/Force.md",
-    "Rules/Actions & Activities/Encounter/Attack/Escape.md",
-    "Compendium/Items/Runes/Weapon Fundamental/Weapon Potency.md",
+    "World/Golarion Lore/Location/Golarion Map.md",
+    "World/Golarion Lore/Location/Region/The Darklands.md",
+    "World/Golarion Lore/Location/Region/Lands of the Linnorm Kings.md",
+    "Compendium/Items/Gear/Misc/Writing Set.md",
+    "Compendium/Items/Gear/Misc/Waterskin.md",
+    "Compendium/Items/Gear/Misc/Spellbook.md",
+    "Compendium/Items/Gear/Misc/Rope.md",
+    "Compendium/Items/Gear/Misc/Piton.md",
+    "Compendium/Items/Gear/Misc/Oil.md",
+    "Compendium/Items/Gear/Misc/Flint and Steel.md",
+    "Compendium/Items/Gear/Misc/Backpack.md",
+    "Compendium/Items/Gear/Lighting/Torch.md",
+    "Compendium/Items/Gear/Lighting/Lantern.md",
+    "Compendium/Items/Gear/Lighting/Candle.md",
+    "Rules/Vitality/Damage Types",
     "Compendium/Feats/Archetype/Archer",
     "Compendium/Items/Runes/Armor Property",
     "Compendium/Items/Runes/Weapon Property",
@@ -226,7 +211,6 @@
     "custom_campaign/Images/DeathHouse.jpg",
     "custom_campaign/Images/The Durst Family.png",
     "custom_campaign/Images/Death House Dungeon Map.png",
-    "Compendium/Items/Weapon/Axe Group",
-    "custom_campaign/Images"
+    "Compendium/Items/Weapon/Axe Group"
   ]
 }

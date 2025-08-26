@@ -12,7 +12,7 @@ format: 1_0
 
 [Uncommon](Uncommon.md "Uncommon Rarity Trait") [Dwarf](Dwarf.md "Ancestry & Heritage Trait") [Agile](Agile.md "Weapon Trait") [Parry](Parry.md "Weapon Trait") [Versatile _B_](Versatile.md "Weapon Trait")
 
-This broad dagger is carried b ydwarves as a weapon, tool, and designation of clan. Losing or having to surrender a clan dagger is considered a mark of embarrassment to most dwarves.
+This broad dagger is carried by dwarves as a weapon, tool, and designation of clan. Losing or having to surrender a clan dagger is considered a mark of embarrassment to most dwarves.
 
 **Price:** 2 sp
 **Bulk:** L
@@ -35,4 +35,8 @@ This broad dagger is carried b ydwarves as a weapon, tool, and designation of cl
 	- For instance, a piercing weapon with versatile S can deal piercing or slashing damage. 
 	- You choose the damage type each time you attack.
 - Critical Specialization - [[Knife Group]] (when granted by an ability)
-	- The target takes 1d6 [[Persistent Damage|Persistent]] [[Damage Types#Bleed Damage|Bleed Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+	- The target takes 1d6 [[Persistent Damage|Persistent]] [[Bleed Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+		- Bleed Damage is persistent damage that represents loss of blood.
+			- As such, it has no effect on nonliving creatures or living creatures that don't need blood to live.
+			- Weaknesses and resistances to physical damage apply.
+			- Bleed damage ends automatically if you're healed to your full Hit Points.

@@ -2,6 +2,7 @@
 tags:
   - trait/class/champion
   - feature/class/champion
+format: 1_0
 ---
 # Sanctification
 
@@ -14,10 +15,10 @@ If the deity lists “none,” you can choose only options that don't require th
 ## Mechanical Rules
 
 - **Holy:** 
-	- You gain the `HOLY` trait and add that trait to any Strikes you make. 
+	- You gain the `Holy` trait and add that trait to any Strikes you make. 
 	- You gain the edict, “Do not knowingly harm innocents or fail to prevent harm to an innocent if your direct intervention could save them”.
 	- You gain the anathema “Commit murder.” 
 -  **Unholy:**
-	- You gain the `UNHOLY` trait and add that trait to any Strikes you make. 
+	- You gain the `Unholy` trait and add that trait to any Strikes you make. 
 	- You gain the edict, “Do not put another's needs before your own or those of your deity”
 	- You gain the anathema “Commit an entirely altruistic act, such as giving something away in charity” and “Put anyone's needs before those of your deity.” 

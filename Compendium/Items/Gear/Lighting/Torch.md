@@ -9,7 +9,7 @@ format: 1_0
 **Hands:** 1
 
 A torch sheds bright light in a 20-foot radius (and [[Dim light]] to the next 20 feet) for 1 hour. 
-It can be used as an [[Shoddy Items|Improvised]] weapon that deals 1d4 bludgeoning damage plus 1 fire damage.
+It can be used as an [[Shoddy Items|Improvised]] weapon that deals 1d4 bludgeoning damage plus 1 [[Fire Damage]].
 
 | **Level** | **Item** | **Price** |
 | --------- | -------- | --------- |

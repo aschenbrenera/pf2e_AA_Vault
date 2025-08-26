@@ -2,7 +2,7 @@
 tags:
   - action/core/basic
   - trait/generic/move
-  - custom_group/move/special_movement
+  - custom_group/special_movement
 aliases:
   - Swimming
 format: 1_0
@@ -23,11 +23,10 @@ format: 1_0
 	- If your land Speed is 40 feet or higher, increase the maximum possible distance by 5 feet for every 20 feet of Speed above 20 feet.  
 - The GM determines the DC based on the turbulence or danger of the water; in most instances of calm water, you get an automatic critical success.
 - Attempt an Athletics check:
-
-> [!success-degree]
->- **Critical Success:** You move through the water, increasing the maximum distance by 5 feet.  
->- **Success:** You move through the water.  
->- **Critical Failure:** You make no progress. If you're [[Suffocating|Holding Breath]], you lose 1 round of air.
+  > [!success-degree]
+  > - **Critical Success:** You move through the water, increasing the maximum distance by 5 feet.  
+  > - **Success:** You move through the water.  
+  > - **Critical Failure:** You make no progress. If you're [[Suffocating|Holding Breath]], you lose 1 round of air.
 
 ### Sample Swim Tasks
 

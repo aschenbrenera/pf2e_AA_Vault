@@ -24,11 +24,10 @@ format: 1_0
 - Use the skill matching the item’s magic tradition, or matching a tradition that has the spell on its list, if you’re trying to cast a spell from the item. The relevant skills are Arcana for arcane, Nature for primal, Occultism for occult, Religion for divine, or any of the four for an item that has the magical trait and not a tradition trait.
 - The GM determines the DC based on the item’s level (possibly adjusted depending on the item or situation) as shown in [[Simple DCs]].
 - Attempt a check using the relevant skill.  
-
->[!success-degree] 
->- **Success:** For the rest of the current turn, you can spend actions to activate the item as if you could normally use it.  
->- **Failure:** You can’t use the item or try to trick it again this turn, but you can try again on subsequent turns.  
->- **Critical Failure:** You can’t use the item, and you can’t try to trick it again until your next daily preparations.
+  >[!success-degree] 
+  > - **Success:** For the rest of the current turn, you can spend actions to activate the item as if you could normally use it.  
+  > - **Failure:** You can’t use the item or try to trick it again this turn, but you can try again on subsequent turns.  
+  > - **Critical Failure:** You can’t use the item, and you can’t try to trick it again until your next daily preparations.
 
 
 ### Simple DCs by Level

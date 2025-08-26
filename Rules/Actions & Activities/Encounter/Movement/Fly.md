@@ -2,7 +2,7 @@
 tags:
   - action/core/basic
   - trait/generic/move
-  - custom_group/move/special_movement
+  - custom_group/special_movement
 aliases:
   - Flight
   - Flying

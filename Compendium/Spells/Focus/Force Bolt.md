@@ -21,7 +21,7 @@ format: 1_0
 
 ## Mechanical Rules
 
-- It automatically hits and deals 1d4+1 force damage to the target.
+- It automatically hits and deals 1d4+1 [[Force Damage]] to the target.
 
 > [!info] Heighten
 >- **Heightened (+2):** The damage increases by 1d4+1.

@@ -2,6 +2,7 @@
 tags:
   - trait/class/ranger
   - feature/class/ranger
+format: 1_0
 ---
 # Hunter's Edge
 

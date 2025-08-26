@@ -39,4 +39,8 @@ This small, bladed weapon is held in one hand and used to stab a creature in clo
 	- When this trait appears on a melee weapon, it also includes the range increment.
 		- Ranged weapons with this trait use the range increment in the weapon’s Range entry.
 - Critical Specialization - [[Knife Group]] (when granted by an ability)
-	- The target takes 1d6 [[Persistent Damage|Persistent]] [[Damage Types#Bleed Damage|Bleed Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+	- The target takes 1d6 [[Persistent Damage|Persistent]] [[Bleed Damage]]. You gain an item bonus to this bleed damage equal to the weapon's item bonus to attack rolls.
+		- Bleed Damage is persistent damage that represents loss of blood.
+			- As such, it has no effect on nonliving creatures or living creatures that don't need blood to live.
+			- Weaknesses and resistances to physical damage apply.
+			- Bleed damage ends automatically if you're healed to your full Hit Points.

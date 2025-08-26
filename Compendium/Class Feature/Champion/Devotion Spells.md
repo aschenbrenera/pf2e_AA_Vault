@@ -2,6 +2,7 @@
 tags:
   - trait/class/champion
   - feature/class/champion
+format: 1_0
 ---
 # Devotion Spells
 

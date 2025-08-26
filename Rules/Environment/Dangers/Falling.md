@@ -4,6 +4,7 @@ tags:
 aliases:
   - Falling Damage
   - Fall
+format: 1_0
 ---
 # Falling
 
@@ -20,10 +21,11 @@ aliases:
 Intentionally aiming yourself to land on a creature after a long fall is almost impossible.  
 
 - If you land on a creature, that creature must attempt a DC 15 Reflex save. 
-	- **Critical Success** The creature takes no damage.  
-	- **Success** The creature takes bludgeoning damage equal to one-quarter the falling damage you took.  
-	- **Failure** The creature takes bludgeoning damage equal to half the falling damage you took.  
-	- **Critical Failure** The creature takes the same amount of bludgeoning damage you took from the fall.  
+  > [!success-degree]
+  >   - **Critical Success:** The creature takes no damage.  
+  >   - **Success:** The creature takes bludgeoning damage equal to one-quarter the falling damage you took.  
+  >   - **Failure:** The creature takes bludgeoning damage equal to half the falling damage you took.  
+  >   - **Critical Failure:** The creature takes the same amount of bludgeoning damage you took from the fall.  
 
 ## Falling Objects
 

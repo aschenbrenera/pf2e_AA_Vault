@@ -4,4 +4,4 @@ tags:
 ---
 # Force
 
-Effects with this trait deal force damage or create objects made of pure magical force.
+Effects with this trait deal [[Force Damage]] or create objects made of pure magical force.

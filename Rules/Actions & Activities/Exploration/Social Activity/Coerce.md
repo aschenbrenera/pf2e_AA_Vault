@@ -7,7 +7,6 @@ tags:
   - trait/effect/emotion
   - trait/effect/linguistic
   - trait/effect/mental
-  - custom_group/social
 format: 1_0
 ---
 # Coerce

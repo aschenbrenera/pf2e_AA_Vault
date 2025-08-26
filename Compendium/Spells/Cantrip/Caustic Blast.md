@@ -25,7 +25,7 @@ format: 1_0
 
 ## Mechanical Rules
 
-- Creatures in the area take 1d8 [[Damage Types|Acid damage]] with a basic Reflex save; on a critical failure, the creature also takes 1 [[Persistent Damage|Persistent]] acid damage.
+- Creatures in the area take 1d8 acid damage with a basic Reflex save; on a critical failure, the creature also takes 1 [[Persistent Damage|Persistent]] [[Acid Damage]].
 
 > [!info] Heighten
 >- **Heightened (+2):** The initial damage increases by 1d8, and the persistent damage on a critical failure increases by 1.

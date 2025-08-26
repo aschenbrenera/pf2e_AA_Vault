@@ -24,7 +24,7 @@ format: 1_0
 ## Mechanical Rules
 
 - If the target is a willing living creature, you restore 1d8 Hit Points.
-- If the target is undead, you deal that amount of vitality damage to it, and it gets a [[Basic Saving Throw|Basic]] Fortitude save.
+- If the target is undead, you deal that amount of [[Vitality Damage]] to it, and it gets a [[Basic Saving Throw|Basic]] Fortitude save.
 - The number of actions you spend when Casting this Spell determines its targets, range, area, and other parameters (mutually exclusive effects).
 	- One-action (⬥) The spell has a range of touch.  
 	- Two-actions (⬥⬥) (`Concentrate`) The spell has a range of 30 feet. If you're healing a living creature, increase the Hit Points restored by 8.  

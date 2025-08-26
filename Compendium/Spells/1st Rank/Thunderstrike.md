@@ -25,7 +25,7 @@ format: 1_0
 
 ## Mechanical Rules
 
-- Deal 1d12 electricity damage and 1d4 sonic damage to the target with a basic Reflex save.
+- Deal 1d12 [[Electricity Damage]] and 1d4 [[Sonic Damage]] to the target with a basic Reflex save.
 - A target wearing metal armor or made of metal takes a –1 circumstance bonus to its save, and if damaged by the spell is [[Clumsy]] 1 for 1 round.
 
 > [!info] Heighten

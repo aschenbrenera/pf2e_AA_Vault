@@ -14,7 +14,7 @@ tags:
 **Bulk:** L
 **Hand Usage:** 1
 
-A _healing potion_ is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a _healing potion_, you regain the listed number of Hit Points.
+A _healing potion_ is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain the listed number of Hit Points.
 
 | **Level** | **Item** | **Price** | Effect                     |
 | --------- | -------- | --------- | -------------------------- |

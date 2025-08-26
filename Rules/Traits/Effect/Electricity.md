@@ -4,4 +4,4 @@ tags:
 ---
 # Electricity
 
-Effects with this trait deal electricity damage. A creature with this trait has a connection to magical electricity.
+Effects with this trait deal [[Electricity Damage]]. A creature with this trait has a connection to magical electricity.

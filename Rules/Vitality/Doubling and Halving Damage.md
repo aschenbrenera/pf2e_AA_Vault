@@ -1,6 +1,6 @@
 ---
 tags:
-  - rules/core
+  - rules/core/vitality
 ---
 # Doubling and Halving Damage
 

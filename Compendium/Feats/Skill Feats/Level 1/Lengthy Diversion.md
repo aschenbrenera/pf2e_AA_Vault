@@ -21,4 +21,4 @@ format: 1_0
 
 > [!tip] Tabletop Interpretation
 > This feat is slightly underwhelming. If you want to increase the impact of taking this feat, also include the following benefits. 
-> - You may Create a Diversion using two actions instead of one to gain a +1 circumstance bonus on the deception check. The bonus increases to +2 if you’re a master.
+> - You may take the Create a Diversion action spending two actions instead of one to gain a +1 circumstance bonus on the deception check. The bonus increases to +2 if you’re a master in deception.

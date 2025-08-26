@@ -20,6 +20,5 @@ format: 1_0
 
 - You can spend 10 minutes assessing the area around you to find out what creatures are nearby, based on nests, scat, and marks on vegetation.
 - Attempt a Survival check against a DC determined by the GM based on how obvious the signs are. 
-
-> [!success-degree]
->- **Success:** You can attempt a [[Recall Knowledge]] check with a –2 penalty to learn more about the creatures just from these signs. If you’re a master in Survival, you don’t take the penalty.
+  > [!success-degree]
+  > - **Success:** You can attempt a [[Recall Knowledge]] check with a –2 penalty to learn more about the creatures just from these signs. If you’re a master in Survival, you don’t take the penalty.

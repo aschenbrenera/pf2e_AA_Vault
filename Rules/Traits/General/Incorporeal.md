@@ -4,7 +4,7 @@ tags:
 ---
 # Incorporeal
 
-**Description**: An incorporeal creature or object has no physical form. Incorporeal creatures usually have immunity to effects or conditions that require a physical body, like disease, poison, and precision damage. They usually have resistance against all damage (except force damage and damage from Strikes with the ghost touch property rune), with double the resistance against non-magical damage.
+An incorporeal creature or object has no physical form. Incorporeal creatures usually have immunity to effects or conditions that require a physical body, like disease, poison, and precision damage. They usually have resistance against all damage (except force damage and damage from Strikes with the ghost touch property rune), with double the resistance against non-magical damage.
 
 ## Mechanical Rules
 

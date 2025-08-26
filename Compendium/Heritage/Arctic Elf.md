@@ -11,5 +11,5 @@ tags:
 
 ## Mechanical Rules
 
-- Gain Resistance to Cold equal to half your level (minimum 1).
-- You treat [[Temperature]] cold effects  as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).
+- Gain [[Resistance]] to [[Cold Damage|Cold]] equal to half your level (minimum 1).
+- You treat [[Temperature]] cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).

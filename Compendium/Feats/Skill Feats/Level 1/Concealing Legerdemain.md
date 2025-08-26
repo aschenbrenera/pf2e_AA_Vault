@@ -21,4 +21,4 @@ format: 1_0
 > [!tip] Tabletop Interpretation
 > This feat is generally underwhelming. If you want to increase the impact of taking this feat, also include the following benefits. 
 > - If you are also trained in Deception, when being actively searched you may gain a +2 circumstance bonus to your Thievery DC against one creature searching you.
-> 	- If you’re an expert in Thievery you gain the circumstance bonus against all creatures searching you.
+> 	- If you’re a master in Thievery you gain the circumstance bonus against all creatures searching you.

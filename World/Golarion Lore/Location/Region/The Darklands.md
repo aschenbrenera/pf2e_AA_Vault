@@ -1,6 +1,5 @@
 ---
 tags:
-  - lore
   - lore/location
 format: 1_0
 ---

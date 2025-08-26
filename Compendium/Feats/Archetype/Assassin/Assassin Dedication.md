@@ -15,7 +15,7 @@ format: 1_0
 ## Mechanical Rules
 
 - You gain the [[Mark for Death]] activity.
-- In addition, when attacking your mark, you have the [[Sneak Attack]] class feature, except it deals 1d4 precision damage and you don't increase the number of dice as you gain levels.
+- In addition, when attacking your mark, you have the [[Sneak Attack]] class feature, except it deals 1d4 [[Precision Damage]] and you don't increase the number of dice as you gain levels.
 	- At 6th level, the damage increases to 1d6.
 	- If you already have the sneak attack class feature, you instead deal an additional 1 precision damage with your sneak attacks made against your mark, increasing to 2 precision damage at 6th level.
 

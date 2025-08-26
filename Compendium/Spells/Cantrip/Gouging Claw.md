@@ -25,7 +25,7 @@ format: 1_0
 ## Mechanical Rules
 
 -  Make a melee spell attack roll against your target's AC. 
-	- If you hit, you deal your choice of 2d6 slashing damage or 2d6 piercing damage, plus 2 [[Persistent Damage|Persistent]] [[Damage Types|Bleed Damage]]. 
+	- If you hit, you deal your choice of 2d6 slashing damage or 2d6 piercing damage, plus 2 [[Persistent Damage|Persistent]] [[Bleed Damage]]. 
 	- On a critical success, you deal double damage and double bleed damage.
 
 > [!info] Heighten
@@ -38,3 +38,7 @@ format: 1_0
 	- Any Strikes specifically granted by a morph effect are magical.
 	- You can be affected by multiple morph spells at once, but if you morph the same body part more than once, the second morph effect attempts to Counteract the first. The GM determines which morph effects can be used together and which can't.
 		- Your Morph effects might also end if you are polymorphed and the polymorph effect invalidates or overrides your morph effect. 
+- Bleed Damage is persistent damage that represents loss of blood.
+	- As such, it has no effect on nonliving creatures or living creatures that don't need blood to live.
+	- Weaknesses and resistances to physical damage apply.
+	- Bleed damage ends automatically if you're healed to your full Hit Points.

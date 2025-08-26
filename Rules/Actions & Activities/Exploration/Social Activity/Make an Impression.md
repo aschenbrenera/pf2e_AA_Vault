@@ -6,7 +6,6 @@ tags:
   - trait/effect/auditory
   - trait/effect/linguistic
   - trait/effect/mental
-  - custom_group/social
 format: 1_0
 ---
 # Make an Impression
