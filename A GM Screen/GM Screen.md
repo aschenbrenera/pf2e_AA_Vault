@@ -1,3 +1,7 @@
+---
+tags:
+  - campaign
+---
 # Players
 
 ## Base Stats
@@ -24,14 +28,6 @@ SORT file.name
      SORT file.name
      ```
    - 1
-     ## Conditions
-     ```dataview
-     LIST
-     FROM "Rules"
-     WHERE contains(tags, "condition") 
-     SORT file.name
-     ```
-   - 1
      ## Actions
      ```dataview
      LIST
@@ -39,4 +35,21 @@ SORT file.name
      WHERE 
      contains(tags, "action/core")
      SORT file.name     
+     ```
+   - 1
+     ## Exploration
+     ```dataview
+     LIST
+     FROM "Rules"
+     WHERE 
+     contains(tags, "activity_exploration/core")
+     SORT file.name     
+     ```
+   - 1
+     ## Conditions
+     ```dataview
+     LIST
+     FROM "Rules"
+     WHERE contains(tags, "condition") 
+     SORT file.name
      ```

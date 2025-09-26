@@ -36,3 +36,5 @@ party: Default
 
 >[!warning] Special Alert
  > Warning
+ 
+- Need to create a travel/survival checklist and/or minigame.

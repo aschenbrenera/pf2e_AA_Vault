@@ -25,9 +25,14 @@ You can trick and mislead others using disguises, lies, and other forms of subte
 
 ## Skill Feats
 
-| Level | Feat                  | Req. Training | Short Desc.                                        |
-| ----- | --------------------- | ------------- | -------------------------------------------------- |
-| 1     | [[Charming Liar]]     | Trained       | Use Deception to influence someone.                |
-| 1     | [[Lengthy Diversion]] | Trained       | Can extend your hidden duration after a diversion. |
-| 1     | [[Lie To Me]]         | Trained       | Use Deception to catch someone lying to you.       |
-| 2     | [[Confabulator]]      | Expert        | Reduce penalties for repeated lies and deceptions. |
+| Level | Feat                  | Req. Training | Short Desc.                                                                                  |
+| ----- | --------------------- | ------------- | ----------------- |
+| 1     | [[Charming Liar]]     | Trained       | Use Deception to influence someone.                                                          |
+| 1     | [[Lengthy Diversion]] | Trained       | Can extend your hidden duration after a diversion.                                           |
+| 1     | [[Lie To Me]]         | Trained       | Use Deception to catch someone lying to you.                                                 |
+| 2     | Backup Disguise       | Expert        | You have a specific disguise that you keep at the ready, worn underneath your outer garment. |
+| 2     | [[Confabulator]]      | Expert        | Reduce penalties for repeated lies and deceptions.                                           |
+| 2     | Discreet Inquiry      | Expert        | You are subtle in your efforts to learn the things you need to know.                         |
+| 2     | Quick Disguise        | Expert        | Set up a disguise in less time.                                                              |
+| 7     | Doublespeak           | Master        | You're skilled at saying one thing and meaning something different.                          |
+| 7     | Slippery Secrets      | Master        | Evade attempts to uncover your true nature                                                   |

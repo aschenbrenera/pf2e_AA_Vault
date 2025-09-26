@@ -1,4 +1,6 @@
 ---
+tags:
+  - campaign
 name: Lumii
 level: 2
 hp: 14
@@ -73,6 +75,3 @@ health:
 - [[Rogue's Racket]] - [[Thief]]
 - [[Surprise Attack]]
 - [[Sneak Attack]]
-
-
-#campaign

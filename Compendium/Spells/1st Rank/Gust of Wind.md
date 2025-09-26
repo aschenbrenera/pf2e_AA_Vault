@@ -17,7 +17,7 @@ format: 1_0
 **Catalysts:** [Kirin Echo Chime](https://2e.aonprd.com/Equipment.aspx?ID=3260)
 **Patron Theme:** Silence in snow
 
-**Area:**60-foot line
+**Area:** 60-foot line
 **Defense:** Fortitude
 **Duration:** Until the start of your next turn
 **Activity:** Two Action ⬥⬥

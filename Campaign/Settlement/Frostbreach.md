@@ -1,6 +1,8 @@
+---
+tags:
+  - campaign
+---
 # Frostbreach
-
-#campaign
 
 Continent: Avistan
 Region: Saga Lands - [[Lands of the Linnorm Kings]]
@@ -51,29 +53,7 @@ Region: Saga Lands - [[Lands of the Linnorm Kings]]
 - **Ancestry & Gender:** Dwarven Man
 - **Occupation:** Owner and proprietor of [Howling Owl Bear](#Howling%20Owl%20Bear) 
 - **History:** Has one hand.
-
-### Andor Novak
-
-- **Ancestry & Gender:** Ulfen Man
-- **Occupation:** Mayor, former trader
-
-### Lord Ivar Barrelsbane
-
-- **Ancestry & Gender:** Dwarven Man
-- **Occupation:** Nobleman, Mine Financier
-- **Sigil:** Crossed Hammer and Pickaxe
-- **History:** Bought mine rights from [Thira Ash-Eyes](#Thira%20Ash-Eyes)
-
-### Yesfir Kuzmina
-
-- **Ancestry & Gender:** Irrisen Woman
-- **Occupation:** Head of the Guard (Sheriff)
-- **History:** Former Slave
-
-### Thira Ash-Eyes
-
-- **Occupation:** Linnorm King of Frostbreach
-
+  
 ### Savva Volkov
 
 - **Ancestry & Gender:** Dwarven Man
@@ -83,6 +63,28 @@ Region: Saga Lands - [[Lands of the Linnorm Kings]]
 
 - **Ancestry & Gender:** Gnomish Man
 - **Occupation:** Merchant and Tradesman
+
+### Andor Novak
+
+- **Ancestry & Gender:** Ulfen Man
+- **Occupation:** Mayor, former trader
+
+### Yesfir Kuzmina
+
+- **Ancestry & Gender:** Irrisen Woman
+- **Occupation:** Head of the Guard (Sheriff)
+- **History:** Former Slave
+
+### Lord Ivar Barrelsbane
+
+- **Ancestry & Gender:** Dwarven Man
+- **Occupation:** Nobleman, Mine Financier
+- **Sigil:** Crossed Hammer and Pickaxe
+- **History:** Bought mine rights from [Thira Ash-Eyes](#Thira%20Ash-Eyes)
+
+### Thira Ash-Eyes
+
+- **Occupation:** Linnorm King of Frostbreach
 
 ### Steinar Ironmike
 

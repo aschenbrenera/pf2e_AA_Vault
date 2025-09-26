@@ -1,4 +1,6 @@
 ---
+tags:
+  - campaign
 name: Thyra
 level: 2
 hp: 22
@@ -38,16 +40,9 @@ perception:
   - name: "Perception"
     desc: "+5"
 languages: "Common, Dwarven, Elven, Halfling, Orcish, Skald; "
+speed: 25 feet
 
 abilityMods: [0, 2, 1, 4, 1, 1]
-
-abilities_top:
-  - name: Gear
-    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Torch]] (5), Bullseye [[Lantern]], [[Writing Set]], [[Spellbook]], Bedroll, Soap, Rations (2), Chalk (10)"
-  - name: Weapons & Armor
-    desc: "Explorer's Clothing, [[Staff]], [[Corset Knife]]"
-
-speed: 25 feet
 
 ac: 16
 armorclass:
@@ -57,6 +52,21 @@ hp: 22
 health:
   - name: HP
     desc: "22"
+
+abilities_top:
+  - name: Gear
+    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Torch]] (5), Bullseye [[Lantern]], [[Writing Set]], [[Spellbook]], Bedroll, Soap, Rations (2), Chalk (10)"
+  - name: Weapons & Armor
+    desc: "Explorer's Clothing, [[Staff]], [[Corset Knife]]"
+  - name: Spellcasting
+    desc: "DC:18, SA: +8"
+  - name: Focus Spells
+    desc: "[[Force Bolt]]"
+  - name: Cantrips
+    desc: "[[Caustic Blast]], [[Detect Magic]], [[Electric Arc]], [[Figment]] [[Gouging Claw]], [[Ignition]], [[Compendium/Spells/Cantrip/Light|Light]], [[Message]], [[Prestidigitation]], [[Shield]], [[Telekinetic Projectile]]"
+  - name: Rank 1 Spells
+    desc: "[[Force Barrage]], [[Gentle Landing]], [[Illusory Object]], [[Mending]], [[Mystic Armor]], [[Runic Weapon]], [[Thunderstrike]], [[Gust of Wind]], [[Pummeling Rubble]]"
+    
 ```
 
 
@@ -112,5 +122,3 @@ Total: 9 (Initial 5 + Curriculum 2 + Level 2)
 - [[Thunderstrike]]
 - [[Gust of Wind]]
 - [[Pummeling Rubble]]
-
-#campaign

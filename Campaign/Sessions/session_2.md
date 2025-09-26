@@ -1,6 +1,8 @@
+---
+tags:
+  - campaign
+---
 # Session 2
-
-#campaign 
 
 ## The party visits the mayor
 

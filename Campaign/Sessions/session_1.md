@@ -1,6 +1,8 @@
+---
+tags:
+  - campaign
+---
 # Session 1
-
-#campaign 
 
 ## The party meets
 

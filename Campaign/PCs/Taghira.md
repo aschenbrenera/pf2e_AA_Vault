@@ -44,7 +44,7 @@ abilityMods: [2, 4, 1, 0, 1, 1]
 
 abilities_top:
   - name: Gear
-    desc: "[[Backpack]], [[Healer's Kit]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Arrows]] x120"
+    desc: "[[Backpack]], [[Healer's Kit]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Compass]], [[Arrows]] x120, Map of Frostbreach Region"
   - name: Weapons & Armor
     desc: "Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Shortbow]], [[Shortsword]], +1 [[Hatchet]]"
 
@@ -75,5 +75,3 @@ health:
 - [[Hunter's Edge]] - [[Precision]]
 - [[Land on your Feet]]
 - [[Hunting Catfolk]]
-
-#campaign

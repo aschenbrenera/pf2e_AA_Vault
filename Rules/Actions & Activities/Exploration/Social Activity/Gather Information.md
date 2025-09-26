@@ -16,10 +16,9 @@ format: 1_0
 
  - The GM determines the DC of the check and the amount of time it takes (typically 2 hours, but sometimes more), along with any benefit you might be able to gain by spending coin on bribes, drinks, or gifts.
  - Attempt a Diplomacy check.
- 
-> [!success-degree] 
- >- **Success:** You collect information about the individual or topic. The GM determines the specifics.  
- >- **Critical Failure:** You collect incorrect information about the individual or topic.
+   > [!success-degree] 
+   >- **Success:** You collect information about the individual or topic. The GM determines the specifics.  
+   >- **Critical Failure:** You collect incorrect information about the individual or topic.
 
 ### Sample Gather Information Tasks
 

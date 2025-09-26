@@ -1,6 +1,8 @@
+---
+tags:
+  - campaign
+---
 # Session 6
-
-#campaign 
 
 ## Explore the Cavern
 

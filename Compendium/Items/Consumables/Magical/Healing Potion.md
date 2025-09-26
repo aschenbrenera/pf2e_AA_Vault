@@ -9,10 +9,11 @@ tags:
 ---
 # Healing Potion
 
-[Consumable](Consumable.md "Item Trait") [Potion](Potion.md "Item Trait") [Healing](Healing.md "Effect Trait") [Magical](Rules/Traits/Effect/Magical.md "Item Trait") [Vitality](Vitality.md "Effect Trait") 
+[Consumable](Consumable.md "Item Trait") [Magical](Rules/Traits/Effect/Magical.md "Item Trait") [Potion](Potion.md "Item Trait") [Healing](Healing.md "Effect Trait")[Vitality](Vitality.md "Effect Trait") 
 
 **Bulk:** L
 **Hand Usage:** 1
+**Activate:** [](#Actions "Single Action") (manipulate)
 
 A _healing potion_ is a vial of a ruby-red liquid that imparts a tingling sensation as the drinker's wounds heal rapidly. When you drink a healing potion, you regain the listed number of Hit Points.
 

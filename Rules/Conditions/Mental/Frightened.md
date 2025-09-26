@@ -10,5 +10,5 @@ format: 1_0
 
 ## Mechanical Rules
 
-- You take a status penalty equal to your frightened value to all your checks and DCs.
+- You take a status penalty equal to your frightened value to all your checks and DCs (including AC).
 - Unless specified otherwise, at the end of each of your turns, the value of your frightened condition decreases by 1.

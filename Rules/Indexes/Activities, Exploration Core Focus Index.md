@@ -9,6 +9,6 @@ These are the exploration core focus activities. These activities have a discret
 ```dataview  
 LIST
 WHERE contains(tags, "activity_exploration/core")
-and !contains(tags, "custom_group/exploration_tactic)
+AND !contains(tags, "custom_group/exploration_tactic")
 SORT file.name
 ```

@@ -28,7 +28,7 @@ Arcana measures how much you know about arcane magic and creatures.
 ## Skill Feats
 
 | Level | Feat                     | Req. Training | Short Desc.                                   |
-| ----- | ------------------------ | ------------- | --------------------------------------------- |
+| ----- | ------------------------ | ------------- | ---------- |
 | 1     | [[Arcane Sense]]         | Trained       | Gain Detect Magic as an Innate Spell.         |
 | 1     | [[Quick Identification]] | Trained       | Identify Magic swiftly.                       |
 | 1     | [[Recognize Spell]]      | Trained       | Identify an unfamiliar spell as a reaction.   |
@@ -36,3 +36,4 @@ Arcana measures how much you know about arcane magic and creatures.
 | 2     | Assured Identification   | Expert        | You rarely misidentify an item.               |
 | 2     | Magical Shorthand        | Expert        | Learn spells quickly and at a reduced cost.   |
 | 7     | [[Quick Recognition]]    | Master        | Recognize Spell as a free action.             |
+| 15    |  Unified Theory          | Legendary     |  Use Arcana for checks for all magical traditions                          |

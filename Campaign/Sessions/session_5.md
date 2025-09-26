@@ -1,6 +1,8 @@
+---
+tags:
+  - campaign
+---
 # Session 5
-
-#campaign 
 
 ## Into the Cavern
 

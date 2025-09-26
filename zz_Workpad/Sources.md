@@ -5,9 +5,10 @@
 - Player Core
 - Player Core 2
 - GM Core
-- Treasure Vault
 - Monster Core
-- Howl of the Wild
+- Treasure Vault
+- Guns & Gears
 - Rage of Elements
+- Battlecry!
 
 

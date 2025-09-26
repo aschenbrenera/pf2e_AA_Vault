@@ -30,3 +30,19 @@ format: 1_0
 	- Someone shakes you awake with an Interact action.
 	- Loud noise around you might wake you. At the start of your turn, you automatically attempt a Perception check against the noise's DC (or the lowest DC if there is more than one noise), waking up if you succeed. If creatures are attempting to stay quiet around you, this Perception check uses their Stealth DCs. Some effects make you sleep so deeply that they don't allow you this Perception check.
 	- If you are simply asleep, the GM decides you wake up either because you have had a restful night's sleep or something disrupted that [[Rest#Rest|Rest]].
+
+### Sample Noise DCs
+
+| **Proficiency Rank** | **DC** | Task                                            |
+| -------------------- | ------ | ----------------------------------------------- |
+| Untrained            | 10     | Explosive sounds at a distance, nearby normal sounds  |
+| Trained              | 15     | Loud sounds at a distance            |
+| Expert               | 20     | Normal sounds at a distance, nearby quiet sounds   |
+| Master               | 30     | Quiet sounds at a distance |
+| Legendary            | 40     | Nearby subtle sounds                               |
+
+- **Explosive** – Powerful thunder, fireball, explosion
+- **Loud** – Shouting, combat, breaking glass
+- **Normal** – Talking, walking, opening doors
+- **Quiet** – Whispering, soft footsteps, muffled sounds
+- **Subtle** – Breathing, fabric movement, bowstring being drawn

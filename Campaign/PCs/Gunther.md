@@ -1,4 +1,6 @@
 ---
+tags:
+  - campaign
 name: Gunther
 level: 2
 hp: 34
@@ -41,15 +43,9 @@ perception:
     desc: "+5; __[[Darkvision]]__;"
 languages: "Common, Dwarven; +2"
 
-abilityMods: [2, 0, 2, 2, 1, 2]
-
-abilities_top:
-  - name: Gear
-    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Torch]] (5), [[Arrows]] x20, Bedroll, Soap, Rations (2), Chalk (10)"
-  - name: Weapons & Armor
-    desc: "Scale Mail, Ordinary Clothing, [[Longbow]], [[Greatsword]], [[Clan Dagger]]"
-
 speed: 20 feet
+
+abilityMods: [2, 0, 2, 2, 1, 2]
 
 ac: 16
 armorclass:
@@ -59,6 +55,16 @@ hp: 34
 health:
   - name: HP
     desc: "34"
+    
+abilities_top:
+  - name: Gear
+    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Torch]] (5), [[Arrows]] x20, Bedroll, Soap, Rations (2), Chalk (10)"
+  - name: Weapons & Armor
+    desc: "Scale Mail, Ordinary Clothing, [[Longbow]], [[Greatsword]], [[Clan Dagger]]"
+  - name: Spellcasting
+    desc: "DC:16, SA: +6"
+  - name: Focus Spells
+    desc: "[[Lay on Hands]], [[Weapon Surge]]"
 ```
 
 
@@ -92,5 +98,3 @@ health:
 ### Rank 1 Spells
 
 - [[Heal]]
-
-#campaign

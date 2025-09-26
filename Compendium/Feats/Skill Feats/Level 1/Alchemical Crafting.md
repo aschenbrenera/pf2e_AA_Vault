@@ -15,6 +15,5 @@ format: 1_0
 
 ## Mechanical Rules
 
-- You can use the [[Craft]] activity to create [[Alchemical Items]].
+- You can use the [[Craft]] activity to create Alchemical Items.
 - When you select this feat, you immediately add the formulas for four common 1st-level alchemical items to your formula book.
-- #TODO

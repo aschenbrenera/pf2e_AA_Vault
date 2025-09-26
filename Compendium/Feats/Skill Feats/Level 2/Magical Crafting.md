@@ -12,11 +12,10 @@ format: 1_0
 **Description:** You can Craft magic items.
 
 **Prerequisite:** Expert in [[Crafting]].
-#TODO
 
 ## Mechanical Rules
 
-- You can use the [[Craft]] activity to create [[Magical Items]].
+- You can use the [[Craft]] activity to create Magical Items.
 - When you select this feat, you immediately add the formulas for four common magic items of 2nd level or lower to your formula book.
 
 ## Leads To

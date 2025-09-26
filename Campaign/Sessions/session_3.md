@@ -1,6 +1,8 @@
+---
+tags:
+  - campaign
+---
 # Session 3
-
-#campaign 
 
 ## The party preps for the mine
 

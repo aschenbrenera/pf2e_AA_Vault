@@ -6,7 +6,7 @@ format: 1_0
 ---
 # Staff
 
-[Two-Hand _D8_](Two-Hand.md "Weapon Trait")
+[Two-Hand _D8_](Two-Hand.md "Weapon Trait") [Monk](Monk.md "Class Trait")
 
 This long piece of wood can aid in walking and deliver a mighty blow.
 
@@ -17,7 +17,7 @@ This long piece of wood can aid in walking and deliver a mighty blow.
 **Category:** Simple
 **Type:** Melee
 **Group:** Club
-**Damage** 1d6 P
+**Damage** 1d4 B
 
 ## Gameplay Interaction
 

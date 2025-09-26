@@ -1,14 +1,14 @@
 ---
 tags:
   - rules/core
-alias:
+aliases:
   - Counteract
 ---
 # Counteracting
 
-Some effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine which defeats the other. Successfully counteracting an effect [disrupts](https://2e.aonprd.com/Rules.aspx?ID=2342) it, preventing it from having any effect, unless noted otherwise.  
+Some effects try to counteract spells, afflictions, conditions, or other effects. Counteract checks compare the power of two forces and determine which defeats the other. Successfully counteracting an effect [[Disrupting Actions|Disrupt]]s it, preventing it from having any effect, unless noted otherwise.  
   
-When attempting a counteract check, add the relevant skill modifier or other appropriate modifier to your check against the target's DC. If you're counteracting an [affliction](https://2e.aonprd.com/Rules.aspx?ID=2389), the DC is in the affliction's stat block. If it's a spell, use the caster's DC. The GM can also calculate a DC based on the target effect's level. For spells, the counteract check modifier is your spellcasting attribute modifier plus your spellcasting proficiency bonus, plus any bonuses and penalties that specifically apply to counteract checks.  
+When attempting a counteract check, add the relevant skill modifier or other appropriate modifier to your check against the target's DC. If you're counteracting [[Afflictions]], the DC is in the affliction's stat block. If it's a spell, use the caster's DC. The GM can also calculate a DC based on the target effect's level. For spells, the counteract check modifier is your spellcasting attribute modifier plus your spellcasting proficiency bonus, plus any bonuses and penalties that specifically apply to counteract checks.  
   
 What you can counteract depends on the check result and the target's counteract rank. If an effect is a spell, its rank is the counteract rank. Otherwise, halve its level and round up to determine its counteract rank (minimum counteract rank 0). If an effect's level is unclear and it came from a creature, halve and round up the creature's level.
 
@@ -40,6 +40,3 @@ This table provides a reference for what an effect can counteract based on its r
 |8|7 (13 to 14)|9 (17 to 18)|11 (21 to 22)|
 |9|8 (15 to 16)|10 (19 to 20)|12 (23 to 24)|
 |10|9 (17 to 18)|11 (21 to 22)|13 (25 to 26)|
-
-
-#TODO

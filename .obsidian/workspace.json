@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "20ee85293c6068a5",
+        "id": "b31f5c89cb6f6d9a",
         "type": "tabs",
         "children": [
           {
-            "id": "361dbc91a584ba90",
+            "id": "b88bcfccc4754611",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "TODO",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,13 +105,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compendium/Items/Runes/Runes Index.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Runes Index"
+              "title": "Outline"
             }
           },
           {
@@ -144,8 +143,29 @@
               "icon": "links-going-out",
               "title": "Outgoing links"
             }
+          },
+          {
+            "id": "223b10db1588bd2c",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "a56dccd1863de579",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -166,34 +186,45 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7cce4e82fddb236b",
+  "active": "b88bcfccc4754611",
   "lastOpenFiles": [
-    "Compendium/Class Feature/Wizard/Drain Bonded Item.md",
-    "Rules/Actions & Activities/Encounter/Movement/Burrow.md",
+    "Rules/Skills/Performance.md",
+    "Rules/Skills/Nature.md",
+    "Rules/Skills/Medicine.md",
+    "Rules/Skills/Intimidation.md",
+    "Rules/Skills/Diplomacy.md",
+    "Rules/Skills/Deception.md",
+    "Rules/Skills/Crafting.md",
+    "Rules/Skills/Athletics.md",
+    "Rules/Skills/Arcana.md",
+    "Rules/Skills/Acrobatics.md",
+    "zz_Workpad/Sources.md",
+    "Campaign/Settlement/Frostbreach.md",
+    "Campaign/PCs/Gunther.md",
+    "Campaign/PCs/Thyra.md",
+    "Campaign/PCs/Lumii.md",
+    "Campaign/PCs/Taghira.md",
     "Campaign/Custom Items/Taghira’s Fur Cloak.md",
-    "Rules/Actions & Activities/Exploration/Social Activity/Gather Information.md",
-    "Rules/Actions & Activities/Exploration/Social Activity/Make an Impression.md",
-    "Rules/Actions & Activities/Exploration/Focal Activity/Impersonate.md",
-    "Rules/Actions & Activities/Exploration/Social Activity/Coerce.md",
-    "Rules/Actions & Activities/Encounter/Movement/Climb.md",
-    "Rules/Actions & Activities/Encounter/Movement/Swim.md",
-    "Rules/Actions & Activities/Encounter/Movement/Maneuver in Flight.md",
-    "Rules/Actions & Activities/Encounter/Movement/Fly.md",
-    "Compendium/Spells/1st Rank/Pummeling Rubble.md",
+    "A GM Screen/GM Screen.md",
+    "Rules/Actions & Activities/Exploration/Exploration Tactic/Avoid Notice.md",
     "World/Golarion Lore/Location/Golarion Map.md",
-    "World/Golarion Lore/Location/Region/The Darklands.md",
-    "World/Golarion Lore/Location/Region/Lands of the Linnorm Kings.md",
-    "Compendium/Items/Gear/Misc/Writing Set.md",
-    "Compendium/Items/Gear/Misc/Waterskin.md",
-    "Compendium/Items/Gear/Misc/Spellbook.md",
-    "Compendium/Items/Gear/Misc/Rope.md",
-    "Compendium/Items/Gear/Misc/Piton.md",
-    "Compendium/Items/Gear/Misc/Oil.md",
-    "Compendium/Items/Gear/Misc/Flint and Steel.md",
-    "Compendium/Items/Gear/Misc/Backpack.md",
-    "Compendium/Items/Gear/Lighting/Torch.md",
-    "Compendium/Items/Gear/Lighting/Lantern.md",
-    "Compendium/Items/Gear/Lighting/Candle.md",
+    "zz_Workpad/Test Pad.md",
+    "zz_Workpad/Data View Samples.md",
+    "Compendium/Feats/Skill Feats/Level 1/Alchemical Crafting.md",
+    "Rules/Actions & Activities/Downtime/Craft.md",
+    "Compendium/Feats/Skill Feats/Level 2/Magical Crafting.md",
+    "Compendium/Items/Gear/Misc/Basic Crafter's Book.md",
+    "Untitled.base",
+    "Compendium/Items/Weapon/Brawling Group",
+    "zz_Attachments/Pasted image 20250521205258.png",
+    "custom_campaign/Images/The Durst Family.png",
+    "custom_campaign/Images/house_front.png",
+    "custom_campaign/Images/DeathHousePlayerMap.webp",
+    "custom_campaign/Images/deathhouse_map.png",
+    "custom_campaign/Images/deathhouse_dungeon.png",
+    "custom_campaign/Images/deathhouse_basement.png",
+    "custom_campaign/Images/DeathHouse.jpg",
+    "custom_campaign/Images/Death House Dungeon Map.png",
     "Rules/Vitality/Damage Types",
     "Compendium/Feats/Archetype/Archer",
     "Compendium/Items/Runes/Armor Property",
@@ -201,16 +232,6 @@
     "Compendium/Items/Runes/Shield",
     "Compendium/Items/Runes/Weapon Fundamental",
     "Compendium/Items/Runes/Armor Fundamental",
-    "Compendium/Items/Runes/Accessory",
-    "Compendium/Items/Runes",
-    "custom_campaign/Images/house_front.png",
-    "custom_campaign/Images/DeathHousePlayerMap.webp",
-    "custom_campaign/Images/deathhouse_map.png",
-    "custom_campaign/Images/deathhouse_dungeon.png",
-    "custom_campaign/Images/deathhouse_basement.png",
-    "custom_campaign/Images/DeathHouse.jpg",
-    "custom_campaign/Images/The Durst Family.png",
-    "custom_campaign/Images/Death House Dungeon Map.png",
-    "Compendium/Items/Weapon/Axe Group"
+    "Compendium/Items/Runes/Accessory"
   ]
 }

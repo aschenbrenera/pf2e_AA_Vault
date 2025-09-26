@@ -1,6 +1,8 @@
+---
+tags:
+  - campaign
+---
 # Session 4
-
-#campaign 
 
 ## Arriving at the mine
 
