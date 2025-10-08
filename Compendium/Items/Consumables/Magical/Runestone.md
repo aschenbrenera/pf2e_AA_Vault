@@ -8,9 +8,9 @@ tags:
 
 [Consumable](Consumable.md "Item Trait") [Magical](Rules/Traits/Effect/Magical.md "Item Trait")
 
+**Price:** 3 gp
 **Bulk:** L
 **Hand Usage:** 1
-**Price:** 3 gp
 
 This flat piece of hard stone is specially prepared for [[Rune Etching]] a magical fundamental rune or property rune. You can etch only one rune upon a stone. When a rune is transferred from the runestone to another object, the runestone cracks and is destroyed. 
 

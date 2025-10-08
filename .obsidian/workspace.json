@@ -11,10 +11,28 @@
             "id": "b88bcfccc4754611",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Campaign/PCs/Taghira.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Taghira"
+            }
+          },
+          {
+            "id": "eaaf9f3f0494b859",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Compendium/Items/Consumables/Magical/Vine Arrow.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Vine Arrow"
             }
           }
         ]
@@ -49,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "TODO",
+                "query": "Tips",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,12 +123,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "custom_campaign/Module/Untitled.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           },
           {
@@ -119,6 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Campaign/PCs/Taghira.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Taghira"
             }
           },
           {
@@ -137,11 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Campaign/PCs/Taghira.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Taghira"
             }
           },
           {
@@ -165,7 +186,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -188,37 +209,37 @@
   },
   "active": "b88bcfccc4754611",
   "lastOpenFiles": [
-    "Rules/Skills/Performance.md",
-    "Rules/Skills/Nature.md",
-    "Rules/Skills/Medicine.md",
-    "Rules/Skills/Intimidation.md",
-    "Rules/Skills/Diplomacy.md",
-    "Rules/Skills/Deception.md",
-    "Rules/Skills/Crafting.md",
-    "Rules/Skills/Athletics.md",
-    "Rules/Skills/Arcana.md",
-    "Rules/Skills/Acrobatics.md",
-    "zz_Workpad/Sources.md",
-    "Campaign/Settlement/Frostbreach.md",
-    "Campaign/PCs/Gunther.md",
-    "Campaign/PCs/Thyra.md",
-    "Campaign/PCs/Lumii.md",
-    "Campaign/PCs/Taghira.md",
-    "Campaign/Custom Items/Taghira’s Fur Cloak.md",
     "A GM Screen/GM Screen.md",
-    "Rules/Actions & Activities/Exploration/Exploration Tactic/Avoid Notice.md",
-    "World/Golarion Lore/Location/Golarion Map.md",
-    "zz_Workpad/Test Pad.md",
-    "zz_Workpad/Data View Samples.md",
-    "Compendium/Feats/Skill Feats/Level 1/Alchemical Crafting.md",
-    "Rules/Actions & Activities/Downtime/Craft.md",
-    "Compendium/Feats/Skill Feats/Level 2/Magical Crafting.md",
-    "Compendium/Items/Gear/Misc/Basic Crafter's Book.md",
+    "Compendium/Items/Consumables/Magical/Vine Arrow.md",
+    "Compendium/Items/Consumables/Magical/Hunter's Bane.md",
+    "Compendium/Items/Weapon/Knife Group/Ghoul Stiletto.md",
+    "Compendium/Items/Consumables/Magical/Healing Potion.md",
+    "Compendium/Items/Consumables/Magical/Runestone.md",
+    "Compendium/Feats/General Feats/Level 7/Expeditious Search.md",
+    "Compendium/Items/Consumables/Alchemical/Elixir of Life.md",
+    "Compendium/Items/Weapon/Knife Group/Dagger.md",
+    "Rules/Environment/General/Cover.md",
+    "Rules/Conditions/Cover/Lesser Cover.md",
     "Untitled.base",
+    "Rules/Conditions/Vitality/Wounded.md",
+    "Compendium/Items/Runes/Armor Fundamental/Armor Resilient.md",
+    "Compendium/Items/Runes/Armor Fundamental/Armor Potency.md",
+    "Compendium/Items/Gear/Toolkits/Climbing Kit.md",
+    "Compendium/Items/Gear/Toolkits/Alchemist's Toolkit.md",
+    "Compendium/Items/Gear/Lighting/Torch.md",
+    "Compendium/Items/Gear/Lighting/Lantern.md",
+    "Compendium/Items/Gear/Lighting/Candle.md",
+    "Compendium/Items/Gear/Combat Gear/Caltrops.md",
+    "Compendium/Items/Ammunition/Arrows.md",
+    "Rules/General/Hero Point.md",
+    "Campaign/PCs/Gunther.md",
+    "Compendium/Spells/Focus/Weapon Surge.md",
+    "custom_campaign/Module/Untitled.md",
+    "custom_campaign/Module/House Layout.md",
+    "custom_campaign/Images/house_front.png",
     "Compendium/Items/Weapon/Brawling Group",
     "zz_Attachments/Pasted image 20250521205258.png",
     "custom_campaign/Images/The Durst Family.png",
-    "custom_campaign/Images/house_front.png",
     "custom_campaign/Images/DeathHousePlayerMap.webp",
     "custom_campaign/Images/deathhouse_map.png",
     "custom_campaign/Images/deathhouse_dungeon.png",

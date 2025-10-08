@@ -1,23 +1,23 @@
 ---
 tags: campaign
 name: Taghira
-level: 2
-hp: 30
-dc: 18
-ac: 19
-fort: 7 (E)
-ref: 10 (E)
-will: 5 (T)
-modifier: 7
-perception: 7 (E)
+level: 3
+hp: 41
+dc: 10
+ac: 20
+fort: 8 (E)
+ref: 11 (E)
+will: 8 (T)
+modifier: 8
+perception: 8 (E)
 deception: 1 (U)
 diplomacy: 1 (U)
-stealth: 8 (T)
+stealth: 9 (T)
 arcana: 0 (U)
 crafting: 0 (U)
-medicine: 5 (T)
-nature: 5 (T)
-occultism: 4 (T)
+medicine: 6 (T)
+nature: 8 (E)
+occultism: 5 (T)
 religion: 1 (U)
 society: 0 (U)
 statblock: inline
@@ -29,15 +29,15 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Taghira"
-level: "PC 2"
+level: "PC 3"
 size: "Medium"
 trait_03: "Catfolk"
 trait_04: "Humanoid"
 trait_05: "Ranger"
-modifier: 7
+modifier: 8
 perception:
   - name: "Perception"
-    desc: "+7; __[[Low-light vision]]__; __[[Scent]]__ 30"
+    desc: "+8; __[[Low-light vision]]__; __[[Scent]]__ 30"
 languages: "Common, Amurrun; "
 
 abilityMods: [2, 4, 1, 0, 1, 1]
@@ -46,18 +46,18 @@ abilities_top:
   - name: Gear
     desc: "[[Backpack]], [[Healer's Kit]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Compass]], [[Arrows]] x120, Map of Frostbreach Region"
   - name: Weapons & Armor
-    desc: "Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Shortbow]], [[Shortsword]], +1 [[Hatchet]]"
+    desc: "Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Shortbow]], [[Shortsword]], +1 [[Hatchet]], [[Vine Arrow]], [[Hunter's Bane]]"
 
-speed: 25 feet
+speed: 30 feet
 
-ac: 19
+ac: 20
 armorclass:
   - name: AC
-    desc: "19; __Fort__: +7; __Ref__: +10; __Will__: +5;"
-hp: 30
+    desc: "20; __Fort__: +8; __Ref__: +11; __Will__: +8;"
+hp: 41
 health:
   - name: HP
-    desc: "30"
+    desc: "41"
 ```
 
 **Heritage:** Hunting Catfolk
@@ -70,6 +70,7 @@ health:
 - [[Monster Hunter]]
 - [[Terrain Stalker]] (Snow)
 - [[Archer Dedication]]
+- [[Fleet]]
 ### Abilities
 - [[Hunt Prey]]
 - [[Hunter's Edge]] - [[Precision]]
