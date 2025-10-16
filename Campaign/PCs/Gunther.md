@@ -2,25 +2,25 @@
 tags:
   - campaign
 name: Gunther
-level: 2
-hp: 34
-dc: 16
-ac: 17
-fort: 8 (E)
-ref: 4 (T)
-will: 7 (E)
-modifier: 4
-perception: 5 (T)
-deception: 6 (T)
-diplomacy: 6 (T)
+level: 3
+hp: 46
+dc: 17
+ac: 18
+fort: 9 (E)
+ref: 5 (T)
+will: 8 (E)
+modifier: 6
+perception: 6 (T)
+deception: 7 (T)
+diplomacy: 9 (E)
 stealth: 0 (U)
 arcana: 2 (U)
 crafting: 2 (U)
-medicine: 5 (T)
+medicine: 6 (T)
 nature: 1 (U)
 occultism: 2 (U)
-religion: 5 (T)
-society: 6 (T)
+religion: 6 (T)
+society: 7 (T)
 
 statblock: inline
 ---
@@ -31,30 +31,30 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Gunther"
-level: "PC 2"
+level: "PC 3"
 size: "Medium"
 trait_03: "Dwarf"
 trait_04: "Humanoid"
 trait_05: "Champion"
 trait_06: "Holy"
-modifier: 5
+modifier: 6
 perception:
   - name: "Perception"
-    desc: "+5; __[[Darkvision]]__;"
+    desc: "+6; __[[Darkvision]]__;"
 languages: "Common, Dwarven; +2"
 
 speed: 20 feet
 
 abilityMods: [2, 0, 2, 2, 1, 2]
 
-ac: 16
+ac: 18
 armorclass:
   - name: AC
-    desc: "17; __Fort__: +8; __Ref__: +4; __Will__: +7;"
-hp: 34
+    desc: "18; __Fort__: +9; __Ref__: +5; __Will__: +8;"
+hp: 46
 health:
   - name: HP
-    desc: "34"
+    desc: "46"
     
 abilities_top:
   - name: Gear
@@ -62,7 +62,7 @@ abilities_top:
   - name: Weapons & Armor
     desc: "Scale Mail, Ordinary Clothing, [[Longbow]], [[Greatsword]], [[Clan Dagger]]"
   - name: Spellcasting
-    desc: "DC:16, SA: +6"
+    desc: "DC:17, SA: +7"
   - name: Focus Spells
     desc: "[[Lay on Hands]], [[Weapon Surge]]"
 ```
@@ -80,6 +80,9 @@ abilities_top:
 - Reincarnation Feat (Legacy) - Wisdom from Another Life (Additional Lore)
 - [[Deity's Domain]] - Zeal - [[Weapon Surge]]
 - [[Shield Block]]
+- [[Mauler Dedication]]
+- [[Oath of the Avenger]]
+- [[Robust Health]]
 
 ### Abilities
 - [[Forge-Blessed]] (Legacy) - Torag
@@ -89,6 +92,7 @@ abilities_top:
 - [[Champion's Aura]]
 - [[Cause]] - Justice - [[Retributive Strike]]
 - [[Devotion Spells]] - [[Lay on Hands]]
+- [[Blessing of the Devoted]] - [[Blessed Armament]]
 
 ### Focus Spells (2 pts)
 

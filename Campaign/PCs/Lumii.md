@@ -2,23 +2,23 @@
 tags:
   - campaign
 name: Lumii
-level: 2
-hp: 14
-dc: 18
-ac: 18
-fort: 4 (T)
-ref: 10 (E)
-will: 6 (E)
-modifier: 5
-perception: 6 (E)
-deception: 7 (T)
-diplomacy: 7 (T)
-stealth: 8 (T)
+level: 3
+hp: 30
+dc: 19
+ac: 19
+fort: 5 (T)
+ref: 11 (E)
+will: 7 (E)
+modifier: 7
+perception: 7 (E)
+deception: 8 (T)
+diplomacy: 8 (T)
+stealth: 11 (T)
 arcana: 2 (U)
-crafting: 6 (T)
+crafting: 7 (T)
 medicine: 0 (U)
 nature: 0 (U)
-occultism: 6 (T)
+occultism: 7 (T)
 religion: 0 (U)
 society: 2 (U)
 statblock: inline
@@ -30,15 +30,15 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Lumii"
-level: "PC 2"
+level: "PC 3"
 size: "Medium"
 trait_03: "Elf"
 trait_04: "Humanoid"
 trait_05: "Rogue"
-modifier: 6
+modifier: 7
 perception:
   - name: "Perception"
-    desc: "+6; __[[Low-light vision]]__;"
+    desc: "+7; __[[Low-light vision]]__;"
 languages: "Common, Elven, Fey, Aklo; "
 
 abilityMods: [0, 4, 0, 2, 0, 3]
@@ -51,14 +51,14 @@ abilities_top:
 
 speed: 30 feet
 
-ac: 18
+ac: 19
 armorclass:
   - name: AC
-    desc: "18; __Fort__: +4; __Ref__: +10; __Will__: +6;"
-hp: 14
+    desc: "19; __Fort__: +5; __Ref__: +11; __Will__: +7;"
+hp: 30
 health:
   - name: HP
-    desc: "14; __Resistances__ cold 1"
+    desc: "30; __Resistances__ cold 1"
 ```
 
 
@@ -69,6 +69,11 @@ health:
 - [[Elven Weapon Familiarity]]
 - [[Steady Balance]]
 - [[Nimble Dodge]]
+- [[Tumble Behind]]
+- [[Acrobat Dedication]]
+- [[Tumbling Teamwork]]
+- [[Thorough Search]]
+- [[Shadow Mark]]
 
 ### Abilities
 - [[Arctic Elf]]

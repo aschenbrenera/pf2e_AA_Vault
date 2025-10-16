@@ -28,15 +28,12 @@ format: 1_0
 | -------------------- | ------ | ---------------------------------------------- |
 | Untrained            | 10     | fabric, flimsy glass                           |
 | Trained              | 15     | ice, sturdy glass                              |
-| Expert               | 20     | flimsy wooden door, wooden portcullis          |
-| Master               | 30     | sturdy wooden door, iron portcullis, metal bar |
+| Expert               | 20     | flimsy wooden door, wooden portcullis, weak quality bindings          |
+| Master               | 30     | sturdy wooden door, iron portcullis, metal bar, strong quality bindings |
 | Legendary            | 40     | stone or iron door                             |
 
+## Force Open  a locked or stuck structure
 
-
-
-
-## Force Open  a locked or stuck structure.
 - The DC to Force Open something that is locked uses the Thievery DC of its lock but adjusts it to be very hard (increasing the DC by 5). 
 	- If there’s no lock, use the following table.
 	- When lifting a portcullis, use the lock DC or the DC from the table, whichever is higher.
@@ -48,3 +45,15 @@ format: 1_0
 | Lift wooden portcullis | 20                |
 | Lift iron portcullis   | 30                |
 | Bend metal bars        | 30                |
+
+## Force Open Bindings
+
+Sometimes when you are Restrained, you may want to try to break your bindings instead of escaping them. This relies on you damaging the structural integrity of your bindings enough for you to be freed.  Here is a sample table of binding DCs.
+
+|**Binding Tier**|**Force Open DC**|**Description**|**Examples**|
+|---|---|---|---|
+|**Weak Binding**|20-|Weak or improvised restraints. Can be broken with modest effort.|Improvised rope, simple vines, cloth strips|
+|**Standard Binding**|25|Typical restraints meant to secure a creature. Breakable with effort.|Knotted rope, decent vines, crude wooden stocks|
+|**Strong Binding**|30|Durable restraints built to hold struggling targets.|Iron manacles, tightly wrapped chains|
+|**Severe Binding**|35|High-quality or reinforced bindings; very difficult to break.|Masterwork manacles, heavy chains, magically-reinforced vines|
+|**Extreme Binding**|40+|Exceptional or magical bindings beyond mundane materials.|Adamantine shackles, petrified vines, divine restraints|

@@ -3,6 +3,7 @@ tags:
   - trait/archetype/archer
   - trait/feat/dedication
   - feat/archetype/archer
+level: 2
 format: 1_0
 ---
 # Archer Dedication &emsp;*(Feat 2)*

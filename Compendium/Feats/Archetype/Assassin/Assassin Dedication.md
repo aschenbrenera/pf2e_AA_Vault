@@ -3,6 +3,7 @@ tags:
   - trait/archetype/assassin
   - trait/feat/dedication
   - feat/archetype/assassin
+level: 2
 format: 1_0
 ---
 # Assassin Dedication  &emsp;*(Feat 2)*

@@ -3,6 +3,7 @@ tags:
   - trait/archetype/medic
   - trait/feat/dedication
   - feat/archetype/medic
+level: 2
 format: 1_0
 ---
 # Medic Dedication &emsp;*(Feat 2)*

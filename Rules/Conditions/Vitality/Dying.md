@@ -21,10 +21,11 @@ format: 1_0
 - If you reach dying 4, you die instantly.
 - Your dying condition increases by 1 if you take damage, or by 2 if you take damage from an enemy's critical hit or a critical failure on your save.
 - You must attempt a recovery check at the start of your turn each round. This is a flat check with a DC equal to 10 + your current dying value.
-	- **Critical Success:** Your dying value is reduced by 2. 
-	- **Success:** Your dying value is reduced by 1. 
-	- **Failure:** Your dying value increases by 1. 
-	- **Critical Failure:** Your dying value increases by 2.
+  > [!success-degree]
+  > - **Critical Success:** Your dying value is reduced by 2. 
+  > - **Success:** Your dying value is reduced by 1. 
+  > - **Failure:** Your dying value increases by 1. 
+  > - **Critical Failure:** Your dying value increases by 2.
 
 ## Gameplay Interaction
 
