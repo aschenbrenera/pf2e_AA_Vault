@@ -2,6 +2,7 @@
 tags:
   - feature/class/rogue
   - trait/class/rogue
+level: 1
 ---
 # Surprise Attack
 

@@ -18,8 +18,8 @@ format: 1_0
 **Patron Theme:** Silence in snow
 
 **Area:** 60-foot line
-**Defense:** Fortitude
 **Duration:** Until the start of your next turn
+**Defense:** Fortitude
 **Activity:** Two Action ⬥⬥
 
 ## Mechanical Rules

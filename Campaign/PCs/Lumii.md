@@ -43,12 +43,6 @@ languages: "Common, Elven, Fey, Aklo; "
 
 abilityMods: [0, 4, 0, 2, 0, 3]
 
-abilities_top:
-  - name: Gear
-    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Thieves' Toolkit]], [[Torch]] (5), Bedroll, Soap, Rations (2), Chalk (10)"
-  - name: Weapons & Armor
-    desc: "Explorer's Clothing, [[Elven Curve Blade]]"
-
 speed: 30 feet
 
 ac: 19
@@ -59,6 +53,14 @@ hp: 30
 health:
   - name: HP
     desc: "30; __Resistances__ cold 1"
+    
+abilities_top:
+  - name: Gear
+    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Thieves' Toolkit]], [[Torch]] (5), Bedroll, Soap, Rations (2), Chalk (10)"
+  - name: Weapons & Armor
+    desc: "Explorer's Clothing, [[Elven Curve Blade]]"
+  - name: Special Actions
+    desc: "[[Nimble Dodge]]" 
 ```
 
 
@@ -80,3 +82,4 @@ health:
 - [[Rogue's Racket]] - [[Thief]]
 - [[Surprise Attack]]
 - [[Sneak Attack]]
+- [[Deny Advantage]]

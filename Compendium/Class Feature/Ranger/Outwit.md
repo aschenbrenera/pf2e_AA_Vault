@@ -2,6 +2,7 @@
 tags:
   - trait/class/ranger
   - feature/class/ranger
+level: 1
 format: 1_0
 ---
 # Outwit

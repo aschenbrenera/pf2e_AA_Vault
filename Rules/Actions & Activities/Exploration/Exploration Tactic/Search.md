@@ -26,6 +26,10 @@ format: 1_0
 ## Gameplay Interaction
 
 - An object or creature you detect might remain hidden, rather than becoming [[Rules/Environment/Sensory/Detection|Observed]], if you're using an [[Senses|Imprecise Sense]] sense or if an effect (such as Invisibility) prevents the subject from being observed.  
+- The [[Thorough Search]] feat increases how well you can search.
+	- If your searching speed is greater than 7.5 feet (75 feet per minute), you can't ensure you check everything before you walk into it.
+	- If your searching speed is greater than 15 feet (150 feet per minute), you can't search thoroughly guaranteeing you checked everything.
+	- You gain a +2 circumstance bonus to that Perception check and if you succeed, you get a critical success instead.
 - The [[Expeditious Search]] feat increases how quickly you can search. These are your new limits.
 	- If your searching speed is greater than 30 feet (300 feet per minute), you can't ensure you check everything before you walk into it.
 	- If your searching speed is greater than 60 feet (600 feet per minute), you can't search thoroughly guaranteeing you checked everything.

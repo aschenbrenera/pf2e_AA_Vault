@@ -2,6 +2,7 @@
 tags:
   - trait/class/wizard
   - feature/class/wizard
+level: 1
 ---
 # Wizard Spellcasting
 

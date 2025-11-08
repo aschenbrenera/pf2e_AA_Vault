@@ -67,7 +67,9 @@ abilities_top:
   - name: Rank 1 Spells
     desc: "[[Force Barrage]], [[Illusory Object]], [[Mending]], [[Mystic Armor]], [[Runic Weapon]], [[Thunderstrike]], [[Gust of Wind]], [[Pummeling Rubble]], [[Compendium/Spells/1st Rank/Sleep|Sleep]]"
   - name: Rank 2 Spells
-    desc: "[[Blazing Bolt]], [[Summon Elemental]], [[Mist]]" 
+    desc: "[[Blazing Bolt]], [[Animated Assult]], [[Resist Energy]]" 
+  - name: Special Actions
+    desc: "[[Recognize Spell]], [[Reach Spell]], [[Trick Magic Item]], [[Drain Bonded Item]]" 
 ```
 
 
@@ -131,5 +133,5 @@ Total: 9 (Initial 5 + Curriculum 2 + Level 2)
 
 Total: 3 (Curriculum 1 + Level 2 )
 - [[Blazing Bolt]]
-- [[Summon Elemental]]
-- [[Mist]]
+- [[Animated Assult]]
+- [[Resist Energy]]

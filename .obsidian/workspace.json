@@ -4,17 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "b81a035833c3a5e4",
+        "id": "79a16b0c2e4535e9",
         "type": "tabs",
         "children": [
           {
-            "id": "94c53f9b103fafe8",
+            "id": "ea93af01c2c60838",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "image",
+              "state": {
+                "file": "zz_Attachments/Pasted image 20250521205258.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250521205258"
             }
           }
         ]
@@ -120,6 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "zz_Attachments/Pasted image 20250521205258.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Pasted image 20250521205258"
             }
           },
           {
@@ -170,7 +173,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 211.5
+    "width": 211.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -187,52 +191,52 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7cce4e82fddb236b",
+  "active": "ea93af01c2c60838",
   "lastOpenFiles": [
-    "Archetype.md",
-    "Compendium/Feats/General Feats/Level 1/Robust Health.md",
-    "A GM Screen/GM Screen.md",
-    "Campaign/PCs/Lumii.md",
-    "Campaign/PCs/Gunther.md",
+    "zz_Workpad/Sources.md",
+    "zz_Workpad/Data View Samples.md",
+    "orphaned files output.md",
     "Campaign/PCs/Thyra.md",
-    "Campaign/PCs/Taghira.md",
-    "Compendium/Feats/Archetype/Scroll Trickster/Scroll Trickster Dedication.md",
-    "Rules/Actions & Activities/Encounter/Attack/Grapple.md",
-    "Compendium/Feats/Archetype/Mauler/Mauler.md",
+    "empty files.md",
+    "broken links output.md",
+    "Rules/Traits/Ability/Spellshape.md",
+    "Rules/Traits/Ability/Concentrate.md",
+    "Compendium/Feats/Class Feats/Versatile/Reach Spell.md",
+    "Rules/Traits/Class/Monk.md",
+    "Rules/Traits/Class/Wizard.md",
+    "Rules/Traits/Archetype/Medic.md",
+    "Rules/Traits/Archetype/Assassin.md",
+    "Rules/Traits/Feat/Archetype.md",
+    "Rules/Traits/Archetype/Scroll Trickster.md",
+    "Rules/Traits/Archetype/Acrobat.md",
+    "Rules/Traits/Archetype/Mauler.md",
+    "Rules/Traits/Archetype/Archer.md",
+    "Rules/Traits/Archetype",
     "Compendium/Feats/Archetype/Archer/Archer Dedication.md",
-    "Compendium/Feats/Archetype/Scroll Trickster",
-    "Compendium/Feats/Archetype/Mauler",
-    "Compendium/Feats/General Feats/Level 1/Toughness.md",
-    "Compendium/Feats/General Feats/Level 3",
-    "Compendium/Feats/General Feats/Level 1/Canny Acumen.md",
-    "Compendium/Feats/General Feats/Level 1/Shield Block.md",
-    "Compendium/Feats/General Feats/Level 1/Fleet.md",
-    "Rules/Conditions/Vitality/Dying.md",
-    "Compendium/Class Feature/Wizard/Arcane School.md",
-    "Compendium/Items/Consumables/Magical/Hunter's Bane.md",
-    "Compendium/Feats/Skill Feats/Level 1/Battle Medicine.md",
-    "Compendium/Feats/Skill Feats/Level 1/Arcane Sense.md",
-    "Compendium/Feats/Skill Feats/Level 1/Alchemical Crafting.md",
-    "Compendium/Feats/Skill Feats/Level 1/Additional Lore.md",
-    "Compendium/Feats/Skill Feats/Level 1/Acrobatic Performer.md",
-    "Compendium/Feats/General Feats/Level 1/Adopted Ancestry.md",
-    "Compendium/Feats/Skill Feats/Level 15/Legendary Thief.md",
-    "Compendium/Feats/Skill Feats/Level 15/Legendary Sneak.md",
-    "Untitled.base",
-    "custom_campaign/Images/house_front.png",
-    "Compendium/Items/Weapon/Brawling Group",
-    "zz_Attachments/Pasted image 20250521205258.png",
-    "custom_campaign/Images/The Durst Family.png",
+    "Campaign/PCs/Gunther.md",
+    "A GM Screen/GM Screen.md",
+    "Campaign/Party Inventory.md",
+    "Compendium/Items/Runes/Weapon Fundamental/Weapon Striking.md",
+    "Compendium/Items/Runes/Weapon Fundamental/Weapon Potency.md",
+    "Campaign/PCs/Taghira.md",
+    "Campaign/PCs/Lumii.md",
+    "Compendium/Items/Armor/Leather Group",
+    "Compendium/Items/Armor/Composite Group",
+    "Rules/Item/Armor Specialization",
+    "Compendium/Items/Armor/Plate Group",
+    "Compendium/Items/Armor",
+    "Compendium/Items/Weapon/Crossbow Group",
+    "custom_campaign/Images/Death House Dungeon Map.png",
+    "Compendium/Feats/Archetype/Acrobat",
+    "Compendium/Feats/Class Feats/Versatile",
+    "Compendium/Spells/2nd Rank",
     "custom_campaign/Images/DeathHousePlayerMap.webp",
     "custom_campaign/Images/deathhouse_map.png",
     "custom_campaign/Images/deathhouse_dungeon.png",
     "custom_campaign/Images/deathhouse_basement.png",
     "custom_campaign/Images/DeathHouse.jpg",
-    "custom_campaign/Images/Death House Dungeon Map.png",
-    "Rules/Vitality/Damage Types",
-    "Compendium/Feats/Archetype/Archer",
-    "Compendium/Items/Runes/Armor Property",
-    "Compendium/Items/Runes/Weapon Property",
-    "Compendium/Items/Runes/Shield"
+    "custom_campaign/Images/house_front.png",
+    "zz_Attachments/Pasted image 20250521205258.png",
+    "custom_campaign/Images/The Durst Family.png"
   ]
 }

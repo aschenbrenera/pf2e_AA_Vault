@@ -5,6 +5,7 @@ tags:
   - trait/ability/concentrate
 aliases:
   - Prey
+level: 1
 format: 1_0
 ---
 # Hunt Prey [](#Actions "Single Action")

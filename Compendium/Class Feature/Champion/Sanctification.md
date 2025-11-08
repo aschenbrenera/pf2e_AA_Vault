@@ -1,7 +1,8 @@
----
+e---
 tags:
   - trait/class/champion
   - feature/class/champion
+level: 1
 format: 1_0
 ---
 # Sanctification

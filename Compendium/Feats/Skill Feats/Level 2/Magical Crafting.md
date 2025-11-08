@@ -22,3 +22,8 @@ format: 1_0
 
 [Magical Scrounger](https://2e.aonprd.com/Feats.aspx?ID=6407)
 [Signature Crafting](https://2e.aonprd.com/Feats.aspx?ID=6504)
+
+
+## Gameplay Tips
+
+- By default rules, spells in this game can only be turned into Scrolls, not potions. But if you want a non-caster character (without 'trick magic item') to have access to a specific spell, you may want to convert a spell into a custom potion item. If necessary, take the spell increase it's level by 1 and then use the [[Consumable]] price chart.

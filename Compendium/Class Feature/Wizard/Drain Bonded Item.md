@@ -3,6 +3,7 @@ tags:
   - action/class/wizard
   - trait/class/wizard
   - trait/spell/tradition/arcane
+level: 1
 format: 1_0
 ---
 # Drain Bonded Item [](#Actions "Free Action")

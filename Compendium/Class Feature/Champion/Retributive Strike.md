@@ -3,11 +3,13 @@ tags:
   - action/attack
   - action/class/champion
   - trait/class/champion
+level: 1
 format: 1_0
 ---
 # Retributive Strike [](#Actions "Reaction")
 
 [Champion](Champion.md "Class Trait")
+**Source:** [[Cause]] - [[Justice]]
 **Description:** You protect your ally and strike your enemy. 
 
 **Trigger:** An enemy damages your ally, and both are in your champion’s aura.

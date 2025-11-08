@@ -42,12 +42,6 @@ languages: "Common, Amurrun; "
 
 abilityMods: [2, 4, 1, 0, 1, 1]
 
-abilities_top:
-  - name: Gear
-    desc: "[[Backpack]], [[Healer's Kit]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Compass]], [[Arrows]] x120, Map of Frostbreach Region"
-  - name: Weapons & Armor
-    desc: "Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Shortbow]], [[Shortsword]], +1 [[Hatchet]], [[Vine Arrow]], [[Hunter's Bane]]"
-
 speed: 30 feet
 
 ac: 20
@@ -58,6 +52,14 @@ hp: 41
 health:
   - name: HP
     desc: "41"
+    
+abilities_top:
+  - name: Gear
+    desc: "[[Backpack]], [[Healer's Kit]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Compass]], [[Arrows]] x120, Map of Frostbreach Region"
+  - name: Weapons & Armor
+    desc: "Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Shortbow]], [[Shortsword]], +1 [[Hatchet]], [[Vine Arrow]], [[Hunter's Bane]]"
+  - name: Special Actions
+    desc: "[[Cat's Luck]], [[Hunt Prey]], [[Hunted Shot]]" 
 ```
 
 **Heritage:** Hunting Catfolk
@@ -76,3 +78,11 @@ health:
 - [[Hunter's Edge]] - [[Precision]]
 - [[Land on your Feet]]
 - [[Hunting Catfolk]]
+
+
+### Perfume Tactic:
+- Cedar
+- Clove
+- Lavendear
+- Peppermint
+- Vanilla

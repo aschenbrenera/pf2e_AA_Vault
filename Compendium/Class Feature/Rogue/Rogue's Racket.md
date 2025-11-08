@@ -2,6 +2,7 @@
 tags:
   - trait/class/rogue
   - feature/class/rogue
+level: 1
 ---
 # Rogue's Racket
 

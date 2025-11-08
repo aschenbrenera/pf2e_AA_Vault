@@ -8,7 +8,7 @@ format: 1_0
 ---
 # Mauler Dedication &emsp;*(Feat 2)*
 
-[Archetype](Archetype.md "Feat Trait") [Dedication](Dedication.md "Feat Trait") [Mauler](Mauler.md "Class Trait")
+[Archetype](Archetype.md "Feat Trait") [Dedication](Dedication.md "Feat Trait") [Mauler Dedication](Mauler%20Dedication.md "Class Trait")
 
 **Prerequisites:** Strength +2
 **Description:** You specialize in melee weapons that require two hands. 

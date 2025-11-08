@@ -27,7 +27,10 @@ A _ghoul stiletto_ is dagger wrapped in the still-undead skin of a ghoul.
 
 - +1 [[Dagger]]
 - While you wield the dagger, you gain a +1 status bonus to all saves against Curses and Olfactory effects.
-- **Activate:** [](#Actions "Single Action") (concentrate, divine, manipulate, olfactory); **Frequency** once per hour; **Effect** The _ghoul stiletto_ afflicts the next living target struck by the dagger with a terrible wound that emits the foul stench of the grave. The creature emits a stench aura in a 10-foot emanation for 1 minute. During that time, the affected creature, as well as any creature that starts or ends its turn in the aura, must succeed at a DC 17 Fortitude save or become sickened 1 (plus slowed 1 as long as it’s sickened on a critical failure). A creature that succeeds at its save is temporarily immune to all stench auras for 1 minute.
+- **Activate:** [](#Actions "Single Action") (concentrate, divine, manipulate, olfactory);
+	- **Frequency:** once per hour;
+	- **Effect:** The _ghoul stiletto_ afflicts the next living target struck by the dagger with a terrible wound that emits the foul stench of the grave.
+		- The creature emits a stench aura in a 10-foot emanation for 1 minute. During that time, the affected creature, as well as any creature that starts or ends its turn in the aura, must succeed at a DC 17 Fortitude save or become sickened 1 (plus slowed 1 as long as it’s sickened on a critical failure). A creature that succeeds at its save is temporarily immune to all stench auras for 1 minute.
 - **Craft Requirements** The initial raw materials must include skin from a ghoul.
 
 ## Gameplay Interaction

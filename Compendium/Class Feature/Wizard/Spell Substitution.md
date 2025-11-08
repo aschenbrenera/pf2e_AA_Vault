@@ -4,6 +4,7 @@ tags:
   - trait/class/wizard
   - trait/ability/exploration
   - feature/class/wizard
+level: 1
 ---
 # Spell Substitution
 

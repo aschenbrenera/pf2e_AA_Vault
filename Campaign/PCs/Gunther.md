@@ -63,8 +63,12 @@ abilities_top:
     desc: "Scale Mail, Ordinary Clothing, [[Longbow]], [[Greatsword]], [[Clan Dagger]]"
   - name: Spellcasting
     desc: "DC:17, SA: +7"
+  - name: Innate Spells
+    desc: "[[Heal]]"
   - name: Focus Spells
     desc: "[[Lay on Hands]], [[Weapon Surge]]"
+  - name: Special Actions
+    desc: "[[Shield Block]], [[Retributive Strike]]" 
 ```
 
 
@@ -81,7 +85,7 @@ abilities_top:
 - [[Deity's Domain]] - Zeal - [[Weapon Surge]]
 - [[Shield Block]]
 - [[Mauler Dedication]]
-- [[Oath of the Avenger]]
+- [Oath of the Avenger](https://2e.aonprd.com/Feats.aspx?ID=7517) (Legacy)
 - [[Robust Health]]
 
 ### Abilities

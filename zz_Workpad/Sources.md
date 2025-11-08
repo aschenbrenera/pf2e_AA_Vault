@@ -6,6 +6,7 @@
 - Player Core 2
 - GM Core
 - Monster Core
+- Monster Core 2
 - Treasure Vault
 - Guns & Gears
 - Rage of Elements

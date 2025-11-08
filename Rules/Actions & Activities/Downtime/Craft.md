@@ -19,8 +19,8 @@ tags:
 	- You need the [[Alchemical Crafting]] skill feat to create alchemical items and the [[Magical Crafting]] skill feat to create magic items.
 	- The item is your level or lower. An item that doesn't list a level is level 0.
 		- If the item is 9th level or higher, you must be a master in Crafting.
-		- If the item is 17th or higher, you must be legendary in Crafting.
-	- The item must be common, or you must otherwise have access to it.
+		- If the item is 16th or higher, you must be legendary in Crafting.
+	- The item must be common, or you must have a formula.
 	- You have an appropriate set of tools and, in many cases, a workshop. For example, you need access to a smithy to forge a metal shield, or an alchemist's lab to produce alchemical items.
 	- You must supply raw materials worth at least half the item's Price. You always expend at least that amount of raw materials when you Craft successfully. If you're in a settlement, you can usually spend currency to get the amount of raw materials you need, except in the case of rarer precious materials.
 - You attempt a Crafting check after you spend 2 days of work setting up, or 1 day if you have the item's [[Formulas|Formula]]. The GM determines the DC to Craft the item based on its level, rarity, and other circumstances. 
