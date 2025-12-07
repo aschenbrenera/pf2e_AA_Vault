@@ -5,6 +5,7 @@ tags:
   - trait/item/invested
   - trait/item/magical
   - custom_content
+level: 1
 format: 1_0
 ---
 # Taghira's Fur Cloak
@@ -24,4 +25,4 @@ Description: A wolf fur cloak imbued with a blessing of stealth and ferocity whi
 
 The hide itself had latent powers of the winter wolf. Unknown to Taghira at the time, Saddha  tapped into those powers and used her magic to imbue the cloak with blessing of the hunt when she crafted it. 
 
-![[Pasted image 20250521205258.png]]
+![[FurCloak.png]]

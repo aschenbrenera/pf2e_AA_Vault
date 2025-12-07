@@ -4,6 +4,7 @@ tags:
 aliases:
   - Identify DC
   - Learn DC
+  - Counter DC
 ---
 # Identification and Learning DCs
 

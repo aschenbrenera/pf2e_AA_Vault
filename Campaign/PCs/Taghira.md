@@ -57,7 +57,7 @@ abilities_top:
   - name: Gear
     desc: "[[Backpack]], [[Healer's Kit]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Compass]], [[Arrows]] x120, Map of Frostbreach Region"
   - name: Weapons & Armor
-    desc: "Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Shortbow]], [[Shortsword]], +1 [[Hatchet]], [[Vine Arrow]], [[Hunter's Bane]]"
+    desc: "Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Whisperwind Shortbow]], [[Shortsword]], [[Vine Arrow]]"
   - name: Special Actions
     desc: "[[Cat's Luck]], [[Hunt Prey]], [[Hunted Shot]]" 
 ```
@@ -86,3 +86,13 @@ abilities_top:
 - Lavendear
 - Peppermint
 - Vanilla
+
+
+### Natural Medicine Ideas
+
+- Battle Medicine
+	- Caph Pods - when crushed release a think potent vapor that when inhaled sends a jolt of vitality through their body, but taxes the system. More than 1 a day is not recommended.
+	- Shockroot Paste - when slathered over a wound it stings at first but will stop the bleeding and the paste, then works as a general anesthetic. More then one application a day can cause cardiac arrest.
+- Treat wounds
+	- Mint and Lichen Salves to each swelling and help close wounds.
+	- Brew restorative Tea from herbs.

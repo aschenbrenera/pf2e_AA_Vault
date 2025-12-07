@@ -1,7 +1,7 @@
 ---
 tags:
   - action/spell
-  - spell/rank/1
+  - spell/rank/2
   - trait/ability/concentrate
   - trait/generic/manipulate
 level: 2

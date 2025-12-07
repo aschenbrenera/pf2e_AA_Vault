@@ -32,9 +32,16 @@ If an affliction lasts only a limited amount of time, it lists a maximum duratio
 
 An affliction typically has multiple stages, each of which lists an effect followed by an interval in parentheses. When you reach a given stage of an affliction, you are subjected to the effects listed for that stage.  
   
-At the end of a stage's listed interval, you must attempt a new saving throw. On a success, you reduce the stage by 1; on a critical success, you reduce the stage by 2. You are then subjected to the effects of the new stage. If the affliction's stage is ever reduced below stage 1, the affliction ends and you don't need to attempt further saves unless you're exposed to the affliction again.  
-  
-On a failure, the stage increases by 1; on a critical failure, the stage increases by 2. You are then subjected to the effects listed for the new stage. If a failure or critical failure would increase the stage beyond the highest listed stage, the affliction instead repeats the effects of the highest stage.  
+At the end of a stage's listed interval, you must attempt a new saving throw. 
+
+> [!success-degree]
+> - **Critical Success:** Reduce the stage by 2. Take effects of that stage.
+> - **Success:** Reduce the stage by 1. Take effects of that stage.
+> - **Failure:** Stage Increases by 1. Take effects of that stage.
+> - **Critical Failure:** Stage Increases by 2. Take effects of that stage.
+
+If the affliction's stage is ever reduced below stage 1, the affliction ends and you don't need to attempt further saves unless you're exposed to the affliction again.  
+If a failure or critical failure would increase the stage beyond the highest listed stage, the affliction instead repeats the effects of the highest stage.  
 
 ## Damage and Conditions
 

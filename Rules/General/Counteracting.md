@@ -12,6 +12,12 @@ When attempting a counteract check, add the relevant skill modifier or other app
   
 What you can counteract depends on the check result and the target's counteract rank. If an effect is a spell, its rank is the counteract rank. Otherwise, halve its level and round up to determine its counteract rank (minimum counteract rank 0). If an effect's level is unclear and it came from a creature, halve and round up the creature's level.
 
+## Quick Guide
+
+If counteracting with a spell, roll a spell attack, otherwise make the appropriate skill check.
+The DC is either the Caster's DC, in the effect statblock, or use the [[Identifying and Learning|Counter DC]].
+
+
 ## Mechanical Rules
 
 > [!success-degree] 

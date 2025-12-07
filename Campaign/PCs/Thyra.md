@@ -55,7 +55,7 @@ health:
 
 abilities_top:
   - name: Gear
-    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Torch]] (5), Bullseye [[Lantern]], [[Writing Set]], [[Spellbook]], Bedroll, Soap, Rations (2), Chalk (10)"
+    desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Torch]] (5), Bullseye [[Lantern]], [[Writing Set]], [[Spellbook]], Bedroll, Soap, Rations (2), Chalk (10), [[Mage's Hat]]"
   - name: Weapons & Armor
     desc: "Explorer's Clothing, [[Staff]], [[Corset Knife]]"
   - name: Spellcasting

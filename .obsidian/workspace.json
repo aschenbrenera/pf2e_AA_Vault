@@ -4,19 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "79a16b0c2e4535e9",
+        "id": "41c0164bcbc9d88a",
         "type": "tabs",
         "children": [
           {
-            "id": "ea93af01c2c60838",
+            "id": "f0dbe7d8a81ca509",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "zz_Attachments/Pasted image 20250521205258.png"
+                "file": "custom_campaign/Module/Intro.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250521205258"
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "4bff176e8f8b8e0f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "custom_campaign/Temp.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Temp"
             }
           }
         ]
@@ -51,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Tips",
+                "query": "compos",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -122,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "zz_Attachments/Pasted image 20250521205258.png",
+                "file": "custom_campaign/Module/Intro.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Pasted image 20250521205258"
+              "title": "Backlinks for Intro"
             }
           },
           {
@@ -191,52 +207,53 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "ea93af01c2c60838",
+  "active": "f0dbe7d8a81ca509",
   "lastOpenFiles": [
-    "zz_Workpad/Sources.md",
-    "zz_Workpad/Data View Samples.md",
-    "orphaned files output.md",
-    "Campaign/PCs/Thyra.md",
-    "empty files.md",
-    "broken links output.md",
-    "Rules/Traits/Ability/Spellshape.md",
-    "Rules/Traits/Ability/Concentrate.md",
-    "Compendium/Feats/Class Feats/Versatile/Reach Spell.md",
-    "Rules/Traits/Class/Monk.md",
-    "Rules/Traits/Class/Wizard.md",
-    "Rules/Traits/Archetype/Medic.md",
-    "Rules/Traits/Archetype/Assassin.md",
-    "Rules/Traits/Feat/Archetype.md",
-    "Rules/Traits/Archetype/Scroll Trickster.md",
-    "Rules/Traits/Archetype/Acrobat.md",
-    "Rules/Traits/Archetype/Mauler.md",
-    "Rules/Traits/Archetype/Archer.md",
-    "Rules/Traits/Archetype",
-    "Compendium/Feats/Archetype/Archer/Archer Dedication.md",
-    "Campaign/PCs/Gunther.md",
-    "A GM Screen/GM Screen.md",
-    "Campaign/Party Inventory.md",
-    "Compendium/Items/Runes/Weapon Fundamental/Weapon Striking.md",
-    "Compendium/Items/Runes/Weapon Fundamental/Weapon Potency.md",
+    "custom_campaign/Module/House Narrative.md",
+    "custom_campaign/Module/Intro.md",
+    "custom_campaign/Module/Old Narrative.md",
+    "custom_campaign/Module/Appendix - Outline.md",
+    "custom_campaign/PCs/Party Comp.md",
+    "custom_campaign/Module/Possible Overview.md",
+    "custom_campaign/Module/Appendix - Random Encounter.md",
+    "custom_campaign/Module/Appendix - Ambience.md",
     "Campaign/PCs/Taghira.md",
-    "Campaign/PCs/Lumii.md",
+    "custom_campaign/Temp.md",
+    "custom_campaign/NPCs/Rose and Thorn.md",
+    "custom_campaign/Images/deathhouse_dungeon.png",
+    "custom_campaign/Images/deathhouse_basement.png",
+    "custom_campaign/Images/deathhouse_map.png",
+    "custom_campaign/Images/DeathHousePlayerMap.webp",
+    "custom_campaign/Images/The Durst Family.png",
+    "custom_campaign/Images/house_front.png",
+    "custom_campaign/Images/DeathHouse.jpg",
+    "custom_campaign/Images/Death House Dungeon Map.png",
+    "custom_campaign/Custom Mechanics/Paranoia.md",
+    "A GM Screen/GM Screen.md",
+    "Campaign/Custom Items/Whisperwind Shortbow.md",
+    "Campaign/Custom Items/Taghira’s Fur Cloak.md",
+    "zz_Attachments/FurCloak.png",
+    "zz_Attachments/FurCloack.png",
+    "Campaign/Custom Items/Rogue Shortsword.md",
+    "World/Golarion Lore/Location/Golarion Map.md",
+    "Campaign/PCs/Thyra.md",
+    "Compendium/Items/Weapon/Bow Group/Composite Shortbow.md",
+    "Compendium/Spells/2nd Rank/Clear Mind.md",
+    "Compendium/Spells/2nd Rank/Restoration.md",
+    "Rules/General/Identifying and Learning.md",
+    "Rules/General/Counteracting.md",
+    "Compendium/Spells/2nd Rank/Resist Energy.md",
+    "Compendium/Spells/2nd Rank/Blazing Bolt.md",
+    "Compendium/Spells/2nd Rank/Animated Assult.md",
+    "Rules/Traits/Archetype",
     "Compendium/Items/Armor/Leather Group",
     "Compendium/Items/Armor/Composite Group",
     "Rules/Item/Armor Specialization",
     "Compendium/Items/Armor/Plate Group",
     "Compendium/Items/Armor",
     "Compendium/Items/Weapon/Crossbow Group",
-    "custom_campaign/Images/Death House Dungeon Map.png",
     "Compendium/Feats/Archetype/Acrobat",
     "Compendium/Feats/Class Feats/Versatile",
-    "Compendium/Spells/2nd Rank",
-    "custom_campaign/Images/DeathHousePlayerMap.webp",
-    "custom_campaign/Images/deathhouse_map.png",
-    "custom_campaign/Images/deathhouse_dungeon.png",
-    "custom_campaign/Images/deathhouse_basement.png",
-    "custom_campaign/Images/DeathHouse.jpg",
-    "custom_campaign/Images/house_front.png",
-    "zz_Attachments/Pasted image 20250521205258.png",
-    "custom_campaign/Images/The Durst Family.png"
+    "Compendium/Spells/2nd Rank"
   ]
 }
