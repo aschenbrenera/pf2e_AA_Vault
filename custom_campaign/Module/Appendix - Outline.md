@@ -12,11 +12,10 @@ A gothic horror adventure set in a cursed house that lures travelers with the pr
 
 ## 1. Arrival at the House
 
-- **Plot Beat:** Players meet two children (Rose and Thorn) outside a fog-shrouded house. They claim their baby brother is trapped inside.
+- **Plot Beat:** Party is told to investigate disappearances. They are told the disappearances are connected to a strange mist and a mysterious house.
   
-- **🗝️ Story Scene – *The Children’s Plea***
-  - **What the Players Learn:** The children plead for help but refuse to enter the house.
-  - **Reveals:** The children are already dead. This is the first sign the house is a supernatural trap.
+- ** Story Scene – *The Gnome Traveler***
+  - **What the Players Learn:** There is a house that appears in the mist that is connected to the disappearances.
 
 ---
 

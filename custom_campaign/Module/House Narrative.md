@@ -21,14 +21,14 @@ The characters who stay outside can see the mists closing in on them, leaving th
 
 # Ground Floor
 
-## Foyer
+## 1. Foyer
 When players enter into Foyer
 >[!info] Read Aloud
 > You step into a dark Foyer. Hanging on the south wall is a shield emblazoned with a coat-of-arms, flanked by framed portraits of stony-faced aristocrats. You see Mahogany-framed double doors set with panes of stained glass leading further into the house.
 
 The coat of arms is a stylized golden windmill on a red field, the portraits are of long-dead members of the Durst family.
 
-## Main Hall
+## 2. Main Hall
 When players enter into the Main Hall with illumination.
 >[!info] Read Aloud
 > The main hall runs the width of the house, with a black marble fireplace at one end, and a sweeping red marble staircase at the other. At the base of the staircase is a Grandfather clock. Mounted on the wall above the fireplace is a portrait. The wood-paneled walls are ornately sculpted with images. The decorative paneling follows the staircase as it circles upward to the second floor. There are four doors along the east wall and another door next to the foyer door on the west wall.
@@ -39,10 +39,10 @@ Hanging above the mantelpiece is a wood-framed portrait of a family: parents wit
 Anyone who searches the second door from the left will find the cloakroom. It has several black cloaks hanging from hooks on the walls. A top hat sits on a high shelf.
 
 >[!warning] Search
-> Everyone can see vines, flowers, nymphs, and satyrs. Characters who search the walls or paneling can, with a successful DC 12 check, see serpents and skulls inconspicuously woven into the wall designs. 
+> Everyone can see vines, flowers, nymphs, and satyrs. Characters who search the walls or paneling can, with a successful DC 14 check, see serpents and skulls inconspicuously woven into the wall designs. 
 
 >[!danger] Event
->Shortly after all of the characters enter the main hall, the front door slams shut, extinguishing all lights in the house. The sound of the rain outside completely vanishes, leaving the house eerily silent.
+>Shortly after all of the characters enter the main hall, the front door slams shut, extinguishing all lights in the house.
 >Bloody letters then begin appearing on the southern wall, just above the marble staircase. They read as follows:
 >
 >_Beneath this dwelling lurks a beast_  
@@ -54,15 +54,15 @@ Anyone who searches the second door from the left will find the cloakroom. It ha
 >_A gift to soothe his savage mood_  
 >_But mind the servants of his brood._
 >
-> The grandfather clock then strikes six o’clock. Start the dice clock (3d6).
+> The grandfather clock then strikes six o’clock. Start the dice clock (6d6).
 
 ### Room Clues Summary
-- The Dursts had two children: **Thornboldt** and **Rosavalda**.
+- The Durst family and their children: Gustav,  Elizabeth, **Thornboldt** and **Rosavalda**.
 - The house is sealed shut and possibly sentient (front door slams).
 - A mysterious poem warns of a **"beast" beneath the house**, servants, and a required **sacrifice**.
 - Symbolic decor (serpents, skulls hidden in wall carvings) suggests corruption under beauty.
 
-## Hunter's Den
+## 3. Hunter's Den
 >[!info] Read Aloud
 > As you crack open the door, you catch a glimpse of something feral beyond: an amber eye that flashes in the darkness, and a bestial muzzle curled into a snarl.
 
@@ -71,7 +71,9 @@ After players proceed
 > The door opens, revealing a gray-furred wolf frozen into place. It's only a moment before you realize that it's not moving—and another before you realize that it's not alone. Positioned around the outskirts of the room are two additional stuffed wolves—a large gray wolf and a smaller brown wolf.
 >This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head. Two padded chairs draped in animal furs face a hearth, with an oak table between them supporting an assortment of objects. A chandelier hangs above a cloth-covered table surrounded by four chairs, and two cabinets stand against the walls. A pair of small toys seems to have been forgotten beneath one of the chairs.
 
-The discarded toys are small, plush gray wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitch-work on their stomachs reads ROSE and THORN, respectively. The table supports a cask of wine, wooden goblets, and a candelabrum. The north cabinet is unlocked and holds a small box containing a deck of playing cards and an assortment of wine glasses and a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
+- The discarded toys are small, plush gray wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitch-work on their stomachs reads ROSE and THORN, respectively. 
+- The table supports a cask of wine, wooden goblets, and a candelabra.
+- The north cabinet is unlocked and holds a small box containing a deck of playing cards and an assortment of wine glasses and a mounted piece of child's needlework that depicts a boy and girl holding the hands of a young woman, alongside clumsily stitched words that read FOR MISS KLARA. The young woman's face has been slashed and cut out.
 
 >[!warning] **Locked Cabinet**
 >The east cabinet sports a lock that can be picked with thieves' tools and a successful DC 15 Thievery check. It holds a heavy crossbow, a light crossbow, a hand crossbow, and 20 bolts for each weapon along with five silvered crossbow bolts. 
@@ -80,7 +82,7 @@ The discarded toys are small, plush gray wolves, whose threadbare coats show evi
 >A trapdoor is hidden in the southwest corner of the floor. It can't be detected or opened until the characters approach it from the underside (see area 32). Until then, Death House supernaturally hides the trapdoor.
 
 >[!danger] Event
-> The first time that no players are looking at them, the three taxidermied wolves move. When the players next look at them, the large gray wolf is standing beside the smaller brown wolf, and the first gray wolf has turned its snarl toward the others. Players in the room must make a Will Save DC 15 or gain [[Paranoia]].
+> The first time that no players are looking at them, the three taxidermied wolves move. When the players next look at them, the large gray wolf is standing beside the smaller brown wolf, and the first gray wolf has turned its snarl toward the others. Players in the room must make a Will Save DC 12 or gain [[Paranoia]].
 
 ### Room Clues Summary
 - The stuffed wolves are unnaturally positioned — possibly haunted or enchanted.
@@ -99,9 +101,9 @@ The thin door leads to a well-stocked pantry (area 4B). All the food in the pant
 >[!warning] Search
 > If the players inspect the cookware, they find that the largest kitchen knife is missing.
 > If the players search the pantry, they notice a copper pot stashed behind the rations. Inside the copper pot is a folded piece of delicate lace, a vial of a brownish dried powder, and a bouquet of wilted sunflowers tied to a small scroll of parchment.
-> - A successful DC 14 Intelligence (Nature) check identifies the brown powder as dried silphium, a contraceptive herb.
+> - A successful DC 14 Nature check identifies the brown powder as dried silphium, a contraceptive herb.
 > - The parchment scroll reads: "For the light of my life. —G."
-> - If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall.
+> - If the players read the note, one of the knives in the kitchen flies off of its shelf and embeds itself in the opposite wall. Players in the room must make a Will Save DC 13 or gain [[Paranoia]].
 
 >[!warning] **Dumbwaiter**
 >Behind the hatch in the southwest corner of the kitchen is a dumbwaiter a 2-foot-wide stone shaft containing a wooden elevator box attached to a simple rope-and-pulley mechanism that must be operated manually. The shaft connects to areas 7A (the servants' quarters) and 12A (the master bedroom). The brass bell is attached by wires to buttons in those other areas.

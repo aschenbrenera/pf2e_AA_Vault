@@ -4,6 +4,8 @@ tags:
 ---
 # Simple DCs
 
+Level Based DCs and adjustments.
+
 ## Simple DC Adjustments
 
 | **Difficulty**  | **Adjustment** | **Rarity** |

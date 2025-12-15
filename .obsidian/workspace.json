@@ -4,38 +4,79 @@
     "type": "split",
     "children": [
       {
-        "id": "41c0164bcbc9d88a",
+        "id": "dc6f3aa02f4a5840",
         "type": "tabs",
         "children": [
           {
-            "id": "f0dbe7d8a81ca509",
+            "id": "84c457430b177037",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "custom_campaign/Module/Intro.md",
-                "mode": "source",
+                "file": "custom_campaign/Module/Appendix - Outline.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "Appendix - Outline"
             }
           },
           {
-            "id": "4bff176e8f8b8e0f",
+            "id": "13c50d79034df2d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "custom_campaign/Temp.md",
-                "mode": "source",
+                "file": "custom_campaign/Module/House Narrative.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Temp"
+              "title": "House Narrative"
+            }
+          },
+          {
+            "id": "20919f2eaaf9d909",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "custom_campaign/Custom Mechanics/Time Clock.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Time Clock"
+            }
+          },
+          {
+            "id": "08e68614fd3e013e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/General/Simple DCs.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Simple DCs"
+            }
+          },
+          {
+            "id": "b37e696951d49b91",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "custom_campaign/Images/DeathHousePlayerMap.webp"
+              },
+              "icon": "lucide-image",
+              "title": "DeathHousePlayerMap"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -67,7 +108,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "compos",
+                "query": "\"Simp",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,8 +211,8 @@
             "state": {
               "type": "initiative-tracker-view",
               "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "icon": "lucide-ghost",
+              "title": "initiative-tracker-view"
             }
           },
           {
@@ -180,8 +221,18 @@
             "state": {
               "type": "advanced-tables-toolbar",
               "state": {},
-              "icon": "spreadsheet",
-              "title": "Advanced Tables"
+              "icon": "lucide-ghost",
+              "title": "advanced-tables-toolbar"
+            }
+          },
+          {
+            "id": "4a617d126e013d0d",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -207,29 +258,42 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "f0dbe7d8a81ca509",
+  "active": "13c50d79034df2d5",
   "lastOpenFiles": [
-    "custom_campaign/Module/House Narrative.md",
-    "custom_campaign/Module/Intro.md",
-    "custom_campaign/Module/Old Narrative.md",
-    "custom_campaign/Module/Appendix - Outline.md",
-    "custom_campaign/PCs/Party Comp.md",
-    "custom_campaign/Module/Possible Overview.md",
-    "custom_campaign/Module/Appendix - Random Encounter.md",
-    "custom_campaign/Module/Appendix - Ambience.md",
-    "Campaign/PCs/Taghira.md",
-    "custom_campaign/Temp.md",
-    "custom_campaign/NPCs/Rose and Thorn.md",
+    "custom_campaign/Custom Mechanics/Time Clock.md",
+    "Rules/General/Simple DCs.md",
+    "custom_campaign/Images/DeathHousePlayerMap.webp",
+    "Rules/Actions & Activities/Encounter/Thievery/Pick a Lock.md",
+    "custom_campaign/Images/house_front.png",
+    "custom_campaign/Images/deathhouse_map.png",
     "custom_campaign/Images/deathhouse_dungeon.png",
     "custom_campaign/Images/deathhouse_basement.png",
-    "custom_campaign/Images/deathhouse_map.png",
-    "custom_campaign/Images/DeathHousePlayerMap.webp",
-    "custom_campaign/Images/The Durst Family.png",
-    "custom_campaign/Images/house_front.png",
     "custom_campaign/Images/DeathHouse.jpg",
+    "custom_campaign/Module/House Narrative.md",
+    "Rules/Skills/Thievery.md",
+    "A GM Screen/GM Screen.md",
+    "custom_campaign/Module/Intro.md",
+    "custom_campaign/Module/Appendix - Outline.md",
+    "custom_campaign/Module/Old Narrative.md",
+    "custom_campaign/Temp.md",
+    "custom_campaign/Module/Appendix - Ambience.md",
+    "custom_campaign/PCs/Party Comp.md",
+    "custom_campaign/NPCs/Rose and Thorn.md",
     "custom_campaign/Images/Death House Dungeon Map.png",
     "custom_campaign/Custom Mechanics/Paranoia.md",
-    "A GM Screen/GM Screen.md",
+    "custom_campaign/PCs",
+    "custom_campaign/NPCs",
+    "custom_campaign/Module/Possible Overview.md",
+    "custom_campaign/Module/Appendix - Random Encounter.md",
+    "custom_campaign/Module",
+    "custom_campaign/Images/The Durst Family.png",
+    "custom_campaign/Images",
+    "custom_campaign/Custom Mechanics",
+    "custom_campaign",
+    "Compendium/Bestiary/Animated Broom.md",
+    "Compendium/Bestiary/Animated Armor.md",
+    "Campaign/Party Inventory.md",
+    "Campaign/PCs/Taghira.md",
     "Campaign/Custom Items/Whisperwind Shortbow.md",
     "Campaign/Custom Items/Taghira’s Fur Cloak.md",
     "zz_Attachments/FurCloak.png",
@@ -237,23 +301,9 @@
     "Campaign/Custom Items/Rogue Shortsword.md",
     "World/Golarion Lore/Location/Golarion Map.md",
     "Campaign/PCs/Thyra.md",
-    "Compendium/Items/Weapon/Bow Group/Composite Shortbow.md",
-    "Compendium/Spells/2nd Rank/Clear Mind.md",
-    "Compendium/Spells/2nd Rank/Restoration.md",
-    "Rules/General/Identifying and Learning.md",
-    "Rules/General/Counteracting.md",
-    "Compendium/Spells/2nd Rank/Resist Energy.md",
-    "Compendium/Spells/2nd Rank/Blazing Bolt.md",
-    "Compendium/Spells/2nd Rank/Animated Assult.md",
     "Rules/Traits/Archetype",
     "Compendium/Items/Armor/Leather Group",
     "Compendium/Items/Armor/Composite Group",
-    "Rules/Item/Armor Specialization",
-    "Compendium/Items/Armor/Plate Group",
-    "Compendium/Items/Armor",
-    "Compendium/Items/Weapon/Crossbow Group",
-    "Compendium/Feats/Archetype/Acrobat",
-    "Compendium/Feats/Class Feats/Versatile",
-    "Compendium/Spells/2nd Rank"
+    "Rules/Item/Armor Specialization"
   ]
 }
