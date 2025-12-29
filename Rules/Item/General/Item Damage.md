@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/items
+aliases: Object Immunities
 ---
 # Item Damage
 

@@ -12,7 +12,7 @@ You need a thieves' toolkit to [[Pick a Lock]] or [[Disable a Device]] (of som
 
 | **Level** | **Item**                       | **Price** | **Item Modifier** |
 | --------- | ------------------------------ | --------- | ----------------- |
-| -         | Shoddy / None                  | -         | -2                |
+| -         | Shoddy                         | -         | -2                |
 | 0         | Thieves' Toolkit               | 3 gp      | +0                |
 | 3         | Thieves' Toolkit (Infiltrator) | 50 gp     | +1                |
 

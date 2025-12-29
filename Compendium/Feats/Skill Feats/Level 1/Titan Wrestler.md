@@ -15,4 +15,4 @@ format: 1_0
 
 ## Mechanical Rules
 
-- You can attempt to [[Disarm]], [[Grapple]], [[Reposition]], [[Shove]], or [[Trip]] creatures up to two sizes larger than you, or up to three sizes larger than you if you’re legendary in Athletics.
+- You can attempt to [[Disarm]], [[Grapple]], [[Reposition]], [[Rules/Actions & Activities/Encounter/Attack/Shove]], or [[Trip]] creatures up to two sizes larger than you, or up to three sizes larger than you if you’re legendary in Athletics.

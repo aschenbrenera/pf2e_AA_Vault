@@ -6,7 +6,7 @@ level: 1
 ---
 # Wizard Spellcasting
 
-[Wizard](Wizard.md "General Trait")
+[Wizard](Rules/Traits/Class/Wizard.md "General Trait")
  **Description:** Through dedicated study and practice, you can construct spells with academic rigor by shaping arcane magic. As a wizard, when you cast spells, your incantations likely specify exactly what forces you call on and how to shape them, and your gestures precisely shape and direct your magic while circles of arcane runes flare to life.  
 
 Every arcane spell has a written version, which you record in your personalized book of spells. You receive your spellbook for free and must study each day to prepare your spells. Your spellbook's form and name are up to you. It might be a musty, leather-bound tome or an assortment of thin metal disks connected to a brass ring; its name might be esoteric, like _The Tome of Silent Shadows_ or something more academic, like _Advanced Pyromantic Applications of Jalmeri Elemental Theory_.  

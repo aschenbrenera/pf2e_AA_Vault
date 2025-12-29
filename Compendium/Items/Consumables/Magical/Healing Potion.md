@@ -2,9 +2,9 @@
 tags:
 - item/consumable
 - trait/item/consumable
+- trait/item/magical
 - trait/item/potion
 - trait/effect/healing
-- trait/item/magical
 - trait/effect/vitality
 ---
 # Healing Potion

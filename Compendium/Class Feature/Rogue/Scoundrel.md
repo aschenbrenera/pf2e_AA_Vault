@@ -6,7 +6,7 @@ level: 1
 ---
 # Scoundrel
 
-[Rogue](Rogue.md "Class Trait")
+[Rogue](Rules/Traits/Class/Rogue.md "Class Trait")
 **Source:** [[Rogue's Racket]]
 
 You use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, or you might use your skills in certain reputable professions, like a barrister or diplomat  

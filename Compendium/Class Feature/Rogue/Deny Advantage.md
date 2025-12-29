@@ -6,7 +6,7 @@ level: 3
 ---
 # Deny Advantage
 
-[Rogue](Rogue.md "Class Trait")
+[Rogue](Rules/Traits/Class/Rogue.md "Class Trait")
 **Description:** As someone who takes advantage of openings, you are careful not to leave such gaps yourself.
 
 ## Mechanical Rules

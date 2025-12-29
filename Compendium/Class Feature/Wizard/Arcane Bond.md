@@ -6,7 +6,7 @@ level: 1
 ---
 # Arcane Bond
  
- [Wizard](Wizard.md "General Trait")
+ [Wizard](Rules/Traits/Class/Wizard.md "General Trait")
  **Description:** You place some of your magical power in a bonded item. This is typically an item associated with spellcasting, such as a wand, ring, or staff, but you are free to designate a weapon or other item.
 
 ## Mechanical Rules

@@ -8,7 +8,7 @@ level: 1
 ---
 # Spell Substitution
 
-[Exploration](Exploration.md "Action & Ability Trait") [Wizard](Wizard.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Wizard](Rules/Traits/Class/Wizard.md "General Trait")
 **Description:** You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparations, and you have uncovered a shortcut allowing you to substitute new spells for those you originally prepared.  
 
 **Source:** [[Arcane Thesis]]

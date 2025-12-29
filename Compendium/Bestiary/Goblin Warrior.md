@@ -1,5 +1,4 @@
 ---
-aliases: "Goblin Warrior"
 tags: 
   - creature/type/humanoid
 statblock: inline
@@ -21,8 +20,8 @@ layout: Basic Pathfinder 2e Layout
 name: "Goblin Warrior"
 level: "Creature -1"
 size: "Small"
-trait_03: "Goblin"
-trait_04: "Humanoid"
+trait_03: "[[Goblin]]"
+trait_04: "[[Humanoid]]"
 modifier: 2
 perception:
   - name: "Perception"

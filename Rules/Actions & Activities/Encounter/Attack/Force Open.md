@@ -46,7 +46,9 @@ format: 1_0
 | Lift iron portcullis   | 30                |
 | Bend metal bars        | 30                |
 
-## Force Open Bindings
+## Gameplay Tip
+
+### Force Open Bindings
 
 Sometimes when you are Restrained, you may want to try to break your bindings instead of escaping them. This relies on you damaging the structural integrity of your bindings enough for you to be freed.  Here is a sample table of binding DCs.
 

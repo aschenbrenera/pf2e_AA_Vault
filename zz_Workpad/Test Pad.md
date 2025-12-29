@@ -11,7 +11,7 @@ format: 1_0
 name: Sample Encounter 1
 creatures:
   - 1: Goblin Warrior
-party: Default
+party: Custom
 ```
 
 ```encounter

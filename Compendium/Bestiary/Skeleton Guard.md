@@ -1,5 +1,4 @@
 ---
-aliases: "Skeleton Guard"
 tags: 
   - creature/type/undead
 statblock: inline
@@ -21,10 +20,10 @@ layout: Basic Pathfinder 2e Layout
 name: "Skeleton Guard"
 level: "Creature -1"
 size: "Medium"
-trait_03: "Mindless"
-trait_04: "Skeleton"
-trait_05: "Undead"
-trait_06: "Unholy"
+trait_03: "[[Mindless]]"
+trait_04: "[[Skeleton]]"
+trait_05: "[[Undead]]"
+trait_06: "[[Unholy]]"
 modifier: 2
 perception:
   - name: "Perception"
@@ -48,7 +47,6 @@ hp: 4
 health:
   - name: HP
     desc: "4 ([[void healing]]); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
-
 
 attacks:
   - name: Melee Scimitar

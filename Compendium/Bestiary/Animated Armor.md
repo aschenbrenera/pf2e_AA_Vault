@@ -1,5 +1,4 @@
 ---
-aliases: "Animated Armor"
 tags: 
   - creature/type/construct
 statblock: inline
@@ -21,8 +20,8 @@ layout: Basic Pathfinder 2e Layout
 name: "Animated Armor"
 level: "Creature 2"
 size: "Medium"
-trait_02: "Construct"
-trait_03: "Mindless"
+trait_02: "[[Construct]]"
+trait_03: "[[Mindless]]"
 modifier: 6
 perception:
   - name: "Perception"

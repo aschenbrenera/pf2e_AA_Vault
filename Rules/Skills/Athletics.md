@@ -17,7 +17,7 @@ Athletics allows you to perform deeds of physical prowess.
 - [[High Jump]] ⬥⬥
 - [[Long Jump]] ⬥⬥
 - [[Reposition]] ⬥
-- [[Shove]] ⬥
+- [[Rules/Actions & Activities/Encounter/Attack/Shove]] ⬥
 - [[Swim]] ⬥
 - [[Trip]] ⬥
 

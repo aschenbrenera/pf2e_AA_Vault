@@ -133,5 +133,5 @@ Total: 9 (Initial 5 + Curriculum 2 + Level 2)
 
 Total: 3 (Curriculum 1 + Level 2 )
 - [[Blazing Bolt]]
-- [[Animated Assult]]
+- [[Animated Assault]]
 - [[Resist Energy]]

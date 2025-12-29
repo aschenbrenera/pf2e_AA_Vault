@@ -12,7 +12,7 @@ format: 1_0
 ---
 # Force Bolt [](#Actions "Single Action") &emsp;*(Focus 1)*
 
-[Uncommon](Uncommon.md "Uncommon Rarity Trait") [Wizard](Wizard.md "Class Trait") [Focus](Focus.md "General Trait") [Force](Force.md "Effect Trait") [Manipulate](Manipulate.md "General Trait")
+[Uncommon](Uncommon.md "Uncommon Rarity Trait") [Wizard](Rules/Traits/Class/Wizard.md "Class Trait") [Focus](Focus.md "General Trait") [Force](Force.md "Effect Trait") [Manipulate](Manipulate.md "General Trait")
 **Description:** You fire an arrow-shaped bolt of force, one of the most common and reliable forms of battle magic. 
 
 **Range:** 30 feet

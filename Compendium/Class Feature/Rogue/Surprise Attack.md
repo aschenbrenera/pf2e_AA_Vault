@@ -6,7 +6,7 @@ level: 1
 ---
 # Surprise Attack
 
-[Rogue](Rogue.md "Class Trait")
+[Rogue](Rules/Traits/Class/Rogue.md "Class Trait")
 **Description:** You spring into combat faster than foes can react.
 
 ## Mechanical Rules

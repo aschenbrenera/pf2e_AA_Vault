@@ -4,79 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "dc6f3aa02f4a5840",
+        "id": "06309cc771602974",
         "type": "tabs",
         "children": [
           {
-            "id": "84c457430b177037",
+            "id": "d41151bb57d8c735",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "custom_campaign/Module/Appendix - Outline.md",
-                "mode": "preview",
-                "source": true
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Appendix - Outline"
-            }
-          },
-          {
-            "id": "13c50d79034df2d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "custom_campaign/Module/House Narrative.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "House Narrative"
-            }
-          },
-          {
-            "id": "20919f2eaaf9d909",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "custom_campaign/Custom Mechanics/Time Clock.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Time Clock"
-            }
-          },
-          {
-            "id": "08e68614fd3e013e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/General/Simple DCs.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Simple DCs"
-            }
-          },
-          {
-            "id": "b37e696951d49b91",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "custom_campaign/Images/DeathHousePlayerMap.webp"
-              },
-              "icon": "lucide-image",
-              "title": "DeathHousePlayerMap"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -108,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"Simp",
+                "query": "object immunities",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "custom_campaign/Module/Untitled.md",
+                "file": "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of GM House Narrative"
             }
           },
           {
@@ -179,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "custom_campaign/Module/Intro.md",
+                "file": "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -189,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Intro"
+              "title": "Backlinks for GM House Narrative"
             }
           },
           {
@@ -198,50 +139,20 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
-            }
-          },
-          {
-            "id": "223b10db1588bd2c",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "initiative-tracker-view"
-            }
-          },
-          {
-            "id": "a56dccd1863de579",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "advanced-tables-toolbar"
-            }
-          },
-          {
-            "id": "4a617d126e013d0d",
-            "type": "leaf",
-            "state": {
-              "type": "initiative-tracker-view",
-              "state": {},
-              "icon": "initiative-tracker",
-              "title": "Initiative Tracker"
+              "title": "Outgoing links from GM House Narrative"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 211.5,
-    "collapsed": true
+    "width": 239.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -258,52 +169,53 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "13c50d79034df2d5",
+  "active": "7cce4e82fddb236b",
   "lastOpenFiles": [
-    "custom_campaign/Custom Mechanics/Time Clock.md",
+    "Compendium/Hazards/Hidden Pit.md",
     "Rules/General/Simple DCs.md",
-    "custom_campaign/Images/DeathHousePlayerMap.webp",
-    "Rules/Actions & Activities/Encounter/Thievery/Pick a Lock.md",
-    "custom_campaign/Images/house_front.png",
-    "custom_campaign/Images/deathhouse_map.png",
-    "custom_campaign/Images/deathhouse_dungeon.png",
-    "custom_campaign/Images/deathhouse_basement.png",
-    "custom_campaign/Images/DeathHouse.jpg",
-    "custom_campaign/Module/House Narrative.md",
-    "Rules/Skills/Thievery.md",
+    "Rules/Actions & Activities/Downtime/Earn Income.md",
+    "Rules/Actions & Activities/Downtime/Craft.md",
     "A GM Screen/GM Screen.md",
-    "custom_campaign/Module/Intro.md",
-    "custom_campaign/Module/Appendix - Outline.md",
-    "custom_campaign/Module/Old Narrative.md",
-    "custom_campaign/Temp.md",
-    "custom_campaign/Module/Appendix - Ambience.md",
-    "custom_campaign/PCs/Party Comp.md",
-    "custom_campaign/NPCs/Rose and Thorn.md",
-    "custom_campaign/Images/Death House Dungeon Map.png",
-    "custom_campaign/Custom Mechanics/Paranoia.md",
-    "custom_campaign/PCs",
-    "custom_campaign/NPCs",
-    "custom_campaign/Module/Possible Overview.md",
-    "custom_campaign/Module/Appendix - Random Encounter.md",
-    "custom_campaign/Module",
-    "custom_campaign/Images/The Durst Family.png",
-    "custom_campaign/Images",
-    "custom_campaign/Custom Mechanics",
-    "custom_campaign",
+    "Rules/Skills/Crafting.md",
+    "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
+    "Rules/Item/General/Item Damage.md",
+    "Compendium/Bestiary/Skeleton Guard.md",
+    "Compendium/Bestiary/Goblin Warrior.md",
+    "Compendium/Bestiary/Centipede Swarm.md",
     "Compendium/Bestiary/Animated Broom.md",
     "Compendium/Bestiary/Animated Armor.md",
-    "Campaign/Party Inventory.md",
-    "Campaign/PCs/Taghira.md",
-    "Campaign/Custom Items/Whisperwind Shortbow.md",
-    "Campaign/Custom Items/Taghira’s Fur Cloak.md",
-    "zz_Attachments/FurCloak.png",
-    "zz_Attachments/FurCloack.png",
-    "Campaign/Custom Items/Rogue Shortsword.md",
-    "World/Golarion Lore/Location/Golarion Map.md",
-    "Campaign/PCs/Thyra.md",
-    "Rules/Traits/Archetype",
-    "Compendium/Items/Armor/Leather Group",
-    "Compendium/Items/Armor/Composite Group",
-    "Rules/Item/Armor Specialization"
+    "Compendium/Hazards",
+    "custom_campaign/DH Module/NPCs/Rose and Thorn.md",
+    "custom_campaign/DH Module/Images/GM Images/deathhouse_floors.png",
+    "custom_campaign/PCs/DH_Rogue.md",
+    "custom_campaign/PCs/DH_Wizard.md",
+    "custom_campaign/PCs/Prestoferlon.md",
+    "Compendium/Items/Gear/Tools/Lock.md",
+    "custom_campaign/DH Module/NPCs/Death House Notes.md",
+    "Rules/Actions & Activities/Encounter/Attack/Force Open.md",
+    "Rules/Actions & Activities/Encounter/Thievery/Pick a Lock.md",
+    "Compendium/Items/Gear/Toolkits/Thieves' Toolkit.md",
+    "Compendium/Feats/Skill Feats/Level 1/Improvise Tool.md",
+    "Rules/Skills/Thievery.md",
+    "Rules/Skills/Athletics.md",
+    "Compendium/Items/Gear/Tools/Compass.md",
+    "custom_campaign/DH Module/Images/GM Images/deathhouse_basement.png",
+    "custom_campaign/DH Module/Images/Player Images/dh_poem.jpeg",
+    "custom_campaign/DH Module/Images/Player Images/house_front.png",
+    "custom_campaign/Images/d20-13.png",
+    "custom_campaign/Images",
+    "custom_campaign/DH Module/Walkthrough",
+    "custom_campaign/DH Module/AV",
+    "Compendium/Items/Weapon/Bomb",
+    "custom_campaign/DH Module/Images/GM Images/GhoulishEncounterMap.png",
+    "custom_campaign/DH Module/Images/GM Images/deathhouse_dungeon.png",
+    "custom_campaign/DH Module/Images/GM Images/DeathHouse.jpg",
+    "custom_campaign/DH Module/Images/Player Images/DeathHousePlayerMap.webp",
+    "custom_campaign/DH Module/Images/Player Images/Death House Dungeon Map.png",
+    "custom_campaign/DH Module/Images/Player Images",
+    "custom_campaign/DH Module/Images/GM Images",
+    "Compendium/Feats/Archetype/Duelist",
+    "Compendium/Feats/Class Feats/Fighter",
+    "Compendium/Class Feature/Fighter"
   ]
 }

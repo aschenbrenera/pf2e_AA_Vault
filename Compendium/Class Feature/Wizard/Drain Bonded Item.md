@@ -8,7 +8,7 @@ format: 1_0
 ---
 # Drain Bonded Item [](#Actions "Free Action")
 
-[Arcane](Arcane.md "General Trait") [Wizard](Wizard.md "General Trait")
+[Arcane](Arcane.md "General Trait") [Wizard](Rules/Traits/Class/Wizard.md "General Trait")
 **Description:** You expend the magical power stored in your bonded item. 
 
 **Frequency:** once per day

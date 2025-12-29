@@ -6,7 +6,7 @@ level: 1
 ---
 # Sneak Attack
 
-[Rogue](Rogue.md "Class Trait")
+[Rogue](Rules/Traits/Class/Rogue.md "Class Trait")
 **Description:** When your enemy can't properly defend itself, you take advantage to deal extra damage.
 
 ## Mechanical Rules

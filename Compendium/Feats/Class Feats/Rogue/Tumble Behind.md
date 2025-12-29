@@ -7,7 +7,7 @@ format: 1_0
 ---
 # Tumble Behind &emsp;*(Feat 1)*
 
-[Rogue](Rogue.md "Class Trait")
+[Rogue](Rules/Traits/Class/Rogue.md "Class Trait")
 **Description:** You tumble under and behind your foe, your rapid movement letting you catch them off guard.
 
 ## Mechanical Rules

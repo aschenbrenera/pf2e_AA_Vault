@@ -1,43 +1,43 @@
 {
   "players": [
     {
-      "note": "Taghira",
-      "path": "Campaign/PCs/Taghira.md",
-      "name": "Taghira",
-      "ac": 20,
-      "hp": 41,
+      "note": "Wizard",
+      "path": "custom_campaign/PCs/Wizard.md",
+      "name": "Wizard",
+      "ac": 18,
+      "hp": 24,
       "level": 3,
       "modifier": 8,
       "player": true
     },
     {
-      "note": "Thyra",
-      "path": "Campaign/PCs/Thyra.md",
-      "name": "Thyra",
+      "note": "Rogue",
+      "path": "custom_campaign/PCs/Rogue.md",
+      "name": "Rogue",
+      "ac": 20,
+      "hp": 35,
+      "level": 3,
+      "modifier": 9,
+      "player": true
+    },
+    {
+      "note": "Fighter",
+      "path": "custom_campaign/PCs/Fighter.md",
+      "name": "Fighter",
       "ac": 17,
-      "hp": 32,
-      "level": 3,
-      "modifier": 4,
-      "player": true
-    },
-    {
-      "note": "Gunther",
-      "path": "Campaign/PCs/Gunther.md",
-      "name": "Gunther",
-      "ac": 18,
-      "hp": 46,
-      "level": 3,
-      "modifier": 6,
-      "player": true
-    },
-    {
-      "note": "Lumii",
-      "path": "Campaign/PCs/Lumii.md",
-      "name": "Lumii",
-      "ac": 19,
-      "hp": 30,
+      "hp": 47,
       "level": 3,
       "modifier": 7,
+      "player": true
+    },
+    {
+      "note": "Prestoferlon",
+      "path": "custom_campaign/PCs/Prestoferlon.md",
+      "name": "Prestoferlon",
+      "ac": 17,
+      "hp": 38,
+      "level": 3,
+      "modifier": 6,
       "player": true
     }
   ],
@@ -49,6 +49,15 @@
         "Thyra",
         "Gunther",
         "Lumii"
+      ]
+    },
+    {
+      "name": "Custom",
+      "players": [
+        "Wizard",
+        "Rogue",
+        "Fighter",
+        "Prestoferlon"
       ]
     }
   ],
@@ -306,62 +315,18 @@
   "state": {
     "creatures": [
       {
-        "name": "Taghira",
+        "name": "Wizard",
         "initiative": 0,
         "static": false,
         "modifier": 8,
-        "hp": 41,
-        "currentMaxHP": 41,
-        "ac": 20,
-        "currentAC": 20,
-        "note": "Taghira",
-        "path": "Campaign/PCs/Taghira.md",
-        "id": "ID_1b99d9cb39ea",
-        "currentHP": 30,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 3,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Thyra",
-        "initiative": 0,
-        "static": false,
-        "modifier": 4,
-        "hp": 32,
-        "currentMaxHP": 32,
-        "ac": 17,
-        "currentAC": 17,
-        "note": "Thyra",
-        "path": "Campaign/PCs/Thyra.md",
-        "id": "ID_8aca78c939c9",
-        "currentHP": 22,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": 3,
-        "player": true,
-        "active": false,
-        "hidden": false,
-        "friendly": false
-      },
-      {
-        "name": "Gunther",
-        "initiative": 0,
-        "static": false,
-        "modifier": 6,
-        "hp": 46,
-        "currentMaxHP": 46,
+        "hp": 24,
+        "currentMaxHP": 24,
         "ac": 18,
         "currentAC": 18,
-        "note": "Gunther",
-        "path": "Campaign/PCs/Gunther.md",
-        "id": "ID_0b19d9588bb9",
-        "currentHP": 34,
+        "note": "Wizard",
+        "path": "custom_campaign/PCs/Wizard.md",
+        "id": "ID_db889b5a6a9a",
+        "currentHP": 24,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -372,18 +337,40 @@
         "friendly": false
       },
       {
-        "name": "Lumii",
+        "name": "Rogue",
+        "initiative": 0,
+        "static": false,
+        "modifier": 9,
+        "hp": 35,
+        "currentMaxHP": 35,
+        "ac": 20,
+        "currentAC": 20,
+        "note": "Rogue",
+        "path": "custom_campaign/PCs/Rogue.md",
+        "id": "ID_981889ab2b2b",
+        "currentHP": 35,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Fighter",
         "initiative": 0,
         "static": false,
         "modifier": 7,
-        "hp": 30,
-        "currentMaxHP": 30,
-        "ac": 19,
-        "currentAC": 19,
-        "note": "Lumii",
-        "path": "Campaign/PCs/Lumii.md",
-        "id": "ID_0a9be98869eb",
-        "currentHP": 14,
+        "hp": 47,
+        "currentMaxHP": 47,
+        "ac": 17,
+        "currentAC": 17,
+        "note": "Fighter",
+        "path": "custom_campaign/PCs/Fighter.md",
+        "id": "ID_28fa5b2b3a3b",
+        "currentHP": 47,
         "tempHP": 0,
         "status": [],
         "enabled": true,
@@ -394,126 +381,64 @@
         "friendly": false
       },
       {
-        "name": "Goblin Warrior",
-        "initiative": 16,
+        "name": "Prestoferlon",
+        "initiative": 0,
         "static": false,
-        "modifier": 2,
-        "hp": 6,
-        "currentMaxHP": 6,
-        "ac": 16,
-        "currentAC": 16,
-        "path": "Compendium/Bestiary/Goblin Warrior.md",
-        "id": "ID_f92a5be99a88",
-        "currentHP": 6,
+        "modifier": 6,
+        "hp": 38,
+        "currentMaxHP": 38,
+        "ac": 17,
+        "currentAC": 17,
+        "note": "Prestoferlon",
+        "path": "custom_campaign/PCs/Prestoferlon.md",
+        "id": "ID_29a91b596a6a",
+        "currentHP": 38,
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "level": "Creature -1",
+        "level": 3,
+        "player": true,
+        "active": false,
+        "hidden": false,
+        "friendly": false
+      },
+      {
+        "name": "Animated Armor",
+        "initiative": 21,
+        "static": false,
+        "modifier": 6,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "ac": 17,
+        "currentAC": 17,
+        "path": "Compendium/Bestiary/Animated Armor.md",
+        "id": "ID_1b2b9b68a858",
+        "currentHP": 20,
+        "tempHP": 0,
+        "status": [],
+        "enabled": true,
+        "level": "Creature 2",
         "active": false,
         "hidden": false,
         "friendly": false,
         "rollHP": false
       },
       {
-        "name": "Skeleton Guard",
-        "initiative": 18,
+        "name": "Animated Armor",
+        "initiative": 21,
         "static": false,
-        "modifier": 2,
-        "hp": 4,
-        "currentMaxHP": 4,
-        "ac": 16,
-        "currentAC": 16,
-        "path": "Compendium/Bestiary/Skeleton Guard.md",
-        "id": "ID_3b8a0aca985a",
-        "currentHP": 4,
+        "modifier": 6,
+        "hp": 20,
+        "currentMaxHP": 20,
+        "ac": 17,
+        "currentAC": 17,
+        "path": "Compendium/Bestiary/Animated Armor.md",
+        "id": "ID_59fb683848ca",
+        "currentHP": 20,
         "tempHP": 0,
         "status": [],
         "enabled": true,
-        "level": "Creature -1",
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "rollHP": false
-      },
-      {
-        "name": "Skeleton Guard",
-        "initiative": 18,
-        "static": false,
-        "modifier": 2,
-        "hp": 4,
-        "currentMaxHP": 4,
-        "ac": 16,
-        "currentAC": 16,
-        "path": "Compendium/Bestiary/Skeleton Guard.md",
-        "id": "ID_6af97a0b29f9",
-        "currentHP": 4,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": "Creature -1",
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "rollHP": false
-      },
-      {
-        "name": "Skeleton Guard",
-        "initiative": 18,
-        "static": false,
-        "modifier": 2,
-        "hp": 4,
-        "currentMaxHP": 4,
-        "ac": 16,
-        "currentAC": 16,
-        "path": "Compendium/Bestiary/Skeleton Guard.md",
-        "id": "ID_7828181b3b4a",
-        "currentHP": 4,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": "Creature -1",
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "rollHP": false
-      },
-      {
-        "name": "Skeleton Guard",
-        "initiative": 18,
-        "static": false,
-        "modifier": 2,
-        "hp": 4,
-        "currentMaxHP": 4,
-        "ac": 16,
-        "currentAC": 16,
-        "path": "Compendium/Bestiary/Skeleton Guard.md",
-        "id": "ID_2b6bf868eae8",
-        "currentHP": 4,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": "Creature -1",
-        "active": false,
-        "hidden": false,
-        "friendly": false,
-        "rollHP": false
-      },
-      {
-        "name": "Skeleton Guard",
-        "initiative": 18,
-        "static": false,
-        "modifier": 2,
-        "hp": 4,
-        "currentMaxHP": 4,
-        "ac": 16,
-        "currentAC": 16,
-        "path": "Compendium/Bestiary/Skeleton Guard.md",
-        "id": "ID_f8abbafa38cb",
-        "currentHP": 4,
-        "tempHP": 0,
-        "status": [],
-        "enabled": true,
-        "level": "Creature -1",
+        "level": "Creature 2",
         "active": false,
         "hidden": false,
         "friendly": false,
@@ -521,7 +446,7 @@
       }
     ],
     "state": false,
-    "name": "Sample Encounter 2",
+    "name": "Haunted Armor",
     "round": 1,
     "logFile": "",
     "rollHP": false
@@ -534,11 +459,11 @@
   "encounters": {},
   "warnedAboutImports": false,
   "openState": {
-    "battle": false,
-    "party": false,
+    "battle": true,
+    "party": true,
     "status": false,
     "plugin": true,
-    "player": false
+    "player": true
   },
   "hpOverflow": "ignore",
   "additiveTemp": false,
@@ -552,7 +477,7 @@
   "descending": true,
   "builder": {
     "showParty": true,
-    "showXP": true,
+    "showXP": false,
     "sidebarIcon": true,
     "headers": [
       {
@@ -575,7 +500,85 @@
         "field": "alignment",
         "type": 0
       }
-    ]
+    ],
+    "filters": {
+      "filters": [
+        {
+          "type": 0,
+          "text": "CR",
+          "fields": [
+            "cr"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_CR_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Size",
+          "fields": [
+            "size"
+          ],
+          "options": [
+            "medium",
+            "small",
+            "large"
+          ],
+          "id": "ID_DEFAULT_SIZE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Type",
+          "fields": [
+            "type"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_TYPE_FILTER",
+          "derive": true
+        },
+        {
+          "type": 2,
+          "text": "Alignment",
+          "fields": [
+            "alignment"
+          ],
+          "options": [],
+          "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+          "derive": true
+        }
+      ],
+      "layout": [
+        {
+          "nested": [
+            {
+              "id": "ID_DEFAULT_CR_FILTER",
+              "type": "filter"
+            }
+          ],
+          "id": "ID_DEFAULT_NESTED_CR",
+          "type": "nested"
+        },
+        {
+          "id": "ID_DEFAULT_NESTED_LAYOUT",
+          "type": "nested",
+          "nested": [
+            {
+              "id": "ID_DEFAULT_SIZE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_TYPE_FILTER",
+              "type": "filter"
+            },
+            {
+              "id": "ID_DEFAULT_ALIGNMENT_FILTER",
+              "type": "filter"
+            }
+          ]
+        }
+      ]
+    }
   },
   "rollPlayerInitiatives": 2,
   "homebrew": [],
