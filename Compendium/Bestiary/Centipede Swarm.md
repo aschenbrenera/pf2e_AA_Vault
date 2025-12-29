@@ -2,6 +2,8 @@
 tags: 
   - creature/type/animal
   - creature/type/swarm
+  - trait/creature/animal
+  - trait/creature/swarm
 statblock: inline
 name: "Centipede Swarm"
 level: 3

@@ -1,6 +1,8 @@
 ---
 tags: 
   - creature/type/construct
+  - trait/creature/construct
+  - trait/creature/mindless
 statblock: inline
 name: "Animated Armor"
 level: 2

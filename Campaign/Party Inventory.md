@@ -22,7 +22,7 @@ tags:
      - Scroll of [[Heal]] (Thyra)
      - Scroll of [[Sanctuary]] (Thyra)
      - Scroll of [[Bless]] (Thyra)
-     - Scroll of [[Remove Fear]] (Thyra)
+     - Scroll of [[Clear Mind]] (Thyra)
      - Scroll of [[Restoration]] (Thyra)
      - Vine Arrow (Taghira)
      - 2 Elixir's of Life (Gunther)

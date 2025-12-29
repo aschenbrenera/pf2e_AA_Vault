@@ -8,13 +8,29 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d41151bb57d8c735",
+            "id": "052991ad2d8b11bc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
+                "mode": "preview",
+                "source": true
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "GM House Narrative"
+            }
+          },
+          {
+            "id": "cb1c9df27a99dc57",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "custom_campaign/DH Module/Images/GM Images/deathhouse_basement.png"
+              },
+              "icon": "lucide-image",
+              "title": "deathhouse_basement"
             }
           }
         ]
@@ -169,37 +185,38 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7cce4e82fddb236b",
+  "active": "052991ad2d8b11bc",
   "lastOpenFiles": [
-    "Compendium/Hazards/Hidden Pit.md",
-    "Rules/General/Simple DCs.md",
-    "Rules/Actions & Activities/Downtime/Earn Income.md",
-    "Rules/Actions & Activities/Downtime/Craft.md",
-    "A GM Screen/GM Screen.md",
-    "Rules/Skills/Crafting.md",
+    "custom_campaign/DH Module/Images/GM Images/deathhouse_basement.png",
     "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
-    "Rules/Item/General/Item Damage.md",
+    "Compendium/Bestiary/Grothlut.md",
+    "A GM Screen/GM Screen.md",
+    "zz_Attachments/Grothlut.webp",
+    "Campaign/Custom Items/Taghira’s Fur Cloak.md",
+    "Campaign/PCs/Taghira.md",
+    "custom_campaign/DH Module/Images/GM Images/deathhouse_dungeon.png",
+    "Compendium/Spells/2nd Rank/Blazing Bolt.md",
+    "World/Bestiary Lore/Skeleton Lore.md",
+    "World/Bestiary Lore/Goblin Lore.md",
+    "World/Bestiary Lore/Fleshwarp Lore.md",
     "Compendium/Bestiary/Skeleton Guard.md",
     "Compendium/Bestiary/Goblin Warrior.md",
     "Compendium/Bestiary/Centipede Swarm.md",
     "Compendium/Bestiary/Animated Broom.md",
     "Compendium/Bestiary/Animated Armor.md",
+    "Compendium/Spells/2nd Rank/Animated Assault.md",
+    "Campaign/Party Inventory.md",
+    "Compendium/Hazards/Hidden Pit.md",
+    "Rules/General/Simple DCs.md",
+    "Rules/Actions & Activities/Downtime/Earn Income.md",
+    "Rules/Actions & Activities/Downtime/Craft.md",
+    "Rules/Skills/Crafting.md",
+    "Rules/Item/General/Item Damage.md",
     "Compendium/Hazards",
     "custom_campaign/DH Module/NPCs/Rose and Thorn.md",
     "custom_campaign/DH Module/Images/GM Images/deathhouse_floors.png",
     "custom_campaign/PCs/DH_Rogue.md",
     "custom_campaign/PCs/DH_Wizard.md",
-    "custom_campaign/PCs/Prestoferlon.md",
-    "Compendium/Items/Gear/Tools/Lock.md",
-    "custom_campaign/DH Module/NPCs/Death House Notes.md",
-    "Rules/Actions & Activities/Encounter/Attack/Force Open.md",
-    "Rules/Actions & Activities/Encounter/Thievery/Pick a Lock.md",
-    "Compendium/Items/Gear/Toolkits/Thieves' Toolkit.md",
-    "Compendium/Feats/Skill Feats/Level 1/Improvise Tool.md",
-    "Rules/Skills/Thievery.md",
-    "Rules/Skills/Athletics.md",
-    "Compendium/Items/Gear/Tools/Compass.md",
-    "custom_campaign/DH Module/Images/GM Images/deathhouse_basement.png",
     "custom_campaign/DH Module/Images/Player Images/dh_poem.jpeg",
     "custom_campaign/DH Module/Images/Player Images/house_front.png",
     "custom_campaign/Images/d20-13.png",
@@ -208,10 +225,8 @@
     "custom_campaign/DH Module/AV",
     "Compendium/Items/Weapon/Bomb",
     "custom_campaign/DH Module/Images/GM Images/GhoulishEncounterMap.png",
-    "custom_campaign/DH Module/Images/GM Images/deathhouse_dungeon.png",
     "custom_campaign/DH Module/Images/GM Images/DeathHouse.jpg",
     "custom_campaign/DH Module/Images/Player Images/DeathHousePlayerMap.webp",
-    "custom_campaign/DH Module/Images/Player Images/Death House Dungeon Map.png",
     "custom_campaign/DH Module/Images/Player Images",
     "custom_campaign/DH Module/Images/GM Images",
     "Compendium/Feats/Archetype/Duelist",

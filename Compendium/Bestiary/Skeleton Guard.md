@@ -1,6 +1,10 @@
 ---
 tags: 
   - creature/type/undead
+  - trait/creature/undead
+  - trait/creature/skeleton
+  - trait/creature/mindless
+  - trait/creature/unholy
 statblock: inline
 name: "Skeleton Guard"
 level: -1
@@ -54,7 +58,7 @@ attacks:
   - name: Melee Claw
     desc: "⬻ +6 (+2/-2) ([[agile]], [[finesse]]); __Damage__ 1d4+2 (1d4+2) slashing"
   - name: Ranged Shortbow
-    desc: "⬻ +6 (+1/-4) ([[deadly|deadly 1d10]], [[range-increment|range increment 60 feet]], [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
+    desc: "⬻ +6 (+1/-4) ([[deadly|deadly 1d10]], range 60 feet, [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 
 sourcebook: "_Monster Core_, pg. 312"
 ```

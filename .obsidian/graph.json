@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "alchem",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -123,6 +123,6 @@
   "repelStrength": 9.9951171875,
   "linkStrength": 1,
   "linkDistance": 50,
-  "scale": 0.16500702960772862,
+  "scale": 0.7650932606063144,
   "close": true
 }

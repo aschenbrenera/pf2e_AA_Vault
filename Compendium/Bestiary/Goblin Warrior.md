@@ -1,6 +1,8 @@
 ---
 tags: 
   - creature/type/humanoid
+  - trait/creature/goblin
+  - trait/creature/humanoid
 statblock: inline
 name: "Goblin Warrior"
 level: -1
