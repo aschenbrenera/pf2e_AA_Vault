@@ -11,7 +11,7 @@ format: 1_0
 ---
 # Exacting Strike [](#Actions "Single Action") &emsp;*(Feat 1)*
 
-[DH_Fighter](DH_Fighter.md "Class Trait") [Press](Press.md "Combat Trait")
+[Fighter](Fighter.md "Class Trait") [Press](Press.md "Combat Trait")
 **Description:** You make a controlled follow-up attack, fully accounting for your momentum. 
 
 **Activity:** Single Action ⬥

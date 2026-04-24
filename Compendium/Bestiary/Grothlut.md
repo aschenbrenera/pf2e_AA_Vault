@@ -26,8 +26,8 @@ layout: Basic Pathfinder 2e Layout
 name: "Grothlut"
 level: "Creature 3"
 size: "Medium"
-trait_03: "[[Aberration]]"
-trait_04: "[[Mindless]]"
+trait_02: "[[Aberration]]"
+trait_03: "[[Mindless]]"
 modifier: 5
 perception:
   - name: "Perception"
@@ -36,8 +36,6 @@ skills:
   - name: "Skills"
     desc: "__Athletics__: +11; "
 abilityMods: [4, -2, 4, -5, 0, -3]
-
-speed: 20 feet
 
 ac: 17
 armorclass:
@@ -48,9 +46,11 @@ health:
   - name: HP
     desc: "50; __Immunities__ acid, mental"
 
-abilities_top:
+abilities_mid:
   - name: Disgusting Demise
-    desc: " (acid, poison) When the grothlut is reduced to 0 Hit Points, its digestive organs rupture, unleashing alchemical acid and poison upon all creatures in a 30-foot emanation. Each creature in the area must succeed at a DC 19 Fortitude save or take 2d6 acid damage and become [[Sickened]] 1 (double damage and sickened 2 on a critical failure)."
+    desc: "(acid, poison) When the grothlut is reduced to 0 Hit Points, its digestive organs rupture, unleashing alchemical acid and poison upon all creatures in a 30-foot emanation. Each creature in the area must succeed at a DC 19 Fortitude save or take 2d6 acid damage and become [[Sickened]] 1 (double damage and sickened 2 on a critical failure)."
+
+speed: 20 feet
 
 attacks:
   - name: Melee Claw
@@ -67,7 +67,7 @@ sourcebook: "_Monster Core_, pg. 312"
 
 
 ```encounter-table
-name: Skeleton Guard
+name: Grothlut
 creatures:
-  - 1: Skeleton Guard
+  - 1: Grothlut
 ```

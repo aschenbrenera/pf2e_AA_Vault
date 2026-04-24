@@ -4,33 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "06309cc771602974",
+        "id": "b319fcbd0357142b",
         "type": "tabs",
         "children": [
           {
-            "id": "052991ad2d8b11bc",
+            "id": "3099e3879b6b10ec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
+                "file": "Compendium/Feats/Skill Feats/Level 2/Magical Shorthand.md",
                 "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "GM House Narrative"
-            }
-          },
-          {
-            "id": "cb1c9df27a99dc57",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "custom_campaign/DH Module/Images/GM Images/deathhouse_basement.png"
-              },
-              "icon": "lucide-image",
-              "title": "deathhouse_basement"
+              "title": "Magical Shorthand"
             }
           }
         ]
@@ -65,10 +53,10 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "object immunities",
+                "query": "reactive",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               },
@@ -121,13 +109,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
+                "file": "Compendium/Feats/Skill Feats/Level 2/Magical Shorthand.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GM House Narrative"
+              "title": "Outline of Magical Shorthand"
             }
           },
           {
@@ -136,7 +124,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GM House Narrative"
+              "title": "Backlinks"
             }
           },
           {
@@ -155,12 +142,21 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GM House Narrative"
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "6a54414e784ddbc5",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {},
+              "icon": "initiative-tracker",
+              "title": "Initiative Tracker"
             }
           }
         ],
@@ -168,7 +164,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5
+    "width": 246.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -185,52 +181,53 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "052991ad2d8b11bc",
+  "active": "7cce4e82fddb236b",
   "lastOpenFiles": [
-    "custom_campaign/DH Module/Images/GM Images/deathhouse_basement.png",
-    "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
-    "Compendium/Bestiary/Grothlut.md",
+    "Campaign/PCs/Thyra.md",
     "A GM Screen/GM Screen.md",
-    "zz_Attachments/Grothlut.webp",
-    "Campaign/Custom Items/Taghira’s Fur Cloak.md",
+    "Compendium/Feats/Skill Feats/Level 2/Magical Shorthand.md",
+    "Compendium/Feats/Skill Feats/Level 7/Quick Recognition.md",
+    "Compendium/Feats/Skill Feats/Level 2/Automatic Knowledge.md",
+    "Compendium/Feats/Skill Feats/Level 2/Magical Crafting.md",
+    "Compendium/Feats/Skill Feats/Level 2/Rolling Landing.md",
+    "Compendium/Feats/Skill Feats/Level 2/Shadow Mark.md",
+    "Compendium/Feats/Class Feats/Ranger/Hunted Shot.md",
+    "Compendium/Feats/Class Feats/Versatile/Cantrip Expansion.md",
+    "Compendium/Feats/Class Feats/Versatile/Trap Finder.md",
+    "Compendium/Feats/Class Feats/Versatile/Quick Draw.md",
+    "Compendium/Feats/Class Feats/Versatile/Reach Spell.md",
+    "Compendium/Feats/Class Feats/Versatile/Reactive Strike.md",
     "Campaign/PCs/Taghira.md",
-    "custom_campaign/DH Module/Images/GM Images/deathhouse_dungeon.png",
-    "Compendium/Spells/2nd Rank/Blazing Bolt.md",
-    "World/Bestiary Lore/Skeleton Lore.md",
-    "World/Bestiary Lore/Goblin Lore.md",
-    "World/Bestiary Lore/Fleshwarp Lore.md",
-    "Compendium/Bestiary/Skeleton Guard.md",
-    "Compendium/Bestiary/Goblin Warrior.md",
-    "Compendium/Bestiary/Centipede Swarm.md",
-    "Compendium/Bestiary/Animated Broom.md",
-    "Compendium/Bestiary/Animated Armor.md",
-    "Compendium/Spells/2nd Rank/Animated Assault.md",
-    "Campaign/Party Inventory.md",
-    "Compendium/Hazards/Hidden Pit.md",
-    "Rules/General/Simple DCs.md",
-    "Rules/Actions & Activities/Downtime/Earn Income.md",
-    "Rules/Actions & Activities/Downtime/Craft.md",
-    "Rules/Skills/Crafting.md",
-    "Rules/Item/General/Item Damage.md",
-    "Compendium/Hazards",
-    "custom_campaign/DH Module/NPCs/Rose and Thorn.md",
-    "custom_campaign/DH Module/Images/GM Images/deathhouse_floors.png",
-    "custom_campaign/PCs/DH_Rogue.md",
-    "custom_campaign/PCs/DH_Wizard.md",
+    "Compendium/Feats/Skill Feats/Level 1/Virtuosic Performer.md",
+    "Campaign/PCs/Lumii.md",
+    "Compendium/Feats/Skill Feats/Level 1/Quick Jump.md",
+    "Compendium/Feats/Skill Feats/Level 1/Quick Squeeze.md",
+    "Compendium/Feats/Archetype/Acrobat/Contortionist.md",
+    "Compendium/Feats/Class Feats/Rogue/Mug.md",
+    "Compendium/Feats/Archetype/Acrobat/Acrobat Dedication.md",
+    "Compendium/Feats/Class Feats/Rogue/Nimble Dodge.md",
+    "Compendium/Feats/Class Feats/Rogue/Unbalancing Blow.md",
+    "Compendium/Feats/Class Feats/Rogue/Tumble Behind.md",
+    "Campaign/PCs/Gunther.md",
     "custom_campaign/DH Module/Images/Player Images/dh_poem.jpeg",
-    "custom_campaign/DH Module/Images/Player Images/house_front.png",
+    "custom_campaign/DH Module/Images/Player Images/The Durst Family.png",
     "custom_campaign/Images/d20-13.png",
+    "custom_campaign/DH Module/Images/Player Images/house_front.png",
+    "custom_campaign/DH Module/Images/Player Images/DeathHousePlayerMap.webp",
+    "custom_campaign/DH Module/Images/Player Images/Death House Dungeon Map.png",
+    "custom_campaign/DH Module/Images/GM Images/DeathHouse.jpg",
+    "custom_campaign/DH Module/Images/GM Images/Walter.jpg",
+    "zz_Attachments/Animated_Broom.webp",
+    "zz_Attachments/Shadow.webp",
+    "Compendium/Items/Treasure/Held Items",
+    "Compendium/Items/Treasure",
+    "Rules/Abilities/Monster 1",
+    "Rules/Abilities/Monster",
+    "Compendium/Hazards",
     "custom_campaign/Images",
     "custom_campaign/DH Module/Walkthrough",
     "custom_campaign/DH Module/AV",
     "Compendium/Items/Weapon/Bomb",
-    "custom_campaign/DH Module/Images/GM Images/GhoulishEncounterMap.png",
-    "custom_campaign/DH Module/Images/GM Images/DeathHouse.jpg",
-    "custom_campaign/DH Module/Images/Player Images/DeathHousePlayerMap.webp",
-    "custom_campaign/DH Module/Images/Player Images",
-    "custom_campaign/DH Module/Images/GM Images",
-    "Compendium/Feats/Archetype/Duelist",
-    "Compendium/Feats/Class Feats/Fighter",
-    "Compendium/Class Feature/Fighter"
+    "custom_campaign/DH Module/Images/Player Images"
   ]
 }

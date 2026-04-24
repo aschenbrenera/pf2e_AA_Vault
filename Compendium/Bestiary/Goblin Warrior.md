@@ -22,8 +22,8 @@ layout: Basic Pathfinder 2e Layout
 name: "Goblin Warrior"
 level: "Creature -1"
 size: "Small"
+trait_02: "[[Humanoid]]"
 trait_03: "[[Goblin]]"
-trait_04: "[[Humanoid]]"
 modifier: 2
 perception:
   - name: "Perception"
@@ -34,14 +34,9 @@ skills:
     desc: "__Acrobatics__: +5; __Athletics__: +2; __Nature__: +1; __Stealth__: +5; "
 abilityMods: [0, 3, 1, 0, -1, 1]
 
-abilities_mid:
-  - name: "Goblin Scuttle"
-    desc: "⬲ __Trigger__ A goblin ally ends a move action adjacent to the warrior. __Effect__  The goblin warrior [[Step|Steps]]."
 abilities_top:
   - name: Items
     desc: "dogslicer, leather armor, shortbow (10 arrows);"
-
-speed: 25 feet
 
 ac: 16
 armorclass:
@@ -51,6 +46,12 @@ hp: 6
 health:
   - name: HP
     desc: "6; "
+
+abilities_mid:
+  - name: "Goblin Scuttle"
+    desc: "⬲ __Trigger__ A goblin ally ends a move action adjacent to the warrior. __Effect__  The goblin warrior [[Step|Steps]]."
+    
+speed: 25 feet
 
 attacks:
   - name: Melee dogslicer

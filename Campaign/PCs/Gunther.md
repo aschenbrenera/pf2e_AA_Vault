@@ -2,25 +2,25 @@
 tags:
   - campaign
 name: Gunther
-level: 3
-hp: 46
-dc: 17
-ac: 18
-fort: 9 (E)
-ref: 5 (T)
-will: 8 (E)
-modifier: 6
-perception: 6 (T)
-deception: 7 (T)
-diplomacy: 9 (E)
+level: 4
+hp: 58
+dc: 18
+ac: 19
+fort: 10 (E)
+ref: 6 (T)
+will: 9 (E)
+modifier: 7
+perception: 7 (T)
+deception: 8 (T)
+diplomacy: 10 (E)
 stealth: 0 (U)
 arcana: 2 (U)
 crafting: 2 (U)
-medicine: 6 (T)
+medicine: 7 (T)
 nature: 1 (U)
 occultism: 2 (U)
-religion: 6 (T)
-society: 7 (T)
+religion: 7 (T)
+society: 8 (T)
 
 statblock: inline
 ---
@@ -31,30 +31,33 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Gunther"
-level: "PC 3"
+level: "PC 4"
 size: "Medium"
 trait_03: "Dwarf"
 trait_04: "Humanoid"
 trait_05: "Champion"
 trait_06: "Holy"
-modifier: 6
+modifier: 7
 perception:
   - name: "Perception"
-    desc: "+6; __[[Darkvision]]__;"
+    desc: "+7; __[[Darkvision]]__;"
 languages: "Common, Dwarven; +2"
-
-speed: 20 feet
+skills:
+  - name: "Skills"
+    desc: "__Acrobatics__: +0; __Athletics__: +8; __Stealth__: +0;"
 
 abilityMods: [2, 0, 2, 2, 1, 2]
 
-ac: 18
+speed: 20 feet
+
+ac: 19
 armorclass:
   - name: AC
-    desc: "18; __Fort__: +9; __Ref__: +5; __Will__: +8;"
-hp: 46
+    desc: "19; __Fort__: +10; __Ref__: +6; __Will__: +9; __DC__: 18;"
+hp: 58
 health:
   - name: HP
-    desc: "46"
+    desc: "58"
     
 abilities_top:
   - name: Gear
@@ -62,13 +65,13 @@ abilities_top:
   - name: Weapons & Armor
     desc: "Scale Mail, Ordinary Clothing, [[Longbow]], [[Greatsword]], [[Clan Dagger]]"
   - name: Spellcasting
-    desc: "DC:17, SA: +7"
+    desc: "DC:18, SA: +8"
   - name: Innate Spells
     desc: "[[Heal]]"
   - name: Focus Spells
     desc: "[[Lay on Hands]], [[Weapon Surge]]"
   - name: Special Actions
-    desc: "[[Shield Block]], [[Retributive Strike]]" 
+    desc: "[[Shield Block]], [[Retributive Strike]], [[Vicious Swing]]" 
 ```
 
 
@@ -84,10 +87,13 @@ abilities_top:
 - Reincarnation Feat (Legacy) - Wisdom from Another Life (Additional Lore)
 - [[Deity's Domain]] - Zeal - [[Weapon Surge]]
 - [[Shield Block]]
-- [[Mauler Dedication]]
 - [Oath of the Avenger](https://2e.aonprd.com/Feats.aspx?ID=7517) (Legacy)
 - [[Robust Health]]
-
+- [[Slippery Prey]]
+- [[Titan Wrestler]]
+- [[Aura of Courage]]
+- [[Mauler Dedication]]
+- [[Vicious Swing]]
 ### Abilities
 - [[Forge-Blessed]] (Legacy) - Torag
 	- [[Innate Spell|Innate]] divine spell (once per week) - Heal
@@ -97,12 +103,10 @@ abilities_top:
 - [[Cause]] - Justice - [[Retributive Strike]]
 - [[Devotion Spells]] - [[Lay on Hands]]
 - [[Blessing of the Devoted]] - [[Blessed Armament]]
+- [[Darkvision]]
 
 ### Focus Spells (2 pts)
-
 - [[Lay on Hands]]
 - [[Weapon Surge]]
-
 ### Rank 1 Spells
-
 - [[Heal]]

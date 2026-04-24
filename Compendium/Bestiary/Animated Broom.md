@@ -33,16 +33,17 @@ skills:
     desc: "__Athletics__: +5; "
 abilityMods: [0, +1, 0, -5, 0, -5]
 
-speed: 15 feet
-
 ac: 15
 armorclass:
   - name: AC
     desc: "15 (13 when broken); __Fort__: +3; __Ref__: +6; __Will__: +3; construct armor"
+    
 hp: 6
 health:
   - name: HP
     desc: "6; **Hardness** 2; **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; **Construct Armor** Like normal objects, animated objects have Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 13."
+
+speed: 15 feet
 
 attacks:
   - name: Melee bristles

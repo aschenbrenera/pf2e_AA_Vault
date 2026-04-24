@@ -4,19 +4,20 @@ tags:
 format: 1_0
 ---
 
+Starter Image: [[d20-13.png]]
+
 # Intro
 After the characters complete [[Intro]], start the following.
 
 # Arrival
 >[!info] Read Aloud
-> A grand manor stands before you. Four stories of cold, soot-stained stone, tall narrow windows, and high peaked roofs. Midway up, a narrow balcony juts out from the third floor. It all forms a picture of chilling grandeur.
+> A grand manor stands before you. Four stories of cold stone, tall narrow windows, and high peaked roofs. Midway up, a narrow balcony juts out from the third floor. It all forms a picture of chilling grandeur.
 >
 >Directly in front of you is the portico, a stone arch standing before the house's front doors. A wrought-iron gate fills this arch.
 >
 >On either side of the gate, oil lamps hang from chains, their light dim and flickering, casting a sickly glow that barely pierces the surrounding fog.
 >
->Beyond the gate, a set of sturdy oaken doors stand closed. The doors are old and weathered, their wood darkened by time.
->
+>Beyond the gate, a set of sturdy oaken doors stand closed. 
 >A gust of wind sweeps past you, carrying with it a whisper of cold dread that sends shivers down your spine.
 
 [[house_front.png]] (Open in Second Window)
@@ -27,7 +28,7 @@ The characters who stay outside can see the fog closing in on them, leaving them
 ## 1. Foyer
 When players enter into Foyer, tell them it's too dark to see without light. Then only narrate if there is a light source.
 >[!info] Read Aloud
-> You step into a dark Foyer, barely lit with a weak oil lamp mounted to the wall. Hanging on the south wall is a shield emblazoned with a coat-of-arms, flanked by framed portraits of stony-faced aristocrats. You see Mahogany-framed double doors set with panes of stained glass leading further into the house.
+> You step into a dark Foyer. Hanging on the south wall is a shield emblazoned with a coat-of-arms, flanked by framed portraits of stony-faced aristocrats. You see Mahogany-framed double doors set with panes of stained glass leading further into the house.
 
 The coat of arms is a stylized golden windmill on a red field, the portraits are of long-dead members of the Durst family.
 
@@ -74,7 +75,7 @@ Anyone who searches the second door from the left will find the cloakroom. It ha
 After players proceed
 >[!info] Read Aloud
 > The door opens, revealing a gray-furred wolf frozen into place. It's only a moment before you realize that it's not moving—and another before you realize that it's not alone. Positioned around the outskirts of the room are two additional stuffed wolves—a large gray wolf and a smaller brown wolf.
->This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head. Two padded chairs draped in animal furs face a hearth, with an oak table between them supporting an assortment of objects. A chandelier hangs above a cloth-covered table surrounded by four chairs, and two cabinets stand against the walls. A pair of small toys seems to have been forgotten beneath one of the chairs.
+>This oak-paneled room looks like a hunter's den. Mounted above the fireplace is a stag's head. Two padded chairs draped in animal furs face a hearth, with an oak table between them supporting an assortment of objects. A chandelier hangs above a cloth-covered table surrounded by four chairs, with two cabinets against the walls. A pair of small toys seem to have been forgotten beneath one of the chairs.
 
 - The discarded toys are small, plush gray wolves, whose threadbare coats show evidence of heavy mending and patchwork. Clumsy stitch-work on their stomachs reads ROSE and THORN, respectively. 
 - The table supports a cask of wine, wooden goblets, and a candelabra.
@@ -154,7 +155,7 @@ Tidy servants' uniforms hang from hooks in the adjoining closet (area 7B). Press
 
 ## 8. Library
 >[!info] Read Aloud
->Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. Situated in corners of the room are two overstuffed chairs. Floor-to-ceiling bookshelves line the south wall. A rolling wooden ladder allows one to more easily reach the high shelves.
+>Red velvet drapes cover the windows of this room. An exquisite mahogany desk and a matching high-back chair face the entrance and the fireplace, above which hangs a framed picture of a windmill perched atop a rocky crag. Situated in corners of the room are two overstuffed chairs. Floor-to-ceiling bookshelves line the south wall. A rolling wooden ladder allows one easily reach the high shelves.
 
 The desk has several items resting atop it: an oil lamp, a jar of ink, a quill pen, a tinderbox, and a letter kit containing a red wax candle, four blank sheets of parchment, and a wooden seal bearing the Durst family's insignia (a windmill). The bookshelves hold hundreds of tomes covering a range of topics including history, warfare, and alchemy. Several shelves contain first-edition books of poetry and fiction. The books rot and fall apart if taken from the house.
 
@@ -306,7 +307,7 @@ The door facing the bed opens to reveal an empty, dust-choked closet (area 12B).
 >Drasha,
 >I have selected you as the Beast’s custodian in my absence. Should the Beast grow unruly or show signs of agitation while I am away, I have left this amber shard to weaken it and soothe its fury.
 >Should the need arise, present the shard and speak the Beast's name; if you speak with conviction, it shall obey you in my stead, if only for a time. But be sure to begone from the house before it awakens fully at midnight.
->So long as the Beast draws breath, it—not you—is the heart of this house, and no meal shall ever sate its appetite. Should you linger in its domain, it will mean doom for you all.`
+>So long as the Beast draws breath, it—not you—is the heart of this house, and no meal shall ever sate its appetite. Should you linger in its domain, it will mean your doom.
 >Elisabeth
 
 ### Room Clues Summary
@@ -710,7 +711,7 @@ As you approach corridor
 
 >[!warning] Ghoulish Encounter
 >When the first character steps into one of the **5-foot squares at the corridor entrances** (marked **T** on the map), the ambush is triggered.
->- **Emergence:**  The ghouls claw their way up from shallow graves beneath the tunnel floor in the spaces marked **S** on the map.png
+>- **Emergence:**  The ghouls claw their way up from shallow graves beneath the tunnel floor in the spaces marked **S** on the map. Based on the tattered cloaks these may be former cultists.
 >	- Characters who do not anticipate the ambush may begin combat **off-guard**, at the GM’s discretion.
 >- As the ghouls attack, they mutter fragments of broken devotion, repeating phrases such as:
 >	- **GM Note:** Deliver these lines flatly and without emotion. The ghouls are not pleading—they are reciting beliefs drilled into them long ago.
@@ -718,25 +719,27 @@ As you approach corridor
 >	- *“We are perfect. We are immortal.”*
 >	- *“Help us live forever.”*
 >- The ghouls fight **mindlessly**, focusing on the nearest living creatures. They do not retreat or surrender.
+```encounter-table
+name: Ghoul Ambush
+creatures:
+  - 4: Ghoul Stalker
+party: Custom
+```
 
-- Insert 3 Ghoul Soldiers (Maybe will less HP / emaciated)
-
-### Continuing Forward
 If the party advances past the ambush and reaches the center of the intersection, read:
 
 > [!info] **Read Aloud**
 > The trail of bones ends at the center of a silent intersection. The chanting you’ve heard since entering the dungeon is unmistakably louder down the northern passage.
 
-## 30. STAIRS DOWN
+## 30. Stairs Down
 It's obvious to any character standing at the top of this 20-foot-long staircase that the ghostly chants originate from somewhere below. Characters who descend the stairs and follow the hall beyond arrive in area 35. 
 
 > [!info] **Read Aloud**
 > A dark set of chiseled stone steps descends into darkness. It's clear that the origin of the muffled chanting you've been hearing lies below.
 
 ## 31–32. Darklord’s Shrine and Hidden Trapdoor
-This chamber serves as the cult’s place of worship—and a final test of restraint before escape.
 
-### Darklord’s Shrine
+ Darklord’s Shrine
 > [!info] **Read Aloud**
 > This room is festooned with moldy skeletons hanging from rusty shackles along the walls, their jaws frozen open in silent screams.  
 >  
@@ -746,42 +749,41 @@ This chamber serves as the cult’s place of worship—and a final test of restr
 >  
 > Exits lead to the west and north. Chanting echoes most strongly from the north.
 
-### The Crystal Orb
+**The Crystal Orb**
 A character who approaches within **5 feet** of the statue feels an oppressive presence.
-
 - The character hears faint whispers:
   - *“His gaze burns upon us.”*
   - *“The Darklord’s eyes are always watching.”*
 - The character’s own shadow begins to writhe unnaturally along the floor.
 - A character who **touches the orb** experiences the unmistakable sensation that an ancient, malevolent intelligence has noticed them.
 
-### Shadow Guardians
-The ashen silhouettes on the walls are dormant spirits of former cultists.
+>[!warning] Shadow Guardians
+> The ashen silhouettes on the walls are dormant spirits of former cultists.
+> **Trigger**
+> - If the orb is **removed from the statue**, the shadows begin to awaken.
+> - If the orb is returned to its place on the statue, the shadows return to their original positions and become dormant once more.
+> 
+> **Awakening Shadows**
+> - At the end of each round after the orb is removed, a shadow peels free from the walls. As they stir, they murmur:
+> 	- *“Begone from this place.”*
+> 	- *“Look not upon us.”*
+> 	- *“Return the Darklord’s offering.”*
+> - Once all shadows have awakened, they attack.
+> 
+> **Combat Notes**
+> - Each shadow prefers to target a **different character**, spreading fear and pressure.
+> - The shadows **pursue fleeing characters**, but do not leave the dungeon level.
 
-#### Trigger
-- If the orb is **removed from the statue**, the shadows begin to awaken.
-- If the orb is returned to its place on the statue, the shadows return to their original positions and become dormant once more.
+```encounter-table
+name: Shadows
+creatures:
+  - 4: Shadow
+party: Custom
+```
 
-#### Awakening Shadows
-- At the end of each round after the orb is removed, a shadow peels free from the walls.
-- As they stir, they murmur:
-  - *“Begone from this place.”*
-  - *“Look not upon us.”*
-  - *“Return the Darklord’s offering.”*
-
-Once all shadows have awakened, they attack.
-
-#### Combat Notes
-- **Creatures:** Shadows (use standard PF2e shadows)
-- Each shadow prefers to target a **different character**, spreading fear and pressure.
-- The shadows **pursue fleeing characters**, but do not leave the dungeon level.
-
-### Hidden Trapdoor (Former Area 32)
-A concealed exit lies within the shrine.
-
-#### Finding the Door
-- **Seek:** **Perception DC 10** to notice a concealed door in the east wall
-- The door is a rotted wooden panel hidden beneath packed clay
+Finding the Hidden Door
+- **Search:** **Perception DC 10** to notice a concealed door in the east wall
+- The door is a rotted wooden panel hidden beneath packed clay.
 
 Opening it reveals a short stone staircase leading upward.
 
@@ -814,17 +816,8 @@ These rooms mark the former living and ritual spaces of the cult leaders, suffus
   - An open crate with thirty torches and a leather sack holding fifteen candles
   -  A rotting aroma also emanates from a pair of rotted organs—a half-eaten liver and a gnawed intestine—lying hidden beneath the hems of the robes.
 
-####  Footlocker:
-> [!warning] **Encounter**
-> Create an encounter similar to ravenloft boneless.
-> Folded atop other contents is a **boneless** (Van Richten’s Guide to Ravenloft, p. 228), made from the flayed skin of Gustav Durst.  
-> **Trigger:** Opening the footlocker causes the boneless to attack the nearest creature.  
-
-- **Combat Level:** Bruising
-- **Tactics:**  
-  - Attacks the nearest creature immediately upon footlocker opening.  
-  - Moves across the floor and walls with unnatural flexibility.  
-  - Use PF2e stat block from *Van Richten’s Guide to Ravenloft*.  
+> [!warning] **Future Encounter**
+> Can I make a PF2e Boneless?
 
 - **Items inside the footlocker:**
   - Chain shirt
@@ -833,8 +826,10 @@ These rooms mark the former living and ritual spaces of the cult leaders, suffus
   - Thieves' Toolkit (Infiltrator)
   - Healing Potion (Lesser) x4
   - [Bracelet of Dashing](https://2e.aonprd.com/Equipment.aspx?ID=3060)
+  - The folded dead skin of Gustav Durst. 
 
-## 35. RELIQUARY
+## 35. Reliquary
+
 When the players enter this room, read:
 
 > [!info] **Read Aloud**
@@ -848,7 +843,7 @@ When the players enter this room, read:
 >
 > "He is the Land."
 
-### Relics in the Alcoves
+ Relics in the Alcoves
 The cult amassed several strange "relics" that it used in rituals. These items are mostly nonmagical curios but can be used for roleplay, occult checks, or improvised uses. Each item occupies a niche along the walls:
 
 - **Mummified goblin hand**: yellowed, sharp claws, on a loop of rope  
@@ -865,23 +860,23 @@ The cult amassed several strange "relics" that it used in rituals. These items a
 - **Shrunken halfling head**: grotesque and preserved  
 - **Coffer with dire wolf tongue**: small wooden coffer holding a dried tongue  
 
-## 36. PRISON
+## 36. Prison
 When the players enter this room, read:
 
 > [!info] **Read Aloud**
 > The sound of clinking chains melds with a quiet, near-imperceptible rustling as you round the bend into a long, darkened dungeon. Rusted shackles hang patiently from the walls, as if waiting to bite into prisoners' flesh once more.
 
-### Secret Door
+Secret Door
 A **secret door** in the south wall leads to Area 38.  
 - **Perception Check:** DC 15 Perception to find the door.  
 - **Interaction:** Pulling it open reveals the corridor beyond.  
 
-### Treasure
+Treasure
 A human skeleton hangs from the back wall of the cell marked X on the map.  
 - The skeleton wears a tattered black robe.  Searching the skeleton results in a gold ring worth 25 gp is found on one of its bony fingers.  
 
-## 37–38. PORTCULLIS AND RITUAL CHAMBER
-### Portcullis
+## 37–38. Portcullis and Ritual Chamber
+
 When the players approach this area, read:
 
 > [!info] **Read Aloud**
@@ -889,33 +884,43 @@ When the players approach this area, read:
 
 - **Mechanism:** The wooden wheel that opens the portcullis remains on the western side of the gate (Outside the Ritual Chamber).  
 - **Interaction:** The chain-link mechanism is broken; players must repair it (e.g., with Rose’s mending cantrip) or lift the portcullis by hand. If lifted and released, the portcullis shuts unless propped open.  
-- **Strength Check:** Lifting manually requires a DC 20 Athletics (Strength) check.
+- **Strength Check:** Lifting manually requires a DC 20 Athletics check.
 
-### Ritual Chamber
+ Ritual Chamber
  When the players enter this room, read:
 
 > [!info] **Read Aloud**
-> The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.
+> The smooth masonry walls of this forty-foot-square room provide excellent acoustics. Featureless stone pillars support the ceiling, and murky water covers most of the floor. Stairs lead up to dry stone ledges that hug the walls. In the middle of the room, more stairs rise to form an octagonal dais that also rises above the water. Rusty chains with shackles dangle from the ceiling directly above a stone altar mounted on the dais. The altar is carved with hideous depictions of grasping ghouls and is stained with dry blood. A small, white bundle lies atop it, surrounded by pulsating, fleshy tendrils.
+> 
+> The tendrils run to a breach in the far wall that leads to a dark cave, their fleshy masses connecting to a dark, hulking shadow that lies within, its bloated mass rising and falling with a slow, shuddering rhythm.
+> 
 > As soon as you step foot into the chamber, the ghostly chanting you've heard suddenly falls silent.
 
 The water is 2ft deep and should be treated as difficult terrain for Medium creatures or smaller. Climbing from the pool to the ledges also counts as difficult terrain.
 
 - **Tendrils:** Run to a breach in the far wall, connecting to a dark, hulking shadow within—a flesh mound containing Walter’s spirit and remains. It appears to be sleeping.  
 
-#### Interacting with the Altar
+**Interacting with the Altar**
 - Approaching the altar reveals the words **"FEED HIM"** carved into its flat surface, surrounded by tendrils inset with human teeth.  
 - The bundle atop the altar is infant-sized; unwrapping it reveals a rusted, old blood-stained dagger.  
 - **Choices for players:**  
   1. Sacrifice a living creature on the altar. The flesh mound accepts the corpse, devours it, and returns its tendrils. Feeding the mound does **not** free the players.  
   2. Attack the flesh mound. Upon awakening, its screeching wail causes tremors that can damage or collapse the portcullis mechanism.
 
-#### Flesh Mound Mechanics
-- **First Form:** Use Bogwid Statblock
-- **Engulfed Creature:** Can hear faint baby cries at the center of the mound.  
+[[Walter.jpg]]
 
-#### Elisabeth's Amber Shard
+```encounter-table
+name: Walter
+creatures:
+  - 1: Flesh Mound
+party: Custom
+```
+
+**Fight**
+ - An Engulfed Creature Can hear faint baby cries at the center of the mound.  
+ **Elisabeth's Amber Shard**
 - Players holding Elisabeth’s amber shard from the Master Suite can, within 30 feet of the mound, speak "Walter" and issue a brief command.  
-- **Check:** DC 13 Charisma (Intimidation).  
+- **Check:** DC 13 Intimidation/Diplomacy.  
 - **Effect:** The mound immediately uses a reaction, if available, to follow the command up to its speed.  
 - **Limitations:** The mound will not obey commands that are directly harmful and stops following at the start of its next turn.
 
@@ -977,3 +982,5 @@ This scenario takes place after the flesh mound in the Ritual Chamber has been d
 - Encourage **creative spell and item use** (e.g., teleportation, levitation, fly, water walk).  
 - Track hazards in rounds; resolve damage and movement reductions at the end of each round.  
 - Keep tension high with **flavorful read-aloud descriptions** of falling debris, creaking beams, and crumbling walls.  
+
+Outside  the mists around the house have disappeared. Night has long since fallen, and the waning moon is high in the sky.

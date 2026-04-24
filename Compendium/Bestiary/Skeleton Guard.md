@@ -13,8 +13,8 @@ format: 1_0
 # Skeleton Guard
 
 [[Skeleton Lore]]
-**Recall Knowledge - Undead(Religion)**: DC 13  
-**Unspecific Lore**: DC 11  
+**Recall Knowledge - Undead(Religion)**: DC 13
+**Unspecific Lore**: DC 11
 **Specific Lore**: DC 8
 
 ```statblock
@@ -24,10 +24,10 @@ layout: Basic Pathfinder 2e Layout
 name: "Skeleton Guard"
 level: "Creature -1"
 size: "Medium"
-trait_03: "[[Mindless]]"
-trait_04: "[[Skeleton]]"
-trait_05: "[[Undead]]"
-trait_06: "[[Unholy]]"
+trait_02: "[[Undead]]"
+trait_03: "[[Skeleton]]"
+trait_04: "[[Unholy]]"
+trait_05: "[[Mindless]]"
 modifier: 2
 perception:
   - name: "Perception"
@@ -41,8 +41,6 @@ abilities_top:
   - name: Items
     desc: "scimitar, [[Shortbow]] (20 arrows);"
 
-speed: 25 feet
-
 ac: 16
 armorclass:
   - name: AC
@@ -50,13 +48,15 @@ armorclass:
 hp: 4
 health:
   - name: HP
-    desc: "4 ([[void healing]]); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
+    desc: "4 ([[Void Healing]]); __Immunities__ bleed, death effects, disease, mental, paralyzed, poison, unconscious; __Resistances__ cold 5, electricity 5, fire 5, piercing 5, slashing 5"
+
+speed: 25 feet
 
 attacks:
   - name: Melee Scimitar
-    desc: "⬻ +6 (+1/-4) ([[forceful]], [[sweep]]); __Damage__ 1d6+2 (1d6+2) slashing"
+    desc: "⬻ +6 (+1/-4) ([[forceful]], [[sweep]]); __Damage__ 1d6+2 slashing"
   - name: Melee Claw
-    desc: "⬻ +6 (+2/-2) ([[agile]], [[finesse]]); __Damage__ 1d4+2 (1d4+2) slashing"
+    desc: "⬻ +6 (+2/-2) ([[agile]], [[finesse]]); __Damage__ 1d4+2 slashing"
   - name: Ranged Shortbow
     desc: "⬻ +6 (+1/-4) ([[deadly|deadly 1d10]], range 60 feet, [[reload|reload 0]]); __Damage__ 1d6 (1d6) piercing"
 

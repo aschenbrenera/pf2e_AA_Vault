@@ -2,25 +2,25 @@
 tags:
   - campaign
 name: Thyra
-level: 3
-hp: 32
-dc: 19
-ac: 17
-fort: 8 (T)
-ref: 7 (T)
-will: 8 (E)
-modifier: 4
-perception: 6 (T)
-deception: 6 (T)
+level: 4
+hp: 40
+dc: 20
+ac: 18
+fort: 9 (E)
+ref: 8 (T)
+will: 9 (E)
+modifier: 7
+perception: 7 (T)
+deception: 7 (T)
 diplomacy: 1 (U)
 stealth: 2 (U)
-arcana: 11 (E)
-crafting: 9 (T)
+arcana: 12 (E)
+crafting: 10 (T)
 medicine: 1 (U)
 nature: 1 (U)
-occultism: 9 (T)
-religion: 6 (T)
-society: 9 (T)
+occultism: 10 (T)
+religion: 7 (T)
+society: 10 (T)
 statblock: inline
 ---
 # Thyra
@@ -30,28 +30,32 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Thyra"
-level: "PC 3"
+level: "PC 4"
 size: "Medium"
 trait_03: "Human"
 trait_04: "Humanoid"
 trait_05: "Wizard"
-modifier: 6
+modifier: 7
 perception:
   - name: "Perception"
-    desc: "+6"
+    desc: "+7"
 languages: "Common, Dwarven, Elven, Halfling, Orcish, Skald; "
-speed: 25 feet
+skills:
+  - name: "Skills"
+    desc: "__Acrobatics__: +2; __Athletics__: +0; __Stealth__: +2;"
 
 abilityMods: [0, 2, 1, 4, 1, 1]
 
-ac: 17
+speed: 25 feet
+
+ac: 18
 armorclass:
   - name: AC
-    desc: "17; __Fort__: +8; __Ref__: +7; __Will__: +8;"
-hp: 32
+    desc: "18; __Fort__: +9; __Ref__: +8; __Will__: +9; __DC__: 20;"
+hp: 40
 health:
   - name: HP
-    desc: "32"
+    desc: "40"
 
 abilities_top:
   - name: Gear
@@ -77,32 +81,27 @@ abilities_top:
 **Background:** Teacher
 
 ### Feats
-
 - Natural Ambition - [[Familiar]]
 - [[Experienced Professional]]
 - [[Toughness]]
 - [[Reach Spell]]
-- [[Scroll Trickster Dedication]] - [[Trick Magic Item]]
 - [[Recognize Spell]]
 - [[Canny Acumen]] - Fortitude
-
+- [[Cantrip Expansion]]
+- [[Magical Shorthand]]
+- [[Scroll Trickster Dedication]] - [[Trick Magic Item]]
 ### Abilities
-
 - [[Wizard Spellcasting]]
 - [[Arcane Thesis]] - Spell Substitution
 - [[Arcane School]] - Battle Magic
 - [[Arcane Bond]] - Staff
 
 ### Minions
-
 - Wizard Familiar - Raven (Frodor)
 
 ### Focus Spells
-
 - [[Force Bolt]]
-
 ### Cantrips
-
 Total: 11 (Initial 10 + Curriculum 1)
 - [[Caustic Blast]]
 - [[Detect Magic]]
@@ -115,9 +114,7 @@ Total: 11 (Initial 10 + Curriculum 1)
 - [[Prestidigitation]]
 - [[Shield]]
 - [[Telekinetic Projectile]]
-
 ### Rank 1 Spells
-
 Total: 9 (Initial 5 + Curriculum 2 + Level 2)
 - [[Force Barrage]]
 - [[Compendium/Spells/1st Rank/Sleep|Sleep]]
@@ -128,10 +125,10 @@ Total: 9 (Initial 5 + Curriculum 2 + Level 2)
 - [[Thunderstrike]]
 - [[Gust of Wind]]
 - [[Pummeling Rubble]]
-
 ### Rank 2 Spells
-
-Total: 3 (Curriculum 1 + Level 2 )
+Total: 5 (Curriculum 1 + Level 4 )
 - [[Blazing Bolt]]
 - [[Animated Assault]]
 - [[Resist Energy]]
+- ?
+- ?

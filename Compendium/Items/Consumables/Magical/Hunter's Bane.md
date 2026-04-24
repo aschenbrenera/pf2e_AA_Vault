@@ -18,8 +18,6 @@ tags:
 
 This talisman is a ring of dried, interwoven pieces of straw. 
 
-## Mechanical Rules
-
 - When you activate the _hunter's bane_, you sense the exact location of the attacker.
 - It becomes Observed by you if it was Hidden from you or becomes Hidden from you if it was Undetected. 
 - If the attacker is behind lead, the _hunter's bane_ has no effect.

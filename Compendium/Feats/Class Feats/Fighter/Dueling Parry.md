@@ -10,7 +10,7 @@ format: 1_0
 ---
 # Dueling Parry [](#Actions "Single Action") &emsp;*(Feat 2)*
 
-[DH_Fighter](DH_Fighter.md "Class Trait")
+[Fighter](Fighter.md "Class Trait")
 **Description:** You can parry attacks against you with your one-handed weapon.
 
 **Requirements:** You are wielding a single one-handed melee weapon and hold nothing else in your hands.

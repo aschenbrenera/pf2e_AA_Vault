@@ -2,23 +2,23 @@
 tags:
   - campaign
 name: Lumii
-level: 3
-hp: 30
-dc: 19
-ac: 19
-fort: 5 (T)
-ref: 11 (E)
-will: 7 (E)
-modifier: 7
-perception: 7 (E)
-deception: 8 (T)
-diplomacy: 8 (T)
-stealth: 11 (T)
+level: 4
+hp: 38
+dc: 20
+ac: 20
+fort: 6 (T)
+ref: 12 (E)
+will: 8 (E)
+modifier: 8
+perception: 8 (E)
+deception: 11 (E)
+diplomacy: 9 (T)
+stealth: 12 (E)
 arcana: 2 (U)
-crafting: 7 (T)
+crafting: 8 (T)
 medicine: 0 (U)
 nature: 0 (U)
-occultism: 7 (T)
+occultism: 8 (T)
 religion: 0 (U)
 society: 2 (U)
 statblock: inline
@@ -30,29 +30,32 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Lumii"
-level: "PC 3"
+level: "PC 4"
 size: "Medium"
 trait_03: "Elf"
 trait_04: "Humanoid"
 trait_05: "Rogue"
-modifier: 7
+modifier: 8
 perception:
   - name: "Perception"
-    desc: "+7; __[[Low-light vision]]__;"
+    desc: "+8; __[[Low-light vision]]__;"
 languages: "Common, Elven, Fey, Aklo; "
+skills:
+  - name: "Skills"
+    desc: "__Acrobatics__: +12; __Athletics__: +6; __Stealth__: +12;"
 
 abilityMods: [0, 4, 0, 2, 0, 3]
 
 speed: 30 feet
 
-ac: 19
+ac: 20
 armorclass:
   - name: AC
-    desc: "19; __Fort__: +5; __Ref__: +11; __Will__: +7;"
-hp: 30
+    desc: "20; __Fort__: +6; __Ref__: +12; __Will__: +8; __DC__: 20;"
+hp: 38
 health:
   - name: HP
-    desc: "30; __Resistances__ cold 1"
+    desc: "38; __Resistances__ cold 2"
     
 abilities_top:
   - name: Gear
@@ -60,7 +63,7 @@ abilities_top:
   - name: Weapons & Armor
     desc: "Explorer's Clothing, [[Elven Curve Blade]]"
   - name: Special Actions
-    desc: "[[Nimble Dodge]]" 
+    desc: "[[Nimble Dodge]], [[Mug]]"
 ```
 
 
@@ -69,17 +72,22 @@ abilities_top:
 
 ### Feats
 - [[Elven Weapon Familiarity]]
-- [[Steady Balance]]
+- [[Thorough Search]]
 - [[Nimble Dodge]]
 - [[Tumble Behind]]
-- [[Acrobat Dedication]]
-- [[Tumbling Teamwork]]
-- [[Thorough Search]]
+- [[Mug]]
+- [[Additional Lore]] (Northlands)
 - [[Shadow Mark]]
-
+- [[Steady Balance]]
+- [[Tumbling Teamwork]]
+- [[Virtuosic Performer]]
+- [[Acrobat Dedication]]
+- [[Contortionist]]
+- [[Quick Squeeze]]
 ### Abilities
 - [[Arctic Elf]]
 - [[Rogue's Racket]] - [[Thief]]
-- [[Surprise Attack]]
-- [[Sneak Attack]]
 - [[Deny Advantage]]
+- [[Sneak Attack]]
+- [[Surprise Attack]]
+- [[Low-light vision]]

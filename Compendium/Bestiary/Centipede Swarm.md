@@ -25,8 +25,8 @@ layout: Basic Pathfinder 2e Layout
 name: "Centipede Swarm"
 level: "Creature 3"
 size: "Large"
-trait_03: "[[Animal]]"
-trait_04: "[[Swarm]]"
+trait_02: "[[Animal]]"
+trait_03: "[[Swarm]]"
 modifier: 9
 perception:
   - name: "Perception"
@@ -36,16 +36,17 @@ skills:
     desc: "__Acrobatics__: +9; __Athletics__: +7; __Stealth__: +9; "
 abilityMods: [2, 4, 3, -5, 0, -4]
 
-speed: 30 feet, climb 30 feet
-
 ac: 18
 armorclass:
   - name: AC
     desc: "18; __Fort__: +8; __Ref__: +11; __Will__: +5;"
+    
 hp: 30
 health:
   - name: HP
     desc: "30;  **Immunities** grabbed, precision, prone, restrained, [[swarm mind]]; **Resistances** bludgeoning 5, piercing 5, slashing 2; **Weaknesses** area damage 5, [[splash]] damage 5"
+
+speed: 30 feet, climb 30 feet
 
 attacks:
   - name: Swarming Bites

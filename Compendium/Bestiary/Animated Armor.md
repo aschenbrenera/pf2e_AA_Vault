@@ -33,22 +33,25 @@ skills:
     desc: "__Athletics__: +9; "
 abilityMods: [3, -3, 4, -5, 0, -5]
 
-speed: 20 feet
-
 ac: 17
 armorclass:
   - name: AC
     desc: "17 (13 when broken); __Fort__: +10; __Ref__: +3; __Will__: +4; construct armor"
+
 hp: 20
 health:
   - name: HP
     desc: "20; **Hardness** 9; **Immunities** bleed, death effects, disease, doomed, drained, fatigued, healing, mental, nonlethal attacks, paralyzed, poison, sickened, spirit, unconscious, vitality, void; **Construct Armor** Like normal objects, animated objects have Hardness. This Hardness reduces any damage it takes by an amount equal to the Hardness. Once reduced to less than half its Hit Points, or immediately upon being damaged by a critical hit, its construct armor breaks, removing the Hardness and reducing its Armor Class to 13."
+
+speed: 20 feet
 
 attacks:
   - name: Melee glaive
     desc: "⬻ +10 (+5/+0) ([[deadly|deadly 1d8]], [[forceful]], [[magical]], [[reach]] 10 feet); __Damage__ 1d8+4 slashing"
   - name: Melee gauntlet
     desc: "⬻ +9 (+5/+1) ([[agile]], [[free-hand]], [[magical]]); __Damage__ 1d6+4 bludgeoning"
+  - name: Manuevers
+    desc: "[[Grapple]], [[Rules/Actions & Activities/Encounter/Attack/Shove|Shove]], [[Trip]]"
 
 sourcebook: "_Monster Core_, page 18."
 ```
