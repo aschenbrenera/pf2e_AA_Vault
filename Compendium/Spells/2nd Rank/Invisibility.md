@@ -1,34 +1,31 @@
 ---
 tags:
   - action/spell
-  - spell/cantrip
-  - trait/spell/cantrip
+  - spell/rank/2
   - trait/generic/manipulate
-  - trait/ability/concentrate
   - trait/effect/illusion
   - trait/spell/subtle
 level: 1
 format: 1_0
 ---
-# Figment [](#Actions "Two-Action") &emsp;*(Cantrip 1)*
+# Invisibility [](#Actions "Two-Action") &emsp;*(Spell 2)*
 
-[Cantrip](Cantrip.md "General Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Illusion](Illusion.md "Effect Trait") [Manipulate](Manipulate.md "General Trait") [Subtle](Subtle.md "Spell Trait")
-**Description:** You create a simple illusory sound or vision.
+ [Illusion](Illusion.md "Effect Trait") [Manipulate](Manipulate.md "General Trait") [Subtle](Subtle.md "Spell Trait")
+**Description:**  Illusions bend light around the target, rendering it Invisible.
 
 **Traditions:** arcane, occult
-**Bloodline:** fey
 
-**Range:** 30 feet
-**Duration:** Sustained
-**Defense:** [[Basic Saving Throw|Basic]] Reflex
+**Range:** Touch
+**Targets:** 1 creature
+**Duration:** 10 minutes
 **Activity:** Two Action ⬥⬥
 
 ## Mechanical Rules
 
-- Create the illusion of a sound or vision.
-	- A sound adds the `Auditory` trait to the spell and the sound can't include intelligible words or elaborate music. 
-	- A vision adds the `Visual` trait, can be no larger than a 5-foot cube, and is clearly crude and undetailed if viewed from within 15 feet.
-- When you Cast or Sustain the Spell, you can attempt to [[Create a Diversion]] with the illusion, gaining a +2 circumstance bonus to your [[Deception]] check. If the attempt fails against a creature, that creature disbelieves the figment.
+- The target becomes [[Invisible]]. This makes it Undetected to all creatures, though the creatures can attempt to find the target, making it Hidden to them instead. If the target uses a [[Hostile]] action, the spell ends after that hostile action is completed.
+
+> [!info] Heighten
+>- **Heightened (4th):** The spell lasts 1 minute, but it doesn't end if the target uses a hostile action.
 
 ## Gameplay Interaction
 

@@ -91,7 +91,7 @@ abilities_top:
 - [[Robust Health]]
 - [[Slippery Prey]]
 - [[Titan Wrestler]]
-- [[Aura of Courage]]
+- [[Mercy]] - Mercy of the Mind
 - [[Mauler Dedication]]
 - [[Vicious Swing]]
 ### Abilities

@@ -11,7 +11,7 @@ ref: 12 (E)
 will: 8 (E)
 modifier: 8
 perception: 8 (E)
-deception: 11 (E)
+deception: 9 (T)
 diplomacy: 9 (T)
 stealth: 12 (E)
 arcana: 2 (U)
@@ -63,7 +63,7 @@ abilities_top:
   - name: Weapons & Armor
     desc: "Explorer's Clothing, [[Elven Curve Blade]]"
   - name: Special Actions
-    desc: "[[Nimble Dodge]], [[Mug]]"
+    desc: "[[Nimble Dodge]]"
 ```
 
 
@@ -73,21 +73,21 @@ abilities_top:
 ### Feats
 - [[Elven Weapon Familiarity]]
 - [[Thorough Search]]
-- [[Nimble Dodge]]
-- [[Tumble Behind]]
-- [[Mug]]
 - [[Additional Lore]] (Northlands)
+- [[Impressive Performance]]
 - [[Shadow Mark]]
 - [[Steady Balance]]
-- [[Tumbling Teamwork]]
-- [[Virtuosic Performer]]
+- [[Subtle Theft]]
+- [[Nimble Dodge]]
+- [[Trap Finder]]
+- [[Tumble Behind]]
 - [[Acrobat Dedication]]
 - [[Contortionist]]
 - [[Quick Squeeze]]
 ### Abilities
 - [[Arctic Elf]]
+- [[Low-light vision]]
 - [[Rogue's Racket]] - [[Thief]]
 - [[Deny Advantage]]
 - [[Sneak Attack]]
 - [[Surprise Attack]]
-- [[Low-light vision]]

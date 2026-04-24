@@ -1,13 +1,13 @@
 ---
 tags:
-  - activity_exploration/spell
+  - action/spell
   - spell/rank/2
   - trait/ability/concentrate
   - trait/generic/manipulate
 level: 2
 format: 1_0
 ---
-# Resist Energy  &emsp;*(Spell 2)*
+# Resist Energy  [](#Actions "Two-Action") &emsp;*(Spell 2)*
 
 [Concentrate](Concentrate.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait") 
 **Description:** A shield of elemental energy protects a creature against one type of energy damage.

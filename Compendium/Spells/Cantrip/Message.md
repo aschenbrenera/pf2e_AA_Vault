@@ -14,7 +14,7 @@ format: 1_0
 ---
 # Message [](#Actions "Single Action") &emsp;*(Cantrip 1)*
 
-[Cantrip](Cantrip.md "General Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Auditory](Auditory.md "Effect Trait") [Illusion](Illusion.md "Effect Trait") [Linguistic](Linguistic.md "Effect Trait") [Mental](Mental.md "Effect Trait") [Subtle](Subtle.md "General Trait")
+[Cantrip](Cantrip.md "General Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Auditory](Auditory.md "Effect Trait") [Illusion](Illusion.md "Effect Trait") [Linguistic](Linguistic.md "Effect Trait") [Mental](Mental.md "Effect Trait") [Subtle](Subtle.md "Spell Trait")
 **Description:** You mouth words quietly, but instead of coming out of your mouth, they're transferred directly to the ears of the target.
 
 **Traditions:** arcane, divine, occult

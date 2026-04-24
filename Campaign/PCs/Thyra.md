@@ -67,11 +67,11 @@ abilities_top:
   - name: Focus Spells
     desc: "[[Force Bolt]]"
   - name: Cantrips
-    desc: "[[Caustic Blast]], [[Detect Magic]], [[Electric Arc]], [[Figment]] [[Gouging Claw]], [[Ignition]], [[Compendium/Spells/Cantrip/Light|Light]], [[Message]], [[Prestidigitation]], [[Shield]], [[Telekinetic Projectile]]"
+    desc: "[[Caustic Blast]], [[Detect Magic]], [[Electric Arc]], [[Figment]] [[Gouging Claw]], [[Ignition]], [[Shield]], [[Telekinetic Projectile]]"
   - name: Rank 1 Spells
-    desc: "[[Force Barrage]], [[Illusory Object]], [[Mending]], [[Mystic Armor]], [[Runic Weapon]], [[Thunderstrike]], [[Gust of Wind]], [[Pummeling Rubble]], [[Compendium/Spells/1st Rank/Sleep|Sleep]]"
+    desc: "[[Force Barrage]], [[Illusory Object]], [[Mystic Armor]], [[Runic Weapon]], [[Thunderstrike]], [[Gust of Wind]], [[Pummeling Rubble]], [[Compendium/Spells/1st Rank/Sleep|Sleep]]"
   - name: Rank 2 Spells
-    desc: "[[Blazing Bolt]], [[Animated Assult]], [[Resist Energy]]" 
+    desc: "[[Blazing Bolt]], [[Animated Assult]], [[Resist Energy]], [[Mist]]" 
   - name: Special Actions
     desc: "[[Recognize Spell]], [[Reach Spell]], [[Trick Magic Item]], [[Drain Bonded Item]]" 
 ```
@@ -115,20 +115,24 @@ Total: 11 (Initial 10 + Curriculum 1)
 - [[Shield]]
 - [[Telekinetic Projectile]]
 ### Rank 1 Spells
-Total: 9 (Initial 5 + Curriculum 2 + Level 2)
+Total: 10 (Initial 5 + Curriculum 2 + Level 2 + Learned 2)
+- [[Charm]]
 - [[Force Barrage]]
-- [[Compendium/Spells/1st Rank/Sleep|Sleep]]
+- [[Gentle Landing]]
+- [[Gust of Wind]]
 - [[Illusory Object]]
 - [[Mending]]
 - [[Mystic Armor]]
-- [[Runic Weapon]]
-- [[Thunderstrike]]
-- [[Gust of Wind]]
 - [[Pummeling Rubble]]
+- [[Runic Weapon]]
+- [[Compendium/Spells/1st Rank/Sleep|Sleep]]
+- [[Thunderstrike]]
 ### Rank 2 Spells
-Total: 5 (Curriculum 1 + Level 4 )
-- [[Blazing Bolt]]
+Total: 7 (Curriculum 1 + Level 4 + Learned 2)
 - [[Animated Assault]]
+- [[Blazing Bolt]]
+- [[Darkvision]]
+- [[Invisibility]]
+- [[Mist]]
 - [[Resist Energy]]
-- ?
-- ?
+- [[Translate]]
