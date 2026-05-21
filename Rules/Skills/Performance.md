@@ -37,7 +37,7 @@ Some performances require you to be more than just charismatic, and if you don't
 | ----- | --------------------------- | ------------- | ------- |
 | 1     | [[Fascinating Performance]] | Trained       | Fascinate an observer of your performance. |
 | 1     | [[Impressive Performance]]  | Trained       | Use Performance to influence a crowd.      |
-| 1     | Virtuosic Performer         | Trained       | +1 with a certain type of performance.                                           |
+| 1     | [[Virtuosic Performer]]         | Trained       | +1 with a certain type of performance.                                           |
 | 2     | Distracting Performance     | Expert        | Your performances are especially distracting.             |
 | 15    | Legendary Performer         | Legendary     | Gain renown for your Performance.                             |
 

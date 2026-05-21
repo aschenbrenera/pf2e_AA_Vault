@@ -2,23 +2,23 @@
 tags:
   - campaign
 name: Lumii
-level: 4
-hp: 38
-dc: 20
-ac: 20
-fort: 6 (T)
-ref: 12 (E)
-will: 8 (E)
-modifier: 8
-perception: 8 (E)
-deception: 9 (T)
-diplomacy: 9 (T)
-stealth: 12 (E)
+level: 5
+hp: 51
+dc: 21
+ac: 21
+fort: 8 (T)
+ref: 13 (E)
+will: 9 (E)
+modifier: 9
+perception: 9 (E)
+deception: 13 (E)
+diplomacy: 11 (T)
+stealth: 13 (E)
 arcana: 2 (U)
-crafting: 8 (T)
+crafting: 9 (T)
 medicine: 0 (U)
 nature: 0 (U)
-occultism: 8 (T)
+occultism: 9 (T)
 religion: 0 (U)
 society: 2 (U)
 statblock: inline
@@ -30,32 +30,32 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Lumii"
-level: "PC 4"
+level: "PC 5"
 size: "Medium"
 trait_03: "Elf"
 trait_04: "Humanoid"
 trait_05: "Rogue"
-modifier: 8
+modifier: 9
 perception:
   - name: "Perception"
-    desc: "+8; __[[Low-light vision]]__;"
+    desc: "+9; __[[Low-light vision]]__;"
 languages: "Common, Elven, Fey, Aklo; "
 skills:
   - name: "Skills"
-    desc: "__Acrobatics__: +12; __Athletics__: +6; __Stealth__: +12;"
+    desc: "__Acrobatics__: +13; __Athletics__: +8; __Stealth__: +13;"
 
-abilityMods: [0, 4, 0, 2, 0, 3]
+abilityMods: [1, 4, 1, 2, 0, 4]
 
 speed: 30 feet
 
-ac: 20
+ac: 21
 armorclass:
   - name: AC
-    desc: "20; __Fort__: +6; __Ref__: +12; __Will__: +8; __DC__: 20;"
-hp: 38
+    desc: "21; __Fort__: +8; __Ref__: +13; __Will__: +9; __DC__: 21;"
+hp: 51
 health:
   - name: HP
-    desc: "38; __Resistances__ cold 2"
+    desc: "51; __Resistances__ cold 2"
     
 abilities_top:
   - name: Gear
@@ -84,6 +84,8 @@ abilities_top:
 - [[Acrobat Dedication]]
 - [[Contortionist]]
 - [[Quick Squeeze]]
+- [[Ancestral Suspicion]]
+- [[Distracting Performance]]
 ### Abilities
 - [[Arctic Elf]]
 - [[Low-light vision]]
@@ -91,3 +93,4 @@ abilities_top:
 - [[Deny Advantage]]
 - [[Sneak Attack]]
 - [[Surprise Attack]]
+- [[Weapon Tricks]]

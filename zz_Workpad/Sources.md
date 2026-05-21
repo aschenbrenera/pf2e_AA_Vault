@@ -7,9 +7,10 @@
 - GM Core
 - Monster Core
 - Monster Core 2
-- Treasure Vault
 - Guns & Gears
 - Rage of Elements
+- NPC Core
+- Treasure Vault
 - Battlecry!
-
-
+- Dark Archive
+- War of Immortals

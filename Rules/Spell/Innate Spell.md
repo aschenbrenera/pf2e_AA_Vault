@@ -3,6 +3,7 @@ tags:
   - rules/spells
 aliases:
   - Innate
+format: 1_0
 ---
 # Innate Spell
 

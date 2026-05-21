@@ -14,7 +14,7 @@ Every arcane spell has a written version, which you record in your personalized 
 ## Mechanical Rules
 
 - You are a spellcaster. You prepare spells by studying your [[Spellbook]] during [[Rest#Daily Preparations|Daily Preparations]]. The number of spells you can prepare is called your spell slots. 
-	- The number of ranked spells and cantrips you can prepare is shown in the Wizard Spells per Day table.
+	- The number of ranked spells and cantrips you can prepare is shown in the [[Wizard Spells per Day table]].
 	- You also get to prepare one extra curriculum cantrip and one extra curriculum spell of each rank you can cast from your arcane school.
 	- Prepared spells remain available to you until you cast them or until you prepare your spells again.
 - You can cast spells of the arcane tradition using the [[Cast a Spell]] activity. 

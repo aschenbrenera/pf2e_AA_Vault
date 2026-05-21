@@ -2,25 +2,25 @@
 tags:
   - campaign
 name: Thyra
-level: 4
-hp: 40
-dc: 20
-ac: 18
-fort: 9 (E)
-ref: 8 (T)
-will: 9 (E)
-modifier: 7
-perception: 7 (T)
-deception: 7 (T)
+level: 5
+hp: 53
+dc: 21
+ac: 20
+fort: 11 (E)
+ref: 12 (E)
+will: 11 (E)
+modifier: 9
+perception: 9 (T)
+deception: 8 (T)
 diplomacy: 1 (U)
-stealth: 2 (U)
-arcana: 12 (E)
-crafting: 10 (T)
-medicine: 1 (U)
-nature: 1 (U)
-occultism: 10 (T)
-religion: 7 (T)
-society: 10 (T)
+stealth: 3 (U)
+arcana: 13 (E)
+crafting: 13 (E)
+medicine: 2 (U)
+nature: 2 (U)
+occultism: 11 (T)
+religion: 9 (T)
+society: 11 (T)
 statblock: inline
 ---
 # Thyra
@@ -30,32 +30,32 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Thyra"
-level: "PC 4"
+level: "PC 5"
 size: "Medium"
 trait_03: "Human"
 trait_04: "Humanoid"
 trait_05: "Wizard"
-modifier: 7
+modifier: 9
 perception:
   - name: "Perception"
-    desc: "+7"
+    desc: "+9"
 languages: "Common, Dwarven, Elven, Halfling, Orcish, Skald; "
 skills:
   - name: "Skills"
-    desc: "__Acrobatics__: +2; __Athletics__: +0; __Stealth__: +2;"
+    desc: "__Acrobatics__: +3; __Athletics__: +0; __Stealth__: +3;"
 
-abilityMods: [0, 2, 1, 4, 1, 1]
+abilityMods: [0, 3, 2, 4, 2, 1]
 
 speed: 25 feet
 
-ac: 18
+ac: 20
 armorclass:
   - name: AC
-    desc: "18; __Fort__: +9; __Ref__: +8; __Will__: +9; __DC__: 20;"
-hp: 40
+    desc: "20; __Fort__: +11; __Ref__: +12; __Will__: +11; __DC__: 21;"
+hp: 53
 health:
   - name: HP
-    desc: "40"
+    desc: "53"
 
 abilities_top:
   - name: Gear
@@ -63,15 +63,17 @@ abilities_top:
   - name: Weapons & Armor
     desc: "Explorer's Clothing, [[Staff]], [[Corset Knife]]"
   - name: Spellcasting
-    desc: "DC:19, SA: +9"
+    desc: "DC:21, SA: +11"
   - name: Focus Spells
     desc: "[[Force Bolt]]"
   - name: Cantrips
-    desc: "[[Caustic Blast]], [[Detect Magic]], [[Electric Arc]], [[Figment]] [[Gouging Claw]], [[Ignition]], [[Shield]], [[Telekinetic Projectile]]"
+    desc: "[[Electric Arc]], [[Figment]], [[Gale Blast]], [[Gouging Claw]], [[Ignition]], [[Shield]], [[Telekinetic Projectile]]"
   - name: Rank 1 Spells
-    desc: "[[Force Barrage]], [[Illusory Object]], [[Mystic Armor]], [[Runic Weapon]], [[Thunderstrike]], [[Gust of Wind]], [[Pummeling Rubble]], [[Compendium/Spells/1st Rank/Sleep|Sleep]]"
+    desc: "[[Force Barrage]], [[Illusory Object]], [[Mystic Armor]], [[Thunderstrike]], [[Gust of Wind]], [[Pummeling Rubble]], [[Compendium/Spells/1st Rank/Sleep|Sleep]]"
   - name: Rank 2 Spells
     desc: "[[Blazing Bolt]], [[Animated Assult]], [[Resist Energy]], [[Mist]]" 
+  - name: Rank 3 Spells
+    desc: "[[Fireball]], [[Shared Invisibility]], [[Slow]]" 
   - name: Special Actions
     desc: "[[Recognize Spell]], [[Reach Spell]], [[Trick Magic Item]], [[Drain Bonded Item]]" 
 ```
@@ -90,6 +92,7 @@ abilities_top:
 - [[Cantrip Expansion]]
 - [[Magical Shorthand]]
 - [[Scroll Trickster Dedication]] - [[Trick Magic Item]]
+- [[General Training]] - [[Incredible Initiative]]
 ### Abilities
 - [[Wizard Spellcasting]]
 - [[Arcane Thesis]] - Spell Substitution
@@ -103,10 +106,10 @@ abilities_top:
 - [[Force Bolt]]
 ### Cantrips
 Total: 11 (Initial 10 + Curriculum 1)
-- [[Caustic Blast]]
 - [[Detect Magic]]
 - [[Electric Arc]]
 - [[Figment]]
+- [[Gale Blast]]
 - [[Gouging Claw]]
 - [[Ignition]]
 - [[Compendium/Spells/Cantrip/Light|Light]]
@@ -124,7 +127,6 @@ Total: 10 (Initial 5 + Curriculum 2 + Level 2 + Learned 2)
 - [[Mending]]
 - [[Mystic Armor]]
 - [[Pummeling Rubble]]
-- [[Runic Weapon]]
 - [[Compendium/Spells/1st Rank/Sleep|Sleep]]
 - [[Thunderstrike]]
 ### Rank 2 Spells
@@ -136,3 +138,8 @@ Total: 7 (Curriculum 1 + Level 4 + Learned 2)
 - [[Mist]]
 - [[Resist Energy]]
 - [[Translate]]
+### Rank 3 Spells
+Total: 3 (Curriculum 1 + Level 2 )
+- [[Fireball]]
+- [[Shared Invisibility]]
+- [[Slow]]
