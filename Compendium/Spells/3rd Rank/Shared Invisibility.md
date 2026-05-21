@@ -1,31 +1,34 @@
 ---
 tags:
   - action/spell
-  - spell/rank/2
+  - spell/rank/3
   - trait/generic/manipulate
+  - trait/effect/aura
   - trait/effect/illusion
   - trait/spell/subtle
-level: 1
+level: 3
 format: 1_0
 ---
-# Invisibility [](#Actions "Two-Action") &emsp;*(Spell 2)*
+# Invisibility [](#Actions "Two-Action") &emsp;*(Spell 3)*
 
- [Illusion](Illusion.md "Effect Trait") [Manipulate](Manipulate.md "General Trait") [Subtle](Subtle.md "Spell Trait")
-**Description:**  Illusions bend light around the target, rendering it Invisible.
+  [Aura](Aura.md "Effect Trait") [Illusion](Illusion.md "Effect Trait") [Manipulate](Manipulate.md "General Trait") [Subtle](Subtle.md "Spell Trait")
 
 **Traditions:** arcane, occult
 
 **Range:** Touch
-**Targets:** 1 creature
+**Area:** 30-foot emanation
+**Targets:** you and up to 5 willing creatures
 **Duration:** 10 minutes
 **Activity:** Two Action ⬥⬥
 
 ## Mechanical Rules
 
-- The target becomes [[Invisible]]. This makes it Undetected to all creatures, though the creatures can attempt to find the target, making it Hidden to them instead. If the target uses a [[Hostile]] action, the spell ends after that hostile action is completed.
+- You and all targets are [[Invisible]] except to each other as long as the targets remain within the emanation.
+	- If a creature made invisible by this spell leaves the spell's area, it becomes visible and remains so even if it returns to the spell's area.
+- If any creature made invisible by this spell uses a [[Hostile]] action, the spell ends after the hostile action is completed.
 
 > [!info] Heighten
->- **Heightened (4th):** The spell lasts 1 minute, but it doesn't end if the target uses a hostile action.
+>- **Heightened (5th):** The targets increase to you and up to 10 willing creatures. The duration increases to 1 hour.
 
 ## Gameplay Interaction
 

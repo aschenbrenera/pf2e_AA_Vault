@@ -11,7 +11,7 @@ format: 1_0
 ---
 # Blazing Bolt [](#Actions "Single Action") To [](#Actions "Three-Action") &emsp;*(Spell 2)*
 
-[Attack](Attack.md "General Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait") [Force](Force.md "Effect Trait") 
+[Attack](Attack.md "General Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait") [Fire](Fire.md "Effect Trait") 
 **Description:** You fire a ray of heat and flame.
 
 **Traditions:** arcane, primal 
