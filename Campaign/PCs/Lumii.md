@@ -5,7 +5,7 @@ name: Lumii
 level: 5
 hp: 51
 dc: 21
-ac: 21
+ac: 22
 fort: 8 (T)
 ref: 13 (E)
 will: 9 (E)
@@ -14,13 +14,13 @@ perception: 9 (E)
 deception: 13 (E)
 diplomacy: 11 (T)
 stealth: 13 (E)
-arcana: 2 (U)
-crafting: 9 (T)
+arcana: 3 (U)
+crafting: 10 (T)
 medicine: 0 (U)
 nature: 0 (U)
-occultism: 9 (T)
+occultism: 10 (T)
 religion: 0 (U)
-society: 2 (U)
+society: 3 (U)
 statblock: inline
 ---
 # Lumii
@@ -42,16 +42,16 @@ perception:
 languages: "Common, Elven, Fey, Aklo; "
 skills:
   - name: "Skills"
-    desc: "__Acrobatics__: +13; __Athletics__: +8; __Stealth__: +13;"
+    desc: "__Acrobatics__: +13; __Athletics__: +7; __Stealth__: +13;"
 
-abilityMods: [1, 4, 1, 2, 0, 4]
+abilityMods: [0, 4, 1, 3, 0, 4]
 
 speed: 30 feet
 
-ac: 21
+ac: 22
 armorclass:
   - name: AC
-    desc: "21; __Fort__: +8; __Ref__: +13; __Will__: +9; __DC__: 21;"
+    desc: "22; __Fort__: +8; __Ref__: +13; __Will__: +9; __DC__: 21;"
 hp: 51
 health:
   - name: HP
@@ -61,7 +61,7 @@ abilities_top:
   - name: Gear
     desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Thieves' Toolkit]], [[Torch]] (5), Bedroll, Soap, Rations (2), Chalk (10)"
   - name: Weapons & Armor
-    desc: "Explorer's Clothing, [[Elven Curve Blade]]"
+    desc: "[[Leather Armor]], [[Elven Curve Blade]]"
   - name: Special Actions
     desc: "[[Nimble Dodge]]"
 ```
@@ -72,19 +72,18 @@ abilities_top:
 
 ### Feats
 - [[Elven Weapon Familiarity]]
-- [[Thorough Search]]
-- [[Additional Lore]] (Northlands)
-- [[Impressive Performance]]
-- [[Shadow Mark]]
 - [[Steady Balance]]
-- [[Subtle Theft]]
 - [[Nimble Dodge]]
-- [[Trap Finder]]
+- [[Subtle Theft]]
 - [[Tumble Behind]]
-- [[Acrobat Dedication]]
-- [[Contortionist]]
-- [[Quick Squeeze]]
-- [[Ancestral Suspicion]]
+- Fan Dancer Dedication
+- [[Impressive Performance]]
+- [[Thorough Search]]
+- [[Shadow Mark]]
+- [[Trap Finder]]
+- Captivator Dedication? - [[Vitality Lash]], Musical Accompaniment
+- [[Tumbling Teamwork]]
+- [[Otherworldly Magic]] - Glamorize
 - [[Distracting Performance]]
 ### Abilities
 - [[Arctic Elf]]

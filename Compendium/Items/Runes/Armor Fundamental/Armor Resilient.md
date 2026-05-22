@@ -1,11 +1,11 @@
 ---
 tags:
 - item/rune
-- trait/item/magical
+- trait/magical
 ---
 # Armor Resilient Rune
 
- [Magical](Rules/Traits/Effect/Magical.md "Item Trait")
+ [Magical](Magical.md "Item Trait")
 
 **Bulk:** —
 **Usage:** etched onto armor

@@ -1,10 +1,10 @@
 ---
 tags:
 - item/weapon
-- trait/weapon_trait/agile
-- trait/weapon_trait/concealable
-- trait/weapon_trait/finesse
-- trait/weapon_trait/thrown
+- trait/item/weapon_trait/agile
+- trait/item/weapon_trait/concealable
+- trait/item/weapon_trait/finesse
+- trait/item/weapon_trait/thrown
 - legacy
 format: 1_0
 ---

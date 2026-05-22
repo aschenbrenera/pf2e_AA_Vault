@@ -1,8 +1,8 @@
 ---
 tags:
 - item/weapon
-- trait/weapon_trait/deadly
-- trait/weapon_trait/volley
+- trait/item/weapon_trait/deadly
+- trait/item/weapon_trait/volley
 format: 1_0
 ---
 # Longbow

@@ -1,10 +1,10 @@
 ---
 tags:
 - item/weapon
-- trait/weapon_trait/agile
-- trait/weapon_trait/finesse
-- trait/weapon_trait/versatile
-- trait/weapon_trait/thrown
+- trait/item/weapon_trait/agile
+- trait/item/weapon_trait/finesse
+- trait/item/weapon_trait/versatile
+- trait/item/weapon_trait/thrown
 format: 1_0
 ---
 # Dagger

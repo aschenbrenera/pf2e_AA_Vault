@@ -1,13 +1,13 @@
 ---
 tags:
 - item/rune
-- trait/item/magical
+- trait/magical
 alias:
 - Striking
 ---
 # Weapon Striking Rune
 
- [Magical](Rules/Traits/Effect/Magical.md "Item Trait")
+ [Magical](Magical.md "Item Trait")
 
 **Bulk:** —
 **Usage:** etched onto a weapon

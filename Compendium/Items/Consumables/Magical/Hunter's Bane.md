@@ -2,11 +2,11 @@
 tags:
 - item/consumable
 - trait/item/consumable
-- trait/item/magical
+- trait/magical
 ---
 # Hunter's Bane &emsp;*(Item 2)*
 
-[Consumable](Consumable.md "Item Trait") [Magical](Rules/Traits/Effect/Magical.md "Item Trait") [Talisman](Talisman.md "Item Trait") [Detection](Detection.md "Effect Trait")
+[Consumable](Consumable.md "Item Trait") [Magical](Magical.md "Item Trait") [Talisman](Talisman.md "Item Trait") [Detection](Detection.md "Effect Trait")
 
 **Price:** 6 gp
 **Bulk:** —

@@ -2,9 +2,8 @@
 tags:
 - item/consumable
 - trait/item/consumable
-- trait/item/alchemical
-- trait/item/elixir
-- trait/item/mutagen
+- trait/item/alchemical/elixir
+- trait/item/alchemical/mutagen
 - trait/effect/polymorph
 
 ---

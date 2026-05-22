@@ -2,16 +2,15 @@
 tags:
 - item/consumable
 - trait/item/consumable
-- trait/item/alchemical
-- trait/item/acid
-- trait/item/bomb
+- trait/item/alchemical/bomb
 - trait/item/infused
 - trait/item/splash
+- trait/effect/acid
 
 ---
 # Versatile Vial
 
- [Consumable](Consumable.md "Item Trait") [Alchemical](Alchemical.md "Item Trait") [Bomb](Bomb.md "Item Trait") [Infused](Infused.md "Item Trait") [Acid](Acid.md "Effect Trait") [Splash](Splash.md "Effect Trait")
+ [Consumable](Consumable.md "Item Trait") [Alchemical](Alchemical.md "Item Trait") [Bomb](Bomb.md "Item Trait") [Infused](Infused.md "Item Trait") [Acid](Acid.md "Effect Trait") [Splash](Splash.md "Item Trait")
  
 **Bulk:** —
 **Hand Usage:** held in 1 hand

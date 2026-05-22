@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "a62d496f9695eba2",
+        "id": "738fb5e450581de3",
         "type": "tabs",
         "children": [
           {
-            "id": "a2532f581b2a579d",
+            "id": "b5b8a3ad9391124c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A GM Screen/GM Screen.md",
-                "mode": "preview",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "GM Screen"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -53,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#spell/rank/2",
+                "query": "tag:#action/class/wizard",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -74,7 +70,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -123,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "A GM Screen/GM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +129,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GM Screen"
+              "title": "Backlinks"
             }
           },
           {
@@ -142,12 +138,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "A GM Screen/GM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GM Screen"
+              "title": "Outgoing links"
             }
           },
           {
@@ -182,35 +177,41 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "a2532f581b2a579d",
+  "active": "93ea16b9e9fcd698",
   "lastOpenFiles": [
-    "Campaign/PCs/Thyra.md",
-    "Compendium/Spells/2nd Rank/Resist Energy.md",
-    "Compendium/Spells/2nd Rank/Blazing Bolt.md",
-    "Compendium/Spells/3rd Rank/Slow.md",
-    "Compendium/Spells/1st Rank/Gust of Wind.md",
-    "Compendium/Spells/2nd Rank/Translate.md",
-    "Compendium/Spells/2nd Rank/Restoration.md",
-    "Compendium/Spells/2nd Rank/Mist.md",
-    "Compendium/Spells/3rd Rank/Shared Invisibility.md",
-    "Compendium/Spells/2nd Rank/Invisibility.md",
-    "Compendium/Spells/3rd Rank/Fireball.md",
-    "Compendium/Spells/1st Rank/Illusory Object.md",
+    "Campaign/PCs/Lumii.md",
     "A GM Screen/GM Screen.md",
-    "Compendium/Spells/3rd Rank",
+    "Compendium/Spells/Cantrip/Vitality Lash.md",
+    "Rules/Traits/Effect/Vitality.md",
+    "Compendium/Spells/Focus/Lay on Hands.md",
+    "Rules/General/Throwing Objects.md",
+    "Compendium/Spells/Cantrip/Caustic Blast.md",
+    "Compendium/Feats/Ancestry Feats/Otherworldly Magic.md",
+    "Compendium/Feats/Ancestry Feats/Ancestral Suspicion.md",
+    "Compendium/Items/Weapon/Knife Group/Treasure/Ghoul Stiletto.md",
+    "Compendium/Items/Weapon/Knife Group/Treasure",
+    "Compendium/Items/Treasure/Worn Items/Mage's Hat.md",
+    "Campaign/PCs/Thyra.md",
     "Campaign/PCs/Taghira.md",
-    "Compendium/Feats/Ancestry Feats/Pride Hunter.md",
-    "Rules/Traits/Ancestry/Dwarf.md",
-    "Compendium/Feats/Ancestry Feats/Defy the Darkness.md",
-    "Compendium/Feats/Ancestry Feats/Cat's Luck.md",
-    "Compendium/Feats/Ancestry Feats/General Training.md",
-    "Compendium/Feats/Ancestry Feats/First World Magic.md",
-    "Compendium/Class Feature/Rogue/Weapon Tricks.md",
-    "Compendium/Class Feature/Ranger/Trackless Journey.md",
-    "Compendium/Class Feature/Ranger/Hunter's Edge.md",
-    "Compendium/Class Feature/Ranger/Flurry.md",
-    "Compendium/Class Feature/Ranger/Hunt Prey.md",
-    "Compendium/Class Feature/Ranger/Precision.md",
+    "Rules/Traits/Item/Scroll.md",
+    "Rules/Traits/Item/Splash.md",
+    "Compendium/Items/Consumables/Alchemical/Bomb/Alchemist's Fire.md",
+    "Compendium/Items/Gear/Tools/Lock.md",
+    "Rules/Traits/Effect/Water.md",
+    "Compendium/Items/Weapon/Knife Group/Clan Dagger.md",
+    "Rules/Traits/Item/Weapon Trait/Parry.md",
+    "Rules/Actions & Activities/Encounter/Defend/Parry.md",
+    "Rules/Traits/Item/Weapon Trait/Reach.md",
+    "Compendium/Items/Consumables/Alchemical/Poison/Black Adder Venom.md",
+    "Rules/Traits/Item/Poison",
+    "Compendium/Items/Consumables/Alchemical/Bomb/Bottled Lightning.md",
+    "Rules/Traits/Item/Alchemical",
+    "Compendium/Items/Consumables/Alchemical/Bomb/Versatile Vial.md",
+    "Rules/Traits/Generic/Teleportation.md",
+    "Rules/Traits/Weapon",
+    "Rules/Traits/Creature",
+    "Compendium/Items/Treasure/Worn Items",
+    "Compendium/Spells/3rd Rank",
     "custom_campaign/DH Module/Images/Player Images/dh_poem.jpeg",
     "custom_campaign/DH Module/Images/Player Images/The Durst Family.png",
     "custom_campaign/Images/d20-13.png",
@@ -223,12 +224,6 @@
     "zz_Attachments/Shadow.webp",
     "Compendium/Items/Treasure/Held Items",
     "Compendium/Items/Treasure",
-    "Rules/Abilities/Monster 1",
-    "Rules/Abilities/Monster",
-    "Compendium/Hazards",
-    "custom_campaign/Images",
-    "custom_campaign/DH Module/Walkthrough",
-    "custom_campaign/DH Module/AV",
-    "Compendium/Items/Weapon/Bomb"
+    "Rules/Abilities/Monster 1"
   ]
 }

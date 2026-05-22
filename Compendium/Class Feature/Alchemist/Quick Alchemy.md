@@ -2,7 +2,7 @@
 tags:
   - action/class/alchemist
   - trait/class/alchemist
-  - trait/ability/manipulate
+  - trait/generic/manipulate
 format: 1_0
 ---
 # Quick Alchemy [](#Actions "Single Action")

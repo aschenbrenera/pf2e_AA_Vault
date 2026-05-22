@@ -19,6 +19,10 @@ SORT file.name
 ```
 
 # Lookups
+
+[[Identifying and Learning]]
+[[Activities, Exploration Tactic Index]]
+
 - !!!col
    - 1
      ## Skills

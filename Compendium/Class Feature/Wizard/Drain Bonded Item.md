@@ -2,7 +2,7 @@
 tags:
   - action/class/wizard
   - trait/class/wizard
-  - trait/spell/tradition/arcane
+  - trait/magical/arcane
 level: 1
 format: 1_0
 ---

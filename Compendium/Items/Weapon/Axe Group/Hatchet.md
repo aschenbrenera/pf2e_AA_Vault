@@ -1,9 +1,9 @@
 ---
 tags:
 - item/weapon
-- trait/weapon_trait/agile
-- trait/weapon_trait/sweep
-- trait/weapon_trait/thrown
+- trait/item/weapon_trait/agile
+- trait/item/weapon_trait/sweep
+- trait/item/weapon_trait/thrown
 format: 1_0
 ---
 # Hatchet

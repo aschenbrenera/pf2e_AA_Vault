@@ -1,10 +1,10 @@
 ---
 tags:
 - item/weapon
-- trait/weapon_trait/agile
-- trait/weapon_trait/finesse
-- trait/weapon_trait/nonlethal
-- trait/weapon_trait/unarmed
+- trait/item/weapon_trait/agile
+- trait/item/weapon_trait/finesse
+- trait/item/weapon_trait/nonlethal
+- trait/item/weapon_trait/unarmed
 format: 1_0
 ---
 # Fist

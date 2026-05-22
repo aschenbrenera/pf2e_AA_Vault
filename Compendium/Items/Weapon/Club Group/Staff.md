@@ -1,7 +1,7 @@
 ---
 tags:
 - item/weapon
-- trait/weapon_trait/two-hand
+- trait/item/weapon_trait/two-hand
 format: 1_0
 ---
 # Staff

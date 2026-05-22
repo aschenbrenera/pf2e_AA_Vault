@@ -1,16 +1,16 @@
 ---
 tags:
 - item/weapon
-- trait/item/magical
-- trait/weapon_trait/agile
-- trait/weapon_trait/finesse
-- trait/weapon_trait/versatile
-- trait/weapon_trait/thrown
+- trait/magical
+- trait/item/weapon_trait/agile
+- trait/item/weapon_trait/finesse
+- trait/item/weapon_trait/versatile
+- trait/item/weapon_trait/thrown
 format: 1_0
 ---
 # Ghoul Stiletto &emsp;*(Item 3)*
 
-[Magical](Rules/Traits/Effect/Magical.md "Item Trait") [Agile](Agile.md "Weapon Trait") [Finesse](Finesse.md "Weapon Trait") [Versatile _S_](Versatile.md "Weapon Trait") [Thrown _10 FT._](Thrown.md "Weapon Trait")
+[Magical](Magical.md "Item Trait") [Agile](Agile.md "Weapon Trait") [Finesse](Finesse.md "Weapon Trait") [Versatile _S_](Versatile.md "Weapon Trait") [Thrown _10 FT._](Thrown.md "Weapon Trait")
 
 A _ghoul stiletto_ is dagger wrapped in the still-undead skin of a ghoul.
 

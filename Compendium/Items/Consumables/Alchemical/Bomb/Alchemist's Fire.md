@@ -2,15 +2,14 @@
 tags:
 - item/consumable
 - trait/item/consumable
-- trait/item/alchemical
-- trait/item/bomb
-- trait/item/fire
+- trait/item/alchemical/bomb
 - trait/item/splash
+- trait/effect/fire
 
 ---
 # Alchemist's Fire
 
- [Consumable](Consumable.md "Item Trait") [Alchemical](Alchemical.md "Item Trait") [Bomb](Bomb.md "Item Trait") [Fire](Fire.md "Effect Trait") [Splash](Splash.md "Effect Trait")
+ [Consumable](Consumable.md "Item Trait") [Alchemical](Alchemical.md "Item Trait") [Bomb](Bomb.md "Item Trait") [Fire](Fire.md "Effect Trait") [Splash](Splash.md "Item Trait")
  
 **Bulk:** L
 **Hand Usage:** held in 1 hand

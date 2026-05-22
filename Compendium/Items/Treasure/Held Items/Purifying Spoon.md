@@ -11,7 +11,7 @@ format: 1_0
 A phrase of luck is carved into the handle of this wooden teaspoon. While a variety of other cutlery with similar properties exists, a spoon is often the most convenient and inconspicuous to carry.
 
 
-**Activate**—**Purify** [](manipulate); 
+**Activate**—**Purify** [](Manipulate.md); 
 - **Frequency** once per day;
 - **Effect** You stir the spoon in food or drink, casting [[Cleanse Cuisine]] on the substance as you stir. 
 - 

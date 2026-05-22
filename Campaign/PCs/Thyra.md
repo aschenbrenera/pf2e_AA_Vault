@@ -14,7 +14,7 @@ perception: 9 (T)
 deception: 8 (T)
 diplomacy: 1 (U)
 stealth: 3 (U)
-arcana: 13 (E)
+arcana: 14 (E)
 crafting: 13 (E)
 medicine: 2 (U)
 nature: 2 (U)
@@ -92,7 +92,7 @@ abilities_top:
 - [[Cantrip Expansion]]
 - [[Magical Shorthand]]
 - [[Scroll Trickster Dedication]] - [[Trick Magic Item]]
-- [[General Training]] - [[Incredible Initiative]]
+- [[General Training]] - [[Read Lips]]
 ### Abilities
 - [[Wizard Spellcasting]]
 - [[Arcane Thesis]] - Spell Substitution
@@ -140,6 +140,6 @@ Total: 7 (Curriculum 1 + Level 4 + Learned 2)
 - [[Translate]]
 ### Rank 3 Spells
 Total: 3 (Curriculum 1 + Level 2 )
-- [[Fireball]]
+- [[Lightning Bolt]]
 - [[Shared Invisibility]]
-- [[Slow]]
+- [[Haste]]

@@ -7,7 +7,7 @@ tags:
 level: 3
 format: 1_0
 ---
-# Slow [](#Actions "Two-Action") &emsp;*(Spell 1)*
+# Slow [](#Actions "Two-Action") &emsp;*(Spell 3)*
 
 [Concentrate](Concentrate.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait") 
 **Description:** You dilate the flow of time around the target, slowing its actions.

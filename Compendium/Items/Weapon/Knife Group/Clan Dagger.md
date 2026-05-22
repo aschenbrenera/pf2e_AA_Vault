@@ -3,14 +3,14 @@ tags:
 - item/weapon
 - trait/rarity/uncommon
 - trait/ancestry/dwarf
-- trait/weapon_trait/agile
-- trait/weapon_trait/parry
-- trait/weapon_trait/versatile
+- trait/item/weapon_trait/agile
+- trait/item/weapon_trait/parry
+- trait/item/weapon_trait/versatile
 format: 1_0
 ---
 #  Clan Dagger
 
-[Uncommon](Uncommon.md "Uncommon Rarity Trait") [Dwarf](Dwarf.md "Ancestry & Heritage Trait") [Agile](Agile.md "Weapon Trait") [Parry](Parry.md "Weapon Trait") [Versatile _B_](Versatile.md "Weapon Trait")
+[Uncommon](Uncommon.md "Uncommon Rarity Trait") [Dwarf](Dwarf.md "Ancestry & Heritage Trait") [Agile](Agile.md "Weapon Trait") [Parry](Rules/Traits/Item/Weapon%20Trait/Parry.md "Weapon Trait") [Versatile _B_](Versatile.md "Weapon Trait")
 
 This broad dagger is carried by dwarves as a weapon, tool, and designation of clan. Losing or having to surrender a clan dagger is considered a mark of embarrassment to most dwarves.
 
@@ -28,7 +28,7 @@ This broad dagger is carried by dwarves as a weapon, tool, and designation of cl
 - [[Agile]]
 	- The [[Multiple Attack Penalty]] you take with this weapon on the second attack on your turn is –4 instead of –5, and –8 instead of –10 on the third and subsequent attacks in the turn.
 	- This reduction doesn't affect future attacks with non-agile weapons.
-- [[Parry]]
+- [[Rules/Actions & Activities/Encounter/Defend/Parry]]
 	- While wielding this weapon, if your proficiency with it is trained or better, you can spend a single action to position your weapon defensively, gaining a +1 circumstance bonus to AC until the start of your next turn.
 - [[Versatile]] B
 	- A versatile weapon can be used to deal a different type of damage than its listed type. This trait indicates the alternate damage type.

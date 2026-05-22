@@ -1,6 +1,7 @@
 ---
 tags:
   - trait/archetype/archer
+  - trait/feat/archetype
   - trait/feat/dedication
   - feat/archetype/archer
 level: 2

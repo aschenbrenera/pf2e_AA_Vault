@@ -2,7 +2,7 @@
 tags:
   - action/spell
   - spell/rank/2
-  - trait/ability/attack
+  - trait/combat/attack
   - trait/ability/concentrate
   - trait/generic/manipulate
   - trait/effect/fire

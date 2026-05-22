@@ -3,8 +3,8 @@ tags:
 - item/weapon
 - trait/rarity/uncommon
 - trait/ancestry/elf
-- trait/weapon_trait/finesse
-- trait/weapon_trait/forceful
+- trait/item/weapon_trait/finesse
+- trait/item/weapon_trait/forceful
 format: 1_0
 ---
 # Elven Curve Blade

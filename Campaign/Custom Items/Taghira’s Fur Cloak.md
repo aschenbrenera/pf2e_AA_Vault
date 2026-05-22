@@ -1,16 +1,16 @@
 ---
 tags:
   - campaign
-  - item/worn
+  - item/treasure/worn
   - trait/item/invested
-  - trait/item/magical
+  - trait/magical
   - custom_content
 level: 1
 format: 1_0
 ---
 # Taghira's Fur Cloak
 
-[Invested](Invested.md "Item Trait") [Magical](Rules/Traits/Effect/Magical.md "Item Trait")
+[Invested](Invested.md "Item Trait") [Magical](Magical.md "Item Trait")
 Description: A wolf fur cloak imbued with a blessing of stealth and ferocity while in the snow and ice (See backstory below).
 
 **Usage:** worn cloak

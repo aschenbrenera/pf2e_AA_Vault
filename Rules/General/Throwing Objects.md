@@ -1,8 +1,6 @@
 ---
 tags:
   - rules/core
-aliases:
-  - Basic
 ---
 # Throwing Objects
 

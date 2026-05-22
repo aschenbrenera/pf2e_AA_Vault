@@ -4,6 +4,7 @@ tags:
 - trait/item/consumable
 - trait/item/alchemical
 - trait/item/poison/injury
+- trait/effect/poison
 level: 2
 ---
 # Black Adder Venom &emsp;*(Item 2)*

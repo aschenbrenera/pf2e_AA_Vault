@@ -1,14 +1,14 @@
 ---
 tags:
 - item/rune
-- trait/item/magical
+- trait/magical
 - trait/effect/emotion
 - trait/effect/fear
 - trait/effect/mental
 ---
 # Fearsome Rune
 
- [Magical](Rules/Traits/Effect/Magical.md "Item Trait") [Emotion](Emotion.md "Effect Trait") [Fear](Fear.md "Effect Trait") [Mental](Mental.md "Effect Trait") 
+ [Magical](Magical.md "Item Trait") [Emotion](Emotion.md "Effect Trait") [Fear](Fear.md "Effect Trait") [Mental](Mental.md "Effect Trait") 
 
 **Bulk:** —
 **Usage:** etched onto a weapon

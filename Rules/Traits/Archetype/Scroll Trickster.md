@@ -2,6 +2,6 @@
 tags:
   - rules/trait
 ---
-# Mauler
+# Scroll Trickster
 
 The Scroll Trickster Archetype.

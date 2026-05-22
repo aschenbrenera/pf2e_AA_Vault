@@ -1,7 +1,7 @@
 ---
 tags:
 - item/weapon
-- trait/weapon_trait/shove
+- trait/item/weapon_trait/shove
 format: 1_0
 ---
 # Warhammer

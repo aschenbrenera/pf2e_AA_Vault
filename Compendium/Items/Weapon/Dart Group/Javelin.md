@@ -1,7 +1,7 @@
 ---
 tags:
 - item/weapon
-- trait/weapon_trait/thrown
+- trait/item/weapon_trait/thrown
 format: 1_0
 ---
 # Javelin

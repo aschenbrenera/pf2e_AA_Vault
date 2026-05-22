@@ -2,8 +2,7 @@
 tags:
 - item/consumable
 - trait/item/consumable
-- trait/item/alchemical
-- trait/item/elixir
+- trait/item/alchemical/elixir
 
 ---
 # Cat's Eye Elixir &emsp;*(Item 2)*

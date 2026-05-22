@@ -5,12 +5,21 @@
 - Player Core
 - Player Core 2
 - GM Core
+- NPC Core
 - Monster Core
 - Monster Core 2
-- Guns & Gears
-- Rage of Elements
-- NPC Core
-- Treasure Vault
+- Treasure Vault (Remastered)
+- Dark Archive (Remastered)
+- Guns & Gears (Remastered)
+
+# Extended
 - Battlecry!
-- Dark Archive
+- Howl of the Wild
 - War of Immortals
+- LO - Shining Kingdoms
+- LO - Divine Mysteries
+- LO - Draconic Codex
+- LO - Rival Academies
+- LO - Tian Xia Character Guide
+- LO - Tian Xia World Guide
+- 

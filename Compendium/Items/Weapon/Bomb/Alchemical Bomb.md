@@ -1,8 +1,8 @@
 ---
 tags:
 - item/weapon
-- trait/weapon_trait/thrown
-- trait/item/bomb
+- trait/item/weapon_trait/thrown
+- trait/item/alchemical/bomb
 - trait/item/consumable
 format: 1_0
 ---

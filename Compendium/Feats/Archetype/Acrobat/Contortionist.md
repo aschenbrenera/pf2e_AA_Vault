@@ -1,6 +1,7 @@
 ---
 tags:
   - feat/archetype/acrobat
+  - trait/feat/archetype
   - trait/archetype/acrobat
 level: 4
 format: 1_0

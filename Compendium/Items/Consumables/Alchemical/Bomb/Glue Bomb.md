@@ -2,8 +2,7 @@
 tags:
 - item/consumable
 - trait/item/consumable
-- trait/item/alchemical
-- trait/item/bomb
+- trait/item/alchemical/bomb
 
 ---
 # Glue Bomb

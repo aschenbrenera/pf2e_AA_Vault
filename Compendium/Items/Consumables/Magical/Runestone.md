@@ -2,11 +2,11 @@
 tags:
 - item/consumable
 - trait/item/consumable
-- trait/item/magical
+- trait/magical
 ---
 # Runestone
 
-[Consumable](Consumable.md "Item Trait") [Magical](Rules/Traits/Effect/Magical.md "Item Trait")
+[Consumable](Consumable.md "Item Trait") [Magical](Magical.md "Item Trait")
 
 **Price:** 3 gp
 **Bulk:** L

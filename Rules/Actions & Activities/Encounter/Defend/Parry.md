@@ -7,7 +7,7 @@ format: 1_0
 
 **Description:** Use a parry weapon defensively to block attacks.
 
-**Requirements:** You are wielding a weapon with the `Parry` Weapon Trait, and your proficiency with it is trained or better.
+**Requirements:** You are wielding a weapon with the [[Rules/Traits/Item/Weapon Trait/Parry|Parry]] Weapon Trait, and your proficiency with it is trained or better.
 **Activity:** Single Action ⬥
 
 ## Mechanical Rules

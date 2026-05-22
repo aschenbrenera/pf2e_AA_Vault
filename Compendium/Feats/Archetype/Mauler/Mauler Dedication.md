@@ -1,6 +1,7 @@
 ---
 tags:
   - trait/archetype/mauler
+  - trait/feat/archetype
   - trait/feat/dedication
   - feat/archetype/mauler
 level: 2

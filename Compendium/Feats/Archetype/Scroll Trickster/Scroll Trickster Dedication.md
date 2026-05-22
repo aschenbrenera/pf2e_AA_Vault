@@ -1,8 +1,9 @@
 ---
 tags:
-  - trait/archetype/mauler
+  - trait/archetype/scroll_trickster
+  - trait/feat/archetype
   - trait/feat/dedication
-  - feat/archetype/mauler
+  - feat/archetype/scroll_trickster
 level: 2
 format: 1_0
 ---

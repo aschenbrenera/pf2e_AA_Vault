@@ -2,14 +2,14 @@
 tags:
 - item/consumable
 - trait/item/consumable
-- trait/item/magical
+- trait/magical
 - trait/item/potion
 - trait/effect/healing
 - trait/effect/vitality
 ---
 # Healing Potion
 
-[Consumable](Consumable.md "Item Trait") [Magical](Rules/Traits/Effect/Magical.md "Item Trait") [Potion](Potion.md "Item Trait") [Healing](Healing.md "Effect Trait")[Vitality](Vitality.md "Effect Trait") 
+[Consumable](Consumable.md "Item Trait") [Magical](Magical.md "Item Trait") [Potion](Potion.md "Item Trait") [Healing](Healing.md "Effect Trait")[Vitality](Vitality.md "Effect Trait") 
 
 **Bulk:** L
 **Hand Usage:** 1

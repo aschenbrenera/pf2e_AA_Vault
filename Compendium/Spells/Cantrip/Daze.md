@@ -6,7 +6,7 @@ tags:
   - trait/ability/concentrate
   - trait/generic/manipulate
   - trait/effect/mental
-  - trait/effect/nonlethal
+  - trait/item/weapon_trait/nonlethal
 level: 1
 format: 1_0
 ---
