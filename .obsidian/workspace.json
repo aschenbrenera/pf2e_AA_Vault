@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "738fb5e450581de3",
+        "id": "de8a65f385b43a2b",
         "type": "tabs",
         "children": [
           {
-            "id": "b5b8a3ad9391124c",
+            "id": "d87d3e54cc674d6b",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "A GM Screen/GM Screen.md",
+                "mode": "preview",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "GM Screen"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -49,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#action/class/wizard",
+                "query": "rune tran",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -70,8 +76,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -106,12 +111,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Compendium/Items/Weapon/Axe Group/Hatchet.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Hatchet"
             }
           },
           {
@@ -120,6 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "A GM Screen/GM Screen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,6 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "A GM Screen/GM Screen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -153,6 +161,16 @@
               "state": {},
               "icon": "initiative-tracker",
               "title": "Initiative Tracker"
+            }
+          },
+          {
+            "id": "ffca346eaa9c937d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ],
@@ -177,53 +195,52 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "93ea16b9e9fcd698",
+  "active": "7cce4e82fddb236b",
   "lastOpenFiles": [
-    "Campaign/PCs/Lumii.md",
-    "A GM Screen/GM Screen.md",
-    "Compendium/Spells/Cantrip/Vitality Lash.md",
-    "Rules/Traits/Effect/Vitality.md",
-    "Compendium/Spells/Focus/Lay on Hands.md",
-    "Rules/General/Throwing Objects.md",
-    "Compendium/Spells/Cantrip/Caustic Blast.md",
-    "Compendium/Feats/Ancestry Feats/Otherworldly Magic.md",
-    "Compendium/Feats/Ancestry Feats/Ancestral Suspicion.md",
-    "Compendium/Items/Weapon/Knife Group/Treasure/Ghoul Stiletto.md",
-    "Compendium/Items/Weapon/Knife Group/Treasure",
-    "Compendium/Items/Treasure/Worn Items/Mage's Hat.md",
-    "Campaign/PCs/Thyra.md",
+    "Untitled.base",
+    "Campaign/Party Inventory.md",
+    "Rules/Item/General/Rune Etching.md",
     "Campaign/PCs/Taghira.md",
-    "Rules/Traits/Item/Scroll.md",
-    "Rules/Traits/Item/Splash.md",
-    "Compendium/Items/Consumables/Alchemical/Bomb/Alchemist's Fire.md",
-    "Compendium/Items/Gear/Tools/Lock.md",
-    "Rules/Traits/Effect/Water.md",
-    "Compendium/Items/Weapon/Knife Group/Clan Dagger.md",
-    "Rules/Traits/Item/Weapon Trait/Parry.md",
-    "Rules/Actions & Activities/Encounter/Defend/Parry.md",
-    "Rules/Traits/Item/Weapon Trait/Reach.md",
-    "Compendium/Items/Consumables/Alchemical/Poison/Black Adder Venom.md",
-    "Rules/Traits/Item/Poison",
-    "Compendium/Items/Consumables/Alchemical/Bomb/Bottled Lightning.md",
-    "Rules/Traits/Item/Alchemical",
-    "Compendium/Items/Consumables/Alchemical/Bomb/Versatile Vial.md",
-    "Rules/Traits/Generic/Teleportation.md",
-    "Rules/Traits/Weapon",
-    "Rules/Traits/Creature",
-    "Compendium/Items/Treasure/Worn Items",
-    "Compendium/Spells/3rd Rank",
-    "custom_campaign/DH Module/Images/Player Images/dh_poem.jpeg",
-    "custom_campaign/DH Module/Images/Player Images/The Durst Family.png",
-    "custom_campaign/Images/d20-13.png",
-    "custom_campaign/DH Module/Images/Player Images/house_front.png",
-    "custom_campaign/DH Module/Images/Player Images/DeathHousePlayerMap.webp",
-    "custom_campaign/DH Module/Images/Player Images/Death House Dungeon Map.png",
-    "custom_campaign/DH Module/Images/GM Images/DeathHouse.jpg",
-    "custom_campaign/DH Module/Images/GM Images/Walter.jpg",
+    "A GM Screen/GM Screen.md",
+    "Untitled 1.base",
+    "Campaign/Custom Items/Whisperwind Shortbow.md",
+    "Campaign/Custom Items/Taghira’s Fur Cloak.md",
+    "Campaign/Custom Items/Rogue Shortsword.md",
+    "Campaign/PCs/Thyra.md",
+    "Campaign/PCs/Lumii.md",
+    "Campaign/PCs/Gunther.md",
+    "Rules/Environment/Dangers/Detecting Hazards and Traps.md",
+    "Compendium/Hazards/Hidden Pit.md",
+    "custom_campaign/Custom Mechanics/Paranoia.md",
+    "Compendium/Bestiary/Skeleton Guard.md",
+    "Rules/Traits/Hazard/Mechanical.md",
+    "Rules/Traits/Hazard",
+    "Rules/Traits/Hazard/Trap.md",
+    "Rules/Traits/Generic/Move.md",
+    "Rules/Traits/Generic/Incorporeal.md",
+    "Compendium/Items/Consumables/Magical/Healing Potion.md",
+    "Rules/Traits/Item/Potion.md",
+    "Rules/Traits/Creature/Mindless.md",
+    "Compendium/Bestiary/Animated Armor.md",
+    "Rules/Actions & Activities/Encounter/General/Grab an Edge.md",
+    "Rules/Environment/Dangers/Temperature.md",
+    "Rules/Environment/Dangers/Suffocating.md",
     "zz_Attachments/Animated_Broom.webp",
     "zz_Attachments/Shadow.webp",
-    "Compendium/Items/Treasure/Held Items",
-    "Compendium/Items/Treasure",
-    "Rules/Abilities/Monster 1"
+    "zz_Attachments/Grothlut.webp",
+    "zz_Attachments/FurCloak.png",
+    "zz_Attachments/BoneBow.png",
+    "Compendium/Ancestries/Rare/Modern",
+    "Compendium/Feats/Archetype/Eldritch Archer",
+    "Compendium/Spells/4th Rank",
+    "Compendium/Items/Consumables/Magical/Talismans",
+    "Compendium/Items/Consumables/Magical/Ammunition",
+    "Compendium/Items/Materials",
+    "Compendium/Classes/Wizard",
+    "custom_campaign/DH Module/Images/Player Images/house_front.png",
+    "custom_campaign/DH Module/Images/Player Images/dh_poem.jpeg",
+    "custom_campaign/DH Module/Images/Player Images/The Durst Family.png",
+    "custom_campaign/DH Module/Images/Player Images/DeathHousePlayerMap.webp",
+    "custom_campaign/DH Module/Images/Player Images/Death House Dungeon Map.png"
   ]
 }

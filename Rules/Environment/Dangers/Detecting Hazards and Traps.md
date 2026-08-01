@@ -1,6 +1,8 @@
 ---
 tags:
+  - hazard
   - rules/core
+  - rules/core/dangers
 ---
 # Detecting Hazards and Traps
 

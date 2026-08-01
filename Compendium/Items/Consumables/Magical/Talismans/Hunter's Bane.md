@@ -2,7 +2,9 @@
 tags:
 - item/consumable
 - trait/item/consumable
+- trait/item/talisman
 - trait/magical
+- trait/effect/detection
 ---
 # Hunter's Bane &emsp;*(Item 2)*
 
@@ -12,11 +14,11 @@ tags:
 **Bulk:** —
 **Usage:** Affixed to armor
 **Requirements:** You're trained in Survival.
-**Activate** (concentrate)
-**Trigger:** A Hidden or Undetected enemy hits you with an Attack.
+**Activate:**  [](#Actions "Single Action") (concentrate); **Trigger:** A Hidden or Undetected enemy hits you with an Attack.
 
+**Description:** This talisman is a ring of dried, interwoven pieces of straw. 
 
-This talisman is a ring of dried, interwoven pieces of straw. 
+## Mechanical Rules
 
 - When you activate the _hunter's bane_, you sense the exact location of the attacker.
 - It becomes Observed by you if it was Hidden from you or becomes Hidden from you if it was Undetected. 

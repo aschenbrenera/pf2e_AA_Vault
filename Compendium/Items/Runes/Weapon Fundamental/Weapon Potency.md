@@ -11,7 +11,6 @@ tags:
 **Usage:** etched onto a weapon
 
 Magical enhancements make this weapon strike true.
-You can upgrade the _weapon potency rune_ already etched on a weapon using the normal process for [upgrading items and runes](https://2e.aonprd.com/Rules.aspx?ID=3157).
 
 | **Level** | **Item**           | **Price** | Effect      |
 | --------- | --------           | --------- | ----------  |
@@ -19,7 +18,9 @@ You can upgrade the _weapon potency rune_ already etched on a weapon using the
 | 10        | Weapon Potency (+2) | 935 gp   | Attack rolls with this weapon gain a +2 item bonus, and the weapon can be etched with two property runes.<br>**Craft Requirements** You're a master in Crafting. |
 | 16        | Weapon Potency (+3) | 8,935 gp | Attack rolls with this weapon gain a +3 item bonus, and the weapon can be etched with three property runes.<br>**Craft Requirements** You're legendary in Crafting. |
 
- 
+ ## Gameplay Interaction
+
+- You can upgrade a rune already etched on a weapon using the normal process for [upgrading items and runes](https://2e.aonprd.com/Rules.aspx?ID=3157).
   
 
 

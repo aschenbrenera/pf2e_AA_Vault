@@ -9,7 +9,7 @@ A scroll contains a single spell you can cast without a spell slot.
 
 ### Additional Info
 
-A scroll contains a single spell that you can cast without having to expend a spell slot. A scroll can be crafted to contain nearly any spell. The exceptions are cantrips, focus spells]), and rituals, none of which can be put on scrolls. The spell on a scroll can be cast only once, and the scroll is destroyed as part of the casting. The spell on the scroll is cast at a particular spell rank, as determined by the scroll. If no rank is listed, the scroll can be used to cast the spell at its lowest rank.  
+A scroll contains a single spell that you can cast without having to expend a spell slot. A scroll can be crafted to contain nearly any spell. The exceptions are cantrips, focus spells, and rituals, none of which can be put on scrolls. The spell on a scroll can be cast only once, and the scroll is destroyed as part of the casting. The spell on the scroll is cast at a particular spell rank, as determined by the scroll. If no rank is listed, the scroll can be used to cast the spell at its lowest rank.  
   
 If you find a scroll, you can try to figure out what spell it contains. If the spell is a common spell from your spell list or a spell you know, you can spend a single Recall Knowledge action and automatically succeed at identifying the scroll's spell. If it's not, you must Identify Magic.
 

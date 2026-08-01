@@ -2,8 +2,8 @@
 tags: 
   - creature/type/aberration
   - trait/creature/undead
-  - trait/creature/unholy
-  - trait/creature/incorporeal
+  - trait/effect/unholy
+  - trait/effect/incorporeal
 statblock: inline
 name: "Shadow"
 level: 4

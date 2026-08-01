@@ -9,7 +9,7 @@ format: 1_0
 ---
 # Cat's Luck[](#Actions "Reaction") &emsp;*(Feat 1)*
 
-[Catfolk](Catfolk.md "Ancestry & Heritage Trait") [Fortune](Fortune.md "Effect Trait")
+[Catfolk](Rules/Traits/Ancestry/Catfolk.md "Ancestry & Heritage Trait") [Fortune](Fortune.md "Effect Trait")
 **Description:** You instinctively twist away from danger.
 
 **Prerequisite:** Catfolk

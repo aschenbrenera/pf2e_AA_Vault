@@ -12,7 +12,7 @@ format: 1_0
 ---
 # Ignition [](#Actions "Two-Action") &emsp;*(Cantrip 1)*
 
-[Cantrip](Cantrip.md "General Trait") [Attack](Attack.md "Combat Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Fire](Fire.md "Effect Trait") [Manipulate](Manipulate.md "General Trait") 
+[Cantrip](Cantrip.md "General Trait") [Attack](Attack.md "Combat Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Fire](Rules/Traits/Effect/Fire.md "Effect Trait") [Manipulate](Manipulate.md "General Trait") 
 **Description:** You snap your fingers and point at a target, which begins to smolder. 
 
 **Traditions:** arcane, primal

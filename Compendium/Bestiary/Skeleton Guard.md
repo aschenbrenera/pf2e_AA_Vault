@@ -4,7 +4,7 @@ tags:
   - trait/creature/undead
   - trait/creature/skeleton
   - trait/creature/mindless
-  - trait/creature/unholy
+  - trait/effect/unholy
 statblock: inline
 name: "Skeleton Guard"
 level: -1

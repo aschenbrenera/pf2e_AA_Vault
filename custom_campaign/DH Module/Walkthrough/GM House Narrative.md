@@ -249,7 +249,7 @@ Players in the room must make a Will Save DC 13 or gain [[Paranoia]].
 > You climb the red marble staircase to its full height, arriving at a dusty balcony. The air here is dry and musty, but tinged with a strange, coppery scent. You can peer down the center of the staircase and see the grandfather clock on the first floor.
 > Two suits of black plate armor stand against one wall, draped in cobwebs and marked by age. Unlit oil lamps are mounted on the faded oak-paneled walls, which are carved with woodland scenes of trees, falling leaves, and tiny beasts.
 
-This suits of Animated Armor attack as soon as it takes damage or a character approaches within 5 feet of it. It fights until destroyed. It attempts to push a player over the railing (Fall 30 feet 30 damage, or try to - [[Grab an Edge]] vs DC 12) attack, or attempt to grapple its nearest target before shoving them prone. USE EXIGENCY SCENES.
+This suits of Animated Armor attack as soon as it takes damage or a character approaches within 5 feet of it. It fights until destroyed. It attempts to push a player over the railing (Fall 30 feet 30 damage, or try to - Grab an Edge vs DC 12) attack, or attempt to grapple its nearest target before shoving them prone. USE EXIGENCY SCENES.
 
 ```encounter-table
 name: Haunted Armor
@@ -421,7 +421,7 @@ If the players ask the spirit for aid in reaching the basement or finding the �
 
 The open door leads to the Spare Bedroom.
 
-The door to the Children's Room (Area 20) is held shut with a [[Lock]] (simple). The key is in the spare bedroom.
+The door to the Children's Room (Area 20) is held shut with a Lock (simple). The key is in the spare bedroom.
 
 ## 17. Spare Bedroom
 >[!info] Read Aloud
@@ -611,7 +611,7 @@ If a character tosses an object down the well and then turns away, they hear **v
 
 Each alcove contains:
 - A crude wooden bed with a moldy straw mattress
-- A wooden footlocker for personal belongings using a Simple [[Lock]].
+- A wooden footlocker for personal belongings using a Simple Lock.
 
 >[!warning] Treasure by Alcove
 > **GM Note:**  Aside from the listed items, the footlockers contain only rotted clothing and minor personal effects. Let the first footlocker they open be Drasha's Journal, then adjust accordingly.
@@ -656,7 +656,7 @@ From the Ghoulish Encounter
 
 >[!warning] The Hidden Pit Trapped
 >- **Passive Clue:**  The absence of footprints may prompt suspicion.
->- **Overview:** Characters searching the floor for traps find a 5-foot-long, 10-foot-deep [[Hidden Pit]] under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom.
+>- **Overview:** Characters searching the floor for traps find a 5-foot-long, 10-foot-deep Hidden Pit Hazard under several rotted wooden planks, all hidden under a thin layer of dirt. The pit has sharpened wooden spikes at the bottom.
 >- **Damage:** The first character to step on the cover falls through, landing prone and taking 10 bludgeoning damage from the fall plus 2d10 piercing damage from the spikes.
 >- This hazard doesn't have the mechanical trait.
 >- **GM Note:**  On a critical failure of the Gran an Edge, you may also apply **1d6 persistent bleed damage** if you want to increase tension—but this is optional for a one-shot.

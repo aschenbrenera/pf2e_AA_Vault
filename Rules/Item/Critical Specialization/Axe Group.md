@@ -1,5 +1,6 @@
 ---
 tags:
+  - rules/items
   - rules/items/weapon_group
 ---
 # Axe Group

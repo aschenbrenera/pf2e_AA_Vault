@@ -19,7 +19,7 @@ Athletics allows you to perform deeds of physical prowess.
 - [[Reposition]] ⬥
 - [[Rules/Actions & Activities/Encounter/Attack/Shove]] ⬥
 - [[Swim]] ⬥
-- [[Trip]] ⬥
+- [[Rules/Actions & Activities/Encounter/Attack/Trip]] ⬥
 
 ## Athletics Trained Actions
 

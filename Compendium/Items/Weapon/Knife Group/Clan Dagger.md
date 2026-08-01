@@ -10,7 +10,7 @@ format: 1_0
 ---
 #  Clan Dagger
 
-[Uncommon](Uncommon.md "Uncommon Rarity Trait") [Dwarf](Dwarf.md "Ancestry & Heritage Trait") [Agile](Agile.md "Weapon Trait") [Parry](Rules/Traits/Item/Weapon%20Trait/Parry.md "Weapon Trait") [Versatile _B_](Versatile.md "Weapon Trait")
+[Uncommon](Uncommon.md "Uncommon Rarity Trait") [Dwarf](Rules/Traits/Ancestry/Dwarf.md "Ancestry & Heritage Trait") [Agile](Agile.md "Weapon Trait") [Parry](Rules/Traits/Item/Weapon%20Trait/Parry.md "Weapon Trait") [Versatile _B_](Versatile.md "Weapon Trait")
 
 This broad dagger is carried by dwarves as a weapon, tool, and designation of clan. Losing or having to surrender a clan dagger is considered a mark of embarrassment to most dwarves.
 

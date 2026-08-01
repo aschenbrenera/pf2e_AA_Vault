@@ -3,6 +3,8 @@ tags:
   - activity_exploration/core
   - trait/ability/exploration
   - trait/generic/manipulate
+aliases:
+  - Affix
 ---
 # Affix A Talisman
 

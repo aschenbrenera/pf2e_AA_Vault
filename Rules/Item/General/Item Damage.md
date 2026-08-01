@@ -13,8 +13,24 @@ An item that takes damage can become **broken** and eventually destroyed. It b
 
 Inanimate objects and hazards are immune to bleed, death effects, disease, healing, mental effects, nonlethal attacks, poison, spirit, vitality, void, as well as the doomed, drained, fatigued, paralyzed, sickened, and unconscious conditions. Conscious, thinking items are not immune to mental effects. Many objects are immune to other conditions, at the GM’s discretion. For instance, a sword can’t move, so it can’t take a penalty to its Speed, but a spinning blade trap might be affected.
 
+## Armor and Weapons
 
-## Material Hardness, Hit Points, and Broken Threshold
+| Material (Standard) | Hardness |  HP |  BT | Armor Group    |
+| ------------------- | --------:| ---:| ---:| -------------- |
+| Cloth               |        1 |   4 |   2 | Cloth          |
+| Leather             |        4 |  16 |   8 | Leather        |
+| Wood                |        5 |  20 |  10 | Wood/Composite |
+| Steel               |        9 |  36 |  18 | Chain/Plate    |
+| Bone                |        4 |  16 |   8 | Skeletal       |
+| Peachwood           |        3 |  12 |   6 | Special        |
+| Silver              |        5 |  20 |  10 | Special        |
+| Dawnsilver          |        5 |  20 |  10 | Special        |
+| [[Duskwood]]        |        5 |  20 |  10 | Special        |
+| Dragonhide          |        6 |  24 |  12 | Special        |
+| Cold Iron           |        7 |  28 |  14 | Special        |
+| Adamantine          |       10 |  40 |  20 | Special        |
+
+##  Common Material Statistics
 
 | **Material**            | **Hardness** | **HP** | **BT** | **Example Items**                       |
 | ----------------------- | ------------ | ------ | ------ | --------------------------------------- |

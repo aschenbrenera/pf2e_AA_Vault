@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/core
+  - rules/gm/ref
 aliases:
   - Improvised Weapon
   - Unarmed Attack

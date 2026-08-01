@@ -1,4 +1,5 @@
 #obsidian/workpad
+#tool
 
 # Remastered Rule Books
 
@@ -22,4 +23,3 @@
 - LO - Rival Academies
 - LO - Tian Xia Character Guide
 - LO - Tian Xia World Guide
-- 

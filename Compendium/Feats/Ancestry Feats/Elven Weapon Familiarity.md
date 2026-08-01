@@ -7,7 +7,7 @@ format: 1_0
 ---
 # Elven Weapon Familiarity  &emsp;*(Feat 1)*
 
-[Elf](Elf.md "Ancestry & Heritage Trait")
+[Elf](Rules/Traits/Ancestry/Elf.md "Ancestry & Heritage Trait")
 **Description:** You favor bows and other elegant weapons.
 
 **Prerequisite:** Elf

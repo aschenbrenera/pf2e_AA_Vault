@@ -1,6 +1,6 @@
 ---
 tags:
-  - campaign
+  - tool
 ---
 # Players
 
@@ -18,10 +18,15 @@ FROM "Campaign/PCs"
 SORT file.name
 ```
 
-# Lookups
+##  Lookups
 
-[[Identifying and Learning]]
-[[Activities, Exploration Tactic Index]]
+```dataview
+     LIST
+     FROM "Rules"
+     Where
+     contains(tags, "rules/gm/ref")
+     SORT file.name
+```
 
 - !!!col
    - 1

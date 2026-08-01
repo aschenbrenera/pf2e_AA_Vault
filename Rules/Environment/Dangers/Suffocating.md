@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/core
+  - rules/core/dangers
 aliases:
   - Holding Breath
   - Drowning

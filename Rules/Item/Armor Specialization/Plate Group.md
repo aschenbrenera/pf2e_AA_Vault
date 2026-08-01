@@ -1,5 +1,6 @@
 ---
 tags:
+  - rules/items
   - rules/items/armor_group
 ---
 # Plate Group

@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/core
+  - rules/gm/ref
 aliases:
   - Identify DC
   - Learn DC

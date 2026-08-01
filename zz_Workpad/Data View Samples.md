@@ -1,4 +1,5 @@
 #obsidian/workpad 
+#tool
 
 # Recently Modified Files
 ```dataview  

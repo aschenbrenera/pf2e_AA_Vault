@@ -25,8 +25,6 @@ format: 1_0
 ## Mechanical Rules
 
 - You deal 2d6 vitality damage with a [[Basic Saving Throw|Basic]] Fortitude save. If the creature critically fails the save, it is also [[Enfeebled]] 1 until the start of your next turn.
-  
-[[Throwing Objects|Basic]]
 
 > [!info] Heighten
 >- **Heightened (+1):** The damage increases by 1d6.

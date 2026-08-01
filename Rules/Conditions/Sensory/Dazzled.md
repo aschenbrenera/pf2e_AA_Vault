@@ -17,4 +17,4 @@ format: 1_0
 
 ## Inheritance Sources
 
--  After being in [[Darkness]], sudden exposure to bright light might make you Dazzled for a short time, as determined by the GM.
+-  After being in [[Rules/Environment/Sensory/Darkness]], sudden exposure to bright light might make you Dazzled for a short time, as determined by the GM.

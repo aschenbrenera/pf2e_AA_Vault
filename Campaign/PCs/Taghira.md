@@ -1,23 +1,23 @@
 ---
 tags: campaign
 name: Taghira
-level: 5
-hp: 68
-dc: 21
-ac: 22
-fort: 11 (E)
-ref: 13 (E)
-will: 11 (E)
-modifier: 11
-perception: 11 (E)
+level: 6
+hp: 80
+dc: 22
+ac: 24
+fort: 12 (E)
+ref: 14 (E)
+will: 12 (E)
+modifier: 12
+perception: 12 (E)
 deception: 1 (U)
 diplomacy: 1 (U)
-stealth: 11 (T)
+stealth: 12 (T)
 arcana: 0 (U)
 crafting: 0 (U)
-medicine: 9 (T)
-nature: 11 (E)
-occultism: 7 (T)
+medicine: 10 (T)
+nature: 12 (E)
+occultism: 8 (T)
 religion: 2 (U)
 society: 0 (U)
 statblock: inline
@@ -29,39 +29,39 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Taghira"
-level: "PC 5"
+level: "PC 6"
 size: "Medium"
 trait_03: "Catfolk"
 trait_04: "Humanoid"
 trait_05: "Ranger"
-modifier: 11
+modifier: 12
 perception:
   - name: "Perception"
-    desc: "+11; __[[Low-light vision]]__; __[[Scent]]__ 30"
+    desc: "+12; __[[Low-light vision]]__; __[[Scent]]__ 30"
 languages: "Common, Amurrun; "
 skills:
   - name: "Skills"
-    desc: "__Acrobatics__: +11; __Athletics__: +10; __Stealth__: +11;"
+    desc: "__Acrobatics__: +12; __Athletics__: +11; __Stealth__: +12;"
 
 abilityMods: [3, 4, 2, 0, 2, 1]
 
 speed: 30 feet
 
-ac: 22
+ac: 24
 armorclass:
   - name: AC
-    desc: "22; __Fort__: +11; __Ref__: +13; __Will__: +11; __DC__: 21;"
-hp: 68
+    desc: "24; __Fort__: +12; __Ref__: +14; __Will__: +12; __DC__: 22;"
+hp: 80
 health:
   - name: HP
-    desc: "68"
+    desc: "80"
 abilities_top:
   - name: Gear
     desc: "[[Backpack]], [[Healer's Kit]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Compass]], Map of Frostbreach Region"
   - name: Weapons & Armor
-    desc: "Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Whisperwind Shortbow]], [[Shortsword]], [[Vine Arrow]], [[Arrows]] x120"
+    desc: "+1 Studded Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Whisperwind Shortbow]], [[Shortsword]], [[Vine Arrow]], [[Arrows]] x120"
   - name: Special Actions
-    desc: "[[Cat's Luck]], [[Hunt Prey]], [[Hunted Shot]], [[Battle Medicine]], [[Hunter's Aim]], [[Point Blank Stance]]"
+    desc: "[[Battle Medicine]], [[Cat's Luck]], [[Hunt Prey]], [[Hunted Shot]], [[Hunter's Aim]], [[Point Blank Stance]], [[Parting Shot]], [[Eldritch Shot]]"
 ```
 
 **Heritage:** Hunting Catfolk
@@ -69,23 +69,29 @@ abilities_top:
 
 ### Feats
 - [[Cat's Luck]]
-- [[Hunted Shot]]
+- [[Pride Hunter]]
+- [[Archer Dedication]]
+- [[Eldritch Archer Dedication]]
+- [[Fleet]]
+- [[Assurance]] - Athletics
+- [[Battle Medicine]]
+- [[Natural Medicine]]
 - [[Survey Wildlife]]
 - [[Monster Hunter]]
-- [[Battle Medicine]]
-- [[Archer Dedication]]
-- [[Fleet]]
-- [[Natural Medicine]]
+- [[Hunted Shot]]
 - [[Hunter's Aim]]
 - [[Point Blank Stance]]
-- [[Pride Hunter]]
+- [[Parting Shot]]
 ### Abilities
 - [[Hunt Prey]]
+- [[Eldritch Shot]]
 - [[Hunter's Edge]] - [[Precision]]
 - [[Land on your Feet]]
 - [[Hunting Catfolk]]
 - [[Low-light vision]]
 - [[Trackless Journey]]
+### Cantrips
+- [[Gouging Claw]]
 
 ### Perfume Tactic:
 - Cedar
@@ -93,10 +99,12 @@ abilities_top:
 - Lavendear
 - Peppermint
 - Vanilla
-### Natural Medicine Ideas
+### Narrative Ideas
 - Battle Medicine
 	- Caph Pods - when crushed release a think potent vapor that when inhaled sends a jolt of vitality through their body, but taxes the system. More than 1 a day is not recommended.
 	- Shockroot Paste - when slathered over a wound it stings at first but will stop the bleeding and the paste, then works as a general anesthetic. More then one application a day can cause cardiac arrest.
 - Treat wounds
 	- Mint and Lichen Salves to each swelling and help close wounds.
 	- Brew restorative Tea from herbs.
+- Eldritch Shot - Gouging Claw
+	- As the bow string is drawn back, primal energy flows from my hand emitting a green glow that wraps around the arrow.  On impact, the arrow shaft erupts with clawed spikes, ripping through flesh before withering back into splinters.

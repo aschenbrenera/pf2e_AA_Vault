@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/core
+  - rules/gm/ref
 ---
 # Simple DCs
 

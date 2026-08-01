@@ -1,6 +1,8 @@
 ---
 tags: 
   - hazard
+  - trait/trap
+  - trait/trap/mechanical
 statblock: inline
 name: "Hidden Pit"
 level: 0
@@ -14,8 +16,8 @@ forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Hidden Pit"
 level: "Hazard 0"
-trait_02: "Mechanical"
-trait_03: "Trap"
+trait_02: "[[Mechanical]]"
+trait_03: "[[Trap]]"
 armorclass:
   - name: AC
     desc: "10; **Fort** 1, **Ref** 1"

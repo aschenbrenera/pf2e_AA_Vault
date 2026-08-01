@@ -9,7 +9,7 @@ format: 1_0
 ---
 # Elven Curve Blade
 
-[Uncommon](Uncommon.md "Uncommon Rarity Trait") [Elf](Elf.md "Ancestry & Heritage Trait") [Finesse](Finesse.md "Weapon Trait") [Forceful](Forceful.md "Weapon Trait")
+[Uncommon](Uncommon.md "Uncommon Rarity Trait") [Elf](Rules/Traits/Ancestry/Elf.md "Ancestry & Heritage Trait") [Finesse](Finesse.md "Weapon Trait") [Forceful](Forceful.md "Weapon Trait")
 
 Essentially a longer version of the scimitar, this traditional elven weapon has a thinner blade than its cousin.
 

@@ -13,7 +13,7 @@ format: 1_0
 
 **Price:** 10 gp
 **Bulk:** —
-**Ammunition"** [[Arrows]]
+**Ammunition:** [[Arrows]]
 **Activate:** [](#Actions "Single Action") (concentrate)
 
 

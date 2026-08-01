@@ -4,6 +4,7 @@ format: 1_0
 
 
 #obsidian/workpad
+#tool
 
 
 

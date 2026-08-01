@@ -3,7 +3,7 @@ tags:
   - creature/type/undead
   - trait/creature/undead
   - trait/creature/ghoul
-  - trait/creature/unholy
+  - trait/effect/unholy
 statblock: inline
 name: "Ghoul Stalker"
 level: 1

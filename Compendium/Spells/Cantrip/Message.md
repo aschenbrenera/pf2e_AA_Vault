@@ -38,8 +38,3 @@ format: 1_0
 - Cantrip spells are automatically heightened to half your level rounded up.
 - Follows the rules for the [[Subtle]] trait.
 	- A spell with the subtle trait can be cast without incantations and doesn't have obvious manifestations.
-- Follows the rules for the [[Illusion]] trait.
-	- If the illusion is visual, and a creature interacts with the illusion in a way that would prove it is not what it seems, the creature might know that an illusion is present, but it still can’t ignore the illusion without successfully disbelieving it. 
-	- To attempt to disbelieve an illusion, a creature must intentionally engage with it, typically using: **Seek**, **Interact**, or another meaningful action chosen by the GM.
-		- The action triggers a check—usually Perception vs. the caster’s Spell DC. For some mental illusions, the spell might specify a Will save instead.
-		- On success, ignore all of the illusion's effects. Even after disbelieving, illusions may still impose concealment effects, at the GM’s discretion.

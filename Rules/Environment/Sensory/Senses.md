@@ -17,7 +17,7 @@ Pathfinder's rules assume that a given creature has vision as its only precise s
 
 # Line of Sight
 
-Some effects require you to have line of sight to your target. As long as you can precisely sense the area (as described in Precise Senses) and it is not blocked by a solid barrier (as described in Cover), you have line of sight. An area of [[Darkness]] prevents line of sight if you don’t have Darkvision, but portcullises and other obstacles that aren’t totally solid do not. Usually a 1-foot-square gap is enough to maintain line of sight, though the GM makes the final call.
+Some effects require you to have line of sight to your target. As long as you can precisely sense the area (as described in Precise Senses) and it is not blocked by a solid barrier (as described in Cover), you have line of sight. An area of [[Rules/Environment/Sensory/Darkness]] prevents line of sight if you don’t have Darkvision, but portcullises and other obstacles that aren’t totally solid do not. Usually a 1-foot-square gap is enough to maintain line of sight, though the GM makes the final call.
 
 # Detecting with Other Senses
 

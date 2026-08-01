@@ -8,7 +8,7 @@ format: 1_0
 # Mage's Hat
 
 [Invested](Invested.md "Item Trait") [Arcane](Magical.md "Effect Trait")
-Description: This hat comes in many forms, such as a colorful turban or a pointy hat with a brim, and is adorned with symbols or runes. 
+**Description:** This hat comes in many forms, such as a colorful turban or a pointy hat with a brim, and is adorned with symbols or runes. 
 
 **Bulk:** —
 **Usage:** worn headwear

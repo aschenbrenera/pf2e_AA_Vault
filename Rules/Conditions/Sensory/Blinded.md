@@ -19,6 +19,6 @@ format: 1_0
 
 ## Inheritance Sources
 
--  Someone without [[Darkvision]] or another means of perceiving in darkness has the blinded condition while in [[Darkness]], though they might be able to see into illuminated areas beyond the darkness normally.
+-  Someone without [[Darkvision]] or another means of perceiving in darkness has the blinded condition while in [[Rules/Environment/Sensory/Darkness]], though they might be able to see into illuminated areas beyond the darkness normally.
 - [[Unconscious]]
 - [[Dying]]

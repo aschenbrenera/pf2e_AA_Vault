@@ -10,7 +10,7 @@ format: 1_0
 ---
 # Fireball [](#Actions "Two-Action") &emsp;*(Spell 3)*
 
- [Concentrate](Concentrate.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait") [Fire](Fire.md "Effect Trait") 
+ [Concentrate](Concentrate.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait") [Fire](Rules/Traits/Effect/Fire.md "Effect Trait") 
 **Description:** A roaring blast of fire detonates at a spot you designate.
 
 **Traditions:** arcane, primal   
