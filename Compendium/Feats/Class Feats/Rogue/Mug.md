@@ -9,7 +9,7 @@ format: 1_0
 ---
 # Mug [](#Actions "Two-Action") &emsp;*(Feat 4)*
 
-[Rogue](Rules/Traits/Class/Rogue.md "Class Trait")
+[Rogue](Rogue.md "Class Trait")
 **Description:** You make a quick attack and rob your foe in the process. 
 
 **Activity:** Two Action ⬥⬥

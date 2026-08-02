@@ -7,7 +7,7 @@ format: 1_0
 ---
 # Ancestral Suspicion  &emsp;*(Feat 5)*
 
-[Elf](Rules/Traits/Ancestry/Elf.md "Ancestry & Heritage Trait")
+[Elf](Compendium/Traits/Ancestry/Elf.md "Ancestry & Heritage Trait")
 **Description:** Long-lived elves have seen civilizations rise and fall, often at the hands of outside forces. As a result, they have developed a wariness of others who might seek to influence or control them. You've been trained to resist such manipulation.
 **Prerequisite:** Elf
 

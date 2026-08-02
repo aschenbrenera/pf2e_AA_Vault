@@ -1,7 +1,8 @@
 ---
 tags:
   - ability/monster
-format: 1_0
+  - defense/fortitude
+format: 2.0
 ---
 #  Constrict
 

@@ -1,6 +1,6 @@
 ---
 tags:
-  - custom_campaign
+  - custom/campaign
 ---
 
 # “Death House” – Narrative Outline

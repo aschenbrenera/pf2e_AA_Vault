@@ -13,7 +13,7 @@ LIMIT 10
 ```dataview  
 LIST
 FROM "Rules"
-WHERE format != "1_0"and
+WHERE format != "2.0"and
 !contains(tags, "rules/trait")
 SORT file.mtime DESC
 LIMIT 10
@@ -28,3 +28,11 @@ WHERE format != "1_0" and
 SORT file.name
 LIMIT 20
 ```
+
+# Dead Links
+```dataview  
+TABLE without id
+out AS "Uncreated files", file.link as "Origin"
+FLATTEN file.outlinks as out
+WHERE !(out.file) AND !contains(meta(out).path, "/")
+SORT out ASC

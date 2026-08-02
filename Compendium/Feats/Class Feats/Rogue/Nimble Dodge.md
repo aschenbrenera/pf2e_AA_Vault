@@ -9,7 +9,7 @@ format: 1_0
 ---
 # Nimble Dodge [](#Actions "Reaction") &emsp;*(Feat 1)*
 
-[Rogue](Rules/Traits/Class/Rogue.md "Class Trait")
+[Rogue](Rogue.md "Class Trait")
 **Description:** You deftly dodge out of the way.
 
 **Requirements:** You are not encumbered

@@ -11,6 +11,7 @@ When you need to determine whether you can successfully throw something that doe
 
 - The object counts as an [[Fighting Unarmed|Improvised Weapon]].
 	- If there is a similar enough weapon, use the statistics for that weapon.
+	- You take a –2 item penalty to attack rolls with an improvised weapon.
 	- If it is a simple object that is specifically designed to be thrown (such as a game ball), the GM may allow you to ignore the improvised weapon penalty.
 - The object gains the 'Thrown' trait.
 - The default range increment is typically 20 feet, modified at GM discretion.

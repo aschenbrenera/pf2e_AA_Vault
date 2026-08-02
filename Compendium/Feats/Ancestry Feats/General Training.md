@@ -7,7 +7,7 @@ format: 1_0
 ---
 # General Training  &emsp;*(Feat 1)*
 
-[Human](Rules/Traits/Ancestry/Human.md "Ancestry & Heritage Trait")
+[Human](Compendium/Traits/Ancestry/Human.md "Ancestry & Heritage Trait")
 **Description:** Your adaptability manifests in your mastery of a range of useful abilities.
 **Prerequisite:** Human
 

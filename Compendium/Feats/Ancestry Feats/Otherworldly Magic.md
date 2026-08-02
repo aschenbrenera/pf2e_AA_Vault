@@ -7,7 +7,7 @@ format: 1_0
 ---
 # Otherworldly Magic  &emsp;*(Feat 1)*
 
-[Elf](Rules/Traits/Ancestry/Elf.md "Ancestry & Heritage Trait")
+[Elf](Compendium/Traits/Ancestry/Elf.md "Ancestry & Heritage Trait")
 **Description:** Your elven magic manifests as a simple arcane spell, even if you aren't formally trained in magic. 
 **Prerequisite:** Elf
 

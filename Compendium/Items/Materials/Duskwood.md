@@ -2,7 +2,7 @@
 tags:
 - item/material
 - trait/rarity/uncommon
-- trait/precious
+- trait/item/precious
 ---
 # Duskwood
 

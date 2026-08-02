@@ -5,7 +5,7 @@ format: 1_0
 ---
 # Land on your Feet 
 
-[Catfolk](Rules/Traits/Ancestry/Catfolk.md "Ancestry & Heritage Trait")
+[Catfolk](Compendium/Traits/Ancestry/Catfolk.md "Ancestry & Heritage Trait")
 **Description:** Better at falling.
 
 ## Mechanical Rules

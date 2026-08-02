@@ -1,6 +1,6 @@
 ---
 tags:
-  - custom_campaign
+  - custom/campaign
 format: 1_0
 ---
 # Death House Time Clock

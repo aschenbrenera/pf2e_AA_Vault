@@ -1,6 +1,6 @@
 ---
 tags:
-  - custom_campaign
+  - custom/campaign
 ---
 # Leaving Death House
 

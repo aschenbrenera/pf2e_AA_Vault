@@ -9,7 +9,7 @@ format: 1_0
 ---
 # Eldritch Shot [](#Actions "Three-Action")
 
-[Eldritch_Archer](Eldritch_Archer.md "Class Trait")
+[Eldritch_Archer](Eldritch%20Archer.md "Class Trait")
 **Description:** Mark a creature for Death.
 
 **Source:** [[Eldritch Archer Dedication]]

@@ -6,7 +6,7 @@ tags:
 level: 1
 format: 1_0
 ---
-# Hobnobber &emsp;*(Feat 1)*
+# Quick Coercion &emsp;*(Feat 1)*
 
 [General](General.md "Feat Trait") [Skill](Skill.md "Feat Trait") 
 **Description:** You can bully others with just a few choice implications.
@@ -19,4 +19,4 @@ format: 1_0
 - You still can’t Coerce a creature in the midst of combat, or without engaging in a conversation.
 
 > [!tip] Tabletop Interpretation
-> This appears to be feat tax for what should essentially be base game functionality.  Alternate rules are given under Coerce that fold this feat into the action itself.
+> This may seem like a feat tax. Alternate rules are given under the Coerce action.

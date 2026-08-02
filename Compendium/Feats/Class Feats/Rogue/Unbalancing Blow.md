@@ -7,7 +7,7 @@ format: 1_0
 ---
 # Unbalancing Blow &emsp;*(Feat 2)*
 
-[Rogue](Rules/Traits/Class/Rogue.md "Class Trait")
+[Rogue](Rogue.md "Class Trait")
 **Description:** Interweaving attacks, you unbalance your foes. 
 
 **Prerequisites:** Thief racket.

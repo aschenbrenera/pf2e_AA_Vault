@@ -12,7 +12,7 @@ format: 1_0
 ---
 # Weapon Surge [](#Actions "Single Action") &emsp;*(Focus 1)*
 
-[Uncommon](Uncommon.md "Uncommon Rarity Trait") [Cleric](Rules/Traits/Class/Cleric.md "Class Trait") [Focus](Focus.md "General Trait") [Manipulate](Manipulate.md "General Trait") [Sanctified](Sanctified.md "Effect Trait")
+[Uncommon](Uncommon.md "Uncommon Rarity Trait") [Cleric](Cleric.md "Class Trait") [Focus](Focus.md "General Trait") [Manipulate](Manipulate.md "General Trait") [Sanctified](Sanctified.md "Effect Trait")
 **Description:** Holding your weapon aloft, you fill it with divine energy.
 
 **Domain:** Zeal

@@ -1,16 +1,17 @@
 ---
 tags:
   - rules/core
+format: 2.0
 ---
 # Multiple Attack Penalty
 
-The more attacks you make beyond your first in a single turn, the less accurate you become. If you use an action with the `ATTACK` trait more than once on the same turn, your attacks after the first take a penalty called a multiple attack penalty. 
+The more attacks you make beyond your first in a single turn, the less accurate you become. If you use an action with the `Attack` trait more than once on the same turn, your attacks after the first take a penalty called a multiple attack penalty. 
 
 ## Mechanical Rules
 
-- Your second `ATTACK` action on the same turn takes a –5 penalty, and any subsequent `ATTACK` actions take a –10 penalty.
-	- Every check that has the `ATTACK` trait counts toward your multiple attack penalty, including [[Strike]], [[Spell Attack Rolls]], and many others. 
-	- If a single action allows you multiple checks that have the `ATTACK` trait, apply the multiple attack penalty to each check normally unless the action says otherwise.
+- Your second `Attack` action on the same turn takes a –5 penalty, and any subsequent `Attack` actions take a –10 penalty.
+	- Every check that has the `Attack` trait counts toward your multiple attack penalty, including [[Strike]], [[Spell Attack Rolls]], and many others. 
+	- If a single action allows you multiple checks that have the `Attack` trait, apply the multiple attack penalty to each check normally unless the action says otherwise.
 - The multiple attack penalty doesn't apply to attacks you make when it isn't your turn (such as attacks made as part of a reaction).
 - You can use a weapon with the [[Agile]] trait to reduce your multiple attack penalty to –4 on the second attack or –8 on further attacks. 
 	- This reduction doesn't affect future attacks with non-agile weapons.

@@ -6,7 +6,7 @@ level: 1
 ---
 # Thief
 
-[Rogue](Rules/Traits/Class/Rogue.md "Class Trait")
+[Rogue](Rogue.md "Class Trait")
 **Source:** [[Rogue's Racket]]
 
 Nothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a pickpocket working the streets, a cat burglar sneaking through windows, or even a consultant, testing clients’ vaults for openings.  When a fight breaks out, you prefer swift, lightweight weapons, and you strike where it hurts. 

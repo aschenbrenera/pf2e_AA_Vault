@@ -5,6 +5,7 @@ tags:
 aliases:
   - Improvised Weapon
   - Unarmed Attack
+format: 2.0
 ---
 # Fighting Unarmed
 

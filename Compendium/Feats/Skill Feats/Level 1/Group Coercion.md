@@ -21,4 +21,4 @@ format: 1_0
 
 
 > [!tip] Tabletop Interpretation
-> This appears to be feat tax for what should essentially be base game functionality.  Alternate rules are given under Coerce that fold this feat into the action itself.
+> This may seem like a feat tax. Alternate rules are given under the Coerce action.

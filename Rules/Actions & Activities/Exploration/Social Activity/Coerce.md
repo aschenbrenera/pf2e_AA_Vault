@@ -29,10 +29,10 @@ format: 1_0
 >- **Critical Failure:** The target refuses to comply, becomes hostile if they weren't already, and is temporarily immune to your Coercion for at least 1 week.
 
 > [!tip] Alternate Tabletop Rule
-> You can incorporate the benefits of the following feats directly into the action itself, making them available to all players: **[[Group Coercion]], [[Quick Coercion]], and [[Lasting Coercion]].**
-> - If you are trained in Intimidation, you can target up to 5 creatures instead of one, and reduce the required amount of conversation to a single a round.
-> - If you are expert in Intimidation, you can target up to 10 creatures, and the maximum time they comply increases to a week.
-> - If you are master in Intimidation, you can target up to 20 creatures.
+> Due to the 'feat tax' of requiring multiple feats to be good at coercion, you can combine the benefits of the following feats directly into the action itself (making them available to all players) or a single feat called 'Skilled Coercion': **[[Group Coercion]], [[Quick Coercion]], and [[Lasting Coercion]]**
+> - If you are trained in Intimidation, you can target up to 5 creatures. 
+> - If you are expert in Intimidation, you can target up to 10 creatures, reduce the required amount of conversation to a single a round.
+> - If you are master in Intimidation, you can target up to 20 creatures, and the maximum time they comply increases to a week
 > - If you are legendary in Intimidation, you can target up to 50 creatures, and the maximum time they comply increases to a month.
 
 ## Gameplay Interaction
@@ -52,6 +52,6 @@ format: 1_0
 | Level | Feat               | Req. Training        | Short Desc.                                            |
 | ----- | ------------------ | -------------------- | ------------------------------------------------------ |
 | 1     | [[Group Coercion]] | Trained Intimidation | Increase the number of targets you can Coerce at once. |
-| 1     | [[Quick Coercion]] | Trained              | You can Coerce in 6 seconds instead of a minute.       |
+| 1     | [[Quick Coercion]] | Trained Intimidation | You can Coerce in 6 seconds instead of a minute.       |
 
 

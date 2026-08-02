@@ -2,7 +2,7 @@
 tags:
   - action/core
   - trait/generic/move
-  - custom_group/special_movement
+  - action/special_movement
 format: 1_0
 ---
 # Maneuver in Flight [](#Actions "Single Action")

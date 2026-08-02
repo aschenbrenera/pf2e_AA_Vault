@@ -7,7 +7,7 @@ format: 1_0
 ---
 # Pride Hunter  &emsp;*(Feat 5)*
 
-[Catfolk](Rules/Traits/Ancestry/Catfolk.md "Ancestry & Heritage Trait")
+[Catfolk](Compendium/Traits/Ancestry/Catfolk.md "Ancestry & Heritage Trait")
 **Description:** You avoid the attention of creatures focused on your allies.
 **Prerequisite:** Catfolk
 

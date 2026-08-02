@@ -1,7 +1,7 @@
 ---
 tags:
-  - custom_campaign
-  - custom_condition
+  - custom/campaign
+  - custom/condition
 format: 1_0
 ---
 # Paranoia

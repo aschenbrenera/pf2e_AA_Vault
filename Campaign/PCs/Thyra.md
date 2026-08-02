@@ -93,11 +93,13 @@ abilities_top:
 - [[Magical Shorthand]]
 - [[Scroll Trickster Dedication]] - [[Trick Magic Item]]
 - [[General Training]] - [[Read Lips]]
+  
 ### Abilities
 - [[Wizard Spellcasting]]
 - [[Arcane Thesis]] - Spell Substitution
 - [[Arcane School]] - Battle Magic
 - [[Arcane Bond]] - Staff
+- [[Drain Bonded Item]]
 
 ### Minions
 - Wizard Familiar - Raven (Frodor)

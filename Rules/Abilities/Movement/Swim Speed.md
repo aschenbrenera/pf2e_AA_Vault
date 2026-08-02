@@ -1,7 +1,7 @@
 ---
 tags:
   - ability/special_movement
-format: 1_0
+format: 2.0
 ---
 #  Swim Speed
 
@@ -16,4 +16,5 @@ A Swim Speed allows you to propel yourself through the water with little impedim
 		- You might still have to attempt Athletics checks to Swim in hazardous conditions or to cross turbulent water.
 
 ## Gameplay Interaction
+
 - Having a Swim Speed doesn't necessarily mean you can breathe in water, so you might still be [[Suffocating|Holding Breath]] if you're underwater to avoid drowning.

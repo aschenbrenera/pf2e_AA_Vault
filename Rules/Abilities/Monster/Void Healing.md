@@ -1,7 +1,7 @@
 ---
 tags:
   - ability/monster
-format: 1_0
+format: 2.0
 ---
 #  Void Healing
 

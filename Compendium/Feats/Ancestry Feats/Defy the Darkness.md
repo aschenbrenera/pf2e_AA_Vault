@@ -7,7 +7,7 @@ format: 1_0
 ---
 # Defy the Darkness  &emsp;*(Feat 5)*
 
-[Dwarf](Rules/Traits/Ancestry/Dwarf.md "Ancestry & Heritage Trait")
+[Dwarf](Compendium/Traits/Ancestry/Dwarf.md "Ancestry & Heritage Trait")
 **Description:** Using ancient dwarven methods developed to fight enemies wielding magical darkness, you've honed your darkvision and sworn not to use such magic yourself. 
 **Prerequisite:** Dwarf
 

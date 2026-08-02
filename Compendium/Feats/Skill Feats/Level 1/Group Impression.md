@@ -19,4 +19,4 @@ format: 1_0
 - The number of targets increases to 20 if you’re an expert, 50 if you’re a master, and 100 if you’re legendary.
 
 > [!tip] Tabletop Interpretation
-> This appears to be feat tax for what should essentially be base game functionality.  Alternate rules are given under Make an Impression that fold this feat into the action itself.
+> This may seem like a feat tax. Alternate rules are given under the Make an Impression action.

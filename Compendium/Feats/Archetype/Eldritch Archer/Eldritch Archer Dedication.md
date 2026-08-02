@@ -9,7 +9,7 @@ format: 1_0
 ---
 # Eldritch Archer Dedication &emsp;*(Feat 6)*
 
-[Archetype](Archetype.md "Feat Trait") [Dedication](Dedication.md "Feat Trait") [Eldritch Archer](Eldritch_Archer.md "Class Trait")
+[Archetype](Archetype.md "Feat Trait") [Dedication](Dedication.md "Feat Trait") [Eldritch Archer](Eldritch%20Archer.md "Class Trait")
 
 **Prerequisites:** Expert in at least one weapon from the or Bow or Crossbow weapon group.
 

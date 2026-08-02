@@ -1,8 +1,9 @@
 ---
 tags:
   - ability/vitality
-aliases: Regeneration
-format: 1_0
+aliases:
+  - Regeneration
+format: 2.0
 ---
 #  Fast Healing
 

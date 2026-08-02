@@ -1,8 +1,7 @@
 ---
 tags:
-  - ability
   - ability/special_sense
-format: 1_0
+format: 2.0
 ---
 # Low-light vision
 

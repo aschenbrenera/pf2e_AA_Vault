@@ -1,7 +1,8 @@
 ---
 tags:
   - ability/monster
-format: 1_0
+  - defense/reflex
+format: 2.0
 ---
 # Engulf [](#Actions "Two-Action")
 
@@ -19,9 +20,9 @@ format: 1_0
 	- It is [[Grabbed]].
 	- It has to hold it's breath or start [[Suffocating]].
 	- The creature takes the listed amount of damage when first engulfed and at the end of each of its turns while it's engulfed.
-	- An engulfed creature can get free by trying to [[Escape]] against the listed Escape DC.
+	- An engulfed creature can get free by trying to Escape against the listed Escape DC.
 	- An engulfed creature can attack the monster engulfing it, but only with unarmed attacks or with weapons of light Bulk or less.
-		- The engulfing creature is [[Off-Guard]] against the attack.
+		- The engulfing creature is Off-Guard against the attack.
 	- If the monster takes piercing or slashing damage equaling or exceeding the listed Rupture value from a single attack or spell, the engulfed creature cuts itself free.
 	- A creature that gets free by either method can immediately breathe and exits the engulfing monster's space.  
 - If the monster dies, all creatures it has engulfed are automatically released as the monster's form loses cohesion.

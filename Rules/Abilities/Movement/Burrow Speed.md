@@ -1,7 +1,7 @@
 ---
 tags:
   - ability/special_movement
-format: 1_0
+format: 2.0
 ---
 #  Burrow Speed
 

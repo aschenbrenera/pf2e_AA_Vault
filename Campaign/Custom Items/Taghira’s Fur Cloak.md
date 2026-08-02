@@ -4,7 +4,7 @@ tags:
   - item/treasure/worn
   - trait/item/invested
   - trait/magical
-  - custom_content
+  - custom/items
 level: 1
 format: 1_0
 ---

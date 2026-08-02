@@ -7,7 +7,7 @@ format: 1_0
 ---
 # Bravery
 
-[DH_Fighter](DH_Fighter.md "Class Trait")
+[Fighter](Fighter.md "Class Trait")
 **Description:** Having faced countless foes and the chaos of battle, you have learned how to stand strong in the face of fear. 
 
 ## Mechanical Rules

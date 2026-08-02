@@ -4,7 +4,7 @@ tags:
   - trait/ability/downtime
   - trait/generic/secret
   - custom_group/creation
-format: 1_0
+format: 2.0
 ---
 # Create Forgery
 

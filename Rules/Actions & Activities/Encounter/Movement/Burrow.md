@@ -2,7 +2,7 @@
 tags:
   - action/core/basic
   - trait/generic/move
-  - custom_group/special_movement
+  - action/special_movement
 aliases:
   - Burrowing
 format: 1_0

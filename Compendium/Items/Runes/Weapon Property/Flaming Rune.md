@@ -2,9 +2,7 @@
 tags:
 - item/rune
 - trait/magical
-- trait/effect/emotion
-- trait/effect/fear
-- trait/effect/mental
+- trait/effect/fire
 ---
 # Fearsome Rune
 

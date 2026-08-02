@@ -76,14 +76,14 @@ abilities_top:
 - [[Nimble Dodge]]
 - [[Subtle Theft]]
 - [[Tumble Behind]]
-- Fan Dancer Dedication
+- [[Captivator Dedication]]
 - [[Impressive Performance]]
 - [[Thorough Search]]
 - [[Shadow Mark]]
 - [[Trap Finder]]
-- Captivator Dedication? - [[Vitality Lash]], Musical Accompaniment
+- [[Captivator Dedication]] - [[Vitality Lash]], [[Musical Accompaniment]]
 - [[Tumbling Teamwork]]
-- [[Otherworldly Magic]] - Glamorize
+- [[Otherworldly Magic]] - [[Glamorize]]
 - [[Distracting Performance]]
 ### Abilities
 - [[Arctic Elf]]

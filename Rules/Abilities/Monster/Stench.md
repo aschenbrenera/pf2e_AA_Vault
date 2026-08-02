@@ -3,7 +3,8 @@ tags:
   - ability/monster
   - trait/effect/aura
   - trait/effect/olfactory
-format: 1_0
+  - defense/fortitude
+format: 2.0
 ---
 #  Stench
 

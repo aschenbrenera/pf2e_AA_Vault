@@ -4,6 +4,7 @@ tags:
   - trait/ability/downtime
   - trait/generic/manipulate
   - custom_group/creation
+format: 2.0
 ---
 # Craft
 
@@ -74,6 +75,7 @@ Shows reduction in item cost per additional day spent by character level and Cra
 | Level | Feat                    | Req. Training    | Short Desc.                      |
 | ----- | ----------------------- | ---------------- | -------------------------------- |
 | 1     | [[Alchemical Crafting]] | Trained Crafting | Create alchemical items.         |
+| 1     | [[Snare Crafting]] | Trained Crafting | Create snares.         |
 | 2     | [[Communal Crafting]]   | Expert Crafting  | Help or Get Help crafting items. |
 | 2     | [[Magical Crafting]]    | Expert Crafting  | Create magical items.            |
 

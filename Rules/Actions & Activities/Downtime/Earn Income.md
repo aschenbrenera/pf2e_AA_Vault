@@ -2,6 +2,7 @@
 tags:
   - activity_downtime/core
   - trait/ability/downtime
+format: 2.0
 ---
 # Earn Income
 
@@ -18,9 +19,12 @@ Performance: Earn Income by staging a performance.
 
 In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using Religion in a monastery to study old texts—but giving sermons at a church would still fall under Performance instead of Religion. You also might be able to use physical skills to make money, such as using Acrobatics to perform feats in a circus or Thievery to pick pockets. 
 
+## Task Level
 
+The highest-level task available is usually the same as the level of the settlement where the character is located. If you don't know the settlement's level, it's usually 0–1 for a village, 2–4 for a town, or 5–7 for a city. A PC might need to travel to a metropolis or capital to find tasks of levels 8-10, and to the largest cities in the world or another plane to routinely find tasks beyond that. Some locations might have higher-level tasks available based on the nature of the settlement. A major port might have higher-level tasks for Sailing Lore, a city with a vibrant arts scene might have higher-level tasks for Performance, and so on. 
+If someone is trying to use a particularly obscure skill, they might have trouble finding tasks of an ideal level, or any at all—no one in most settlements is clamoring for the expertise of someone with Troll Lore.  
   
-[Earn Income Calculator](https://2e.aonprd.com/EarnIncomeCalc.aspx)
+The GM might adjust the DC for a task level to be more difficult if there's inclement weather during an outdoor job, a rowdy audience for a performance, or the like.
 
 ## Mechanical Rules
 

@@ -2,6 +2,6 @@
 tags:
   - rules/trait
 ---
-# Mauler
+# Acrobat
 
 The Acrobat Archetype.

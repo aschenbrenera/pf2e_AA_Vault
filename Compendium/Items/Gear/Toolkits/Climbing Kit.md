@@ -6,7 +6,7 @@ format: 1_0
 # Climbing Kit
 
 **Bulk:** 1
-**Hands:** 2
+**Hands:** 1 or 2
 
 This satchel includes 50 feet of [[Rope]], pulleys, a dozen [[Piton]], a hammer, a [[Grappling Hook]] and one set of crampons.
 
@@ -23,4 +23,7 @@ A single kit has only enough materials for one climber; each climber needs their
 
 ## Gameplay Interaction
 
-- You can make a toolkit easier to use by [[Wearing Toolkits]]. This easy access allows you to draw and replace the tools within as part of the action that uses them, rather than needing to Interact to draw them. You can wear up to 2 Bulk of toolkits in this manner; any beyond this limit must be stowed or drawn with an Interact action to use.
+- You can make a toolkit easier to use by [[Wearing Toolkits]]. 
+	- This easy access allows you to draw and replace the tools within as part of the action that uses them, rather than needing to Interact to draw them.
+	- You can use a toolkit with 1 hand if you’re wearing it or 2 if you’re holding it.
+	- You can wear up to 2 Bulk of toolkits in this manner; any beyond this limit must be stowed or drawn with an Interact action to use.

@@ -3,7 +3,7 @@ tags:
   - campaign
   - item/weapon
   - trait/magical
-  - custom_content
+  - custom/items
 level: 1
 format: 1_0
 ---
