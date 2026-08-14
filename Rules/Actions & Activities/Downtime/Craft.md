@@ -4,7 +4,9 @@ tags:
   - trait/ability/downtime
   - trait/generic/manipulate
   - custom_group/creation
+  - requires_skill_training
 format: 2.0
+source: Player Core
 ---
 # Craft
 

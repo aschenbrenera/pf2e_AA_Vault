@@ -3,6 +3,7 @@ tags:
   - ability/monster
   - defense/reflex
 format: 2.0
+source: Monster Core
 ---
 # Engulf [](#Actions "Two-Action")
 

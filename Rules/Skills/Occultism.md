@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Occultism
 
-**Ability**: Intelligence
+**Attribute**: [[Intelligence]]
 
 You know a great deal about ancient philosophies, esoteric lore, obscure mysticism, and supernatural creatures.
 

@@ -11,13 +11,13 @@ aliases:
 ---
 # Senses
 
-The ways a creature can use Perception depend on what senses it has. The primary concepts you need to know for understanding senses are precise senses, imprecise senses, and the three states of [[Rules/Environment/Sensory/Detection]] a target can be in: [[Rules/Environment/Sensory/Detection|Observed]], [[Hidden]], or [[Undetected]]. Vision, hearing, and scent are three prominent senses, but each has a different degree of acuity. When one creature might detect another, the GM almost always uses the most precise sense available.  
+The ways a creature can use Perception depend on what senses it has. The primary concepts you need to know for understanding senses are precise senses, imprecise senses, and the three states of [[Rules/Environment/Sensory/Detection|Detection]] a target can be in: [[Rules/Environment/Sensory/Detection|Observed]], [[Hidden]], or [[Undetected]]. Vision, hearing, and scent are three prominent senses, but each has a different degree of acuity. When one creature might detect another, the GM almost always uses the most precise sense available.  
 
 Pathfinder's rules assume that a given creature has vision as its only precise sense and hearing as its only imprecise sense. Some characters and creatures, however, have precise or imprecise senses that don't match this assumption. For instance, a character with poor vision might treat that sense as imprecise, an animal with the [[Scent]] ability can use its sense of smell as an imprecise sense, and a creature with [[Echolocation]]  or a similar ability can use hearing as a precise sense. Such senses are often given special names and appear as “echolocation (precise),” “scent (imprecise) 30 feet,” etc.
 
 # Line of Sight
 
-Some effects require you to have line of sight to your target. As long as you can precisely sense the area (as described in Precise Senses) and it is not blocked by a solid barrier (as described in Cover), you have line of sight. An area of [[Rules/Environment/Sensory/Darkness]] prevents line of sight if you don’t have Darkvision, but portcullises and other obstacles that aren’t totally solid do not. Usually a 1-foot-square gap is enough to maintain line of sight, though the GM makes the final call.
+Some effects require you to have line of sight to your target. As long as you can precisely sense the area (as described in Precise Senses) and it is not blocked by a solid barrier (as described in Cover), you have line of sight. An area of [[Rules/Environment/Sensory/Darkness|Darkness]] prevents line of sight if you don’t have Darkvision, but portcullises and other obstacles that aren’t totally solid do not. Usually a 1-foot-square gap is enough to maintain line of sight, though the GM makes the final call.
 
 # Detecting with Other Senses
 

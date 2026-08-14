@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Intimidation
 
-**Ability**: Charisma
+**Attribute**: [[Charisma]]
 
 You bend others to your will using threats. Intimidation is typically a blunt instrument with little room for nuance or care.
 

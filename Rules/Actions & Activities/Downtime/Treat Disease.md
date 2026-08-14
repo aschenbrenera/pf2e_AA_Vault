@@ -3,7 +3,9 @@ tags:
   - activity_downtime/core
   - trait/ability/downtime
   - trait/generic/manipulate
-format: 1_0
+  - requires_skill_training
+format: 2.0
+source: Player Core
 ---
 # Treat Disease
 

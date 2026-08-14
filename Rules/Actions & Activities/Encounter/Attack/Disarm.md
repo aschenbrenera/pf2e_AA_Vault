@@ -2,6 +2,7 @@
 tags:
   - action/core
   - trait/combat/attack
+  - requires_skill_training
 format: 1_0
 ---
 # Disarm [](#Actions "Single Action")

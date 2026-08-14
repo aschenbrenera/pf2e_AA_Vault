@@ -2,6 +2,7 @@
 tags:
   - ability/monster
 format: 2.0
+source: Monster Core
 ---
 #  Void Healing
 

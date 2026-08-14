@@ -2,6 +2,7 @@
 tags:
   - action/core
   - trait/effect/mental
+  - requires_skill_training
 format: 1_0
 ---
 # Feint [](#Actions "Single Action")

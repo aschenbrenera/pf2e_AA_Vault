@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Thievery
 
-**Ability**: Dexterity
+**Attribute**: [[Dexterity]]
 
 You are trained in a particular set of skills favored by thieves and miscreants.
 

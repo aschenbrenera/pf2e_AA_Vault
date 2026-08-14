@@ -3,7 +3,8 @@ tags:
   - activity_exploration/core
   - trait/ability/exploration
   - custom_group/exploration_tactic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Avoid Notice
 
@@ -14,10 +15,10 @@ format: 1_0
 
 ## Mechanical Rules
 
-- Travel at half speed.
--  If you're Avoiding Notice at the start of an encounter, you usually roll Stealth instead of Perception for initiative. This same check also determines whether enemies notice you.
+- You move at half your [[Travel speed]].
+- If you're Avoiding Notice at the start of an encounter, you usually roll Stealth instead of Perception for initiative. This same check also determines whether enemies notice you.
 	- All normal modifiers to Stealth apply.
-	- You can roll Perception instead, but you forsake Stealth and become Observed.
+	- The GM may decide you can't stealth into the encounter, and have you roll perception for initiative. If you do, you start the encounter as Observed.
 	- To determine your [[Rules/Environment/Sensory/Detection|Detection]] level by enemies, you compare your Stealth check for initiative to the Perception DC of all enemies (as normal for [[Sneak]]).  See [[Initiative with Stealth]] for more information.
 	  > [!success-degree] 
 	  > - **Success:** You're [[Undetected]] by the creature.  If you start your first turn Undetected by all enemies, the GM determines if you are also [[Rules/Environment/Sensory/Detection|Unnoticed]].
@@ -25,12 +26,12 @@ format: 1_0
 	  > - **Critical Failure:** You're [[Rules/Environment/Sensory/Detection|Observed]] by the creature. If you're Invisible you are Hidden instead.
 
 > [!tip] Tabletop Interpretation
-> While the written rules don't explicitly give exploration stealth mechanics, the following tabletop rules seems to be widely adopted.
->- When undertaking the Avoid Notice activity, make an Exploration Stealth check (secret at GM discretion).
+> While the written rules don't explicitly give stealth mechanics for exploration (before starting an encounter), the following tabletop rules seems to be widely adopted.
+>- When a PC takes the Avoid Notice activity, they make an Exploration Stealth check (secret at GM discretion).
 >	- The GM decides how far or how long that check is used during exploration. The GM may have the check rerolled when any relevant circumstance has changed.
 >- The GM may compare this check to the Perception DC of enemies to determine detection during exploration.
->	- Success does not guarantee avoidance of an encounter, but the GM may use it to change how and when it unfolds.
->	- Failure usually means the creature becomes aware that someone is nearby without fully observing them (Unnoticed). This often results in encounter mode beginning even though the PCs still roll Stealth for initiative.
+>	- Success does not guarantee avoidance of an encounter, but the GM may change how and when it unfolds.
+>	- Failure usually means an enemy becomes aware that something is nearby. This often results in a encounter beginning.
 >	- Regardless of outcome, all creatures who were trying to Avoid Notice are usually allowed to roll Stealth for initiative and detection status when an encounter starts.
 
 ## Gameplay Interaction

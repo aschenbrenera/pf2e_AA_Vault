@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Arcana
 
-**Ability**: Intelligence
+**Attribute**: [[Intelligence]]
 
 Arcana measures how much you know about arcane magic and creatures.
 

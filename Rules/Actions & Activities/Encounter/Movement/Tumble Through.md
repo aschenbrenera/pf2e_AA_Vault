@@ -9,7 +9,7 @@ format: 1_0
 [Move](Move.md "General Trait")
 **Description:** Try to move through the space of an enemy.
 
-**Skill:** [[Acrobatics]]
+**Skill:** [[Acrobatics]] (Untrained)
 **Activity:** Single Action ⬥
 
 ## Mechanical Rules

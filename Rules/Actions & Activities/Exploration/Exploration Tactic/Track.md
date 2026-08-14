@@ -5,7 +5,9 @@ tags:
   - trait/ability/concentrate
   - trait/generic/move
   - custom_group/exploration_tactic
-format: 1_0
+  - requires_skill_training
+format: 2.0
+source: Player Core
 ---
 # Track
 

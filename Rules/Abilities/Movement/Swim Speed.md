@@ -2,6 +2,7 @@
 tags:
   - ability/special_movement
 format: 2.0
+source: Player Core
 ---
 #  Swim Speed
 

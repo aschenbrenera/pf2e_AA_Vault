@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "5c6c71eb12dc9fd3",
+        "id": "5e80f8bce4787252",
         "type": "tabs",
         "children": [
           {
-            "id": "fb43f35d911d65b5",
+            "id": "70010d8db1c4e185",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#TODO",
+                "query": "wealth",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -76,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 294.5
+    "width": 241.41830825805664
   },
   "right": {
     "id": "15ac5b917c237f8e",
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compendium/Items/Consumables/Alchemical/Poison/Black Adder Venom.md",
+                "file": "Rules/NPCs/Unfriendly.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -122,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compendium/Items/Consumables/Alchemical/Poison/Black Adder Venom.md",
+                "file": "Rules/NPCs/Unfriendly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +141,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compendium/Items/Consumables/Alchemical/Poison/Black Adder Venom.md",
+                "file": "Rules/Actions & Activities/Exploration/Exploration Tactic/Track.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,11 +170,11 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 246.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -193,47 +193,47 @@
   },
   "active": "7cce4e82fddb236b",
   "lastOpenFiles": [
-    "Rules/Traits/Item/Poison/Injury.md",
-    "Rules/Traits/Item/Alchemical/Infused.md",
-    "Rules/Traits/Item/Alchemical/Bomb.md",
-    "Rules/Traits/Item/Alchemical/Alchemical.md",
-    "Rules/Actions & Activities/Encounter/Defend/Take Cover.md",
-    "Rules/Actions & Activities/Encounter/Defend/Raise a Shield.md",
-    "Rules/Actions & Activities/Encounter/Defend/Parry.md",
-    "Rules/Actions & Activities/Encounter/Attack/Disarm.md",
-    "Rules/Actions & Activities/Encounter/Mental Combat/Demoralize.md",
-    "Rules/Actions & Activities/Encounter/Mental Combat/Feint.md",
-    "Rules/NPC/Pet, Familiar, and Master Abilities.md",
+    "Rules/NPCs/Pet, Familiar, and Master Abilities.md",
+    "Rules/NPCs/Pet.md",
+    "Rules/NPCs/Unfriendly.md",
+    "Rules/NPCs/Indifferent.md",
+    "Rules/NPCs/Hostile.md",
+    "Rules/NPCs/Helpful.md",
+    "Rules/NPCs/Friendly.md",
+    "Rules/NPCs/Attitudes.md",
+    "Rules/NPCs/Familiar.md",
+    "Rules/Skills/Crafting.md",
+    "Rules/Skills/Acrobatics.md",
+    "Rules/Spells/Spontaneous Spell.md",
+    "Rules/Spells/Spell Attack Rolls.md",
+    "Rules/Spells/Magic Traditions and Essences.md",
+    "Rules/Spells/Innate Spell.md",
+    "Rules/Spells/Identifying Spells.md",
+    "Rules/Spells/Heightened Spells.md",
+    "Rules/Spells/Focus Spells.md",
+    "Compendium/Languages/Languages.md",
+    "Compendium/Ancestries/Common/Classic/Dwarf.md",
+    "Compendium/Ancestries/Common/Classic/Elf.md",
+    "Compendium/Ancestries/Common/Classic/Gnome.md",
+    "Compendium/Deities/Abadar.md",
+    "Compendium/Spells/4th Rank/Creation.md",
+    "Compendium/Spells/4th Rank/Fire Shield.md",
+    "Compendium/Spells/1st Rank/Harm.md",
+    "Compendium/Languages",
+    "Compendium/Deities",
+    "Rules/Attributes",
+    "Rules/Statatistics",
+    "Compendium/Ancestries/Common/Supernatural",
+    "Compendium/Ancestries/Common/Untitled",
+    "custom_campaign/The Aleister Order",
     "Rules/Actions & Activities/Encounter/Knowledge",
-    "Compendium/Items/Materials/Duskwood.md",
-    "Compendium/Heritage/Forge-Blessed.md",
-    "Compendium/Items/Weapon/Knife Group/Corset Knife.md",
-    "custom_campaign/DH Module/NPCs/Rose and Thorn.md",
-    "custom_campaign/Custom Mechanics/Paranoia.md",
-    "custom_campaign/DH Module/Walkthrough/Intro.md",
-    "custom_campaign/DH Module/Walkthrough/Ideas.md",
-    "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
-    "custom_campaign/Custom Mechanics/Death House Time Clock.md",
-    "custom_campaign/DH Module/NPCs/Death House Notes.md",
-    "custom_campaign/DH Module/Walkthrough/Appendix - Outline.md",
-    "custom_campaign/DH Module/AV/Appendix - Ambience.md",
-    "Campaign/Custom Items/Whisperwind Shortbow.md",
-    "Campaign/Custom Items/Taghira’s Fur Cloak.md",
-    "Campaign/Custom Items/Rogue Shortsword.md",
     "Compendium/Traits",
     "Compendium/Feats/Archetype/Captivator",
-    "Compendium/Feats/Archetype/Fan Dancer",
-    "Untitled.base",
-    "Untitled 1.base",
-    "Rules/Traits/Hazard",
     "zz_Attachments/Animated_Broom.webp",
     "zz_Attachments/Shadow.webp",
     "zz_Attachments/Grothlut.webp",
     "zz_Attachments/FurCloak.png",
     "zz_Attachments/BoneBow.png",
-    "Compendium/Ancestries/Rare/Modern",
-    "Compendium/Feats/Archetype/Eldritch Archer",
-    "Compendium/Spells/4th Rank",
     "custom_campaign/DH Module/Images/Player Images/house_front.png",
     "custom_campaign/DH Module/Images/Player Images/dh_poem.jpeg",
     "custom_campaign/DH Module/Images/Player Images/The Durst Family.png",

@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Acrobatics
 
-**Ability**: Dexterity
+**Attribute**: [[Dexterity]]
 
 Acrobatics measures your ability to perform tasks requiring coordination and grace. 
 

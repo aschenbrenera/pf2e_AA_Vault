@@ -2,10 +2,11 @@
 tags:
   - ability/special_sense
 format: 2.0
+source: Player Core
 ---
 # Scent
 
-**Description:** Scent involves sensing creatures or objects by smell. It functions only if the creature or object being detected emits an aroma. Presented in stat blocks as 'scent (imprecise) x feet'.
+**Description:** Scent involves sensing creatures or objects by smell. Presented in stat blocks like this: 'scent (imprecise) x feet'.
 
 ## Mechanical Rules
 

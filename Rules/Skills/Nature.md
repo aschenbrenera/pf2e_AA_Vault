@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Nature
 
-**Ability**: Wisdom
+**Attribute**: [[Wisdom]]
 
 You know about the natural world, and you command and train animals and magical beasts.
 

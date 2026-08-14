@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Stealth
 
-**Ability**: Dexterity
+**Attribute**: [[Dexterity]]
 
 You are skilled at avoiding detection, allowing you to slip past foes, hide, or conceal an item.
 

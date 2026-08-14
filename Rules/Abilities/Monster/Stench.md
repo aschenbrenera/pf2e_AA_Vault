@@ -5,6 +5,7 @@ tags:
   - trait/effect/olfactory
   - defense/fortitude
 format: 2.0
+source: Monster Core
 ---
 #  Stench
 

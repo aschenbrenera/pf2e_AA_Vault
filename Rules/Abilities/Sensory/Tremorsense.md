@@ -2,10 +2,11 @@
 tags:
   - ability/special_sense
 format: 2.0
+source: Player Core
 ---
 # Tremorsense
 
-**Description:** Tremorsense allows a creature to feel the vibrations through a solid surface caused by movement. Tremorsense functions only if the detecting creature is on the same surface as the subject, and only if the subject is moving along or through the surface. Presented in stat blocks as 'tremorsense (imprecise) x feet'.
+**Description:** Tremorsense allows a creature to feel the vibrations through a solid surface caused by movement. Tremorsense functions only if the detecting creature is on the same surface as the subject, and only if the subject is moving along or through the surface. Presented in stat blocks like this: 'tremorsense (imprecise) x feet'.
 
 ## Mechanical Rules
 

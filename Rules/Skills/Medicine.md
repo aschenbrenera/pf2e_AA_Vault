@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Medicine
 
-**Ability**: Wisdom
+**Attribute**: [[Wisdom]]
 
 You can patch up wounds and help people recover from diseases and poisons. 
 

@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Crafting
 
-**Ability**: Intelligence
+**Attribute**: [[Intelligence]]
 
 Use crafting to create and repair items or recall knowledge on specific topics.
 

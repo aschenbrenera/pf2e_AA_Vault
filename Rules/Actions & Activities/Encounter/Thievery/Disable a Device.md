@@ -2,6 +2,7 @@
 tags:
   - action/core
   - trait/generic/manipulate
+  - requires_skill_training
 format: 1_0
 ---
 # Disable a Device [](#Actions "Single Action")

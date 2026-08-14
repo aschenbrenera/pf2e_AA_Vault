@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Performance
 
-**Ability**: Charisma
+**Attribute**: [[Charisma]]
 
 You are skilled at a form of performance, using your talents to impress a crowd or make a living.
 

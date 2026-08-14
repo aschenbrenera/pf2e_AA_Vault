@@ -4,7 +4,8 @@ tags:
   - trait/ability/exploration
   - trait/ability/concentrate
   - custom_group/exploration_tactic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Scout
 
@@ -13,5 +14,5 @@ format: 1_0
 
 ## Mechanical Rules
 
-- Move up to half your [[Travel speed]].
+- You move at half your [[Travel speed]].
 - At the start of the next encounter, every creature in your party gains a +1 circumstance bonus to their initiative rolls.

@@ -3,6 +3,8 @@ tags:
   - rules/trait
 aliases:
   - Misfortune
+format: 2.0
+source: Player Core
 ---
 # Fortune
 

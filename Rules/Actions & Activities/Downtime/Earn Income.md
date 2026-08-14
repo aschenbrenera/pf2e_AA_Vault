@@ -2,7 +2,9 @@
 tags:
   - activity_downtime/core
   - trait/ability/downtime
+  - requires_skill_training
 format: 2.0
+source: Player Core
 ---
 # Earn Income
 

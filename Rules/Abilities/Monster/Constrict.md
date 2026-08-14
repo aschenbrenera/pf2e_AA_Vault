@@ -3,6 +3,7 @@ tags:
   - ability/monster
   - defense/fortitude
 format: 2.0
+source: Monster Core
 ---
 #  Constrict
 

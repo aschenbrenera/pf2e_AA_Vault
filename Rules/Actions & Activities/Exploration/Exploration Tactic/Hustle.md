@@ -4,7 +4,8 @@ tags:
   - trait/ability/exploration
   - trait/generic/move
   - custom_group/exploration_tactic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Hustle
 
@@ -13,7 +14,7 @@ format: 1_0
 
 ## Mechanical Rules
 
-- Move at double your travel speed. 
+- You move at double your [[Travel speed]]. 
 - You can Hustle only for a number of minutes equal to your Constitution modifier × 10 (minimum 10 minutes).
 	- If you are in a group that is Hustling, use the lowest Constitution modifier among everyone to determine how fast the group can Hustle together.
 

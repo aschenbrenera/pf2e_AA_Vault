@@ -6,7 +6,8 @@ tags:
   - custom_group/exploration_tactic
 aliases:
   - Detect Magic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Repeat Spell
 
@@ -15,7 +16,7 @@ format: 1_0
 
 ##  Mechanical Rules
  
-- Move up to half your [[Travel speed]].
+- You move at half your [[Travel speed]].
 - Cast a spell (usually a cantrip) that you can cast in 2 actions or fewer. 
 - Repeating a spell that requires making complex decisions, can make you [[Fatigued]], as determined by the GM.
 - When casting [[Detect Magic]]:

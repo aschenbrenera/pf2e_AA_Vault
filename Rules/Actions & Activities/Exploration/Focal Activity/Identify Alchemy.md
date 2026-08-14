@@ -4,6 +4,7 @@ tags:
   - trait/ability/exploration
   - trait/ability/concentrate
   - trait/generic/secret
+  - requires_skill_training
 format: 1_0
 ---
 # Identify Alchemy

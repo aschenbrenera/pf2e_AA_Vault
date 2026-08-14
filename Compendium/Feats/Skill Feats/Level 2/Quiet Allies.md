@@ -20,5 +20,5 @@ format: 1_0
 
 
 > [!tip] Tabletop Interpretation
-> - This feat only modifies Stealth checks made during exploration. It has no direct effect on initiative rolls or stealth in encounter mode.
-> - Replacing multiple Stealth checks with a single shared check usually reduces the party's chance of being while avoiding notice in exploration mode.
+> - This feat only effects Stealth checks made during exploration. It has no direct effect on initiative rolls and detection in encounter mode.
+> - Replacing multiple Stealth checks with a single shared check usually reduces the party's chance of being detected in exploration mode.

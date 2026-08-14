@@ -13,7 +13,7 @@ format: 1_0
 [Concentrate](Concentrate.md "Action & Ability Trait")  [Auditory](Auditory.md "Effect Trait") [Linguistic](Linguistic.md "Effect Trait") [Mental](Mental.md "Effect Trait") [Secret](Secret.md "General Trait") 
 **Description:** You try to fool someone with an untruth. 
 
-**Skill:** [[Deception]]
+**Skill:** [[Deception]] (Untrained)
 **Activity:** Three Action ⬥⬥⬥
 
 ## Mechanical Rules

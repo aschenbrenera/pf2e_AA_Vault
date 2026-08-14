@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Athletics
 
-**Ability**: Strength
+**Attribute**: [[Strength]]
 
 Athletics allows you to perform deeds of physical prowess.
 

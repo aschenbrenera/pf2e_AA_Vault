@@ -4,6 +4,7 @@ tags:
   - trait/ability/exploration
   - trait/effect/healing
   - trait/generic/manipulate
+  - requires_skill_training
 format: 1_0
 ---
 # Treat Wounds

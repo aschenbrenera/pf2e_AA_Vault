@@ -3,7 +3,8 @@ tags:
   - activity_exploration/core
   - trait/ability/exploration
   - custom_group/exploration_tactic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Defend
 
@@ -12,6 +13,6 @@ format: 1_0
 
 ## Mechanical Rules
 
-- You move at half your travel speed
+- You move at half your [[Travel speed]].
 -  If combat breaks out, you gain the benefits of [[Raise a Shield]] before your first turn begins.
 

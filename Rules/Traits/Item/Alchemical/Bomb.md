@@ -1,6 +1,8 @@
 ---
 tags:
   - rules/trait
+format: 2.0
+source: Player Core
 ---
 # Bomb
 

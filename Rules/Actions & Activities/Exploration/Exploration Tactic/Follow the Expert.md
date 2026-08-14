@@ -6,7 +6,8 @@ tags:
   - trait/effect/auditory
   - trait/effect/visual
   - custom_group/exploration_tactic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Follow the Expert
 

@@ -12,7 +12,7 @@ format: 1_0
 [Concentrate](Concentrate.md "Action & Ability Trait")  [Auditory](Auditory.md "Effect Trait") [Linguistic](Linguistic.md "Effect Trait") [Mental](Mental.md "Effect Trait")
 **Description:** Request something from a creature.
 
-**Skill:** [[Diplomacy]]
+**Skill:** [[Diplomacy]] (Untrained)
 **Activity:** Single Action ⬥
 
 ## Mechanical Rules

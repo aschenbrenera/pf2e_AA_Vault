@@ -1,11 +1,12 @@
 ---
 tags:
   - rules/skill
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Diplomacy
 
-**Ability**: Charisma
+**Attribute**: [[Charisma]]
 
 You influence others through negotiation and flattery, or find out information through friendly chats.
 

@@ -4,6 +4,7 @@ tags:
 aliases:
   - Regeneration
 format: 2.0
+source: Player Core
 ---
 #  Fast Healing
 
