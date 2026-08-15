@@ -6,7 +6,7 @@ source: GM Core
 ---
 # Scroll
 
-A scroll contains a single spell you can cast without a spell slot.
+A [[Magic Scroll]] contains a single spell you can cast without a spell slot.
 
 
 ### Additional Info
@@ -15,9 +15,21 @@ A scroll contains a single spell that you can cast without having to expend a sp
   
 If you find a scroll, you can try to figure out what spell it contains. If the spell is a common spell from your spell list or a spell you know, you can spend a single Recall Knowledge action and automatically succeed at identifying the scroll's spell. If it's not, you must Identify Magic.
 
+### Casting a Spell from a Scroll
+
 Casting a Spell from a scroll requires holding the scroll in one hand and activating it with a Cast a Spell activity using the normal number of actions for that spell. The spell must appear on your spell list. Because you're the one Casting the Spell, use your spell attack modifier and spell DC. The spell also gains the appropriate trait for your tradition.  
   
 Any physical costs are provided when a scroll is created, so you don't need to provide them when casting from a scroll. If the spell requires a locus, you must have that locus to Cast the Spell from a scroll.
+
+### Scroll Statistics
+
+All scrolls have the same base statistics unless noted otherwise. A scroll has light Bulk and must be held in one hand to be activated.
+
+#### Varying Statistics
+
+The magic scroll stat block indicates the item level and Price of a scroll, both of which are based on the rank of the spell in the scroll. Any costs to Cast the Spell] are added to the scroll's Price when the scroll is crafted, so a scroll containing a spell with a Cost entry will have a higher Price than what's on the table. The scroll's rarity matches the spell's rarity.  
+  
+The traits for a scroll vary based on the spell it contains. A scroll always has the `Consumable`, `Magical`, and `Scroll` traits, plus any traits that might be relevant to identifying the item, such as `Illusion` or `Fire`. The GM determines the extra traits, if necessary.
 
 ### Crafting a Scroll
 

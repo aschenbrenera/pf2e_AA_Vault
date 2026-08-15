@@ -1,13 +1,12 @@
 ---
 tags:
-  - rules/core
   - rules/npc
 format: 2.0
 source: Player Core
 ---
 # Helpful
 
-**Description:** Willing to help you and responds favorably to your requests.
+**Description:** NPC [[Attitudes]] -  Willing to help you and responds favorably to your requests.
 
 ## Mechanical Rules
 

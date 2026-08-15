@@ -2,6 +2,8 @@
 tags:
   - rules/items
   - rules/items/weapon_group
+format: 2.0
+source: Player Core
 ---
 # Bomb Group
 

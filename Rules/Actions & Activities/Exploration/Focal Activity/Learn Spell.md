@@ -17,7 +17,7 @@ format: 1_0
 ## Mechanical Rules
 
 - If you can cast spells of multiple traditions, you can Learn a Spell of any of those traditions, but you must use the corresponding skill to do so.
-- Spend 1 hour per spell rank, during which you must remain in conversation with a person who knows the spell or have the magical writing in your possession.
+- Spend 1 hour per spell rank, during which you must remain in conversation with a person who knows the spell or have the magical writing in your possession (e.g. [[Spellbook]], [[Magic Scroll]]).
 - Have materials with the Price indicated in the Learning a Spell table.
 - Attempt a skill check for the skill corresponding to your tradition (DC determined by the GM using [[Identifying and Learning|Learn DC]]) or shown below (Uncommon +2, Rare +5, Unique +10). 
 - A spell you learn is added to your repository of spells, such as a spellbook for a wizard, familiar for a witch, or spell list for a cleric or druid. If you have a spell repertoire, such as a bard, it's not automatically added since you can only know a limited number of spells. Instead, you can select it when you add or swap spells.

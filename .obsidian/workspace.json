@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "5e80f8bce4787252",
+        "id": "44ddd8713c04e4ae",
         "type": "tabs",
         "children": [
           {
-            "id": "70010d8db1c4e185",
+            "id": "3af750df9f90ceda",
             "type": "leaf",
             "state": {
-              "type": "empty",
+              "type": "graph",
               "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -51,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "wealth",
+                "query": "tag:#trait/item/scroll",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -107,7 +107,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Rules/NPCs/Unfriendly.md",
+                "file": "Rules/Items/Armor/Armor Specialization/Composite Armor Group.md",
                 "followCursor": true,
                 "showSearch": true,
                 "searchQuery": ""
@@ -122,7 +122,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/NPCs/Unfriendly.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -141,7 +140,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Actions & Activities/Exploration/Exploration Tactic/Track.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -170,7 +168,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -191,53 +189,53 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "7cce4e82fddb236b",
+  "active": "3af750df9f90ceda",
   "lastOpenFiles": [
-    "Rules/NPCs/Pet, Familiar, and Master Abilities.md",
-    "Rules/NPCs/Pet.md",
-    "Rules/NPCs/Unfriendly.md",
-    "Rules/NPCs/Indifferent.md",
-    "Rules/NPCs/Hostile.md",
-    "Rules/NPCs/Helpful.md",
-    "Rules/NPCs/Friendly.md",
-    "Rules/NPCs/Attitudes.md",
-    "Rules/NPCs/Familiar.md",
-    "Rules/Skills/Crafting.md",
-    "Rules/Skills/Acrobatics.md",
-    "Rules/Spells/Spontaneous Spell.md",
-    "Rules/Spells/Spell Attack Rolls.md",
-    "Rules/Spells/Magic Traditions and Essences.md",
-    "Rules/Spells/Innate Spell.md",
-    "Rules/Spells/Identifying Spells.md",
-    "Rules/Spells/Heightened Spells.md",
-    "Rules/Spells/Focus Spells.md",
-    "Compendium/Languages/Languages.md",
-    "Compendium/Ancestries/Common/Classic/Dwarf.md",
-    "Compendium/Ancestries/Common/Classic/Elf.md",
-    "Compendium/Ancestries/Common/Classic/Gnome.md",
-    "Compendium/Deities/Abadar.md",
-    "Compendium/Spells/4th Rank/Creation.md",
-    "Compendium/Spells/4th Rank/Fire Shield.md",
-    "Compendium/Spells/1st Rank/Harm.md",
-    "Compendium/Languages",
-    "Compendium/Deities",
-    "Rules/Attributes",
-    "Rules/Statatistics",
-    "Compendium/Ancestries/Common/Supernatural",
-    "Compendium/Ancestries/Common/Untitled",
-    "custom_campaign/The Aleister Order",
-    "Rules/Actions & Activities/Encounter/Knowledge",
-    "Compendium/Traits",
-    "Compendium/Feats/Archetype/Captivator",
-    "zz_Attachments/Animated_Broom.webp",
-    "zz_Attachments/Shadow.webp",
-    "zz_Attachments/Grothlut.webp",
-    "zz_Attachments/FurCloak.png",
-    "zz_Attachments/BoneBow.png",
+    "A GM Screen/GM Screen.md",
     "custom_campaign/DH Module/Images/Player Images/house_front.png",
     "custom_campaign/DH Module/Images/Player Images/dh_poem.jpeg",
     "custom_campaign/DH Module/Images/Player Images/The Durst Family.png",
     "custom_campaign/DH Module/Images/Player Images/DeathHousePlayerMap.webp",
-    "custom_campaign/DH Module/Images/Player Images/Death House Dungeon Map.png"
+    "custom_campaign/DH Module/Images/Player Images/Death House Dungeon Map.png",
+    "custom_campaign/DH Module/Images/GM Images/deathhouse_floors.png",
+    "custom_campaign/DH Module/Images/GM Images/deathhouse_dungeon.png",
+    "custom_campaign/DH Module/Images/GM Images/deathhouse_basement.png",
+    "custom_campaign/DH Module/Images/GM Images/Walter.jpg",
+    "custom_campaign/DH Module/Images/GM Images/GhoulishEncounterMap.png",
+    "custom_campaign/The Aleister Order/Lantern Marsh.md",
+    "custom_campaign/DH Module/Walkthrough/Intro.md",
+    "custom_campaign/DH Module/Walkthrough/Ideas.md",
+    "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
+    "custom_campaign/DH Module/Walkthrough/Appendix - Outline.md",
+    "custom_campaign/DH Module/NPCs/Rose and Thorn.md",
+    "custom_campaign/DH Module/NPCs/Death House Notes.md",
+    "custom_campaign/DH Module/Monsters/Flesh Mound.md",
+    "custom_campaign/DH Module/Images/Player Images",
+    "custom_campaign/DH Module/Images/GM Images",
+    "custom_campaign/DH Module/AV/Appendix - Ambience.md",
+    "custom_campaign/The Aleister Order/Zold - Crimson Masquerade.md",
+    "custom_campaign/The Aleister Order/Zold - Aleister Order.md",
+    "custom_campaign/The Aleister Order/Zold - Aleister Order GM Notes.md",
+    "custom_campaign/The Aleister Order/Valemort Masquerade.md",
+    "custom_campaign/The Aleister Order/Clockmaker's House.md",
+    "custom_campaign/The Aleister Order/Aleister Order - GM Notes.md",
+    "custom_campaign/The Aleister Order/Aleister Order Player Pamphlet.md",
+    "custom_campaign/The Aleister Order/AI Prompt.md",
+    "custom_campaign/DH Module/Walkthrough",
+    "custom_campaign/DH Module/NPCs",
+    "custom_campaign/DH Module/Monsters",
+    "custom_campaign/DH Module/Images",
+    "custom_campaign/DH Module/AV",
+    "custom_campaign/Custom Mechanics/Paranoia.md",
+    "custom_campaign/Custom Mechanics/Death House Time Clock.md",
+    "custom_campaign/The Aleister Order",
+    "custom_campaign/PCs",
+    "custom_campaign/Images",
+    "Campaign/Custom Items/Taghira’s Fur Cloak.md",
+    "Campaign/PCs/Gunther.md",
+    "Campaign/Settlement/Frostbreach.md",
+    "Campaign/Sessions/sessions.md",
+    "Campaign/PCs/Thyra.md",
+    "Campaign/PCs/Taghira.md"
   ]
 }

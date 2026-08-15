@@ -2,13 +2,13 @@
 tags:
   - rules/items
   - rules/items/weapon_group
+format: 2.0
+source: Player Core
 ---
-# Club Group
+# Hammer Group
 
 Certain feats, class features, weapon runes, and other effects can grant you additional benefits when you make a Strike with certain weapons and get a critical success. This is called a critical specialization effect.
 
 ## Mechanical Rules
   
-- You knock the target away from you up to 10 feet (you choose the distance). 
-	- This is [[Forced Movement]].
-- You can always decide not to add the critical specialization effect of your weapon.  
+- The target is knocked [[Prone]] unless they succeed at a Fortitude save against your class DC.

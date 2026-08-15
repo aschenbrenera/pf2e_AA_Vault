@@ -1,11 +1,12 @@
 ---
 tags:
-  - rules/core
   - rules/npc
+format: 2.0
+source: Player Core
 ---
 # Hostile
 
-**Description:** Actively works against you—and might attack you just because of their dislike.
+**Description:** NPC [[Attitudes]] - Actively works against you—and might attack you just because of their dislike.
 
 ## Mechanical Rules
 

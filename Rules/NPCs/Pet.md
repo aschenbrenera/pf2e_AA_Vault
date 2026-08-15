@@ -1,7 +1,8 @@
 ---
 tags:
-  - rules/core
   - rules/npc
+format: 2.0
+source: Player Core
 ---
 # Pet
 

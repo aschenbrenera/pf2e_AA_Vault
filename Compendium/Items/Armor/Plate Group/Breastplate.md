@@ -20,5 +20,5 @@ Though referred to as a breastplate, this type of armor consists of several piec
 
 ## Gameplay Interaction
 
-- Armor Specialization - [[Plate Group]] (when granted by an ability)
+- [[Armor]] Specialization - [[Plate Armor Group]] (when granted by an ability)
 	- You gain resistance to slashing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.

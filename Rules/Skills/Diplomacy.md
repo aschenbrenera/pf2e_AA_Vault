@@ -19,7 +19,7 @@ You influence others through negotiation and flattery, or find out information t
 ## Gameplay Interaction
 
 - [[Stupefied]] affects Diplomacy checks.
-- Diplomacy can affect [[Attitudes]].
+- Diplomacy can affect [[Attitudes]] using 'Make an Impression'.
 
 ## Skill Feats
 

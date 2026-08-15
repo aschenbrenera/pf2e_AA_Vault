@@ -1,13 +1,12 @@
 ---
 tags:
-  - rules/core
   - rules/npc
 format: 2.0
 source: Player Core
 ---
 # Friendly
 
-**Description:** Has a good attitude toward you, but won't necessarily stick their neck out to help you.
+**Description:** NPC [[Attitudes]] - Has a good attitude toward you, but won't necessarily stick their neck out to help you.
 
 ## Mechanical Rules
 

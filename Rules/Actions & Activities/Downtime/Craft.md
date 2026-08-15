@@ -70,6 +70,7 @@ Shows reduction in item cost per additional day spent by character level and Cra
 ## Gameplay Interaction
 
 - [[Consumable]] items include alchemical items and magical consumables such as scrolls, potions, and talismans. A character can Craft consumable items in batches of four.
+- [[Scroll]]
 
 
 ## Skill Feats

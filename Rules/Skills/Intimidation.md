@@ -18,6 +18,7 @@ You bend others to your will using threats. Intimidation is typically a blunt in
 ## Gameplay Interaction
 
 - [[Stupefied]] affects Intimidation checks.
+- Intimidation can affect [[Attitudes]] using 'Coerce'.
 
 
 ## Skill Feats

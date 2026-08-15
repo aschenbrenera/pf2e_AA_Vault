@@ -1,8 +1,7 @@
 ---
 tags:
-  - rules/core
   - rules/npc
-format: 1_0
+format: 2.0
 source: Player Core
 ---
 # Familiar
@@ -18,7 +17,7 @@ Familiars are mystically bonded creatures tied to your magic. Most familiars wer
 	- Your pet has low-light vision.
 	- Your pet has a Speed of 25 feet. You can choose to instead have an aquatic pet, which breathes in water instead of air and has the aquatic trait, no land Speed, and a swim Speed of 25 feet.
 	- It has the minion trait:
-		- It gains 2 actions during your turn if you use the Command an Animal action to command it; this replaces the usual effects of Command an Animal, and you don’t need to attempt a Nature check. If not otherwise specified, you issue a verbal command as a single action with the `AUDITORY` and `CONCENTRATE` traits. 
+		- It gains 2 actions during your turn if you use the Command an Animal action to command it; this replaces the usual effects of Command an Animal, and you don’t need to attempt a Nature check. If not otherwise specified, you issue a verbal command as a single action with the `Auditory` and `Concentrate` traits. 
 		- If given no commands, minions use no actions except to defend themselves or to escape obvious harm.
 		- A minion has 0 reactions.
 		- You can have a maximum of four minions under your control.  

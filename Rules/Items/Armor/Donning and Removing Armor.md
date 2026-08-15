@@ -4,6 +4,8 @@ tags:
 aliases:
   - Don Armor
   - Remove Armor
+format: 2.0
+source: Player Core
 ---
 # Donning and Removing Armor
 

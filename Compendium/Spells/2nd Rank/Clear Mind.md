@@ -9,7 +9,7 @@ tags:
 level: 2
 format: 1_0
 ---
-# Clear Mind &emsp;*(Spell 2)*
+# Clear Mind [](#Actions "Two-Action") &emsp;*(Spell 2)*
 
 [Concentrate](Concentrate.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait") [Healing](Healing.md "Effect Trait") [Mental](Mental.md "Effect Trait") 
 **Description:** You drive mental contamination from the target's mind.

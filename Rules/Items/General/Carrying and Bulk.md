@@ -3,6 +3,8 @@ tags:
   - rules/items
 aliases:
   - Bulk
+format: 2.0
+source: Player Core
 ---
 # Carrying and Bulk
 

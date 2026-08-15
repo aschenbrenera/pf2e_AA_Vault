@@ -2,6 +2,8 @@
 tags:
   - rules/items
 aliases: Object Immunities
+format: 2.0
+source: Player Core
 ---
 # Item Damage
 

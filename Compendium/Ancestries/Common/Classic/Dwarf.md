@@ -2,6 +2,17 @@
 tags: 
   - ancestry/classic
   - trait/ancestry/dwarf
+hp: 10
+size: Medium
+speed: 20 ft.
+attributes:
+  - "+Constitution"
+  - "+Wisdom"
+  - "-Free"
+  - "-Charisma"
+other:
+  - Darkvision
+  - Clan Dagger
 format: 2.0
 source: Player Core
 ---

@@ -1,6 +1,5 @@
 ---
 tags:
-  - rules/core
   - rules/npc
 format: 2.0
 source: Player Core
@@ -20,4 +19,4 @@ The most common actions to change an NPC's attitude are:
 - [[Coerce]]
 
 No one can ever change the attitude of a player character with these skills.
-- You can roleplay interactions with player characters, and even use [[Diplomacy]] results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.
+- You can roleplay interactions with player characters, and even use Diplomacy results if the player wants a mechanical sense of how convincing or charming a character is, but players make the ultimate decisions about how their characters respond.

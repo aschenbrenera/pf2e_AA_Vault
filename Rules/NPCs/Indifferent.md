@@ -1,11 +1,12 @@
 ---
 tags:
-  - rules/core
   - rules/npc
+format: 2.0
+source: Player Core
 ---
 # Indifferent
 
-**Description:** Doesn't care about you either way. (Most NPCs start out indifferent.)
+**Description:** NPC [[Attitudes]] - Doesn't care about you either way. (Most NPCs start out indifferent.)
 
 ## Mechanical Rules
 

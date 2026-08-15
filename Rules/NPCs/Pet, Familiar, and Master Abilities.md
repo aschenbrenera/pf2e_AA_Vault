@@ -1,6 +1,5 @@
 ---
 tags:
-  - rules/core
   - rules/npc
 aliases:
   - Pet Abilities

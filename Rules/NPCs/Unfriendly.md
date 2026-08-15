@@ -1,11 +1,12 @@
 ---
 tags:
-  - rules/core
   - rules/npc
+format: 2.0
+source: Player Core
 ---
 # Unfriendly
 
-**Description:**  Dislikes you and doesn't want to help you.
+**Description:** NPC [[Attitudes]] - Dislikes you and doesn't want to help you.
 
 ## Mechanical Rules
 
