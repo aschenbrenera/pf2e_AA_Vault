@@ -2,19 +2,20 @@
 tags:
   - deity
 category: Gods of the Inner Sea
+sanctification: holy or unholy
 attributes: 
-- Dexterity
-- Charisma
+  - Dexterity
+  - Charisma
 skill: Deception
 domains:
-- pain
-- passion
-- secrecy
-- trickery
+  - pain
+  - passion
+  - secrecy
+  - trickery
 cleric_spells:
-- Charm
-- Enthrall
-- Mislead
+  - Charm
+  - Enthrall
+  - Mislead
 format: 2.0
 source: Player Core
 ---

@@ -2,23 +2,24 @@
 tags:
   - deity
 category: Gods of the Inner Sea
+sanctification: unholy
 attributes: 
-- Constitution
-- Intelligence
-- Dexterity
-- Wisdom
-- Charisma
-- Strength
+  - Constitution
+  - Intelligence
+  - Dexterity
+  - Wisdom
+  - Charisma
+  - Strength
 skill: Deception
 domains:
-- confidence
-- fire
-- trickery
-- tyranny
+  - confidence
+  - fire
+  - trickery
+  - tyranny
 cleric_spells:
-- Charm
-- Suggestion
-- Mislead
+  - Charm
+  - Suggestion
+  - Mislead
 format: 2.0
 source: Player Core
 ---

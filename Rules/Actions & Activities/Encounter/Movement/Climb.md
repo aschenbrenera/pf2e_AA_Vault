@@ -6,7 +6,8 @@ tags:
 aliases:
   - Climbing
   - Incline
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Climb (basic) [](#Actions "Single Action")
 
@@ -24,7 +25,6 @@ format: 1_0
 	- If your land Speed is 40 feet or higher, increase the maximum distance by 5 feet for every 20 feet of Speed above 20 feet. 
 - The GM determines the DC based on the nature of the incline and environmental circumstances; you might get an automatic critical success on an incline that's trivial to climb. 
 - Attempt an Athletics check.
-
 > [!success-degree]
 >- **Critical Success:** You move along the incline, increasing the maximum distance by 5 feet.  
 >- **Success:** You move along the incline.  

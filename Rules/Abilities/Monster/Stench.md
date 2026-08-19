@@ -15,3 +15,8 @@ source: Monster Core
 
 - A creature entering the aura or starting its turn in the area must succeed at a Fortitude save or become [[Sickened]] 1 (plus [[Slowed]] 1 as long as it's sickened on a critical failure).
 - A creature that succeeds at its save or recovers from being sickened is temporarily immune to all stench auras for 1 minute.
+
+## Gameplay Interaction
+
+- Follows the rules for the `Olfactory` trait.
+	- An olfactory effect can affect only creatures that can smell it. This applies only to olfactory parts of the effect, as determined by the GM.

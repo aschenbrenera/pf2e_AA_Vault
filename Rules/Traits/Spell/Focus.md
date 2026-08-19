@@ -6,4 +6,8 @@ source: Player Core
 ---
 # Focus
 
-A spell you can cast by spending a Focus Point, and that is automatically heightened to half your level rounded up.
+A spell you can cast by spending [[Focus Spells|Focus Points]].
+
+## Mechanical Rules
+
+- The spell is automatically [[Heightened Spells|Heightened]] to half your level rounded up.

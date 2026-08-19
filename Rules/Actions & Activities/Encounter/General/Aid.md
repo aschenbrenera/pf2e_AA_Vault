@@ -1,7 +1,8 @@
 ---
 tags:
   - action/core/basic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Aid (basic) [](#Actions "Reaction")
 
@@ -19,7 +20,6 @@ format: 1_0
  - The GM can add any relevant traits to your preparatory action or to your Aid reaction depending on the situation, or even allow you to Aid checks other than skill checks and attack rolls.  
  - **Repetition:** If you try to repeatedly Aid attacks or skill checks against a creature, the GM will usually increase the DC each time as your foe gets more savvy. This isn't the case if there's no reason the task would be less likely to work if repeated, such as Aiding someone who's climbing a wall or picking a lock.
  - When you use your Aid reaction, attempt a skill check or attack roll of a type decided by the GM. The typical DC is 15, but the GM might adjust this DC for particularly hard or easy tasks.
-
 > [!success-degree] 
 > - **Critical Success:** You grant your ally a +2 circumstance bonus to the triggering check.
 >   - If you're a master with the check you attempted, the bonus is +3, and if you're legendary, it's +4.  

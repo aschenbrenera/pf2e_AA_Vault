@@ -44,9 +44,11 @@ format: 1_0
 	- [[Indifferent]]: Doesn't care about you either way. (Most NPCs start out indifferent.)
 	- [[Unfriendly]]: Dislikes you and doesn't want to help you.
 	- [[Hostile]]: Actively works against you—and might attack you just because of their dislike.
-- Follows the rules for the `Linguistic` trait.
+- Follows the rules for the `Auditory`, `Linguistic`, and `Mental` traits.
+	- An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds.
+	- A spell or effect with the auditory trait has its effect only if the target can hear it.
 	- A linguistic effect that targets a creature works only if the target understands the language you are using.
-
+	- Mental effects have no effect on an object or a `Mindless` creature.
 
 ## Skill Feats
 

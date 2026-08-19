@@ -1,7 +1,8 @@
 ---
 tags:
   - action/core/basic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Take Cover (basic) [](#Actions "Single Action")
 
@@ -15,5 +16,5 @@ format: 1_0
 - If you would have [[Standard Cover]], you instead gain [[Greater Cover]].
 	- +4 circumstance bonus to AC, Reflex Saves and DCs, and [[Stealth]] checks to [[Hide]], [[Sneak]], or otherwise avoid detection.
 - Otherwise, you gain the benefits of Standard Cover.
-	- +2 circumstance bonus to AC, Reflex Saves and DCs, and [[Stealth]] checks to [[Hide]], [[Sneak]], or otherwise avoid detection.
+	- +2 circumstance bonus to AC, Reflex Saves and DCs, and Stealth checks to Hide, Sneak, or otherwise avoid detection.
 - This lasts until you move from your current space, use an action with the `Attack` trait, become [[Unconscious]], or end this effect as a free action.

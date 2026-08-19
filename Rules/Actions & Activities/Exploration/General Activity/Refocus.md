@@ -2,7 +2,8 @@
 tags:
   - activity_exploration/core
   - trait/ability/exploration
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Refocus
 

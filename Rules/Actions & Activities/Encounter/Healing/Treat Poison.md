@@ -2,7 +2,8 @@
 tags:
   - action/core
   - trait/generic/manipulate
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Treat Poison [](#Actions "Single Action")
 
@@ -17,7 +18,6 @@ format: 1_0
 
 - After you attempt to Treat a Poison for a creature, you can't try again until after the next time that creature attempts a save against the poison.  
 - Attempt a Medicine check against the poison's DC.
-
 > [!success-degree]
 >- **Critical Success:** You grant the creature a +4 circumstance bonus to its next saving throw against the poison.  
 >- **Success:** You grant the creature a +2 circumstance bonus to its next saving throw against the poison.  

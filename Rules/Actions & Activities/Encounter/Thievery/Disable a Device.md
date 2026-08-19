@@ -3,7 +3,8 @@ tags:
   - action/core
   - trait/generic/manipulate
   - requires_skill_training
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Disable a Device [](#Actions "Single Action")
 
@@ -17,8 +18,8 @@ format: 1_0
 ## Mechanical Rules
 
 - A [[Thieves' Toolkit]] is helpful and sometimes even required to Disable a Device, as determined by the GM, and sometimes a device requires a higher proficiency rank in Thievery to disable it.  
-- Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity. Your attempted Thievery check result determines your progress.  
-
+- Often, a device requires numerous successes before becoming disabled, depending on its construction and complexity.
+- Your attempted Thievery check result determines your progress.  
 > [!success-degree]
 >- **Critical Success:** You disable the device, or you achieve two successes toward disabling a device requiring more than one success. You leave no trace of your tampering, and you can rearm the device later, if that type of device can be rearmed.  
 >- **Success:** You disable the device, or you achieve one success toward disabling a device that requires more than one success.  

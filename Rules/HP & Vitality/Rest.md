@@ -35,3 +35,4 @@ Just before setting out to explore, or after a night's rest, the PCs spend time 
 
 - Each time you get a full night's rest, your [[Drained]] value decreases by 1.
 - If you're an arcane spellcaster who prepares spells, you can attempt to [[Borrow an Arcane Spell]] from another arcane source during daily preparations.
+- You can gain additional rest benefits in downtime with [[Long-Term Rest]].

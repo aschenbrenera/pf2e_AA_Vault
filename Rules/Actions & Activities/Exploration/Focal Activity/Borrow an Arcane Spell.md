@@ -4,7 +4,8 @@ tags:
   - trait/ability/exploration
   - trait/ability/concentrate
   - requires_skill_training
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Borrow An Arcane Spell
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - activity_downtime/core
+  - activity_exploration/core
   - trait/ability/downtime
 format: 2.0
 source: Player Core

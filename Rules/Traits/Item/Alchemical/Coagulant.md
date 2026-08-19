@@ -6,7 +6,7 @@ source: Player Core 2
 ---
 # Coagulant
 
-Healing alchemical items with the coagulant trait lose effectiveness when many are applied in a short period of time. 
+Healing [[Alchemical]] items with the coagulant trait lose effectiveness when many are applied in a short period of time. 
 
 ## Mechanical Rules
 

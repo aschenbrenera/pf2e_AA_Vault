@@ -1,7 +1,8 @@
 ---
 tags:
   - action/core/basic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Arrest a Fall (basic) [](#Actions "Reaction")
 
@@ -14,6 +15,5 @@ format: 1_0
 ## Mechanical Rules
 
 - You attempt your choice of an [[Acrobatics]] check or Reflex save to slow your fall. The DC is typically 15, but it might be higher due to air turbulence or other circumstances.
-
 > [!success-degree] 
 >- **Success:** You take no damage from the fall.

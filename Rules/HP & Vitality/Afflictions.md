@@ -4,7 +4,7 @@ tags:
 ---
 # Afflictions
 
-Wherever there is life, there are insidious perils that threaten the health and well-being of living creatures. Some of these afflictions, including many diseases and poisons, are inherent to the natural world. Others—curses being the most notorious—exist solely to cause harm to others.  
+Wherever there is life, there are insidious perils that threaten the health and well-being of living creatures. Some of these afflictions, including many [[Disease]]s and [[Poison]]s, are inherent to the natural world. Others—curses being the most notorious—exist solely to cause harm to others.  
 
 An affliction can infect a creature for a long time, progressing through different and often increasingly debilitating stages. 
   

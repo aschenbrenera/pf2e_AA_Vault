@@ -2,7 +2,8 @@
 tags:
   - action/core/basic
   - trait/ability/concentrate
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Dismiss (basic) [](#Actions "Single Action")
 

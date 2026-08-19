@@ -2,19 +2,20 @@
 tags:
   - deity
 category: Gods of the Inner Sea
+sanctification: holy
 attributes: 
-- Constitution
-- Charisma
+  - Constitution
+  - Charisma
 skill: Athletics
 domains:
-- cities
-- freedom
-- indulgence
-- might
+  - cities
+  - freedom
+  - indulgence
+  - might
 cleric_spells:
-- Fleet Step
-- Stupefy
-- Hallucination
+  - Fleet Step
+  - Stupefy
+  - Hallucination
 format: 2.0
 source: Player Core
 ---

@@ -3,6 +3,7 @@ tags:
   - rules/core
   - rules/gm/ref
 format: 2.0
+source: Player Core
 ---
 # Initiative with Stealth
 

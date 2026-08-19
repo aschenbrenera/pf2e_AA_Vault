@@ -2,7 +2,8 @@
 tags:
   - action/core/basic
   - trait/ability/concentrate
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Ready (basic) [](#Actions "Two-Action")
 
@@ -14,5 +15,5 @@ format: 1_0
 ## Mechanical Rules
 
 - Choose a single action or free action you can use, and designate a trigger. Your turn then ends. If the trigger you designated occurs before the start of your next turn, you can use the chosen action as a reaction (provided you still meet the requirements to use it).
-	- If you have a [[Multiple Attack Penalty]] and your readied action is an `Attack` action, your readied attack takes the multiple attack penalty you had at the time you used Ready. This is one of the few times the multiple attack penalty applies when it's not your turn.
+	- If you have a Multiple Attack Penalty and your readied action is an `Attack` action, your readied attack takes the multiple attack penalty you had at the time you used Ready. This is one of the few times the multiple attack penalty applies when it's not your turn.
 	- You can't Ready a free action that already has a trigger.  

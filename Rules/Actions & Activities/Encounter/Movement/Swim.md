@@ -5,7 +5,8 @@ tags:
   - action/special_movement
 aliases:
   - Swimming
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Swim (basic) [](#Actions "Single Action")
 

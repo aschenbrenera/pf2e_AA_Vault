@@ -3,7 +3,8 @@ tags:
   - action/core
   - trait/generic/move
   - action/special_movement
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Maneuver in Flight [](#Actions "Single Action")
 
@@ -18,7 +19,6 @@ format: 1_0
 
 - The GM determines what maneuvers are possible, but they rarely allow you to move farther than your fly Speed.
 - Attempt an Acrobatics check. 
-
 > [!success-degree]
 >- **Success:** You succeed at the maneuver. 
 >- **Failure:** Your maneuver fails. The GM chooses if you simply can't move or if some other detrimental effect happens. The outcome should be appropriate for the maneuver you attempted (for instance, being blown off course if you were trying to fly against a strong wind).  

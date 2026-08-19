@@ -5,6 +5,8 @@ tags:
   - trait/generic/manipulate
 aliases:
   - Affix
+format: 2.0
+source: Player Core
 ---
 # Affix A Talisman
 

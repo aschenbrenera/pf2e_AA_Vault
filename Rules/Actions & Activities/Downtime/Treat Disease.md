@@ -16,7 +16,7 @@ source: Player Core
 
 ## Mechanical Rules
 
-- You spend at least 8 hours caring for a diseased creature.
+- You spend at least 8 hours caring for a [[Disease|diseased]] creature.
 - After you attempt to Treat a Disease for a creature, you can't try again until after that creature's next save against the disease. 
 - Attempt a Medicine check against the disease's DC.  
 

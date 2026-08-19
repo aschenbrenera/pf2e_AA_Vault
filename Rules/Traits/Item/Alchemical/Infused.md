@@ -6,7 +6,7 @@ source: Player Core 2
 ---
 # Infused
 
-An alchemical item with the infused trait has a limited time before it becomes inert. 
+An [[Alchemical]] item with the infused trait has a limited time before it becomes inert. 
 
 ## Mechanical Rules
 

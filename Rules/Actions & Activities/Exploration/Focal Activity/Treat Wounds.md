@@ -5,7 +5,8 @@ tags:
   - trait/effect/healing
   - trait/generic/manipulate
   - requires_skill_training
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Treat Wounds
 

@@ -2,7 +2,8 @@
 tags:
   - action/core/basic
   - trait/generic/manipulate
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Grab an Edge (basic) [](#Actions "Reaction")
 
@@ -16,7 +17,6 @@ format: 1_0
 ## Mechanical Rules
 
 - You must succeed at your choice of an [[Acrobatics]] check or a Reflex save, usually at the Climb DC. If you grab the edge or handhold, you can then [[Climb]] up using Athletics.
-
 > [!success-degree]
 >- **Critical Success** You grab the edge or handhold, whether or not you have a hand free, typically by using a suitable held item to catch yourself (catching a battle axe on a ledge, for example). You still take [[Falling|Falling Damage]] from the distance so far, but you treat the fall as though it were 30 feet shorter.  
 >- **Success** If you have at least one hand free, you grab the edge or handhold, stopping your fall. You still take damage from the distance fallen so far, but you treat the fall as though it were 20 feet shorter. If you have no hands free, you continue to fall as if you had failed the check.  

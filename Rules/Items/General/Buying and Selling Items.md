@@ -23,3 +23,4 @@ Some example styles:
 - It usually takes 1 day of downtime to sell off a few goods or shop around to buy a couple items. It can take longer to sell off a large number of goods, expensive items, or items that aren't in high demand.  
 - An item can usually be purchased at its full Price.
 - An item can usually be sold for half its Price.
+	- Much like coins, gems and art objects are valuable currency worth their full Price when sold.

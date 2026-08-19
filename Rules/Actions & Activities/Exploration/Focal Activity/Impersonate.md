@@ -5,7 +5,8 @@ tags:
   - trait/ability/concentrate
   - trait/generic/manipulate
   - trait/generic/secret
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Impersonate
 

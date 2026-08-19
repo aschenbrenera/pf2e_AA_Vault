@@ -2,6 +2,7 @@
 tags:
   - rules/core
 format: 2.0
+source: Player Core
 ---
 # Multiple Attack Penalty
 

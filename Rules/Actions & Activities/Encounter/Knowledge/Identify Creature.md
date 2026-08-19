@@ -3,7 +3,8 @@ tags:
   - action/core
   - trait/ability/concentrate
   - trait/generic/secret
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Identify Creature [](#Actions "Single Action")
 
@@ -14,6 +15,7 @@ format: 1_0
 **Activity:** Single Action ⬥
 
 ## Mechanical Rules
+
 - This is a a specialized type of [[Recall Knowledge]].
 - Suggest which skill you'd like to use and ask the GM to identify a creature. 
 - Creatures by skill:
@@ -34,7 +36,7 @@ format: 1_0
 
 ## Gameplay Tips
 
-- For the purposes of abilities like mastermind rogue racket and ranger's [[Monster Hunter]], a character should be considered to have successfully identified a creature when they succeed a Recall Knowledge check, regardless of what information they gain.
+- For the purposes of abilities like mastermind rogue racket and ranger's Monster Hunter, a character should be considered to have successfully identified a creature when they succeed a Recall Knowledge check, regardless of what information they gain.
 - Example questions on creatures:  
 	- What is the creature's combat tactics?
 	- What are the creature's most notable vulnerabilities?   (Lowest Defensive DC; AC, Reflex, Fortitude, Will, or Weaknesses)

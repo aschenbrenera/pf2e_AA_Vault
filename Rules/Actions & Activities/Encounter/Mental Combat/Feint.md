@@ -2,8 +2,10 @@
 tags:
   - action/core
   - trait/effect/mental
+  - defense/perception
   - requires_skill_training
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Feint [](#Actions "Single Action")
 
@@ -17,8 +19,12 @@ format: 1_0
 ## Mechanical Rules
 
 - Attempt a Deception check against your target's Perception DC.  
-
 > [!success-degree]
 >- **Critical Success:** You throw your enemy's defenses against you entirely off. The target is [[Off-Guard]] against melee attacks that you attempt against it until the end of your next turn.  
 >- **Success** Your foe is fooled, but only momentarily. The target is off-guard against the next melee attack that you attempt against it before the end of your current turn.  
 >- **Critical Failure** Your feint backfires. You are off-guard against melee attacks the target attempts against you until the end of your next turn.
+
+## Gameplay Interaction
+
+- Follows the rules for the  `Mental` trait.
+	- Mental effects have no effect on an object or a `Mindless` creature.

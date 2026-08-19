@@ -6,7 +6,8 @@ tags:
 aliases:
   - Flight
   - Flying
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Fly (basic) [](#Actions "Single Action")
 

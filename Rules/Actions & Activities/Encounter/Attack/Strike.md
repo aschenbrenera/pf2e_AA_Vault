@@ -2,7 +2,9 @@
 tags:
   - action/core/basic
   - trait/combat/attack
-format: 1_0
+  - defense/ac
+format: 2.0
+source: Player Core
 ---
 # Strike (basic) [](#Actions "Single Action")
 
@@ -14,7 +16,11 @@ format: 1_0
 
 - You attack with a weapon you're wielding or with an unarmed attack, targeting one creature within your reach (for a melee attack) or within range (for a ranged attack).
 - Roll an attack roll using the attack modifier for the weapon or unarmed attack you're using, and compare the result to the target creature's AC to determine the effect.
-
 > [!success-degree]
 >- **Critical Success** You make a damage roll according to the weapon or unarmed attack and deal double damage (see [[Doubling and Halving Damage]] for rules on doubling damage).  
 >- **Success** You make a damage roll according to the weapon or unarmed attack and deal damage.
+
+## Gameplay Interaction
+
+- Follows the rules for the `Attack` trait.
+	- For each attack you make beyond the first on your turn, you take a Multiple Attack Penalty.

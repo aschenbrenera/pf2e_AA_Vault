@@ -6,4 +6,4 @@ source: Player Core
 ---
 # Elixir
 
-Elixirs are alchemical liquids that are used by drinking them.
+Elixirs are [[Alchemical]] liquids that are used by drinking them.

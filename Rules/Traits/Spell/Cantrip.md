@@ -6,4 +6,8 @@ source: Player Core
 ---
 # Cantrip
 
-A spell you can cast at will that is automatically heightened to half your level rounded up.
+A spell you can cast at will.
+
+## Mechanical Rules
+
+- The spell is automatically [[Heightened Spells|Heightened]] to half your level rounded up.

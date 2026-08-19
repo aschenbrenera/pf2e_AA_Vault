@@ -5,7 +5,8 @@ tags:
 aliases:
   - Narrow Surface
   - Uneven Ground
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Balance [](#Actions "Single Action")
 
@@ -20,7 +21,6 @@ format: 1_0
 
 - You are [[Off-Guard]] while on a narrow surface or uneven ground. 
 - Attempt an Acrobatics check against the Balance DC.
-
 > [!success-degree]
 >- **Critical Success:** You move up to your Speed.  
 >- **Success:** You move up to your Speed, treating it as [[Difficult Terrain]] (every 5 feet costs 10 feet of movement).  
@@ -39,7 +39,8 @@ format: 1_0
 
 ## Gameplay Interaction
 
- - Each time you are hit by an attack or fail a save on a narrow surface or uneven ground, you must succeed at a Reflex save (with the same DC as the Acrobatics check to Balance) or fall (off or prone respectively).
+ - Narrow Surfaces:
+	 - Each time you are hit by an attack or fail a save on a narrow surface or uneven ground, you must succeed at a Reflex save (with the same DC as the Acrobatics check to Balance) or fall (off or prone respectively).
 
 ## Skill Feats
 

@@ -1,8 +1,8 @@
 ---
 tags:
-- item/material
-- trait/rarity/uncommon
-- trait/item/precious
+  - item/material
+  - trait/rarity/uncommon
+  - trait/item/precious
 ---
 # Duskwood
 
@@ -32,12 +32,12 @@ Bulk is reduced by 1 (or to light Bulk if its normal Bulk is 1, with no effect o
 
 ### Material Uses
 
-| **Level** | **Item**           | **Price** | Effect      |
+| **Level** | **Item**           | **Price** | Bulk      |
 | --------- | --------           | --------- | ----------  |
 | 8         | Duskwood Branch    | 500 gp    |             |
 | 8         | Duskwood Lumber    | 5,000 gp  |             |
 | 8         | Duskwood Object (Standard-Grade)| 350 gp (per Bulk) | |
-| 8         | Duskwood Object (High-Grade)    | 6,000 gp  (per bulk) |  |
+| 16        | Duskwood Object (High-Grade)    | 6,000 gp  (per bulk) |  |
 
 [Duskwood Armor](https://2e.aonprd.com/Equipment.aspx?ID=2800)  
 [Duskwood Shield](https://2e.aonprd.com/Equipment.aspx?ID=2815)  

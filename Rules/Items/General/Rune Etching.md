@@ -11,7 +11,7 @@ source: Player Core
 - Etching a rune onto an item follows the same process as using the [[Craft]] activity to make an item. 
 	- You must be able to Craft magic items, have the formula for the rune, have the item you’re adding the rune to in your possession throughout the etching process, and meet any special Craft Requirements.
 	- The rune has no effect until you complete the Craft activity. You can etch only one rune at a time.
-- You can transfer runes between two items. This uses the [[Craft]] activity.
+- You can transfer runes between two items. This uses the Craft activity.
 	- You must be able to craft magical items.
 	- You can either move one rune from one item to another or swap a rune on one item with a rune on the other item (which can be a [[Runestone]]).
 		- To swap, the runes must both be fundamental runes or both be property runes.

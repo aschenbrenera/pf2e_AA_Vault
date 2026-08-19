@@ -4,7 +4,8 @@ tags:
   - trait/ability/exploration
   - trait/ability/concentrate
   - requires_skill_training
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Learn Spell
 
@@ -28,7 +29,6 @@ format: 1_0
 >- **Success:** You expend the materials and learn the spell.  
 >- **Failure:** You fail to learn the spell but can try again after you gain a level. The materials aren't expended.  
 >- **Critical Failure:** As failure, except you expend half the materials.
-
 
 ## Table: Learning a Spell
 

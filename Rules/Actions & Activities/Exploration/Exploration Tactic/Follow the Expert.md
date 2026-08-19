@@ -20,3 +20,9 @@ source: Player Core
 	- The ally must be at least an expert in that skill and must be willing to provide assistance. 
 - You can add your level as a proficiency bonus to the associated skill check, even if you're untrained.
 - Additionally, you gain a circumstance bonus to your skill check based on your ally's proficiency (+2 for expert, +3 for master, and +4 for legendary).
+
+## Gameplay Interaction
+
+- Follows the rules for the `Auditory`, `Visual` traits.
+	- An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds.
+	- A visual effect can affect only creatures that can see it.

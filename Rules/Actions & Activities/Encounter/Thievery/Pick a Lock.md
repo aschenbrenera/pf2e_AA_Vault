@@ -3,7 +3,8 @@ tags:
   - action/core
   - trait/generic/manipulate
   - requires_skill_training
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Pick a Lock [](#Actions "Two-Action")
 
@@ -18,7 +19,6 @@ format: 1_0
 
 - If you lack the proper tools, the GM might let you use [[Shoddy Items|Improvised]] picks, which are treated as a shoddy toolkit (–2 item penalty).  
 - Often, a lock requires numerous successes before opening, depending on its construction and complexity. Your attempted Thievery check result determines your progress.  
-
 > [!success-degree]
 >- **Critical Success:** You unlock the lock, or you achieve two successes toward opening a lock that requires more than one success. You leave no trace of your tampering.  
 >- **Success:** You open the lock, or you achieve one success toward opening a lock that requires more than one success. You leave behind damage that indicates the lock was picked on close scrutiny.  

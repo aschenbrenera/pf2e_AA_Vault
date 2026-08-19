@@ -2,7 +2,8 @@
 tags:
   - action/core/basic
   - trait/generic/manipulate
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Release (basic) [](#Actions "Free Action")
 
@@ -15,4 +16,4 @@ format: 1_0
 
 - Release an object you are holding. 
 - Does not trigger reactions that can be triggered by actions with the `Manipulate` trait.  
-- If you want to prepare to Release something outside of your turn, use the [[Ready]] action.
+- If you want to prepare to Release something outside of your turn, use the Ready action.

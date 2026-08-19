@@ -2,7 +2,8 @@
 tags:
   - action/core
   - trait/generic/manipulate
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Steal [](#Actions "Single Action")
 
@@ -20,7 +21,6 @@ format: 1_0
 	- It's easiest to steal an object that is worn but not closely guarded (like a loosely carried pouch filled with coins, or an object within such a pouch). The GM might increase the DC if the object is protected or if the nature of the object makes it harder to steal (such as a very small item in a large pack, or a sheet of parchment mixed in with other documents). For instance, the DC is typically 5 higher if the object is in a pocket, held in a creature's hand, or similarly protected.  
 	- You might also need to compare your Thievery check result against the Perception DCs of observers other than the person wearing the object. The GM might impose a circumstance penalty to the DCs of observers who are distracted. 
 - Attempt a Thievery check to determine if you successfully Steal the object.
-
 > [!success-degree]
 >- **Success:** You steal the item without the bearer noticing, or an observer doesn't see you take or attempt to take the item. 
 >- **Failure:** The item's bearer notices your attempt before you can take the object, or an observer sees you take or attempt to take the item. The GM determines the response of any creature that notices your theft.

@@ -1,9 +1,11 @@
 ---
 tags:
   - rules/items/crafting
+  - custom_group/creation
+  - custom_group/guide
 format: 2.0
 ---
-# Scroll Crafting
+# Scroll Crafting - Guide
 
 [Downtime](Downtime.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait")
 **Description:** You can make a [[Magic Scroll]].

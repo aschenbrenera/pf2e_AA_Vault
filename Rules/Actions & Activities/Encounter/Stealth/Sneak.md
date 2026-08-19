@@ -3,7 +3,8 @@ tags:
   - action/core
   - trait/generic/move
   - trait/generic/secret
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Sneak[](#Actions "Single Action")
 
@@ -27,7 +28,6 @@ format: 1_0
 		- The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check.
 		- You become observed just before you act unless the GM determines otherwise.
 - At the end of your movement, the GM rolls your Stealth check in secret and compares the result to the Perception DC of each creature you were [[Hidden]] from or [[Undetected]] by at the start of your movement.
-
 > [!success-degree]
 >- **Success:** You're undetected by the creature during your movement and remain undetected by the creature at the end of it.  
 >- **Failure:** A telltale sound or other sign gives your position away, though you still remain unseen. You're hidden from the creature throughout your movement and remain so.  

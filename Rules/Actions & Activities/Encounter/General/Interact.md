@@ -2,7 +2,8 @@
 tags:
   - action/core/basic
   - trait/generic/manipulate
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Interact (basic) [](#Actions "Single Action")
 

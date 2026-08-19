@@ -1,7 +1,8 @@
 ---
 tags:
   - action/core/basic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Delay (basic) [](#Actions "Free Action")
 
@@ -17,5 +18,5 @@ format: 1_0
 	- This permanently changes your initiative to the new position.
 	- You can't use reactions until you return to the initiative order.
 	- If you Delay an entire round without returning to the initiative order, the actions from the Delayed turn are lost, your initiative doesn't change, and your next turn occurs at your original position in the initiative order.
-- When you Delay, any [[Persistent Damage]] or other negative effects that normally occur at the start or end of your turn occur immediately when you use the Delay action.Any beneficial effects that would end at any point during your turn also end.
+- When you Delay, any Persistent Damage or other negative effects that normally occur at the start or end of your turn occur immediately when you use the Delay action.Any beneficial effects that would end at any point during your turn also end.
 	- The GM might determine that other effects end when you Delay as well. Essentially, you can't Delay to avoid negative consequences that would happen on your turn or to extend beneficial effects that would end on your turn.

@@ -6,7 +6,7 @@ source: Player Core
 ---
 # Bomb
 
-An alchemical bomb combines volatile alchemical components that explode when the bomb hits a creature or object. Most alchemical bombs deal damage, though some produce other effects.
+An [[Alchemical]] bomb combines volatile alchemical components that explode when the bomb hits a creature or object. Most alchemical bombs deal damage, though some produce other effects.
 
 All bombs are special weapons use the default statistics found in the weapon's table under [[Alchemical Bomb]].
 

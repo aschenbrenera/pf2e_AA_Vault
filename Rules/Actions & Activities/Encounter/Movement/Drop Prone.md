@@ -2,7 +2,8 @@
 tags:
   - action/core/basic
   - trait/generic/move
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Drop Prone (basic) [](#Actions "Single Action")
 

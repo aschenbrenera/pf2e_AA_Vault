@@ -2,7 +2,8 @@
 tags:
   - action/core
   - trait/ability/concentrate
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Perform [](#Actions "Single Action")
 
@@ -16,7 +17,6 @@ format: 1_0
 
 - Performing rarely has an impact on its own, but it might influence the DCs of subsequent [[Diplomacy]] checks against the observers, or even change their attitudes if the GM sees fit.  
 - Attempt a Performance check.
-
 > [!success-degree]
 >- **Critical Success:** Your performance impresses the observers, and they're likely to share stories of your ability.  
 >- **Success:** You prove yourself, and observers appreciate the quality of your performance. 

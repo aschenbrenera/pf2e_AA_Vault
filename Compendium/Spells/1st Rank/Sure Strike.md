@@ -10,7 +10,7 @@ format: 1_0
 # Sure Strike [](#Actions "Single Action") &emsp;*(Spell 1)*
 
 [Concentrate](Concentrate.md "Action & Ability Trait") [Fortune](Manipulate.md "Effect Trait") 
-**Description:** 
+**Description:** Improve the accuracy of your next attack.
 
 **Traditions:** arcane, occult 
 **Mystery:** battle  

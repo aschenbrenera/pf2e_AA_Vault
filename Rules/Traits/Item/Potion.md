@@ -6,4 +6,4 @@ source: Player Core
 ---
 # Potion
 
-A potion is a consumable magical liquid activated when you drink it.
+A potion is a consumable [[Magical]] liquid activated when you drink it.

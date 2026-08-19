@@ -5,7 +5,8 @@ tags:
   - trait/ability/concentrate
   - trait/generic/secret
   - requires_skill_training
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Decipher Writing
 

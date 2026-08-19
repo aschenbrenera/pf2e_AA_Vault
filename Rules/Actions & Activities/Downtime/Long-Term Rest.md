@@ -12,7 +12,7 @@ source: Player Core
 
 ## Mechanical Rules
 
-- Each full 24-hour period a character spends resting during downtime allows them to recover double what they would for an 8-hour rest.
+- Each full 24-hour period a character spends resting during downtime allows them to recover double what they would for an 8-hour [[Rest]].
 	- Recover Hit Points equal to your Constitution modifier (minimum 1) multiplied by double your level.
 	- They must spend this time resting in a comfortable and secure location, typically in bed.
 - If they spend significantly longer in bed rest—usually from a few days to a week of downtime—they recover from all damage and most nonpermanent conditions.

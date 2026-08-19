@@ -2,7 +2,8 @@
 tags:
   - action/core
   - trait/generic/move
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # High Jump [](#Actions "Two-Action")
 
@@ -17,7 +18,6 @@ format: 1_0
 - If you don't Stride at least 10 feet, you automatically fail.
 - The GM might increase or decrease this DC depending on the situation.  
 - You [[Stride]], then attempt a DC 30 Athletics check to jump vertically.
-
 > [!success-degree]
 >- **Critical Success** You [[Leap]] up to 8 feet vertically and 10 feet horizontally.  
 >- **Success** You Leap up to 5 feet vertically and 5 feet horizontally.  

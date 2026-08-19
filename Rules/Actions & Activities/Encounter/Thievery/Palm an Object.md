@@ -2,7 +2,8 @@
 tags:
   - action/core
   - trait/generic/manipulate
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Palm an Object [](#Actions "Single Action")
 
@@ -17,7 +18,6 @@ format: 1_0
 
 - You can typically only Palm unattended objects of negligible Bulk, though the GM might determine otherwise depending on the situation.
 - Roll a single Thievery check against the Perception DCs of all creatures who are currently observing you. 
-
 > [!success-degree]
 >- **Success:** The creature doesn't notice you Palming the Object.  
 >- **Failure:** The creature notices you Palming the Object.

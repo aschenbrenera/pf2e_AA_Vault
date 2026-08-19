@@ -1,7 +1,8 @@
 ---
 tags:
   - action/core
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Hide [](#Actions "Single Action")
 
@@ -24,7 +25,6 @@ format: 1_0
 		- The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check.
 		- You become observed just before you act unless the GM determines otherwise. 
 - The GM rolls your Stealth check in secret and compares the result to the Perception DC of each creature you're observed by but that you have cover or greater cover against or are concealed from.
-
 >[!success-degree]
 >- **Success:** If the creature could see you, you're now [[Hidden]] from it instead of observed. If you were hidden from or [[Undetected]] by the creature, you retain that condition.  
 

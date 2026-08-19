@@ -5,7 +5,8 @@ tags:
   - action/special_movement
 aliases:
   - Burrowing
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Burrow (basic) [](#Actions "Single Action")
 

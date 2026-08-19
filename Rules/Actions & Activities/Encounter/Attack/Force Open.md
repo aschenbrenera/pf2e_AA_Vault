@@ -2,7 +2,8 @@
 tags:
   - action/core
   - trait/combat/attack
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Force Open [](#Actions "Single Action")
 
@@ -16,7 +17,6 @@ format: 1_0
 
 - Without a [[Crowbar]], prying something open takes a –2 item penalty to the Athletics check.
 - Make an Athletics check.
-
 >[!success-degree]
 >- **Critical Success:** You open the door, window, container, or gate and can avoid damaging it in the process. 
 >- **Success:** You break the door, window, container, or gate open, and it gains the [[Broken]] condition. If it's especially sturdy, the GM might have it take damage but not be broken.
@@ -45,6 +45,11 @@ format: 1_0
 | Lift wooden portcullis | 20                |
 | Lift iron portcullis   | 30                |
 | Bend metal bars        | 30                |
+
+## Gameplay Interaction
+
+- Follows the rules for the `Attack` trait.
+	- For each attack you make beyond the first on your turn, you take a Multiple Attack Penalty.
 
 ## Gameplay Tip
 

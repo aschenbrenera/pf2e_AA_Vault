@@ -3,7 +3,8 @@ tags:
   - action/core
   - trait/generic/manipulate
   - trait/generic/secret
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Conceal an Object[](#Actions "Single Action")
 
@@ -19,7 +20,6 @@ format: 1_0
 - If a creature is specifically searching you for an item, it can attempt a Perception check against your Stealth DC (finding the object on success).  
 - You can also conceal an object somewhere other than your person, such as among undergrowth or in a secret compartment within a piece of furniture. In this case, characters [[Seek|Seeking]] in an area compare their Perception check results to your Stealth DC to determine whether they find the object.  
 - When you try to sneak a concealed object past someone who might notice it, the GM rolls your Stealth check and compares it to this passive observer's Perception DC.
-
 > [!success-degree]
 >- **Success:** The object remains undetected.  
 >- **Failure:** The searcher finds the object.

@@ -2,13 +2,14 @@
 tags:
   - activity_exploration/core
   - trait/ability/exploration
-  - trait/generic/secret
   - trait/ability/concentrate
-format: 1_0
+  - trait/generic/secret
+format: 2.0
+source: Player Core
 ---
 #  Forensic Examination
 
-[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "General Trait") [Secret](Secret.md "General Trait")
+[Exploration](Exploration.md "Action & Ability Trait") [Concentrate](Concentrate.md "Action & Ability Trait") [Secret](Secret.md "General Trait")
 **Description:** You methodically examine a corpse, scene of death, or other medical evidence to determine how an injury or condition occurred. You analyze trauma, poisons, diseases, magical effects, or other symptoms that left physiological signs.
 
 **Skill:** [[Medicine]] (Untrained)

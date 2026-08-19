@@ -4,7 +4,8 @@ tags:
   - trait/generic/move
 aliases:
   - Leaping
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Leap (basic) [](#Actions "Single Action")
 

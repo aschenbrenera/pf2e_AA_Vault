@@ -1,7 +1,8 @@
 ---
 tags:
   - action/core
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Parry [](#Actions "Single Action")
 

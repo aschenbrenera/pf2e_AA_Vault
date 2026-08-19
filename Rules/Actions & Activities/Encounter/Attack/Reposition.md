@@ -2,7 +2,9 @@
 tags:
   - action/core
   - trait/combat/attack
-format: 1_0
+  - defense/fortitude
+format: 2.0
+source: Player Core
 ---
 # Reposition [](#Actions "Single Action")
 
@@ -17,7 +19,6 @@ format: 1_0
 
 - Movement from this action is [[Forced Movement]]
 - Attempt an Athletics check against the target's Fortitude DC.  
-
 > [!success-degree]
 >- **Critical Success:** You move the creature up to 10 feet. It must remain within your reach during this movement, and you can't move it into or through obstacles.  
 >- **Success:** You move the target up to 5 feet. It must remain within your reach during this movement, and you can't move it into or through obstacles.  
@@ -25,8 +26,11 @@ format: 1_0
 
 ## Gameplay Interaction
 
-- Forced movement doesn't trigger reactions that are triggered by movement. 
-- If forced movement would move you into a space you can't occupy—because objects are in the way or because you lack the movement type needed to reach it, for example—you stop moving in the last space you can occupy.  
+- Follows the rules for the `Attack` trait.
+	- For each attack you make beyond the first on your turn, you take a Multiple Attack Penalty.
+- Follow the rules for forced movement.
+	- Forced movement doesn't trigger reactions that are triggered by movement. 
+	- If forced movement would move you into a space you can't occupy—because objects are in the way or because you lack the movement type needed to reach it, for example—you stop moving in the last space you can occupy.  
 
 ## Skill Feats
 

@@ -8,6 +8,8 @@ source: GM Core
 
 Some weapons and effects, such as alchemical bombs, have the splash trait. 
 
+## Mechanical Rules
+
 - When you use a weapon or effect with the splash trait, you don’t add your Strength modifier to the damage roll.
 - Add splash damage together with the initial damage against the target before applying the target’s resistance or weakness.
 - You don’t multiply splash damage on a critical hit.

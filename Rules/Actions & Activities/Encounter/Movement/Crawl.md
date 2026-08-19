@@ -4,7 +4,8 @@ tags:
   - trait/generic/move
 aliases:
   - Crawling
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Crawl (basic) [](#Actions "Single Action")
 

@@ -24,7 +24,7 @@ source: Player Core
 		- If the item is 9th level or higher, you must be a master in Crafting.
 		- If the item is 16th or higher, you must be legendary in Crafting.
 	- The item must be common, or you must have a formula.
-	- You have an appropriate set of tools and, in many cases, a workshop. For example, you need access to a smithy to forge a metal shield, or an alchemist's lab to produce alchemical items.
+	- You have an appropriate set of [[Artisan's Toolkit|tools]] and, in many cases, a workshop. For example, you need access to a smithy to forge a metal shield, or an alchemist's lab to produce alchemical items.
 	- You must supply raw materials worth at least half the item's Price. You always expend at least that amount of raw materials when you Craft successfully. If you're in a settlement, you can usually spend currency to get the amount of raw materials you need, except in the case of rarer precious materials.
 - You attempt a Crafting check after you spend 2 days of work setting up, or 1 day if you have the item's [[Formulas|Formula]]. The GM determines the DC to Craft the item based on its level, rarity, and other circumstances (Use [[Simple DCs]]). 
   > [!success-degree]
@@ -65,13 +65,11 @@ Shows reduction in item cost per additional day spent by character level and Cra
 |20|40 gp|75 gp|150 gp|200 gp|
 |20 (critical success)|50 gp|90 gp|175 gp|300 gp|
 
-
+#TODO Complex Crafting Variant Rules
 
 ## Gameplay Interaction
 
 - [[Consumable]] items include alchemical items and magical consumables such as scrolls, potions, and talismans. A character can Craft consumable items in batches of four.
-- [[Scroll]]
-
 
 ## Skill Feats
 
@@ -82,3 +80,7 @@ Shows reduction in item cost per additional day spent by character level and Cra
 | 2     | [[Communal Crafting]]   | Expert Crafting  | Help or Get Help crafting items. |
 | 2     | [[Magical Crafting]]    | Expert Crafting  | Create magical items.            |
 
+## Gameplay Tips
+
+- Some GMs use the 3rd Party '[Heroic Crafting](https://www.pathfinderinfinite.com/en/product/389992/heroic-crafting)' rules for crafting instead. Notably this enables Exploration crafting by default.
+- See [[Scroll Crafting]] guide.

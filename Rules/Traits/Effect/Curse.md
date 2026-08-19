@@ -6,7 +6,8 @@ source: Player Core
 ---
 # Curse
 
-A curse is an effect that places some long-term affliction on a creature. 
+A curse is an effect that places some long-term affliction on a creature. Curses are always [[Magical]] and are typically the result of a spell or trap.
 
-- Curses are always magical and are typically the result of a spell or trap.
+## Mechanical Rules
+
 - Effects with this trait can be removed only by effects that specifically target curses.

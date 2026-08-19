@@ -13,7 +13,7 @@ You are adept at living in the wilderness, foraging for food and building shelte
 ## Survival Untrained Actions
 
 - [[Sense Direction]] - Exploration Activity
-- [[Subsist]]
+- [[Subsist]] - Downtime Activity
 
 ## Survival Trained Actions
 

@@ -27,7 +27,6 @@ format: 1_0
 
 -  A creature that falls [[Unconscious]] from this spell doesn't fall prone or release what it's holding.
 - This spell doesn't prevent creatures from waking up due to a successful Perception check, limiting its utility in combat.  
-
 > [!success-degree]
 > **Critical Success** The creature is unaffected. 
 > **Success** The creature takes a –1 status penalty to Perception checks for 1 round. 

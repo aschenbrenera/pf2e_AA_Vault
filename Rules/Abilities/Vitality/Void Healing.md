@@ -1,6 +1,6 @@
 ---
 tags:
-  - ability/monster
+  - ability/vitality
 format: 2.0
 source: Monster Core
 ---
@@ -10,5 +10,5 @@ A creature with void healing draws health from void energy rather than vitality 
 
 ## Mechanical Rules
 
-- It is damaged by `Vitality` damage and is not healed by `Healing` vitality effects.
+- It is damaged by [Void](Void.md "Effect Trait")  damage and is not healed by [Healing](Healing.md "Effect Trait")  vitality effects.
 - It does not take void damage, and it is healed by `Void` effects that heal undead.

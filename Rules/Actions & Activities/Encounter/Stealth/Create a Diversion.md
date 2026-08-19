@@ -1,10 +1,13 @@
 ---
 tags:
   - action/core
+  - trait/effect/auditory
+  - trait/effect/linguistic
   - trait/effect/mental
 aliases:
   - Diversion
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Create a Diversion [](#Actions "Single Action")
 
@@ -25,15 +28,17 @@ format: 1_0
 		- The GM might allow you to perform a particularly unobtrusive action without being noticed, possibly requiring another Stealth check.
 		- You become observed just before you act unless the GM determines otherwise. 
 - Attempt a single Deception check and compare it to the Perception DCs of the creatures whose attention you're trying to divert.
-
 > [!success-degree]
 >- **Success:** You become [[Hidden]] to each creature whose Perception DC is less than or equal to your result. (Even if you don't have cover or concealment.)
 >- **Failure:** You don't divert the attention of any creatures whose Perception DC exceeds your result, and those creatures are aware you were trying to trick them.
 
 ## Gameplay Interaction
 
-- Follows the rules for the [[Linguistic]] trait.
+- Follows the rules for the `Auditory`, `Linguistic`, and `Mental` traits.
+	- An action with the auditory trait can be successfully performed only if the creature using the action can speak or otherwise produce the required sounds.
+	- A spell or effect with the auditory trait has its effect only if the target can hear it.
 	- A linguistic effect that targets a creature works only if the target understands the language you are using.
+	- Mental effects have no effect on an object or a `Mindless` creature.
 
 ## Skill Feats
 

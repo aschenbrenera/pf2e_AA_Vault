@@ -1,7 +1,8 @@
 ---
 tags:
   - action/core/basic
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Avert Gaze (basic) [](#Actions "Single Action")
 

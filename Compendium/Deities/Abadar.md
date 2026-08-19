@@ -2,19 +2,20 @@
 tags:
   - deity
 category: Gods of the Inner Sea
+sanctification: holy or unholy
 attributes: 
-- Constitution
-- Intelligence
+  - Constitution
+  - Intelligence
 skill: Society
 domains:
-- cities
-- earth
-- travel
-- wealth
+  - cities
+  - earth
+  - travel
+  - wealth
 cleric_spells:
-- Illusory Object
-- Creation
-- Planar Palace
+  - Illusory Object
+  - Creation
+  - Planar Palace
 format: 2.0
 source: Player Core
 ---
