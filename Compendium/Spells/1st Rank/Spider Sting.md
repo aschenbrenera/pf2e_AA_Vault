@@ -15,6 +15,9 @@ format: 1_0
 
 **Traditions:** arcane, primal   
 **Catalysts:** [Ogre Spider Filament](https://2e.aonprd.com/Equipment.aspx?ID=3262)
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** touch
 **Targets:** 1 creature
@@ -30,6 +33,6 @@ format: 1_0
   > - **Failure:** The target is afflicted with spider venom at stage 1.
   > - **Critical Failure**: The target is afflicted with spider venom at stage 2. 
  - **Spider Venom** ([Poison](Poison.md "Effect Trait"))  &emsp;*(Level 1)* 
-	 - **Maximum Duration** 4 rounds
-	 - **Stage 1** 1d4 poison damage and [[Enfeebled]] 1 (1 round)
-	 - **Stage 2** 1d4 poison damage and Enfeebled 2 (1 round)
+	 - **Maximum Duration:** 4 rounds
+	 - **Stage 1:** 1d4 poison damage and [[Enfeebled]] 1 (1 round)
+	 - **Stage 2:** 1d4 poison damage and Enfeebled 2 (1 round)

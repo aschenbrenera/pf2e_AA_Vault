@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/item/poison/injury
 format: 2.0
 source: GM Core
 ---

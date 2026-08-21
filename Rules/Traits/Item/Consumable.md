@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/item/consumable
 format: 2.0
 source: Player Core
 ---

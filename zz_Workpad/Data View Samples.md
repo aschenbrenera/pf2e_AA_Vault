@@ -9,6 +9,15 @@ SORT file.mtime DESC
 LIMIT 10
 ```
 
+# Dead Links
+```dataview  
+TABLE without id
+out AS "Uncreated files", file.link as "Origin"
+FLATTEN file.outlinks as out
+WHERE !(out.file) AND !contains(meta(out).path, "/")
+SORT file.link ASC
+```
+
 # Files Not in the current format
 ```dataview  
 LIST
@@ -29,10 +38,11 @@ SORT file.name
 LIMIT 20
 ```
 
-# Dead Links
+# Fix Legacy Traits
 ```dataview  
-TABLE without id
-out AS "Uncreated files", file.link as "Origin"
-FLATTEN file.outlinks as out
-WHERE !(out.file) AND !contains(meta(out).path, "/")
-SORT out ASC
+LIST
+WHERE 
+contains(tags, "trait/generic/concentrate") 
+SORT file.name
+LIMIT 20
+```

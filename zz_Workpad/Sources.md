@@ -1,7 +1,7 @@
 #obsidian/workpad
 #tool
 
-# Remastered Rule Books
+# Remastered Core Rule Books
 
 - Player Core
 - Player Core 2
@@ -9,16 +9,20 @@
 - NPC Core
 - Monster Core
 - Monster Core 2
+
+# Remastered Supplemental Rulebooks
 - Treasure Vault (Remastered)
 - Dark Archive (Remastered)
 - Guns & Gears (Remastered)
+- Impossible Magic
+- Legacy of the Forge
 
-# Extended
+# Thematic Supplemental Materials
 - Battlecry!
 - Howl of the Wild
 - War of Immortals
-- Impossible Magic
-- Legacy of the Forge
+
+# Extended Lost Omen Books
 - LO - Shining Kingdoms
 - LO - Divine Mysteries
 - LO - Draconic Codex

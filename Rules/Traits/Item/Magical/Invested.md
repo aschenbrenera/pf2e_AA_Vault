@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/item/magical/invested
 format: 2.0
 source: GM Core
 ---
@@ -8,5 +9,5 @@ source: GM Core
 
 ## Mechanical Rules
 
-- A character can invest only 10 magical items that have the invested trait. 
+- A character can invest only 10 [[Magical]] items that have the invested trait. 
 - None of the magical effects of the item apply if the character hasn’t invested it, nor can it be activated, though the character still gains any normal benefits from wearing the physical item (like a hat keeping rain off their head).

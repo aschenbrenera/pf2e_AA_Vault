@@ -16,6 +16,9 @@ format: 1_0
 **Traditions:** arcane, occult
 **Bloodline:** fey
 **Catalysts:** [Stolen Countenance](https://2e.aonprd.com/Equipment.aspx?ID=5066)
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Duration:** sustained up to 1 minute
 **Activity:** Two Action ⬥⬥

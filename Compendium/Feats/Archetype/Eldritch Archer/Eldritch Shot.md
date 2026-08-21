@@ -1,9 +1,9 @@
 ---
 tags:
+  - trait/archetype/eldritch_archer
   - action/archetype/eldritch_archer
   - action/feat
   - action/attack
-  - trait/archetype/eldritch_archer
 level: 2
 format: 1_0
 ---

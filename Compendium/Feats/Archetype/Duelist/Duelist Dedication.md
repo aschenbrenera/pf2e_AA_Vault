@@ -1,8 +1,8 @@
 ---
 tags:
-  - trait/archetype/duelist
   - trait/feat/archetype
   - trait/feat/dedication
+  - trait/archetype/duelist
   - feat/archetype/duelist
 level: 2
 format: 1_0

@@ -1,8 +1,8 @@
 ---
 tags:
-  - trait/archetype/assassin
   - trait/feat/archetype
   - trait/feat/dedication
+  - trait/archetype/assassin
   - feat/archetype/assassin
 level: 2
 format: 1_0

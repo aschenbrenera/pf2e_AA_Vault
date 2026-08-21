@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/item/alchemical/bomb
 format: 2.0
 source: Player Core
 ---

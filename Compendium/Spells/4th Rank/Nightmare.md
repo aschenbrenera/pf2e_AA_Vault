@@ -15,6 +15,9 @@ format: 1_0
 **Description:** You send disturbing nightmares to your target.
 
 **Traditions:** arcane, occult
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** planetary
 **Targets:** 1 creature you know by name

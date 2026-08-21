@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/items/weapon_trait
+  - trait/item/weapon_trait/finesse
 format: 2.0
 source: Player Core
 ---

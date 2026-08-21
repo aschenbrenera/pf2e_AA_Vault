@@ -10,13 +10,16 @@ tags:
 level: 3
 format: 1_0
 ---
-# Enthrall [](#Actions "Two-Action") &emsp;*(Spell 1)*
+# Enthrall [](#Actions "Two-Action") &emsp;*(Spell 3)*
 
 [Concentrate](Concentrate.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait") [Auditory](Auditory.md "Effect Trait") [Emotion](Rules/Traits/Effect/Emotion.md "Effect Trait")
 **Description:** Your words fascinate your targets.
 
 **Traditions:** arcane, occult 
 **Bloodline:** diabolic, fey
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** 120 feet
 **Targets:** all creatures in range

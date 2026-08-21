@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/item/alchemical/elixir
 format: 2.0
 source: Player Core
 ---

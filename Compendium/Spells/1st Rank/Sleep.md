@@ -17,6 +17,9 @@ format: 1_0
 
 **Traditions:** arcane, occult 
 **Lesson:** [lesson of dreams](https://2e.aonprd.com/Lessons.aspx?ID=16)
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** 30 feet
 **Area:** 5-foot burst

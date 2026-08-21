@@ -1,6 +1,6 @@
 ---
 tags:
-  - lore/monsters
+  - lore/monster
 format: 1_0
 ---
 # Animated Object Lore

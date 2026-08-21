@@ -10,10 +10,13 @@ format: 1_0
 ---
 # Invisibility [](#Actions "Two-Action") &emsp;*(Spell 2)*
 
- [Illusion](Illusion.md "Effect Trait") [Manipulate](Manipulate.md "General Trait") [Subtle](Subtle.md "Spell Trait")
-**Description:**  Illusions bend light around the target, rendering it Invisible.
+[Manipulate](Manipulate.md "General Trait") [Illusion](Illusion.md "Effect Trait") [Subtle](Subtle.md "Spell Trait")
+**Description:** Illusions bend light around the target, rendering it Invisible.
 
 **Traditions:** arcane, occult
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** Touch
 **Targets:** 1 creature

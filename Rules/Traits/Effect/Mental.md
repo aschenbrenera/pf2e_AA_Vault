@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/effect/mental
 format: 2.0
 source: Player Core
 ---

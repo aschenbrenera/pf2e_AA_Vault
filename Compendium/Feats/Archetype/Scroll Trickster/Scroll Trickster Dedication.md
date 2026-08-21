@@ -1,8 +1,8 @@
 ---
 tags:
-  - trait/archetype/scroll_trickster
   - trait/feat/archetype
   - trait/feat/dedication
+  - trait/archetype/scroll_trickster
   - feat/archetype/scroll_trickster
 level: 2
 format: 1_0

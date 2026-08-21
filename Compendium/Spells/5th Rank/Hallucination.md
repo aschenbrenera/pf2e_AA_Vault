@@ -17,11 +17,14 @@ format: 1_0
 
 **Traditions:** arcane, occult 
 **Bloodline:** fey
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** 30 feet
 **Targets:** 1 creature
 **Duration:** 1 hour
-**Activity:** Two Action ⬥⬥
+**Cast:** Two Action ⬥⬥
 
 ## Mechanical Rules
 

@@ -1,9 +1,9 @@
 ---
 tags:
   - trait/rarity/uncommon
-  - trait/archetype/fan_dancer
   - trait/feat/archetype
   - trait/feat/dedication
+  - trait/archetype/fan_dancer
   - feat/archetype/fan_dancer
 level: 2
 format: 1_0

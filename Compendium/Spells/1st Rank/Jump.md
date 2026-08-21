@@ -13,6 +13,9 @@ format: 1_0
 **Description:** Your legs surge with strength, ready to leap high and far.
 
 **Traditions:** arcane, primal
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Cast:** One Action ⬥
 

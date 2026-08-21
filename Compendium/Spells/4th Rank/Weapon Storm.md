@@ -15,6 +15,9 @@ format: 1_0
 **Traditions:** arcane, primal 
 **Catalysts:** [Steel Cloud Road](https://2e.aonprd.com/Equipment.aspx?ID=5065)
 **Mystery:** [battle](https://2e.aonprd.com/Mysteries.aspx?ID=13)
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Area:** 30-foot cone or 10-foot emanation  
 **Defense:** Reflex

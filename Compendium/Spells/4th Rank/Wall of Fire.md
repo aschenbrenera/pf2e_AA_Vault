@@ -15,6 +15,9 @@ format: 1_0
 
 **Traditions:** arcane, primal   
 **Catalysts:** [Noxious Incense](https://2e.aonprd.com/Equipment.aspx?ID=5060)
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** 120 feet
 **Duration:** 1 minute

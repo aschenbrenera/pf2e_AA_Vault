@@ -1,8 +1,8 @@
 ---
 tags:
-  - trait/archetype/captivator
   - trait/feat/archetype
   - trait/feat/dedication
+  - trait/archetype/captivator
   - feat/archetype/captivator
 level: 2
 format: 1_0

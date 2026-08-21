@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/feat/skill
 format: 2.0
 source: Player Core
 ---

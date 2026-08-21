@@ -22,7 +22,7 @@ format: 1_0
 **Targets:** 1 creature
 **Defense:** Will
 **Duration:** 1 round
-**Activity:** Two Action ⬥⬥
+**Cast:** Two Action ⬥⬥
 
 ## Mechanical Rules
 
@@ -35,3 +35,9 @@ format: 1_0
 ## Gameplay Interaction
 
 - Cantrip spells are automatically heightened to half your level rounded up.
+- Follows the rules for the `Mental` trait.
+    - Mental effects have no effect on an object or a `Mindless` creature.
+- Follows the rules for the `Nonlethal` trait.
+    - When reduced to 0 Hit Points, if the damage was dealt by a nonlethal attack or nonlethal effect, a creature is knocked out with the following effects:
+	    - Move initiative position to directly before the current turn.
+	    - Gain Unconscious condition with 0 Hit Points.

@@ -7,7 +7,6 @@ format: 2.0
 ---
 # Scroll Crafting - Guide
 
-[Downtime](Downtime.md "Action & Ability Trait") [Manipulate](Manipulate.md "General Trait")
 **Description:** You can make a [[Magic Scroll]].
 
 **Skill:** [[Crafting]] (Trained)

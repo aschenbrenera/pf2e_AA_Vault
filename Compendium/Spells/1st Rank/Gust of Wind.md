@@ -16,6 +16,9 @@ format: 1_0
 **Traditions:** arcane, primal 
 **Catalysts:** [Kirin Echo Chime](https://2e.aonprd.com/Equipment.aspx?ID=3260)
 **Patron Theme:** Silence in snow
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Area:** 60-foot line
 **Duration:** Until the start of your next turn

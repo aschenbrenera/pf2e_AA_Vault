@@ -13,12 +13,15 @@ format: 1_0
 **Description:** Magic empowers the target to act faster. 
 
 **Traditions:** arcane, occult, primal 
-**Bloodline*:** draconic, imperial
+**Bloodline:** draconic, imperial
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** 30 feet
 **Targets:** 1 creature
 **Duration:** 1 minute
-**Activity:** Two Action ⬥⬥
+**Cast:** Two Action ⬥⬥
 
 ## Mechanical Rules
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/hazard/snare
 format: 2.0
 source: Player Core 2
 ---

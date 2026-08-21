@@ -15,6 +15,9 @@ format: 1_0
 **Description:** You create an illusory visual image of a stationary object.
 
 **Traditions:** arcane, occult
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** 500 feet
 **Area:** 20-foot burst

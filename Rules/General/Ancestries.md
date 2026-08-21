@@ -6,6 +6,8 @@ aliases:
 ---
 # Ancestry
 
+#TODO 
+
 An ancestry is the broad family of people that a character belongs to. Ancestry determines a character's starting [[Hit Points]], [[Languages]], [[Senses]], and [[Speed]], and it grants access to ancestry feats.
 
 **Ancestries** express the culture your character hails from. Within ancestries are heritages—subgroups that have unique characteristics. An ancestry provides attribute boosts (and perhaps attribute flaws), Hit Points,ancestry feats, and sometimes additional abilities.
@@ -38,7 +40,7 @@ When creating a character of this ancestry, you apply attribute boosts to increa
 
 This tells you the languages that members of the ancestry speak at 1st level. If your Intelligence modifier is +1 or higher, you can select more languages from a list given here. More about languages can be found [here](https://2e.aonprd.com/Rules.aspx?ID=2095).
 
-### Traits]
+### Traits
 
 The traits for this book's ancestries have no rules benefit, but are important for determining how spells, effects, and other aspects of the game interact with your character.
 

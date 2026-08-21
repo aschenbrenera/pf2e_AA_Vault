@@ -2,7 +2,7 @@
 tags:
   - action/spell
   - spell/rank/5
-  - trait/generic/concentrate
+  - trait/ability/concentrate
   - trait/generic/manipulate
   - trait/effect/mental
 level: 5
@@ -14,13 +14,15 @@ format: 1_0
 **Description:** You draw the target into a lucid dream where it can explore the endless possibilities of its own potential within the everchanging backdrop of its dreamscape
 
 **Traditions:** occult 
-**Mystery** [ancestors](https://2e.aonprd.com/Mysteries.aspx?ID=12)
+**Mystery:** [ancestors](https://2e.aonprd.com/Mysteries.aspx?ID=12)
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
-**Cast:** 10 minutes
 **Range:** touch
 **Targets:** 1 willing sleeping creature
 **Duration:** 8 hours
-**Activity:** Two Action ⬥⬥
+**Cast:** 10 minutes
 
 ## Mechanical Rules
 

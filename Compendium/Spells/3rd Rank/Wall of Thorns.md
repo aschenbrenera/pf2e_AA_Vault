@@ -16,6 +16,9 @@ format: 1_0
 
 **Traditions:** arcane, primal   
 **Catalysts:** [Black Ash](https://2e.aonprd.com/Equipment.aspx?ID=3746)
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** 60 feet
 **Duration:** 1 minute

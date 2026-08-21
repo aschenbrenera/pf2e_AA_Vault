@@ -1,8 +1,8 @@
 ---
 tags:
-  - trait/archetype/acrobat
   - trait/feat/archetype
   - trait/feat/dedication
+  - trait/archetype/acrobat
   - feat/archetype/acrobat
 level: 2
 format: 1_0

@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/combat/press
 format: 2.0
 source: Player Core
 ---

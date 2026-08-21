@@ -16,6 +16,9 @@ format: 1_0
 **Traditions:** arcane, primal   
 **Catalysts:** [Dragon Breath Scale](https://2e.aonprd.com/Equipment.aspx?ID=2022), [Dragon Eye](https://2e.aonprd.com/Equipment.aspx?ID=4014)
 **Mystery:** flames, ash
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Area:** 15-foot cone
 **Defense:** [[Basic Saving Throw|Basic]] Reflex

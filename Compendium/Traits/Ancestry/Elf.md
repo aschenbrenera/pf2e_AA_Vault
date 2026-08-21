@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/ancestry/elf
 ---
 # Elf
 

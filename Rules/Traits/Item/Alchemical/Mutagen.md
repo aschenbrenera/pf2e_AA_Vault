@@ -1,12 +1,13 @@
 ---
 tags:
   - rules/trait
+  - trait/item/alchemical/mutagen
 format: 2.0
 source: Player Core 2
 ---
 # Mutagen
 
-Mutagens are a special type of elixir that temporarily transmogrify the subject's body and mind. Typically, only alchemists have the expertise to craft mutagens.  
+Mutagens are a special type of [[Elixir]] that temporarily transmogrify the subject's body and mind. Typically, only alchemists have the expertise to craft mutagens.  
 
 ## Mechanical Rules
 

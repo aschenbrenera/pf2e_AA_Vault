@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/generic/incorporeal
 format: 2.0
 source: GM Core
 ---

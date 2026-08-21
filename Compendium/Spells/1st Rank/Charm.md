@@ -19,7 +19,9 @@ format: 1_0
 **Traditions:** arcane, occult, primal 
 **Bloodline:** diabolic, fey
 **Catalysts:** [Euphoric Loop](https://2e.aonprd.com/Equipment.aspx?ID=2023)
-
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Range:** 30 feet
 **Targets:** 1 creature
@@ -45,8 +47,8 @@ format: 1_0
 
 ## Gameplay Interaction
 
-- Follows the rules for the [[Subtle]] trait.
+- Follows the rules for the `Subtle` trait.
 	- A spell with the subtle trait can be cast without incantations and doesn't have obvious manifestations.
-- Follows the rules for the [[Incapacitation]] trait.
+- Follows the rules for the `Incapacitation` trait.
 	- If the incapacitation trait is on a spell, a creature with a level of more than twice the spell's effective rank gains the listed benefit against the spell (Heightened Spells increase a spell's effective rank).
 	- **Benefit:** Creatures with this benefit treat the result of their check to prevent being incapacitated as one degree of success better or the result of any check the spellcaster made to incapacitate them as one degree of success worse.

@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/magical/arcane
 format: 2.0
 source: Player Core
 ---

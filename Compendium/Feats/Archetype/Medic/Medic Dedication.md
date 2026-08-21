@@ -1,8 +1,8 @@
 ---
 tags:
-  - trait/archetype/medic
   - trait/feat/archetype
   - trait/feat/dedication
+  - trait/archetype/medic
   - feat/archetype/medic
 level: 2
 format: 1_0

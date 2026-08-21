@@ -1,6 +1,7 @@
 ---
 tags:
   - rules/trait
+  - trait/effect/holy
 format: 2.0
 source: Player Core
 ---

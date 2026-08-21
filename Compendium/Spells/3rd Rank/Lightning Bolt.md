@@ -15,6 +15,9 @@ format: 1_0
 **Description:** A bolt of lightning strikes outward from your hand.
 
 **Traditions:** arcane, primal 
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Area:** 120-foot line
 **Defense:** [[Basic Saving Throw|Basic]] Reflex

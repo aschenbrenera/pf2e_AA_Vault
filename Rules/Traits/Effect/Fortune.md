@@ -1,6 +1,8 @@
 ---
 tags:
   - rules/trait
+  - trait/effect/fortune
+  - trait/effect/misfortune
 aliases:
   - Misfortune
 format: 2.0

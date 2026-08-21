@@ -1,8 +1,8 @@
 ---
 tags:
-  - trait/archetype/eldritch_archer
   - trait/feat/archetype
   - trait/feat/dedication
+  - trait/archetype/eldritch_archer
   - feat/archetype/eldritch_archer
 level: 6
 format: 1_0

@@ -17,6 +17,9 @@ format: 1_0
 **Description:** You move from one tree to another within the distance.
 
 **Traditions:** primal
+```dataviewjs
+const deities = dv.pages('"Compendium/Deities"') .where(d => d.cleric_spells?.includes(dv.current().file.name)) .sort(d => d.file.name); dv.paragraph("**Deities:** " + deities.map(d => d.file.link).join(", "));
+```
 
 **Cast:** 1 minute
 

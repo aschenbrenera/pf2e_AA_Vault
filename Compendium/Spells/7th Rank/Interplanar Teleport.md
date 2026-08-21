@@ -16,11 +16,10 @@ format: 1_0
 
 **Traditions:** arcane, divine, occult, primal
 
-**Cast:** 10 minutes
 **Requirements:** You have a planar key for the destination plane, used as a locus.
 **Range:** 5 feet
 **Targets:** Up to 8 willing creatures
-**Activity:** 10 minutes
+**Cast:** 10 minutes
 
 ## Mechanical Rules
 
