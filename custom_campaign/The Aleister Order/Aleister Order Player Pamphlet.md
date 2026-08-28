@@ -5,11 +5,9 @@ format: 1_0
 ---
 # The Aleister Order
 
-> **"We stare into the darkness and never blink."**
-
 ## What Is the Aleister Order?
 
-The Aleister Order is an organization dedicated to the investigation of supernatural phenomena and protection from its threats.
+The Aleister Order is an organization dedicated to the investigation of unusual phenomena and protection from its threats.
 
 For generations, the Order has investigated strange occurrences throughout Golarion: unexplained deaths, hauntings, magical anomalies, mysterious disappearances, dangerous creatures, cursed objects, and other phenomena.
 
@@ -21,18 +19,15 @@ Our purpose is simple:
 ## What Is a Warden?
 
 Wardens are the field agents of the Aleister Order.
+A Warden is usually a scholar, explorer, mage, hunter, warrior, adventurer, or some combination. Wardens can be trusted to enter the unknown, discover the truth, and make sound decisions when the truth is dangerous.
 
-A Warden is usually a scholar, explorer, mage, hunter, warrior, adventurer, or some combination.
-
-Wardens can be trusted to enter the unknown, discover the truth, and make sound decisions when the truth is dangerous.
-
-Teams of wardens may consist of specialists with different skills and backgrounds, depending upon the nature of the investigation.
+Teams of wardens often consist of specialists with different skills and backgrounds, depending upon the nature of the investigation.
 
 ## The Warden's Oath
 
-> **I seek truth despite fear.**  
-> **I shield the weak.**  
-> **I carry knowledge from darkness.**
+> I am the eye that seeks.  
+> I am the hand that shields.  
+> I am the voice that carries.
 
 ## Warden Duties
 
@@ -40,38 +35,30 @@ Every Warden is expected to uphold four basic responsibilities.
 
 ### Investigate
 
-Seek the truth.
-
 Gather evidence.  
 Question witnesses.  
 Examine locations.  
 
 ### Protect
 
-Protect innocent lives.
-
 Prevent further harm.  
 Secure dangerous locations.  
-Keep supernatural threats from spreading.
+Keep threats from spreading.
 
 ### Resolve
-
-Stop the threat.
 
 A threat may be destroyed, banished, contained, recovered, negotiated with, or otherwise rendered harmless.
 
 ### Report
-
-Record what is learned.
 
 Every investigation contributes to the Order's collective knowledge.
 A completed report should allow another Warden to understand what happened, what was discovered, what was done, and what remains unknown.
 
 ## Warden Authority
 
-The Aleister Order is a private organization. The Order is not a government, church, military, or mercenary company, but the Order has existed long enough that many governments, churches, universities, and communities recognize its credentials.
+The Aleister Order is a private organization. The Order is not a government, church, or mercenary organization, but the Order has existed long enough that many of those communities recognize its credentials.
 
-Wardens are authorized to investigate supernatural incidents on behalf of the Order. Warden credentials may grant access to places, records, witnesses, and authorities that would otherwise be unavailable.
+Wardens are authorized to investigate incidents on behalf of the Order. Warden credentials may grant access to places, records, witnesses, and authorities that would otherwise be unavailable.
 
 ## The Order's Resources
 

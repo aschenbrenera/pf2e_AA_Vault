@@ -26,7 +26,7 @@ format: 1_0
 
 ## Mechanical Rules
 
-- Make a spell attack roll against the target's AC, dealing 2d4 [[Fire Damage]] on a hit.
+- Make a spell attack roll against the target's AC, dealing 2d4 Fire Damage on a hit.
   > [!success-degree]
   >- **Critical Success:** The target takes double damage and 1d4 [[Persistent Damage|Persistent]] fire damage.
   >- **Success:** The target takes full damage.

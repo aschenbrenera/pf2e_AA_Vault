@@ -4,17 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "be464bbcb59e76bc",
+        "id": "93e108f2f4d54276",
         "type": "tabs",
         "children": [
           {
-            "id": "84daa97b6ca37330",
+            "id": "26de855e0ffb47d4",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Conditions/Weakness/Off-Guard.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Off-Guard"
+            }
+          },
+          {
+            "id": "6f2c19dca45cfea0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Rules/Abilities/Sensory/Darkvision.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Darkvision"
             }
           }
         ]
@@ -51,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "basic scroll",
+                "query": "tag:#spell/focus/1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -122,6 +140,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Rules/Conditions/Weakness/Off-Guard.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,6 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Rules/Conditions/Weakness/Off-Guard.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -189,8 +209,34 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "84daa97b6ca37330",
+  "active": "26de855e0ffb47d4",
   "lastOpenFiles": [
+    "Rules/Conditions/Weakness/Prone.md",
+    "Rules/Conditions/Weakness/Sickened.md",
+    "Rules/Conditions/Weakness/Off-Guard.md",
+    "Rules/Conditions/Weakness/Fatigued.md",
+    "Rules/Conditions/Weakness/Encumbered.md",
+    "Rules/Conditions/Vitality/Wounded.md",
+    "Rules/Conditions/Vitality/Unconscious.md",
+    "Rules/Conditions/Vitality/Persistent Damage.md",
+    "Rules/Conditions/Vitality/Dying.md",
+    "Rules/Conditions/Vitality/Doomed.md",
+    "Rules/Conditions/Sensory/Undetected.md",
+    "Rules/Conditions/Sensory/Invisible.md",
+    "Rules/Conditions/Sensory/Hidden.md",
+    "Rules/Conditions/Sensory/Fascinated.md",
+    "Rules/Conditions/Sensory/Deafened.md",
+    "Rules/Conditions/Sensory/Dazzled.md",
+    "Rules/Conditions/Sensory/Concealed.md",
+    "Rules/Conditions/Sensory/Blinded.md",
+    "Rules/Conditions/Mental/Frightened.md",
+    "Rules/Conditions/Mental/Fleeing.md",
+    "Rules/Conditions/Mental/Controlled.md",
+    "Rules/Conditions/Mental/Confused.md",
+    "Rules/Conditions/Cover/Standard Cover.md",
+    "Rules/Conditions/Cover/Lesser Cover.md",
+    "Rules/Conditions/Cover/Greater Cover.md",
+    "Rules/Conditions/Capability/Stunned.md",
     "custom_campaign/DH Module/Images/Player Images/house_front.png",
     "custom_campaign/DH Module/Images/Player Images/dh_poem.jpeg",
     "custom_campaign/DH Module/Images/Player Images/The Durst Family.png",
@@ -201,28 +247,8 @@
     "custom_campaign/DH Module/Images/GM Images/deathhouse_basement.png",
     "custom_campaign/DH Module/Images/GM Images/GhoulishEncounterMap.png",
     "custom_campaign/DH Module/Images/GM Images/Walter.jpg",
-    "custom_campaign/DH Module/Images/GM Images/DeathHouse.jpg",
     "custom_campaign/DH Module/Images/Player Images",
-    "custom_campaign/DH Module/Walkthrough/Appendix - Outline.md",
-    "custom_campaign/DH Module/Walkthrough/Intro.md",
-    "custom_campaign/DH Module/Walkthrough/Ideas.md",
-    "custom_campaign/DH Module/Walkthrough/GM House Narrative.md",
-    "custom_campaign/DH Module/NPCs/Rose and Thorn.md",
-    "custom_campaign/DH Module/NPCs/Death House Notes.md",
     "custom_campaign/DH Module/Images/GM Images",
-    "custom_campaign/DH Module/Monsters/Flesh Mound.md",
-    "custom_campaign/DH Module/AV/Appendix - Ambience.md",
-    "custom_campaign/The Aleister Order/Zold - Crimson Masquerade.md",
-    "custom_campaign/The Aleister Order/Zold - Aleister Order.md",
-    "custom_campaign/The Aleister Order/Zold - Aleister Order GM Notes.md",
-    "custom_campaign/The Aleister Order/Valemort Masquerade.md",
-    "custom_campaign/The Aleister Order/Lantern Marsh.md",
-    "custom_campaign/The Aleister Order/Clockmaker's House.md",
-    "custom_campaign/The Aleister Order/Aleister Order Player Pamphlet.md",
-    "custom_campaign/The Aleister Order/Aleister Order - GM Notes.md",
-    "custom_campaign/The Aleister Order/AI Prompt.md",
-    "custom_campaign/Custom Mechanics/Paranoia.md",
-    "custom_campaign/Custom Mechanics/Death House Time Clock.md",
     "custom_campaign/DH Module/Walkthrough",
     "custom_campaign/DH Module/NPCs",
     "custom_campaign/DH Module/Images",
@@ -230,12 +256,6 @@
     "custom_campaign/DH Module/AV",
     "custom_campaign/The Aleister Order",
     "custom_campaign/PCs",
-    "custom_campaign/Images",
-    "Campaign/custom_campaign/DH Module/NPCs/Rose and Thorn.md",
-    "Campaign/custom_campaign/DH Module/NPCs/Death House Notes.md",
-    "Campaign/custom_campaign/DH Module/Walkthrough/Appendix - Outline.md",
-    "Campaign/custom_campaign/DH Module/Monsters/Flesh Mound.md",
-    "Campaign/custom_campaign/DH Module/Walkthrough/Intro.md",
-    "Campaign/custom_campaign/DH Module/Walkthrough/Ideas.md"
+    "custom_campaign/Images"
   ]
 }

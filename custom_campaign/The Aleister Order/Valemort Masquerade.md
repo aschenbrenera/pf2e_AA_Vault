@@ -27,6 +27,15 @@ The Valemort Masquerade is not a story about hunting vampires. It is a story abo
 
 4 PCs at level 10
 
+## Recommended Party Gear Kit
+
+- 1 wooden stake per PC.
+- 2–3 flasks of holy water.
+- 1–2 appropriate religious symbols.
+- At least **one magical silver weapon**.
+- Ordinary silver weapons for everyone else if possible.
+- 2 portable mirrors
+
 ## Enemies
 
 1 [Vampire Count](https://2e.aonprd.com/Monsters.aspx?ID=3225) (joins fight after servitor is dead)
@@ -52,18 +61,13 @@ The Valemort Estate has been officially abandoned for 50 years, following the di
 
 The estate remains remarkably well preserved despite its supposed abandonment. Its gardens are carefully maintained, its furnishings remain in excellent condition, and the manor shows signs of regular use.
 
-During the investigation, the PCs may discover evidence of this maintenance:
-- Freshly polished silver
-- Carefully tended gardens
-- Rooms that appear to have been recently occupied
-
 The estate contains extensive underground chambers that are not visible from the main manor. These chambers serve as the coven's private quarters and storage.
 
 ## The Adventure from the Monster's Perspective
 
 For the last 40 years, a moroi vampire coven has secretly occupied the abandoned Valemort Estate. Every four years, the coven hosts the Valemort Masquerade: an elaborate celebration and a ritual honoring Zura, the vampire goddess of blood and cannibalism.
 
-The coven carefully selects mortals from Lepidstadt and the surrounding region and sends them invitations. The Vampire Servitor is responsible for delivering the invitations and selecting the coven's guests. Approximately 15 guests are invited to every ball. The ritual requires 4 victims to empower the coven. The 'stronger' the blood of the sacrifices the stronger the blessing. This leads the coven to pick as wealthy or as powerful sacrifices as they can manage without drawing too much attention. Another two guests are personally claimed by the Vampire Count and his servitor, who feed upon them. The remaining guests are lightly drained and returned home that same night, their memories altered with the 'Rewrite Memory' spell. 
+	The coven carefully selects mortals from Lepidstadt and the surrounding region and sends them invitations. The Vampire Servitor is responsible for delivering the invitations and selecting the coven's guests. Approximately 15 guests are invited to every ball. The ritual requires 4 victims to empower the coven. The 'stronger' the blood of the sacrifices the stronger the blessing. This leads the coven to pick sacrifices as wealthy or powerful as they can manage without drawing too much attention. Another two guests are usually claimed by the Vampire Count and his servitor, who take them as prizes. The remaining guests are lightly drained by the coven and returned home that same night, their memories altered with the 'Rewrite Memory' spell. 
 
 The masquerade provides the coven with a banquet of blood and it fulfills the ritual required to invoke Zura's blessing. Zura's blessing grants the vampires additional strength and powers. Notably powerful vampires, such as the Vampire Count temporarily gain the ability to cast Rewrite Memory as an Innate Spell on anyone whose blood it's just tasted. This is how the coven wipes the memories of the victims it releases.
 

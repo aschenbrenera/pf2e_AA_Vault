@@ -6,7 +6,7 @@ source: Player Core
 ---
 # Spell Attack Rolls
 
-If you cast spells, you might need to make a spell attack roll. These rolls are usually made when you cast a spell that targets a creature's AC.  
+If you [[Cast a Spell]], you might need to make a spell attack roll. These rolls are usually made when you cast a spell that targets a creature's AC.  
   
 The attribute modifier for a spell attack roll depends on how you gained the spell. If your class grants you spellcasting, use your key attribute modifier (such as Intelligence for a wizard). Innate spells use your Charisma modifier unless the ability that granted them states otherwise. Focus spells and other sources of spells specify which attribute modifier you use for spell attack modifiers in the ability that granted them. If you have spells from multiple sources or traditions, you might use different attribute modifiers for spell attack modifiers for these different sources of spells.
   

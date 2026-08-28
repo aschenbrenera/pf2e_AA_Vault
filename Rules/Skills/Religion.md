@@ -8,7 +8,7 @@ source: Player Core
 
 **Attribute**: [[Wisdom]]
 
-The secrets of deities, dogma, faith, and the realms of divine creatures both sublime and sinister are open to you. You also understand how magic works, though your training imparts a religious slant to that knowledge.
+The secrets of deities, dogma, faith, and the realms of [[Divine]] creatures both sublime and sinister are open to you. You also understand how magic works, though your training imparts a religious slant to that knowledge.
 
 ## Religion Untrained Actions
 

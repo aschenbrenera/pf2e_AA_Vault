@@ -1,11 +1,11 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "off-guard",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
+  "collapse-color-groups": true,
   "colorGroups": [
     {
       "query": "tag:#spell  ",
@@ -123,6 +123,6 @@
   "repelStrength": 9.9951171875,
   "linkStrength": 1,
   "linkDistance": 50,
-  "scale": 0.20226852326338038,
-  "close": true
+  "scale": 1.3104172551072515,
+  "close": false
 }

@@ -9,7 +9,7 @@ format: 1_0
 # Intimidating Prowess &emsp;*(Feat 2)*
 
 [General](General.md "Feat Trait") [Skill](Skill.md "Feat Trait")
-**Description:** 
+**Description:** Your physical strength helps you intimidate.
 
 **Prerequisites:** Expert in [[Intimidation]]; Strength +3
 

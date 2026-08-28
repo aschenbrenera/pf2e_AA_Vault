@@ -2,21 +2,21 @@
 tags:
   - campaign
 name: Gunther
-level: 5
-hp: 75
-dc: 21
-ac: 21
-fort: 12 (E)
-ref: 8 (T)
-will: 10 (E)
-modifier: 8
-perception: 8 (T)
-deception: 9 (T)
-diplomacy: 11 (E)
+level: 6
+hp: 88
+dc: 22
+ac: 22
+fort: 13 (E)
+ref: 9 (T)
+will: 11 (E)
+modifier: 9
+perception: 9 (T)
+deception: 10 (T)
+diplomacy: 12 (E)
 stealth: 1 (U)
 arcana: 2 (U)
 crafting: 2 (U)
-medicine: 8 (T)
+medicine: 0 (U)
 nature: 1 (U)
 occultism: 2 (U)
 religion: 8 (T)
@@ -31,20 +31,20 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Gunther"
-level: "PC 5"
+level: "PC 6"
 size: "Medium"
 trait_03: "Dwarf"
 trait_04: "Humanoid"
 trait_05: "Champion"
 trait_06: "Holy"
-modifier: 7
+modifier: 9
 perception:
   - name: "Perception"
-    desc: "+7; __[[Greater Darkvision]]__;"
+    desc: "+9; __[[Greater Darkvision]]__;"
 languages: "Common, Dwarven; +2"
 skills:
   - name: "Skills"
-    desc: "__Acrobatics__: +1; __Athletics__: +11; __Stealth__: +1;"
+    desc: "__Acrobatics__: +1; __Athletics__: +12; __Stealth__: +1;"
 
 abilityMods: [4, 1, 3, 2, 1, 2]
 
@@ -53,11 +53,11 @@ speed: 20 feet
 ac: 21
 armorclass:
   - name: AC
-    desc: "21; __Fort__: +12; __Ref__: +8; __Will__: +10; __DC__: 21;"
+    desc: "22; __Fort__: +13; __Ref__: +9; __Will__: +11; __DC__: 22;"
 hp: 75
 health:
   - name: HP
-    desc: "75"
+    desc: "88"
     
 abilities_top:
   - name: Gear

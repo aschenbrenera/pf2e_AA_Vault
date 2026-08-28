@@ -17,5 +17,6 @@ Description: A bone composite shortbow carved with magic runes. (See backstory b
 - [[Composite Shortbow]]
 - +1 [[Weapon Potency]]
 - [[Weapon Striking]]
+- [[Fearsome Rune]]
 
 ![[BoneBow.png]]

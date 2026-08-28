@@ -2,7 +2,8 @@
 tags:
   - condition
   - condition/sensory
-format: 1_0
+format: 2.0
+source: Player Core
 ---
 # Deafened
 

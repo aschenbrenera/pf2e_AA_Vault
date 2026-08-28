@@ -6,7 +6,7 @@ source: Player Core
 ---
 # Magical Traditions
 
-Spellcasters cast spells from one of four different spell lists, each representing a different magical tradition: arcane, divine, occult, and primal.  
+Spellcasters cast spells from one of four different spell lists, each representing a different magical tradition: [[Arcane]], [[Divine]], [[Occult]], and [[Primal]].  
   
 Your class determines which tradition of magic your spells use. In some cases, such as when a cleric gains spells from their deity or when a witch gets spells from their patron, you might be able to cast one or more select spells from a different spell list than the list you normally cast from; for instance, clerics of Sarenrae gain the power to summon their goddess's flames with a fireball spell. In these cases, the spell uses your magic tradition, not the list the spell normally comes from. When you cast a spell, add your tradition's trait to the spell.  
   

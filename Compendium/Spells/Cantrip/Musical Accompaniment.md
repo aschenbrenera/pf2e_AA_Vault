@@ -26,7 +26,7 @@ format: 1_0
 	- This music moves with you and has a maximum volume equal to four humans shouting.
 	- You take a –4 circumstance penalty to Stealth checks while the music is playing.
 	- You can’t control the exact music this spell creates, and the music doesn’t create intelligible words or singing.
-	- You can [[Dismiss]] this spell.
+	- You can Dismiss this spell.
 
 > [!info] Heighten
 >- **Heightened (2nd):** The duration increases to 10 minutes.

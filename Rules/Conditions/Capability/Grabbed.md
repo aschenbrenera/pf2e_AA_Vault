@@ -2,9 +2,10 @@
 tags:
   - condition
   - condition/capability
-format: 1_0
 aliases:
   - Grabbing
+format: 2.0
+source: Player Core
 ---
 # Grabbed
 

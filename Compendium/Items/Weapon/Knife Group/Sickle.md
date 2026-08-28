@@ -10,7 +10,7 @@ format: 1_0
 
 [Agile](Agile.md "Weapon Trait") [Finesse](Finesse.md "Weapon Trait") [Trip](Rules/Actions%20&%20Activities/Encounter/Attack/Trip.md "Weapon Trait")
 
-This small, bladed weapon is held in one hand and used to stab a creature in close combat. It can also be thrown.
+Originally a farming tool used for reaping grain, this one-handed weapon has a short wooden handle ending in a curved blade, sometimes sharpened on both sides.
 
 **Price:** 2 sp
 **Bulk:** L
@@ -20,8 +20,6 @@ This small, bladed weapon is held in one hand and used to stab a creature in clo
 **Type:** Melee
 **Group:** Knife
 **Damage** 1d4 S
-
-Originally a farming tool used for reaping grain, this one-handed weapon has a short wooden handle ending in a curved blade, sometimes sharpened on both sides.
 
 ## Gameplay Interaction
 

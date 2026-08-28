@@ -19,7 +19,7 @@ format: 1_0
 
 ## Mechanical Rules
 
-- If you are trained in the appropriate skill for the spell’s tradition and it’s a common spell of 2nd rank or lower, you automatically [[Identifying and Learning|Identify the Spell]]. You automatically know what the spell is, including the rank to which it is heightened
+- If you are trained in the appropriate skill for the spell’s tradition and it’s a common spell of 2nd rank or lower, you automatically succeed to [[Identify Spell| Identify the Spell]]. You automatically know what the spell is, including the rank to which it is heightened
 	- You can still roll a [[Recall Knowledge]] to attempt to get a critical success, but can’t get a worse result than success. 
 	- The highest rank of spell you automatically identify increases to 4 if you’re an expert, 6 if you’re a master, and 10 if you’re legendary.
 - The GM rolls a secret Recall Knowledge check, whichever corresponds to the tradition of the spell being cast. If you’re not trained in the skill, you can’t get a result better than failure. 

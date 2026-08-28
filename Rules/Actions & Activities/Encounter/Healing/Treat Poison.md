@@ -16,8 +16,8 @@ source: Player Core
 
 ## Mechanical Rules
 
-- After you attempt to Treat a Poison for a creature, you can't try again until after the next time that creature attempts a save against the poison.  
-- Attempt a Medicine check against the poison's DC.
+- After you attempt to help a creature fight a [[Afflictions | Poison Affliction]], you can't try again until after the next time that creature attempts a save against the poison.  
+	- Attempt a Medicine check against the poison's DC.
 > [!success-degree]
 >- **Critical Success:** You grant the creature a +4 circumstance bonus to its next saving throw against the poison.  
 >- **Success:** You grant the creature a +2 circumstance bonus to its next saving throw against the poison.  

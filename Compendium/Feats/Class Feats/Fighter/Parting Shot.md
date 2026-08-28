@@ -18,5 +18,5 @@ format: 1_0
 
 ## Mechanical Rules
 
-- You Step and then make a ranged Strike with the required weapon. Your target is off-guard against the attack.
+- You Step and then make a ranged Strike with the required weapon. Your target is [[Off-Guard]] against the attack.
 - This feat can be used for one or more archetypes in addition to the listed classes. When selected this way, the feat does not have its class traits.

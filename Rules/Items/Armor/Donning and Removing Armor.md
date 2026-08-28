@@ -13,7 +13,7 @@ Getting in and out of armor is time consuming.
 
 ## Mechanical Rules
 
-- Donning and removing armor are both activities involving many Interact actions.
+- Donning and removing [[Armor]] are both activities involving many Interact actions.
 - It takes 1 minute to remove any armor.
 - It takes:
 	- 1 minute to don light armor

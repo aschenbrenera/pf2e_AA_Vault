@@ -40,7 +40,7 @@ source: Player Core
 
 | Level | Feat                   | Req. Training        | Short Desc.                           |
 | ----- | ---------------------- | -------------------- | ------------------------------------- |
-| 1     | [[Intimidating Glare]] | Trained Intimidation | You can demoralize with a mere glare. |
-
+| 1     | [[Intimidating Glare]] | Trained | You can demoralize with a mere glare. |
+| 2     | [[Intimidating Prowess]] | Expert | Your physical strength helps you intimidate. |
 
 

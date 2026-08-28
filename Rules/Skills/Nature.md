@@ -8,7 +8,7 @@ source: Player Core
 
 **Attribute**: [[Wisdom]]
 
-You know about the natural world, and you command and train animals and magical beasts.
+You know about the natural world, [[Primal]] magic, and you command and train animals and magical beasts.
 
 ## Nature Untrained Actions
 

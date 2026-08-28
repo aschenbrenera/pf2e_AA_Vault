@@ -15,7 +15,7 @@ What you can counteract depends on the check result and the target's counteract 
 ## Quick Guide
 
 If counteracting with a spell, roll a spell attack, otherwise make the appropriate skill check.
-The DC is either the Caster's DC, in the effect statblock, or use the [[Identifying and Learning|Counter DC]].
+The DC is either the Caster's DC, in the effect statblock, or use the [[Simple DCs]].
 
 
 ## Mechanical Rules

@@ -8,7 +8,7 @@ source: Player Core
 
 **Attribute**: [[Intelligence]]
 
-You know a great deal about ancient philosophies, esoteric lore, obscure mysticism, and supernatural creatures.
+You know a great deal about ancient philosophies, esoteric lore, obscure mysticism, [[Occult]] magic, and supernatural creatures.
 
 ## Occultism Untrained Actions
 

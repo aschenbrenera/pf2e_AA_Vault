@@ -13,7 +13,7 @@ All bombs are special weapons use the default statistics found in the weapon's t
 
 ## Mechanical Rules
 
-- Bombs are martial thrown weapons with a range increment of 20 feet.
+- Bombs are martial [[Thrown]] weapons with a range increment of 20 feet.
 - When you throw a bomb, you make a weapon attack roll against the target's AC, as you would for any other weapon.
 	- It takes one hand to draw, prepare, and throw a bomb.
 	- The bomb is activated when thrown as a Strike; you don't have to activate it separately.

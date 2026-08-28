@@ -15,7 +15,7 @@ format: 1_0
 
 ## Mechanical Rules
 
-- You can modify an alchemical bomb.
+- You can modify an [[Alchemical Bomb]].
 - When thrown, in addition to its normal effects, the bomb creates a cloud of smoke in a 10-foot burst.
 	- You choose which corner of the target's space (or the space in which the bomb lands) the cloud is centered on.
 	- Creatures within that area have the [[Concealed]] condition, and all other creatures are concealed to them.

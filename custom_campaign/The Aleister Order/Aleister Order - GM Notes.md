@@ -9,7 +9,7 @@ format: 1_0
 
 ## The Core Idea
 
-The Aleister Order is exactly what the Player Pamphlet says it is. Do not secretly undermine that premise. The Order genuinely exists to investigate supernatural phenomena, protect people, and preserve knowledge. The Order should feel competent and established, but not omniscient or all-powerful.
+The Aleister Order is exactly what the Player Pamphlet says it is. The Order genuinely exists to investigate phenomena, protect people, and preserve knowledge. The Order should feel competent and established, but not omniscient or all-powerful.
 
 ## The PCs' Place in the Order
 
@@ -25,13 +25,13 @@ New characters can be introduced easily; they are simply new Wardens assigned to
 
 ## Other Roles in the Order
 
-The order should be made up of a collective of roles. Ones decided on so far:
+The order is made up of a collective of roles. Ones decided on so far:
 
 - Wardens
 - Case Agents
 - Researchers
 - Senders
-- The Board - (10 members who make executive decisions for the order)
+- The Board - (12 members who make executive decisions for the order)
 
 ## The Case Agent
 
@@ -41,27 +41,15 @@ The case agent should know:
 - What the Order currently knows
 - What resources are available
 - What the PCs are expected to accomplish
-
-Useful responses to unanswerable questions include:
-- "We don't know."
-- "That's what you're being sent to find out."
-- "The previous report was inconclusive."
-
-	Avoid turning the case agent into a walking encyclopedia. 
-
-Case agent's all have to have to have trained at headquarters to meet their senders.  Senders are spellcasters with the Sending spell, who will coordinate brief updates to case agents all over. The updates are limited, but can contain critical information.
+Avoid turning the case agent into a walking encyclopedia. 
 
 ## Senders
 
-The Order's ability to communicate across great distances originates from an ancient artifact dedicated to Nethys, the god of magic. Its true nature and origins are known only to the Order's highest-ranking researchers, but its magical resonance has been carefully studied and preserved for generations.
+The Order's ability to communicate across great distances originates from an ancient artifact dedicated to Nethys, the god of magic. Its true nature and origins are known only to the Order's highest-ranking researchers, but its been carefully studied and preserved for generations.
 
-Through a specialized ritual, a fragment of the artifact's magical resonance is temporarily drawn through an agent and permanently imprinted upon their soul. The process does not teach the agent conventional spellcasting. Instead, it grants them an innate connection to the artifact's magic, allowing them to cast _sending_ once each day.
+Through a specialized ritual, the artifact's magical resonance is temporarily drawn through a sentient creature and permanently imprinted upon their being. The process  grants them an innate connection to the artifact's magic, allowing them to cast _sending_ once each day as an innate spell.
 
-The connection is subtle. An imprinted agent gains no other ability to cast high-rank spells and requires no special equipment when using it. When _sending_ is invoked, the agent briefly feels the presence of the artifact's distant resonance before their thoughts travel across the world to their intended recipient.
-
-The artifact can sustain only a limited number of such connections. For this reason, the Order maintains a small corps of specially selected **Senders**, each capable of transmitting a single message each day. The loss of a Sender therefore represents more than the loss of an agent—it temporarily reduces the Order's ability to communicate with the world beyond its reach.
-
-The Order has never determined whether the artifact was created by Nethys, dedicated to him by another hand, or merely touched by his power. The oldest surviving records simply describe it as a gift from the God of Magic.
+The Order maintains a small corps of specially selected **Senders**, each capable of transmitting a single message each day. Senders coordinate brief updates to case agents all over. The updates are limited, but can contain critical information.
 
 ## Internal Disagreement
 
@@ -70,14 +58,14 @@ The Order is not monolithic. Its members generally fall somewhere between three 
 - **Contain it.**
 - **Destroy it.**
 
-These are not formal factions unless the campaign eventually needs them to become factions. Use them primarily to create disagreement between NPCs. There is no universally correct position.
+These are not formal factions unless the campaign eventually needs them to become factions. There is no universally correct position.
 
 ## The Order's Hidden History
 
-The Order's official history is intentionally not fully established.
+The Order's official history is not fully established.
 
-For now, the GM only needs to know:
-- The organization is older than its newest members realize.
+Background:
+- The organization is older than it advertises.
 - Its history contains gaps.
 - Some old records contradict one another.
 - There are secrets within the Order that even senior members may not understand.
@@ -85,7 +73,7 @@ For now, the GM only needs to know:
 ## The Black Archive
 
 The Black Archive is the Order's restricted collection of dangerous knowledge and objects.
-For now, it exists primarily as a narrative tool. It can provide:
+It exists primarily as a narrative tool. It can provide:
 - An obscure piece of information
 - A dangerous artifact
 - A forgotten case
@@ -94,9 +82,9 @@ For now, it exists primarily as a narrative tool. It can provide:
 
 ## Recurring Mysteries
 
-Individual cases should generally work on their own.
+Individual cases should generally work on their own as stand alone adventures.
 
-Occasionally, however, plant something that connects a current investigation to the larger world:
+Occasionally, however, plant something that connects the case or the larger world back to the order.
 - A recurring symbol
 - A familiar name
 - A repeated phrase
@@ -104,21 +92,19 @@ Occasionally, however, plant something that connects a current investigation to 
 - A reference to an old case
 - Evidence that contradicts an established piece of Order history
 
-The goal is to create the feeling that these adventures take place in the same world, beyond just that the existence of the order. I may do a rewrite in the future that turns this into a proper overarching mystery as a culmination of all the adventures. 
+The goal is to create the feeling that these adventures take place in the same world, beyond just that the existence of the order.
 
 ## Threat Classification
 
-The Class I–V system is an internal assessment tool, not a measure of adventure level. Use it to communicate how seriously the Order currently views a situation.
+The Class I–IV system is an internal assessment tool, not a measure of adventure level. Use it to communicate how seriously the Order currently views a situation.
 A classification can change as the investigation develops.
 - Class I — Folklore
-	- Unconfirmed rumors, minor hauntings, or unusual events.
+	- Unconfirmed rumors, minor hauntings, or unusual events, but likely explainable.
 - Class II — Manifestation
-	- Confirmed supernatural activity or a dangerous entity.
-- Class III — Predatory
-	- A supernatural threat actively harming or hunting civilians.
-- Class IV — Catastrophic
+	- Confirmed rare activity, localized unusual threats, or mysterious entity.
+- Class III — Catastrophic
 	- A threat capable of destroying settlements or causing widespread death.
-- Class V — Cataclysmic
+- Class IV — Cataclysmic
 	- A threat that challenges the natural order itself.
 
 ## Case Files

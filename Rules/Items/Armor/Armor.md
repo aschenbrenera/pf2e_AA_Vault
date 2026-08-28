@@ -1,7 +1,7 @@
 ---
 tags:
   - rules/items
-format: 2.0
+format: 1_0
 source: Player Core
 ---
 # Armor

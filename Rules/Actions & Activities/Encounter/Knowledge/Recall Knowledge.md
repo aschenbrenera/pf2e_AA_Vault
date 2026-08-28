@@ -20,6 +20,7 @@ source: Player Core
 	- [[Identify Creature]]
 	- [[Identify Spell]] (Identify Magic is a different action that requires training)
 	- [[Forensic Examination]]
+- For identification DCs see [[Identifying and Learning]].
 - Topics by skill:
 	- **Arcana**: Arcane theories, magical traditions, arcane planes, constructs, dragons, elementals, and beasts
 	- **Crafting**: Alchemical reactions, item value, engineering, unusual materials, and constructs
@@ -55,3 +56,4 @@ source: Player Core
 | 1     | [[Recognize Spell]]       | Trained Knowledge Skill | Identify an unfamiliar spell as a reaction.                               |
 | 1     | [[Streetwise]]            | Trained Society         | Use Society to Gather Information and faster in settlements you frequent. |
 | 2     | [[Automatic Knowledge]]   | Expert Knowledge Skill  | Free Assurance Recall Knowledge check once a round.                       |
+| 7     | [[Quick Recognition]] | Master Knowledge Skill  | Recognize spells as a free action |

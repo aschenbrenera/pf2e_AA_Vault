@@ -8,7 +8,7 @@ source: Player Core
 
 **Attribute**: [[Intelligence]]
 
-Arcana measures how much you know about arcane magic and creatures.
+Arcana measures how much you know about [[Arcane]] magic and creatures.
 
 ## Arcana Untrained Actions
 

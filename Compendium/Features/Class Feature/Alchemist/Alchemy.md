@@ -41,4 +41,4 @@ Items with type entries that have widely varied functions require separate formu
 
 You know how to prepare fast-acting chemicals into versatile vials, special items that can be used as bombs and be turned into other alchemical items by introducing special reagents. You can also use vials for Quick Alchemy and your research field can add to the ways you can use a vial. 
 
-Your versatile vials can be thrown like bombs.
+Your versatile vials can be thrown like [[Bomb | Bombs]].

@@ -2,25 +2,25 @@
 tags:
   - campaign
 name: Thyra
-level: 5
+level: 6
 hp: 53
-dc: 21
-ac: 20
+dc: 22
+ac: 22
 fort: 11 (E)
 ref: 12 (E)
 will: 11 (E)
-modifier: 9
-perception: 9 (T)
-deception: 8 (T)
+modifier: 10
+perception: 10 (T)
+deception: 9 (T)
 diplomacy: 1 (U)
 stealth: 3 (U)
-arcana: 14 (E)
-crafting: 13 (E)
+arcana: 15 (E)
+crafting: 14 (E)
 medicine: 2 (U)
 nature: 2 (U)
-occultism: 11 (T)
-religion: 9 (T)
-society: 11 (T)
+occultism: 12 (T)
+religion: 10 (T)
+society: 12 (T)
 statblock: inline
 ---
 # Thyra
@@ -30,15 +30,15 @@ columns: 2
 forcecolumns: true
 layout: Basic Pathfinder 2e Layout
 name: "Thyra"
-level: "PC 5"
+level: "PC 6"
 size: "Medium"
 trait_03: "Human"
 trait_04: "Humanoid"
 trait_05: "Wizard"
-modifier: 9
+modifier: 10
 perception:
   - name: "Perception"
-    desc: "+9"
+    desc: "+10"
 languages: "Common, Dwarven, Elven, Halfling, Orcish, Skald; "
 skills:
   - name: "Skills"
@@ -48,20 +48,20 @@ abilityMods: [0, 3, 2, 4, 2, 1]
 
 speed: 25 feet
 
-ac: 20
+ac: 22
 armorclass:
   - name: AC
-    desc: "20; __Fort__: +11; __Ref__: +12; __Will__: +11; __DC__: 21;"
+    desc: "22; __Fort__: +13; __Ref__: +14; __Will__: +13; __DC__: 21;"
 hp: 53
 health:
   - name: HP
-    desc: "53"
+    desc: "62"
 
 abilities_top:
   - name: Gear
     desc: "[[Backpack]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Torch]] (5), Bullseye [[Lantern]], [[Writing Set]], [[Spellbook]], Bedroll, Soap, Rations (2), Chalk (10), [[Mage's Hat]]"
   - name: Weapons & Armor
-    desc: "Explorer's Clothing, [[Staff]], [[Corset Knife]]"
+    desc: "+1 Resilient Robes, [[Staff]], [[Corset Knife]]"
   - name: Spellcasting
     desc: "DC:21, SA: +11"
   - name: Focus Spells
@@ -89,10 +89,12 @@ abilities_top:
 - [[Reach Spell]]
 - [[Recognize Spell]]
 - [[Canny Acumen]] - Fortitude
-- [[Cantrip Expansion]]
+- [[Enhanced Familiar]]
 - [[Magical Shorthand]]
 - [[Scroll Trickster Dedication]] - [[Trick Magic Item]]
-- [[General Training]] - [[Read Lips]]
+- [[Magical Crafting]]
+- [[Spellbook Prodigy]]
+- [[Basic Scroll Cache]]
   
 ### Abilities
 - [[Wizard Spellcasting]]
@@ -107,7 +109,7 @@ abilities_top:
 ### Focus Spells
 - [[Force Bolt]]
 ### Cantrips
-Total: 11 (Initial 10 + Curriculum 1)
+Total: 14 (Initial 10 + Curriculum 1 + Learned 3) 
 - [[Detect Magic]]
 - [[Electric Arc]]
 - [[Figment]]
@@ -119,29 +121,43 @@ Total: 11 (Initial 10 + Curriculum 1)
 - [[Prestidigitation]]
 - [[Shield]]
 - [[Telekinetic Projectile]]
+- [[Daze]]
+- [[Void Warp]]
+- [[Telekinetic Hand]]
 ### Rank 1 Spells
-Total: 10 (Initial 5 + Curriculum 2 + Level 2 + Learned 2)
+Total: 14 (Initial 5 + Curriculum 2 + Level 2 + Learned 6)
 - [[Charm]]
 - [[Force Barrage]]
 - [[Gentle Landing]]
 - [[Gust of Wind]]
 - [[Illusory Object]]
-- [[Mending]]
 - [[Mystic Armor]]
-- [[Pummeling Rubble]]
 - [[Compendium/Spells/1st Rank/Sleep|Sleep]]
 - [[Thunderstrike]]
+- [[Breathe Fire]]
+- [[Command]]
+- [[Dizzying Colors]]
+- [[Enfeeble]]
+- [[Grim Tendrils]]
+- [[Sure Strike]]
 ### Rank 2 Spells
-Total: 7 (Curriculum 1 + Level 4 + Learned 2)
+Total: 7 (Curriculum 1 + Level 4 + Learned 3)
 - [[Animated Assault]]
 - [[Blazing Bolt]]
 - [[Darkvision]]
 - [[Invisibility]]
 - [[Mist]]
 - [[Resist Energy]]
-- [[Translate]]
+- [[Floating Flame]]
+- [[Revealing Light]]
 ### Rank 3 Spells
-Total: 3 (Curriculum 1 + Level 2 )
+Total: 9 (Curriculum 1 + Level 4 + Learned 4 )
 - [[Lightning Bolt]]
 - [[Shared Invisibility]]
 - [[Haste]]
+- [[Earthbind]]
+- [[Familiar's Face]]
+- [[Fireball]]
+- [[Levitate]]
+- [[Locate]]
+- [[Hypnotize]]

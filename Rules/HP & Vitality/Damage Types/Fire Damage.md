@@ -1,10 +1,11 @@
 ---
 tags:
   - rules/core/vitality
+  - trait/effect/fire
 format: 1_0
 ---
 # Fire Damage
 
-[[Rules/Traits/Effect/Fire]] damage is a type of [[Damage Types|Energy Damage]].
+[[Fire]] damage is a type of [[Damage Types|Energy Damage]].
 
 Fire damage burns through heat and combustion.

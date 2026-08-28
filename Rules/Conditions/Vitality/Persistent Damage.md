@@ -2,10 +2,11 @@
 tags:
   - condition
   - condition/vitality
-format: 1_0
 aliases:
   - Assisted Recovery
   - Persistent
+format: 2.0
+source: Player Core
 ---
 #  Persistent Damage
 

@@ -59,7 +59,7 @@ abilities_top:
   - name: Gear
     desc: "[[Backpack]], [[Healer's Kit]], [[Flint and Steel]], [[Waterskin]], [[Rope]], [[Crowbar]], [[Compass]], Map of Frostbreach Region"
   - name: Weapons & Armor
-    desc: "+1 Studded Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Whisperwind Shortbow]], [[Shortsword]], [[Vine Arrow]], [[Arrows]] x120"
+    desc: "+1 Shadow Studded Leather Armor, Ordinary Clothing, [[Taghira’s Fur Cloak]], [[Whisperwind Shortbow]], [[Shortsword]], [[Vine Arrow]], [[Arrows]] x120"
   - name: Special Actions
     desc: "[[Battle Medicine]], [[Cat's Luck]], [[Hunt Prey]], [[Hunted Shot]], [[Hunter's Aim]], [[Point Blank Stance]], [[Parting Shot]], [[Eldritch Shot]]"
 ```
