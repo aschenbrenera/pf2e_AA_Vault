@@ -21,7 +21,7 @@ format: 1_0
 
 - Make two [[Strike]]s against your [[Hunt Prey|Prey]] with the required weapon.
 	- Apply your [[Multiple Attack Penalty]] to each Strike normally.
-	- If both hit the same creature, combine their damage for the purpose of [[Resistance|Resistances]] and [[Weakness|Weaknesses]]. 
+	- If both hit the same creature, combine their damage for the purpose of [[Rules/HP & Vitality/Resistance|Resistances]] and [[Weakness|Weaknesses]]. 
 
 ## Gameplay Interaction
 

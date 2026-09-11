@@ -22,27 +22,8 @@ SORT file.link ASC
 ```dataview  
 LIST
 FROM "Rules"
-WHERE format != "2.0"and
-!contains(tags, "rules/trait")
+WHERE format != 2
+and !contains(tags, "rules/trait")
 SORT file.mtime DESC
-LIMIT 10
-```
-
-# Custom Search
-```dataview  
-LIST
-FROM "Rules"
-WHERE format != "1_0" and
-!contains(tags, "rules/trait")
-SORT file.name
-LIMIT 20
-```
-
-# Fix Legacy Traits
-```dataview  
-LIST
-WHERE 
-contains(tags, "trait/generic/concentrate") 
-SORT file.name
-LIMIT 20
+LIMIT 15
 ```

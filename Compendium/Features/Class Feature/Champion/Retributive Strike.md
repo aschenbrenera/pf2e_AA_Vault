@@ -17,7 +17,7 @@ format: 1_0
 
 ## Mechanical Rules
 
-- The ally gains [[Resistance]] to all damage against the triggering damage equal to 2 + your level.
+- The ally gains [[Rules/HP & Vitality/Resistance]] to all damage against the triggering damage equal to 2 + your level.
 - If the enemy is within reach, make a melee [[Strike]] against it.
 - At level 9, gain the relentless bonus to this action.
 	- If your Strike hits, the target takes [[Persistent Damage|Persistent]] [[Spirit Damage]] equal to your Charisma modifier.

@@ -11,4 +11,4 @@ level: 3
 
 ## Mechanical Rules
 
-- You aren't Off-Guard to Hidden, Undetected, or flanking creatures of your level or lower, or creatures of your level or lower using surprise attack. However, they can still help their allies flank.
+- You aren't [[Off-Guard]] to Hidden, Undetected, or flanking creatures of your level or lower, or creatures of your level or lower using surprise attack. However, they can still help their allies flank.

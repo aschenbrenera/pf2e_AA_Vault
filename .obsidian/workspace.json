@@ -4,35 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "93e108f2f4d54276",
+        "id": "3dcbab30780012c7",
         "type": "tabs",
         "children": [
           {
-            "id": "26de855e0ffb47d4",
+            "id": "e4d7dacf73112de8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Rules/Conditions/Weakness/Off-Guard.md",
-                "mode": "source",
+                "file": "zz_Workpad/Data View Samples.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Off-Guard"
-            }
-          },
-          {
-            "id": "6f2c19dca45cfea0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Rules/Abilities/Sensory/Darkvision.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "Darkvision"
+              "title": "Data View Samples"
             }
           }
         ]
@@ -69,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#spell/focus/1",
+                "query": "interpre",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -140,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Rules/Conditions/Weakness/Off-Guard.md",
+                "file": "zz_Workpad/Data View Samples.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Rules/Conditions/Weakness/Off-Guard.md",
+                "file": "zz_Workpad/Data View Samples.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -209,34 +195,37 @@
       "initiative-tracker:Initiative Tracker Encounter Builder": false
     }
   },
-  "active": "26de855e0ffb47d4",
+  "active": "e4d7dacf73112de8",
   "lastOpenFiles": [
-    "Rules/Conditions/Weakness/Prone.md",
-    "Rules/Conditions/Weakness/Sickened.md",
-    "Rules/Conditions/Weakness/Off-Guard.md",
-    "Rules/Conditions/Weakness/Fatigued.md",
-    "Rules/Conditions/Weakness/Encumbered.md",
-    "Rules/Conditions/Vitality/Wounded.md",
-    "Rules/Conditions/Vitality/Unconscious.md",
-    "Rules/Conditions/Vitality/Persistent Damage.md",
-    "Rules/Conditions/Vitality/Dying.md",
-    "Rules/Conditions/Vitality/Doomed.md",
-    "Rules/Conditions/Sensory/Undetected.md",
-    "Rules/Conditions/Sensory/Invisible.md",
-    "Rules/Conditions/Sensory/Hidden.md",
-    "Rules/Conditions/Sensory/Fascinated.md",
-    "Rules/Conditions/Sensory/Deafened.md",
-    "Rules/Conditions/Sensory/Dazzled.md",
-    "Rules/Conditions/Sensory/Concealed.md",
-    "Rules/Conditions/Sensory/Blinded.md",
-    "Rules/Conditions/Mental/Frightened.md",
-    "Rules/Conditions/Mental/Fleeing.md",
-    "Rules/Conditions/Mental/Controlled.md",
-    "Rules/Conditions/Mental/Confused.md",
-    "Rules/Conditions/Cover/Standard Cover.md",
-    "Rules/Conditions/Cover/Lesser Cover.md",
-    "Rules/Conditions/Cover/Greater Cover.md",
-    "Rules/Conditions/Capability/Stunned.md",
+    "Rules/Traits/Effect/Scrying.md",
+    "zz_Workpad/Data View Samples.md",
+    "Compendium/Spells/3rd Rank/Locate.md",
+    "Compendium/Spells/3rd Rank/Fireball.md",
+    "Compendium/Spells/3rd Rank/Hypnotize.md",
+    "Compendium/Spells/7th Rank/Planar Palace.md",
+    "Compendium/Spells/8th Rank/Quandary.md",
+    "Compendium/Spells/3rd Rank/Earthbind.md",
+    "Compendium/Spells/3rd Rank/Shared Invisibility.md",
+    "Compendium/Spells/3rd Rank/Slow.md",
+    "Compendium/Spells/3rd Rank/Enthrall.md",
+    "Rules/Abilities/Familiar/Absorb Familiar.md",
+    "Rules/Traits/Effect/Cold.md",
+    "Rules/Traits/Effect/Air.md",
+    "Compendium/Spells/3rd Rank/Familiar's Face.md",
+    "Compendium/Feats/Class Feats/Wizard/Spellbook Prodigy.md",
+    "Compendium/Feats/Class Feats/Wizard/Split Slot.md",
+    "Rules/Abilities/Familiar/Accompanist.md",
+    "Compendium/Feats/Class Feats/Versatile/Enhanced Familiar.md",
+    "Compendium/Feats/Ancestry Feats/Ancestral Suspicion.md",
+    "Compendium/Feats/Ancestry Feats/Cat's Luck.md",
+    "Compendium/Feats/Class Feats/Versatile/Cantrip Expansion.md",
+    "Rules/NPCs/Pet, Familiar, and Master Abilities.md",
+    "Compendium/Deities/Norgorber.md",
+    "Rules/Abilities/Familiar/Alchemical Gut.md",
+    "Rules/Abilities/Familiar/Amphibious Familiar Ability.md",
+    "Rules/Abilities/Pet",
+    "Rules/Abilities/Familiar",
+    "Compendium/Familiar Abilities",
     "custom_campaign/DH Module/Images/Player Images/house_front.png",
     "custom_campaign/DH Module/Images/Player Images/dh_poem.jpeg",
     "custom_campaign/DH Module/Images/Player Images/The Durst Family.png",
@@ -253,9 +242,6 @@
     "custom_campaign/DH Module/NPCs",
     "custom_campaign/DH Module/Images",
     "custom_campaign/DH Module/Monsters",
-    "custom_campaign/DH Module/AV",
-    "custom_campaign/The Aleister Order",
-    "custom_campaign/PCs",
-    "custom_campaign/Images"
+    "custom_campaign/DH Module/AV"
   ]
 }

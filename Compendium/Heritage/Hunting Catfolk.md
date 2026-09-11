@@ -11,7 +11,7 @@ tags:
 
 ## Mechanical Rules
 
-- You gain [[Scent]] (imprecise) 30 feet.
+- You gain [[Rules/Abilities/Sensory/Scent]] (imprecise) 30 feet.
 	- You can use smell as a Imprecise Sense within a range as stated in ability or stat block.
 		-  At best, an imprecise sense can be used to make an Undetected  or Unnoticed creature merely Hidden—it can’t make the creature Observed.   You can usually sense a creature automatically with an imprecise sense making it Hidden.
 			- It might still be Undetected by you if it’s using Stealth or is in an environment that distorts the sense, such as a noisy room in the case of hearing. In those cases, you have to use the Seek basic action to detect the creature. 
